@@ -47,10 +47,13 @@ def page_token(page):
 def ig(e):
     base, kind, media = f"{G}/{e['target']}/media", e["kind"], e["media"]
     if kind in ("reel", "trial"):
-        p = {"media_type": "REELS", "video_url": media[0], "caption": e.get("caption", ""), "share_to_feed": "true",
-             "access_token": TOK}
-        if kind == "trial":  # Trial Reel: primero a quien no te sigue
-            p["trial_params"] = json.dumps({"graduation_strategy": "MANUAL"})
+        p = {"media_type": "REELS", "video_url": media[0], "caption": e.get("caption", ""), "access_token": TOK}
+        if e.get("cover"):
+            p["cover_url"] = e["cover"]
+        if kind == "trial":  # Trial Reel: primero a quien no te sigue; se gradúa solo si rinde
+            p["trial_params"] = json.dumps({"graduation_strategy": "SS_PERFORMANCE"})
+        else:
+            p["share_to_feed"] = "true"
         if e.get("audio"):  # música oficial de Instagram bajo la voz
             p["audio_configuration"] = json.dumps(e["audio"])
         try:
