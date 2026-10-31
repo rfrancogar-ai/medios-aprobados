@@ -98,33 +98,5 @@
   "caption": "",
   "when": "2026-11-01T18:00:00",
   "first_comment": ""
- },
- {
-  "id": "b234a26cdf5c",
-  "net": "fb",
-  "target": "564848600309988",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/33a7f0f9c33cc3.mp4"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "No es necesario llegar al fallo\n\nEn lenguaje cotidiano Se le llama repeticiones en el tanque ¿Cuántas y cuántas quedaron?\n\n¿Qué otra duda tienes? Te respondo en video.",
-  "when": "2026-11-01T17:00:00",
-  "first_comment": ""
- },
- {
-  "id": "452254fa67c9",
-  "net": "fb",
-  "target": "564848600309988",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/81c91ad780d7c7.mp4"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "Familia, lo abrimos y lo probamos juntos: el pre-entreno que no contiene cafeína, formulado para tu bombeo muscular, tu concentración y tu hidratación, ahora en su nueva versión. Ustedes pidieron que les durara todo el mes y lo hicimos realidad. ¿Ustedes cómo prefieren entrenar, con o sin cafeína?",
-  "when": "2026-11-01T10:00:00",
-  "first_comment": ""
  }
 ]
