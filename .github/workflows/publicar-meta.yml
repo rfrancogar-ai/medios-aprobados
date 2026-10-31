@@ -26,6 +26,7 @@ jobs:
         run: |
           git config user.name "publicador"
           git config user.email "publicador@users.noreply.github.com"
+          [ -f agenda/hecho.json ] || exit 0
           git add agenda/hecho.json
           git diff --cached --quiet && exit 0
           git commit -qm "publicado $(date -u +%FT%TZ)"
