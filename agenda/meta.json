@@ -98,5 +98,51 @@
   "caption": "",
   "when": "2026-11-01T18:00:00",
   "first_comment": ""
+ },
+ {
+  "id": "4f293f7c002b",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/65df0d5fa98f3e.mp4"
+  ],
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_65df0d5fa98f3e.jpg",
+  "audio": {
+   "audio_id": "1326560949104401",
+   "audio_volume": 12,
+   "video_volume": 100
+  },
+  "caption": "La fuerza es de transferencia.\n\nNo me gusta dejarme caer justo en medio. Yo mido con la costura del dedo y lo pongo donde empieza lo rugoso de la barra: es lo que me acomoda sin ser un agarre muy cerrado.\n\nY las piernas: las retraigo un poquito, donde siento solidez para empujar. Uno, dos, y empujo desde mis piernas y el abdomen.\n\nGuárdalo para tu próximo día de pecho.\n\n#pressbanca #tecnica #gym #fuerza",
+  "when": "2026-11-01T12:00:00",
+  "first_comment": "¿Empujas con las piernas en press o las dejas flojas? Dime 👇"
+ },
+ {
+  "id": "4f293f7c002b_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/65df0d5fa98f3e_story.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-01T14:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "3cb8fbdbcd34",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/65df0d5fa98f3e.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "Así acomodo mi press de banca: mido con la costura del dedo donde empieza lo rugoso de la barra, retraigo un poquito las piernas para sentir solidez y empujo desde mis piernas y el abdomen. La fuerza es de transferencia. ¿Ustedes usan las piernas en el press?",
+  "when": "2026-11-01T12:00:00",
+  "first_comment": ""
  }
 ]
