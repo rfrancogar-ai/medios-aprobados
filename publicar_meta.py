@@ -12,7 +12,7 @@ from datetime import datetime, timedelta, timezone
 
 V = "v21.0"
 G = f"https://graph.facebook.com/{V}"
-TOK = os.environ["META_SU_TOKEN"]
+TOK = os.environ.get("META_SU_TOKEN", "")
 MX = timezone(timedelta(hours=-6))
 AGENDA, HECHO = "agenda/meta.json", "agenda/hecho.json"
 MAX_RETRASO_H = 12      # si algo se atrasó más que esto, no se publica fuera de hora
@@ -90,6 +90,9 @@ def fb(e):
 
 
 def main():
+    if not TOK:
+        print("falta el secreto META_SU_TOKEN: corre activar_publicador.sh en la Mac")
+        return
     agenda = json.load(open(AGENDA)) if os.path.exists(AGENDA) else []
     hecho = json.load(open(HECHO)) if os.path.exists(HECHO) else {}
     ahora = datetime.now(MX).replace(tzinfo=None)
