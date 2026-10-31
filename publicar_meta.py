@@ -51,7 +51,15 @@ def ig(e):
              "access_token": TOK}
         if kind == "trial":  # Trial Reel: primero a quien no te sigue
             p["trial_params"] = json.dumps({"graduation_strategy": "MANUAL"})
-        c = req(base, p)
+        if e.get("audio"):  # música oficial de Instagram bajo la voz
+            p["audio_configuration"] = json.dumps(e["audio"])
+        try:
+            c = req(base, p)
+        except RuntimeError:
+            if not e.get("audio"):
+                raise
+            p.pop("audio_configuration")  # si la pista ya no está disponible, sale con sonido original
+            c = req(base, p)
     elif kind == "story":
         key = "video_url" if media[0].endswith(".mp4") else "image_url"
         c = req(base, {"media_type": "STORIES", key: media[0], "access_token": TOK})
