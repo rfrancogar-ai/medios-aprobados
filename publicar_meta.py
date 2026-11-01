@@ -108,13 +108,20 @@ def main():
     agenda = json.load(open(AGENDA)) if os.path.exists(AGENDA) else []
     hecho = json.load(open(HECHO)) if os.path.exists(HECHO) else {}
     ahora = datetime.now(MX).replace(tzinfo=None)
-    for e in sorted(agenda, key=lambda x: x["when"]):
+    for e in sorted(agenda, key=lambda x: (x["when"], bool(x.get("despues_de")))):
         h = hecho.get(e["id"], {})
         if h.get("ok") or h.get("final"):
             continue
         when = datetime.fromisoformat(e["when"])
         if when > ahora:
             continue
+        dep = e.get("despues_de")  # la historia que anuncia un post sale justo DESPUÉS de él, nunca antes ni sin él
+        if dep:
+            hd = hecho.get(dep, {})
+            if not hd.get("ok"):
+                if hd.get("final"):
+                    hecho[e["id"]] = {"ok": 0, "final": 1, "error": "su post no salió", "ts": ahora.isoformat()}
+                continue
         if ahora - when > timedelta(hours=MAX_RETRASO_H):
             hecho[e["id"]] = {"ok": 0, "final": 1, "error": "vencido sin publicar", "ts": ahora.isoformat()}
             continue
