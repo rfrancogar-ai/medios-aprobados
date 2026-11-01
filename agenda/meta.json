@@ -206,80 +206,6 @@
   "first_comment": ""
  },
  {
-  "id": "891482dbc00e",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/38434609fe6bae.mp4"
-  ],
-  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_38434609fe6bae.jpg",
-  "audio": {
-   "audio_id": "1736395313753191",
-   "audio_volume": 12,
-   "video_volume": 100
-  },
-  "caption": "Este gym nos vio vomitar. 🤢\n\nAquí hicimos pruebas para este pre-entreno que no salieron tan bien. Fueron muchos, muchos meses de producción para llevar la fórmula a la realidad.\n\nHoy volvimos al mismo lugar a probarlo ya terminado. Primeras impresiones: «muy fresco», «es como envolvente».\n\n¿Quieres que les cuente cómo fueron esas primeras pruebas? Comenta PRUEBAS 👇\n\n#preentreno #epiclabs #detrasdecamaras #gym",
-  "when": "2026-11-01T18:00:00",
-  "first_comment": "¿Quieres la historia completa de las pruebas fallidas? Sí o no 👇"
- },
- {
-  "id": "891482dbc00e_story",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "story",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/38434609fe6bae_story.mp4"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "",
-  "when": "2026-11-01T20:00:00",
-  "first_comment": ""
- },
- {
-  "id": "9744b4912c2a",
-  "net": "fb",
-  "target": "564848600309988",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/662f696165cd25.mp4"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "¿Alguna vez alguien llegó al gimnasio con su «óxido»? 😅 Te explico: el óxido nítrico no existe como tal, es un gas que tu cuerpo libera a partir de ciertas sustancias. Ese gas mejora el flujo sanguíneo y te da mejor bombeo. Así que si te ofrecieron óxido, lo mejor que podrías esperar es un precursor del óxido nítrico… y pocos pre-entrenos lo contienen. ¿Tú qué pensabas que era?",
-  "when": "2026-11-02T10:00:00",
-  "first_comment": ""
- },
- {
-  "id": "9ec983d0fce1",
-  "net": "fb",
-  "target": "564848600309988",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/c50dd113485d00.mp4"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "Me preguntan mucho cuál es mi pre-entreno favorito. Es CoreX, por tres razones: energía estable (no te suelta a medio entrenamiento), bombeo real y concentración gracias a sus minerales y nootrópicos. ¿Y tú qué es lo que más le pides a tu pre-entreno?",
-  "when": "2026-11-02T12:00:00",
-  "first_comment": ""
- },
- {
-  "id": "f8f4fb22bbed",
-  "net": "fb",
-  "target": "564848600309988",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/38434609fe6bae.mp4"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "Este gym nos vio vomitar 😅 Aquí hicimos pruebas para este pre-entreno que no salieron tan bien. Después de muchos, muchos meses de producción, volvimos a probarlo ya terminado. ¿Les cuento cómo fueron esas primeras pruebas?",
-  "when": "2026-11-02T17:00:00",
-  "first_comment": ""
- },
- {
   "id": "4d350f3cd6e7",
   "net": "fb",
   "target": "564848600309988",
@@ -328,21 +254,6 @@
   "caption": "",
   "when": "2026-11-03T18:00:00",
   "first_comment": ""
- },
- {
-  "id": "28366ba92de65d_trial",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "trial",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/28366ba92de65d.mp4"
-  ],
-  "caption": "Este gym nos vio vomitar. 🤢\n\nAquí hicimos pruebas para este pre-entreno que no salieron tan bien. Fueron muchos, muchos meses de producción para llevar la fórmula a la realidad.\n\nHoy volvimos al mismo lugar a probarlo ya terminado. Primeras impresiones: «muy fresco», «es como envolvente».\n\n¿Quieres que les cuente cómo fueron esas primeras pruebas? Comenta PRUEBAS 👇\n\n#preentreno #epiclabs #detrasdecamaras #gym",
-  "when": "2026-11-01T18:00:00",
-  "first_comment": "",
-  "audio": null,
-  "cover": null,
-  "origen": "38434609fe6bae"
  },
  {
   "id": "117fbf65ff8e9a_trial",
@@ -414,38 +325,6 @@
   "audio": null,
   "caption": "Si no tienes tiempo para tu salud, vas a tener que hacer tiempo para tu enfermedad.\n\n¿Estás de acuerdo? Dímelo en comentarios 👇",
   "when": "2026-11-02T09:00:00",
-  "first_comment": ""
- },
- {
-  "id": "a2bbf9af710e",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/44c3dff15f3a54.mp4"
-  ],
-  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_44c3dff15f3a54.jpg",
-  "audio": {
-   "audio_id": "1108285910189784",
-   "audio_volume": 12,
-   "video_volume": 100
-  },
-  "caption": "PumpX viene a corregir el mercado\n\nPlatícame, porque yo no sé nada, ¿qué es el PumpX? PumpX se desarrolla como una fórmula que viene a corregir el mercado de los pre-workouts.\n\nYo uso PUMPX® de EPIC. Código ROBERTO: 10% de descuento. Link en bio.\n.\n#preentreno #gym #suplementos",
-  "when": "2026-11-02T10:00:00",
-  "first_comment": ""
- },
- {
-  "id": "a2bbf9af710e_story",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "story",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/44c3dff15f3a54_story.mp4"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "",
-  "when": "2026-11-02T12:30:00",
   "first_comment": ""
  },
  {
@@ -538,20 +417,6 @@
   "audio": null,
   "caption": "Todos te dicen que el glicinato se absorbe mucho mejor que el óxido. El estudio dice otra cosa.\n\nGlicinato vs óxido: la verdad incómoda. Te lo explico en 3 láminas.\n\n¿Prefieres que te diga la verdad aunque no venda? Comenta 'verdad' y sigo con esta serie.\n\nFuente: Pardo MR et al. 2021, Nutrition (revisión sistemática, 14 estudios); Schuette SA et al. 1994, JPEN (ECA cruzado, n=12, resección ileal)",
   "when": "2026-11-03T09:00:00",
-  "first_comment": ""
- },
- {
-  "id": "3c2040f96921",
-  "net": "fb",
-  "target": "564848600309988",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/44c3dff15f3a54.mp4"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "PumpX viene a corregir el mercado\n\nPlatícame, porque yo no sé nada, ¿qué es el PumpX? PumpX se desarrolla como una fórmula que viene a corregir el mercado de los pre-workouts.\n\nYo uso PUMPX® de EPIC. Código ROBERTO: 10% de descuento. Link en bio.",
-  "when": "2026-11-03T10:00:00",
   "first_comment": ""
  },
  {
