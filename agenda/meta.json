@@ -469,5 +469,20 @@
   "audio": null,
   "cover": null,
   "origen": "38434609fe6bae"
+ },
+ {
+  "id": "117fbf65ff8e9a_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/117fbf65ff8e9a.mp4"
+  ],
+  "caption": "3 razones: CoreX, mi pre favorito\n\nCoreX se volvió mi pre-entreno favorito por tres razones: energía estable, el bombeo y su complejo de minerales y nootrópicos para concentrarte.\n\nSígueme para más ciencia aplicada.\n.\n#preentreno #gym #suplementos",
+  "when": "2026-11-01T10:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "origen": "c50dd113485d00"
  }
 ]
