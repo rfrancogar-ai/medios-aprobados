@@ -520,5 +520,20 @@
   "first_comment": "",
   "despues_de": "f367d64abb93",
   "formato": "imagen"
+ },
+ {
+  "id": "28366ba92de65d_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/28366ba92de65d.mp4"
+  ],
+  "caption": "Este gym nos vio vomitar. 🤢\n\nAquí hicimos pruebas para este pre-entreno que no salieron tan bien. Fueron muchos, muchos meses de producción para llevar la fórmula a la realidad.\n\nHoy volvimos al mismo lugar a probarlo ya terminado. Primeras impresiones: «muy fresco», «es como envolvente».\n\n¿Quieres que les cuente cómo fueron esas primeras pruebas? Comenta PRUEBAS 👇\n\n#preentreno #epiclabs #detrasdecamaras #gym",
+  "when": "2026-11-01T18:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "origen": "38434609fe6bae"
  }
 ]
