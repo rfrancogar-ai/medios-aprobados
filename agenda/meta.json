@@ -565,5 +565,20 @@
   "audio": null,
   "cover": null,
   "origen": "img1d52fb4ff75"
+ },
+ {
+  "id": "imgc978c264b2ft_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imgc978c264b2ft.mp4"
+  ],
+  "caption": "No te compares con alguien que lleva diez años entrenando cuando tú llevas diez semanas.\n\n¿A quién se la mandarías? Etiquétalo 👇\n\nGuárdala para el día que la necesites 📌\n.\n#nutricion #suplementos #gym #ciencia",
+  "when": "2026-11-04T09:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "origen": "imgc978c264b2f"
  }
 ]
