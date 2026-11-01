@@ -52,6 +52,7 @@ def ig(e):
             p["cover_url"] = e["cover"]
         if kind == "trial":  # Trial Reel: primero a quien no te sigue; se gradúa solo si rinde
             p["trial_params"] = json.dumps({"graduation_strategy": "SS_PERFORMANCE"})
+            p["share_to_feed"] = "false"  # un trial NO va al feed de tus seguidores
         else:
             p["share_to_feed"] = "true"
         if e.get("audio"):  # música oficial de Instagram bajo la voz
