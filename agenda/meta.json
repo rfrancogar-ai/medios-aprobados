@@ -288,5 +288,171 @@
   "caption": "",
   "when": "2026-11-02T18:00:00",
   "first_comment": ""
+ },
+ {
+  "id": "891482dbc00e",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/38434609fe6bae.mp4"
+  ],
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_38434609fe6bae.jpg",
+  "audio": {
+   "audio_id": "1736395313753191",
+   "audio_volume": 12,
+   "video_volume": 100
+  },
+  "caption": "Este gym nos vio vomitar. 🤢\n\nAquí hicimos pruebas para este pre-entreno que no salieron tan bien. Fueron muchos, muchos meses de producción para llevar la fórmula a la realidad.\n\nHoy volvimos al mismo lugar a probarlo ya terminado. Primeras impresiones: «muy fresco», «es como envolvente».\n\n¿Quieres que les cuente cómo fueron esas primeras pruebas? Comenta PRUEBAS 👇\n\n#preentreno #epiclabs #detrasdecamaras #gym",
+  "when": "2026-11-01T18:00:00",
+  "first_comment": "¿Quieres la historia completa de las pruebas fallidas? Sí o no 👇"
+ },
+ {
+  "id": "891482dbc00e_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/38434609fe6bae_story.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-01T20:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "9744b4912c2a",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/662f696165cd25.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "¿Alguna vez alguien llegó al gimnasio con su «óxido»? 😅 Te explico: el óxido nítrico no existe como tal, es un gas que tu cuerpo libera a partir de ciertas sustancias. Ese gas mejora el flujo sanguíneo y te da mejor bombeo. Así que si te ofrecieron óxido, lo mejor que podrías esperar es un precursor del óxido nítrico… y pocos pre-entrenos lo contienen. ¿Tú qué pensabas que era?",
+  "when": "2026-11-02T10:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "9ec983d0fce1",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/c50dd113485d00.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "Me preguntan mucho cuál es mi pre-entreno favorito. Es CoreX, por tres razones: energía estable (no te suelta a medio entrenamiento), bombeo real y concentración gracias a sus minerales y nootrópicos. ¿Y tú qué es lo que más le pides a tu pre-entreno?",
+  "when": "2026-11-02T12:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "f8f4fb22bbed",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/38434609fe6bae.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "Este gym nos vio vomitar 😅 Aquí hicimos pruebas para este pre-entreno que no salieron tan bien. Después de muchos, muchos meses de producción, volvimos a probarlo ya terminado. ¿Les cuento cómo fueron esas primeras pruebas?",
+  "when": "2026-11-02T17:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "b51113a58cca",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imgcc2c6acce7c_0.jpg"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "Modifica tu ambiente para que sea más apetecible el descanso.\n\nAhora, otra de las recomendaciones es inducir la relajación, poner algún aroma, poner alguna música y alguna luz que te relaje.\n\n¿Te pasa? Cuéntame 👇\n\nGuárdala para el día que la necesites 📌\n.\n#nutricion #suplementos #gym #ciencia",
+  "when": "2026-11-03T09:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "b51113a58cca_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imgcc2c6acce7c_story.jpg"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-03T11:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "019f842016f0",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imgcc2c6acce7c_0.jpg"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "Modifica tu ambiente para que sea más apetecible el descanso.\n\nAhora, otra de las recomendaciones es inducir la relajación, poner algún aroma, poner alguna música y alguna luz que te relaje.\n\n¿Te pasa? Cuéntame 👇",
+  "when": "2026-11-03T09:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "4d350f3cd6e7",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img28a99d704e8_0.jpg",
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img28a99d704e8_1.jpg",
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img28a99d704e8_2.jpg",
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img28a99d704e8_3.jpg",
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img28a99d704e8_4.jpg"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "Tomas creatina, te sale alta la creatinina y tu médico se asusta. Esto pasa.\n\nCreatina y riñón: tu análisis no miente, pero se malinterpreta. Te lo explico en 3 láminas.\n\nComparte esto con quien le dijeron que la creatina le iba a dañar el riñón.\n\nFuente: Kabiri Naeini E et al. 2025, BMC Nephrology (metaanálisis)",
+  "when": "2026-11-03T15:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "c4cda0cab187",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img28a99d704e8_0.jpg",
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img28a99d704e8_1.jpg",
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img28a99d704e8_2.jpg",
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img28a99d704e8_3.jpg",
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img28a99d704e8_4.jpg"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "Tomas creatina, te sale alta la creatinina y tu médico se asusta. Esto pasa.\n\nCreatina y riñón: tu análisis no miente, pero se malinterpreta — desliza y guárdalo 📌\n\nComparte esto con quien le dijeron que la creatina le iba a dañar el riñón.\n\nFuente: Kabiri Naeini E et al. 2025, BMC Nephrology (metaanálisis)\n.\n#nutricion #suplementos #gym #ciencia",
+  "when": "2026-11-03T16:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "c4cda0cab187_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img28a99d704e8_story.jpg"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-03T18:00:00",
+  "first_comment": ""
  }
 ]
