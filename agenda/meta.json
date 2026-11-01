@@ -550,5 +550,20 @@
   "audio": null,
   "cover": null,
   "origen": "44c3dff15f3a54"
+ },
+ {
+  "id": "img1d52fb4ff75t_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img1d52fb4ff75t.mp4"
+  ],
+  "caption": "¿Ya no te pega el café? El problema no es la tolerancia.\n\nEl mito de la tolerancia a la cafeína — desliza y guárdalo 📌\n\n¿Cuántas tazas o scoops tomas al día? Te leo en comentarios.\n\nFuente: Carvalho A et al. 2022, Sports Medicine (metaanálisis, 60 estudios); Chang YH et al. 2025, Sleep Medicine (22 ensayos, polisomnografía)\n.\n#nutricion #suplementos #gym #ciencia",
+  "when": "2026-11-01T16:48:54",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "origen": "img1d52fb4ff75"
  }
 ]
