@@ -514,5 +514,20 @@
   "audio": null,
   "cover": null,
   "origen": "imgb6941f62828"
+ },
+ {
+  "id": "imgb7e8597d057t_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imgb7e8597d057t.mp4"
+  ],
+  "caption": "Tu etiqueta dice 1,000 mg de magnesio. Probablemente no es cierto.\n\nEl magnesio siempre viene pegado a otra molécula: óxido, citrato, glicinato. Lo que importa es el magnesio elemental. El glicinato de magnesio es 14.1% magnesio por masa.\n\nGuárdalo 📌 y mándaselo a quien lo necesita.\nFuente: Estequiometría del glicinato de magnesio (14.1% Mg por masa); no requiere cita clínica\n.\n#nutricion #suplementos #gym #ciencia",
+  "when": "2026-11-02T09:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "origen": "imgb7e8597d057"
  }
 ]
