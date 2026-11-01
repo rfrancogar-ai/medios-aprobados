@@ -595,5 +595,20 @@
   "audio": null,
   "cover": null,
   "origen": "imgd7faa7c07b3"
+ },
+ {
+  "id": "img6f621e5f542t_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img6f621e5f542t.mp4"
+  ],
+  "caption": "Todos te dicen que el glicinato se absorbe mucho mejor que el óxido. El estudio dice otra cosa.\n\nGlicinato vs óxido: la verdad incómoda — desliza y guárdalo 📌\n\n¿Prefieres que te diga la verdad aunque no venda? Comenta 'verdad' y sigo con esta serie.\n\nFuente: Pardo MR et al. 2021, Nutrition (revisión sistemática, 14 estudios); Schuette SA et al. 1994, JPEN (ECA cruzado, n=12, resección ileal)\n.\n#nutricion #suplementos #gym #ciencia",
+  "when": "2026-11-03T09:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "origen": "img6f621e5f542"
  }
 ]
