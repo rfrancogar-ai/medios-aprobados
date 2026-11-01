@@ -50,6 +50,8 @@ def ig(e):
         p = {"media_type": "REELS", "video_url": media[0], "caption": e.get("caption", ""), "access_token": TOK}
         if e.get("cover"):
             p["cover_url"] = e["cover"]
+        if kind == "trial" and os.path.exists("agenda/trial_off"):
+            raise RuntimeError("trials apagados: no se publica (nunca como reel normal)")
         if kind == "trial":  # Trial Reel: primero a quien no te sigue; se gradúa solo si rinde
             p["trial_params"] = json.dumps({"graduation_strategy": "SS_PERFORMANCE"})
             p["share_to_feed"] = "false"  # un trial NO va al feed de tus seguidores
@@ -114,6 +116,9 @@ def main():
             continue
         when = datetime.fromisoformat(e["when"])
         if when > ahora:
+            continue
+        if e["kind"] == "trial" and e["net"] != "ig":  # solo Instagram tiene Trial: nunca sale como post normal
+            hecho[e["id"]] = {"ok": 0, "final": 1, "error": "trial solo existe en Instagram", "ts": ahora.isoformat()}
             continue
         dep = e.get("despues_de")  # la historia que anuncia un post sale justo DESPUÉS de él, nunca antes ni sin él
         if dep:
