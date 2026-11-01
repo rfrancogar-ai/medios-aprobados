@@ -96,8 +96,10 @@
   "cover": null,
   "audio": null,
   "caption": "",
-  "when": "2026-11-01T18:00:00",
-  "first_comment": ""
+  "when": "2026-11-01T16:00:00",
+  "first_comment": "",
+  "despues_de": "a66ee3227eb3",
+  "formato": "imagen"
  },
  {
   "id": "4f293f7c002b",
@@ -123,13 +125,15 @@
   "target": "17841400277954990",
   "kind": "story",
   "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/65df0d5fa98f3e_story.mp4"
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/65df0d5fa98f3e_motion.mp4"
   ],
   "cover": null,
   "audio": null,
   "caption": "",
-  "when": "2026-11-01T14:00:00",
-  "first_comment": ""
+  "when": "2026-11-01T12:42:29",
+  "first_comment": "",
+  "despues_de": "4f293f7c002b",
+  "formato": "motion"
  },
  {
   "id": "3cb8fbdbcd34",
@@ -202,8 +206,10 @@
   "cover": null,
   "audio": null,
   "caption": "",
-  "when": "2026-11-01T12:30:00",
-  "first_comment": ""
+  "when": "2026-11-01T12:42:29",
+  "first_comment": "",
+  "despues_de": "bd5f5b18b1b5",
+  "formato": "avance"
  },
  {
   "id": "4d350f3cd6e7",
@@ -252,8 +258,10 @@
   "cover": null,
   "audio": null,
   "caption": "",
-  "when": "2026-11-03T18:00:00",
-  "first_comment": ""
+  "when": "2026-11-03T16:00:00",
+  "first_comment": "",
+  "despues_de": "c4cda0cab187",
+  "formato": "imagen"
  },
  {
   "id": "117fbf65ff8e9a_trial",
@@ -310,8 +318,10 @@
   "cover": null,
   "audio": null,
   "caption": "",
-  "when": "2026-11-02T11:00:00",
-  "first_comment": ""
+  "when": "2026-11-02T09:00:00",
+  "first_comment": "",
+  "despues_de": "ccf875b217b4",
+  "formato": "imagen"
  },
  {
   "id": "49939d2f15cc",
@@ -366,8 +376,10 @@
   "cover": null,
   "audio": null,
   "caption": "",
-  "when": "2026-11-02T18:00:00",
-  "first_comment": ""
+  "when": "2026-11-02T16:00:00",
+  "first_comment": "",
+  "despues_de": "b51113a58cca",
+  "formato": "imagen"
  },
  {
   "id": "a7015542fa2c",
@@ -398,8 +410,10 @@
   "cover": null,
   "audio": null,
   "caption": "",
-  "when": "2026-11-03T11:00:00",
-  "first_comment": ""
+  "when": "2026-11-03T09:00:00",
+  "first_comment": "",
+  "despues_de": "a7015542fa2c",
+  "formato": "imagen"
  },
  {
   "id": "ab3de2aacb5b",
@@ -444,8 +458,10 @@
   "cover": null,
   "audio": null,
   "caption": "",
-  "when": "2026-11-04T11:00:00",
-  "first_comment": ""
+  "when": "2026-11-04T09:00:00",
+  "first_comment": "",
+  "despues_de": "c3b0914e9ede",
+  "formato": "imagen"
  },
  {
   "id": "49636d8815f0",
@@ -500,7 +516,9 @@
   "cover": null,
   "audio": null,
   "caption": "",
-  "when": "2026-11-04T18:00:00",
-  "first_comment": ""
+  "when": "2026-11-04T16:00:00",
+  "first_comment": "",
+  "despues_de": "f367d64abb93",
+  "formato": "imagen"
  }
 ]
