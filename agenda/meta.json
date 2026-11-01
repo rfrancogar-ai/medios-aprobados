@@ -373,5 +373,269 @@
   "audio": null,
   "cover": null,
   "origen": "img28a99d704e8"
+ },
+ {
+  "id": "ccf875b217b4",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imgd7faa7c07b3_0.jpg"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "Si no tienes tiempo para tu salud, vas a tener que hacer tiempo para tu enfermedad.\n\n¿Estás de acuerdo? Dímelo en comentarios 👇\n\nGuárdala para el día que la necesites 📌\n.\n#nutricion #suplementos #gym #ciencia",
+  "when": "2026-11-02T09:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "ccf875b217b4_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imgd7faa7c07b3_story.jpg"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-02T11:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "49939d2f15cc",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imgd7faa7c07b3_0.jpg"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "Si no tienes tiempo para tu salud, vas a tener que hacer tiempo para tu enfermedad.\n\n¿Estás de acuerdo? Dímelo en comentarios 👇",
+  "when": "2026-11-02T09:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "a2bbf9af710e",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/44c3dff15f3a54.mp4"
+  ],
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_44c3dff15f3a54.jpg",
+  "audio": {
+   "audio_id": "1108285910189784",
+   "audio_volume": 12,
+   "video_volume": 100
+  },
+  "caption": "PumpX viene a corregir el mercado\n\nPlatícame, porque yo no sé nada, ¿qué es el PumpX? PumpX se desarrolla como una fórmula que viene a corregir el mercado de los pre-workouts.\n\nYo uso PUMPX® de EPIC. Código ROBERTO: 10% de descuento. Link en bio.\n.\n#preentreno #gym #suplementos",
+  "when": "2026-11-02T10:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "a2bbf9af710e_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/44c3dff15f3a54_story.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-02T12:30:00",
+  "first_comment": ""
+ },
+ {
+  "id": "019f842016f0",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imgcc2c6acce7c_0.jpg"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "Modifica tu ambiente para que sea más apetecible el descanso.\n\nAhora, otra de las recomendaciones es inducir la relajación, poner algún aroma, poner alguna música y alguna luz que te relaje.\n\n¿Lo aplicas o te cuesta? Te leo 👇",
+  "when": "2026-11-02T15:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "b51113a58cca",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imgcc2c6acce7c_0.jpg"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "Modifica tu ambiente para que sea más apetecible el descanso.\n\nAhora, otra de las recomendaciones es inducir la relajación, poner algún aroma, poner alguna música y alguna luz que te relaje.\n\n¿Lo aplicas o te cuesta? Te leo 👇\n\nGuárdala para el día que la necesites 📌\n.\n#nutricion #suplementos #gym #ciencia",
+  "when": "2026-11-02T16:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "b51113a58cca_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imgcc2c6acce7c_story.jpg"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-02T18:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "a7015542fa2c",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img6f621e5f542_0.jpg",
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img6f621e5f542_1.jpg",
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img6f621e5f542_2.jpg",
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img6f621e5f542_3.jpg",
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img6f621e5f542_4.jpg"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "Todos te dicen que el glicinato se absorbe mucho mejor que el óxido. El estudio dice otra cosa.\n\nGlicinato vs óxido: la verdad incómoda — desliza y guárdalo 📌\n\n¿Prefieres que te diga la verdad aunque no venda? Comenta 'verdad' y sigo con esta serie.\n\nFuente: Pardo MR et al. 2021, Nutrition (revisión sistemática, 14 estudios); Schuette SA et al. 1994, JPEN (ECA cruzado, n=12, resección ileal)\n.\n#nutricion #suplementos #gym #ciencia",
+  "when": "2026-11-03T09:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "a7015542fa2c_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img6f621e5f542_story.jpg"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-03T11:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "ab3de2aacb5b",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img6f621e5f542_0.jpg",
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img6f621e5f542_1.jpg",
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img6f621e5f542_2.jpg",
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img6f621e5f542_3.jpg",
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img6f621e5f542_4.jpg"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "Todos te dicen que el glicinato se absorbe mucho mejor que el óxido. El estudio dice otra cosa.\n\nGlicinato vs óxido: la verdad incómoda. Te lo explico en 3 láminas.\n\n¿Prefieres que te diga la verdad aunque no venda? Comenta 'verdad' y sigo con esta serie.\n\nFuente: Pardo MR et al. 2021, Nutrition (revisión sistemática, 14 estudios); Schuette SA et al. 1994, JPEN (ECA cruzado, n=12, resección ileal)",
+  "when": "2026-11-03T09:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "3c2040f96921",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/44c3dff15f3a54.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "PumpX viene a corregir el mercado\n\nPlatícame, porque yo no sé nada, ¿qué es el PumpX? PumpX se desarrolla como una fórmula que viene a corregir el mercado de los pre-workouts.\n\nYo uso PUMPX® de EPIC. Código ROBERTO: 10% de descuento. Link en bio.",
+  "when": "2026-11-03T10:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "c3b0914e9ede",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imgc978c264b2f_0.jpg"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "No te compares con alguien que lleva diez años entrenando cuando tú llevas diez semanas.\n\n¿A quién se la mandarías? Etiquétalo 👇\n\nGuárdala para el día que la necesites 📌\n.\n#nutricion #suplementos #gym #ciencia",
+  "when": "2026-11-04T09:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "c3b0914e9ede_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imgc978c264b2f_story.jpg"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-04T11:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "49636d8815f0",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imgc978c264b2f_0.jpg"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "No te compares con alguien que lleva diez años entrenando cuando tú llevas diez semanas.\n\n¿A quién se la mandarías? Etiquétalo 👇",
+  "when": "2026-11-04T09:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "e28f1f0eb785",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imgb6941f62828_0.jpg"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "No nos interesa que nos compres una vez, nos interesa que realmente obtengas el beneficio de nuestros suplementos.\n\nDe esa forma podemos decir y garantizar que son fórmulas para que llegues al siguiente nivel. Así que, ya sabes, escríbenos tu mensajito.\n\n¿A quién se la mandarías? Etiquétalo 👇",
+  "when": "2026-11-04T15:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "f367d64abb93",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imgb6941f62828_0.jpg"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "No nos interesa que nos compres una vez, nos interesa que realmente obtengas el beneficio de nuestros suplementos.\n\nDe esa forma podemos decir y garantizar que son fórmulas para que llegues al siguiente nivel. Así que, ya sabes, escríbenos tu mensajito.\n\n¿A quién se la mandarías? Etiquétalo 👇\n\nGuárdala para el día que la necesites 📌\n.\n#nutricion #suplementos #gym #ciencia",
+  "when": "2026-11-04T16:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "f367d64abb93_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imgb6941f62828_story.jpg"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-04T18:00:00",
+  "first_comment": ""
  }
 ]
