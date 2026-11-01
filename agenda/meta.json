@@ -580,5 +580,20 @@
   "audio": null,
   "cover": null,
   "origen": "imgc978c264b2f"
+ },
+ {
+  "id": "imgd7faa7c07b3t_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imgd7faa7c07b3t.mp4"
+  ],
+  "caption": "Si no tienes tiempo para tu salud, vas a tener que hacer tiempo para tu enfermedad.\n\n¿Estás de acuerdo? Dímelo en comentarios 👇\n\nGuárdala para el día que la necesites 📌\n.\n#nutricion #suplementos #gym #ciencia",
+  "when": "2026-11-02T09:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "origen": "imgd7faa7c07b3"
  }
 ]
