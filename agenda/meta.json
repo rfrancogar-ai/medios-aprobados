@@ -639,5 +639,49 @@
   "first_comment": "",
   "despues_de": "891482dbc00e",
   "formato": "motion"
+ },
+ {
+  "id": "a32b9edcdb93",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/17b124cadc5928.mp4"
+  ],
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_17b124cadc5928.jpg",
+  "audio": null,
+  "caption": "¡Se pudo, se pudo, se pudo!\n\nNo hay entrenamiento donde un compa no rompa su récord personal conmigo. Y no es por la exigencia: es porque se sienten seguros de que lo están haciendo con la técnica que yo les dije… y conmigo ahí atrás.\n\nDesde las piernas, el abdomen, controla hacia abajo.\n\nEtiqueta al compa con el que rompes récords.\n\n#gym #récordpersonal #tecnica #entrenamiento",
+  "when": "2026-11-03T18:00:00",
+  "first_comment": "¿Cuál fue tu último récord personal y en qué ejercicio?"
+ },
+ {
+  "id": "a32b9edcdb93_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/17b124cadc5928_motion.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-03T18:00:00",
+  "first_comment": "",
+  "despues_de": "a32b9edcdb93",
+  "formato": "motion"
+ },
+ {
+  "id": "ff2409c20217",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/17b124cadc5928.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "¡Se pudo! No hay entrenamiento donde un compa no rompa su récord personal conmigo. No es la exigencia: es que se sienten seguros de que lo hacen con la técnica que yo les dije, y conmigo ahí atrás. ¿Tú tienes a alguien que te cuide la barra?",
+  "when": "2026-11-04T17:00:00",
+  "first_comment": ""
  }
 ]
