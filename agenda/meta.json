@@ -698,5 +698,49 @@
   "audio": null,
   "cover": null,
   "origen": "17b124cadc5928"
+ },
+ {
+  "id": "da838338a46d",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/bbdbf582934303.mp4"
+  ],
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_bbdbf582934303.jpg",
+  "audio": null,
+  "caption": "Ponerse abajo de una barra de 100 kilos da miedo. Y hay que ser transparentes.\n\nNo sabes cómo te va a ir… hasta que llega alguien, te dice \"aquí estamos, para eso estamos\" y te empuja.\n\nY el día que te quedas abajo y te ayudan a levantarla, te das cuenta de que no era lo peor que te podía pasar.\n\nEtiqueta a tu compa de gym.\n\n#gym #mentalidad #pressbanca #entrenamiento",
+  "when": "2026-11-04T10:00:00",
+  "first_comment": "¿Cuál es el peso que más miedo te ha dado tocar?"
+ },
+ {
+  "id": "da838338a46d_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/bbdbf582934303_story.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-04T10:00:00",
+  "first_comment": "",
+  "despues_de": "da838338a46d",
+  "formato": "avance"
+ },
+ {
+  "id": "8ce3b01e9739",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/bbdbf582934303.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "Siendo transparente: siempre ha dado miedo ponerse abajo de una barra de 100 kilos y no saber cómo te va a ir, hasta que alguien te dice 'aquí estamos, para eso estamos'. ¿A ti qué peso te ha dado miedo?",
+  "when": "2026-11-05T10:00:00",
+  "first_comment": ""
  }
 ]
