@@ -757,5 +757,93 @@
   "audio": null,
   "cover": null,
   "origen": "bbdbf582934303"
+ },
+ {
+  "id": "eadeee18e016",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/fb33d4cb2ac9ff.mp4"
+  ],
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_fb33d4cb2ac9ff.jpg",
+  "audio": null,
+  "caption": "\"¿A poco también lo tienes por peso?\" Sí, bro.\n\nComúnmente la dosis estándar era de 5 gramos para todos. Todo mundo te da una dosis estándar; nosotros te ponemos en el bote una dosis personalizada y te enseñamos a calcularla con tu peso, para que tomes lo correcto.\n\nComenta DOSIS y te digo cómo calcular la tuya.\n\n#creatina #epiclabs #creanova #suplementos #nutriologo",
+  "when": "2026-11-04T12:00:00",
+  "first_comment": "¿Cuánto pesas y cuánto tomas hoy? Te leo y te digo si te estás quedando corto."
+ },
+ {
+  "id": "eadeee18e016_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/fb33d4cb2ac9ff_story.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-04T12:00:00",
+  "first_comment": "",
+  "despues_de": "eadeee18e016",
+  "formato": "avance"
+ },
+ {
+  "id": "52ae61c0ca55",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/561d41cbc8e726.mp4"
+  ],
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_561d41cbc8e726.jpg",
+  "audio": null,
+  "caption": "Si tu licuado de proteína no te llena, esto es para ti.\n\nUsa hielo, fresas congeladas, plátano congelado y, en vez de leche, ponle kéfir o yogurt. Se vuelve un licuado más espeso y, con 50 gramos de proteína, una digestión más prolongada para que no te dé hambre durante tu ejercicio o tu día.\n\nGuárdalo para mañana y comenta LICUADO con tu ingrediente secreto.\n\n#licuadodeproteina #proteina #nutricion #saciedad",
+  "when": "2026-11-04T17:00:00",
+  "first_comment": "¿Licuado con agua, leche o yogurt? Cuéntame cómo lo preparas tú."
+ },
+ {
+  "id": "52ae61c0ca55_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/561d41cbc8e726_motion.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-04T17:00:00",
+  "first_comment": "",
+  "despues_de": "52ae61c0ca55",
+  "formato": "motion"
+ },
+ {
+  "id": "f68e4e2d0098",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/fb33d4cb2ac9ff.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "Todo mundo te da una dosis estándar de 5 gramos para todos. Nosotros te ponemos en el bote una dosis personalizada y te enseñamos a calcularla con tu peso. ¿Tú sabías que se calcula por peso?",
+  "when": "2026-11-05T12:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "eccbe47f33dd",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/561d41cbc8e726.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "Mi truco para un licuado de proteína que sí te deje satisfecho: hielo, fresas y plátano congelados, y kéfir o yogurt en lugar de leche. Más espeso y más saciedad. ¿Tú cómo preparas el tuyo?",
+  "when": "2026-11-05T17:00:00",
+  "first_comment": ""
  }
 ]
