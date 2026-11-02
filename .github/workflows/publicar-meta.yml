@@ -18,16 +18,10 @@ jobs:
     timeout-minutes: 40
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main   # siempre lo más nuevo (una corrida en espera no debe usar una copia vieja)
       - name: Publicar lo que ya toca
         env:
           META_SU_TOKEN: ${{ secrets.META_SU_TOKEN }}
         run: python3 publicar_meta.py
-      - name: Guardar resultados
-        run: |
-          git config user.name "publicador"
-          git config user.email "publicador@users.noreply.github.com"
-          [ -f agenda/hecho.json ] || exit 0
-          git add agenda/hecho.json
-          git diff --cached --quiet && exit 0
-          git commit -qm "publicado $(date -u +%FT%TZ)"
-          for i in 1 2 3; do git pull -q --rebase origin main && git push -q origin HEAD:main && break; sleep 5; done
+      # publicar_meta.py guarda agenda/hecho.json en main en cuanto algo sale (fusiona, nunca duplica)
