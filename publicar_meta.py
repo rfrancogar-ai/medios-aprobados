@@ -4,6 +4,7 @@ La Mac deja en agenda/meta.json lo aprobado (con URLs públicas); esto publica l
 y anota el resultado en agenda/hecho.json (la Mac lo lee para marcarlo publicado). Solo librería estándar."""
 import json
 import os
+import subprocess
 import time
 import urllib.error
 import urllib.parse
@@ -103,12 +104,91 @@ def fb(e):
     return req(f"{G}/{page}/feed", data)["id"]
 
 
+def _git(*a):
+    return subprocess.run(["git", *a], capture_output=True, text=True)
+
+
+def hecho_remoto():
+    """Lo publicado según main AHORA (no según el checkout: una corrida en espera trae una copia vieja y así salió
+    doble el post del descanso el 2-nov)."""
+    if _git("fetch", "-q", "origin", "main").returncode != 0:
+        return None
+    r = _git("show", f"origin/main:{HECHO}")
+    try:
+        return json.loads(r.stdout) if r.returncode == 0 else {}
+    except ValueError:
+        return {}
+
+
+def _mejor(a, b):
+    return a if (a or {}).get("ok") or not (b or {}).get("ok") else b
+
+
+def guardar(hecho):
+    """Guarda en main en cuanto algo sale (fusiona con lo que haya; nunca pierde un 'publicado')."""
+    for _ in range(6):
+        rem = hecho_remoto()
+        if rem is None:
+            time.sleep(5)
+            continue
+        for k, v in rem.items():
+            hecho[k] = _mejor(hecho.get(k), v) if k in hecho else v
+        _git("reset", "-q", "--hard", "origin/main")
+        os.makedirs("agenda", exist_ok=True)
+        json.dump(hecho, open(HECHO, "w"), ensure_ascii=False, indent=1)
+        _git("add", HECHO)
+        if _git("diff", "--cached", "--quiet").returncode == 0:
+            return True
+        _git("-c", "user.name=publicador", "-c", "user.email=publicador@users.noreply.github.com",
+             "commit", "-qm", f"publicado {datetime.now(MX).isoformat(timespec='seconds')}")
+        if _git("push", "-q", "origin", "HEAD:main").returncode == 0:
+            return True
+        time.sleep(4)
+    return False
+
+
+def ya_en_instagram(e):
+    """Segunda llave: si en las últimas 6 h ya hay en la cuenta un post con el mismo texto y del mismo tipo, no se
+    vuelve a subir (se anota ese). Cubre cualquier pérdida de estado."""
+    if e["net"] != "ig" or e["kind"] == "story":
+        return None
+    try:
+        d = req(f"{G}/{e['target']}/media?fields=id,caption,timestamp,media_product_type,is_shared_to_feed"
+                f"&limit=15&access_token={TOK}")
+    except RuntimeError:
+        return None
+    cap = " ".join((e.get("caption") or "").split())[:120]
+    if not cap:
+        return None
+    limite = datetime.now(timezone.utc) - timedelta(hours=6)
+    for m in d.get("data", []):
+        t = datetime.strptime(m["timestamp"], "%Y-%m-%dT%H:%M:%S%z")
+        if t < limite or " ".join((m.get("caption") or "").split())[:120] != cap:
+            continue
+        tipo = m.get("media_product_type")
+        if e["kind"] == "trial" and tipo == "REELS" and m.get("is_shared_to_feed") is False:
+            return m["id"]
+        if e["kind"] == "reel" and tipo == "REELS" and m.get("is_shared_to_feed") is not False:
+            return m["id"]
+        if e["kind"] == "images" and tipo == "FEED":
+            return m["id"]
+    return None
+
+
 def main():
     if not TOK:
         print("falta el secreto META_SU_TOKEN: corre activar_publicador.sh en la Mac")
         return
     agenda = json.load(open(AGENDA)) if os.path.exists(AGENDA) else []
     hecho = json.load(open(HECHO)) if os.path.exists(HECHO) else {}
+    rem = hecho_remoto()
+    if rem is not None:
+        hecho = {k: _mejor(hecho.get(k), v) for k, v in rem.items()} | {k: v for k, v in hecho.items() if k not in rem}
+    if _git("show", f"origin/main:{AGENDA}").returncode == 0:  # y la agenda más nueva
+        try:
+            agenda = json.loads(_git("show", f"origin/main:{AGENDA}").stdout)
+        except ValueError:
+            pass
     ahora = datetime.now(MX).replace(tzinfo=None)
     for e in sorted(agenda, key=lambda x: (x["when"], bool(x.get("despues_de")))):
         h = hecho.get(e["id"], {})
@@ -130,17 +210,29 @@ def main():
         if ahora - when > timedelta(hours=MAX_RETRASO_H):
             hecho[e["id"]] = {"ok": 0, "final": 1, "error": "vencido sin publicar", "ts": ahora.isoformat()}
             continue
+        rem = hecho_remoto() or {}  # justo antes de publicar: ¿otra corrida ya lo sacó?
+        if rem.get(e["id"], {}).get("ok"):
+            hecho[e["id"]] = rem[e["id"]]
+            print("= ya publicado por otra corrida", e["id"])
+            continue
+        previo = ya_en_instagram(e)
+        if previo:
+            hecho[e["id"]] = {"ok": 1, "ext": previo, "ts": datetime.now(MX).isoformat(timespec="seconds"),
+                              "nota": "ya estaba en Instagram (no se duplicó)"}
+            guardar(hecho)
+            print("= ya estaba en Instagram", e["id"], previo)
+            continue
         try:
             ext = (ig if e["net"] == "ig" else fb)(e)
             hecho[e["id"]] = {"ok": 1, "ext": ext, "ts": datetime.now(MX).isoformat(timespec="seconds")}
+            guardar(hecho)  # en cuanto sale, queda escrito en main
             print("✓", e["id"], e["net"], e["kind"], ext)
         except Exception as err:  # noqa: BLE001
             n = h.get("intentos", 0) + 1
             hecho[e["id"]] = {"ok": 0, "intentos": n, "final": int(n >= MAX_INTENTOS), "error": str(err)[:300],
                               "ts": ahora.isoformat()}
             print("✗", e["id"], e["net"], e["kind"], str(err)[:200])
-    os.makedirs("agenda", exist_ok=True)
-    json.dump(hecho, open(HECHO, "w"), ensure_ascii=False, indent=1)
+    guardar(hecho)
 
 
 if __name__ == "__main__":
