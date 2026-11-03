@@ -1880,18 +1880,47 @@
   "origen": "82552064c009ab"
  },
  {
-  "id": "48a57e6e99cfc8_trial",
+  "id": "5ce35f444bab",
   "net": "ig",
   "target": "17841400277954990",
-  "kind": "trial",
+  "kind": "reel",
   "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/48a57e6e99cfc8.mp4"
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/25e64c1247ffa5.mp4"
   ],
-  "caption": "Un muy buen consejo que te puedo dar: todos los días come huevo.\n\nDe 3 a 4 huevos:\n🥚 Si eres mujer, 3.\n🥚 Si eres hombre, 4.\n🥚 Si quieres construir masa muscular, 4.\n🥚 Si eres una persona común y corriente, 3.\n\nPuede variar, 3, 4 o hasta 5. Un solo huevo es muy poquito para la cantidad de proteína necesaria en una comida; apenas es suficiente cuando aplicamos los 3.\n\nY no, no te suben el colesterol. Es un súper alimento. La recomendación: inclúyelo todos los días en tu alimentación.\n\nComenta HUEVO y dime cuántos te comes al día. Guárdalo para tu próxima lista del súper.\n\n#huevo #proteina #nutricion #colesterol #robertofranco",
-  "when": "2026-11-09T10:00:00",
-  "first_comment": "",
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_25e64c1247ffa5.jpg",
   "audio": null,
+  "caption": "La batalla no es con el colesterol\n\nLa batalla no es con el colesterol: lo importante es qué tipo de colesterol es. El HDL es cardioprotector; el LDL es el que se pega en las arterias.\n\nGuárdalo para tu próximo entrenamiento.\n.\n#fitness #nutricion",
+  "when": "2026-11-07T12:00:00",
+  "first_comment": "¿En tus últimos análisis te dieron solo el colesterol total o también HDL y LDL? Cuéntame 👇"
+ },
+ {
+  "id": "5ce35f444bab_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/25e64c1247ffa5_motion.mp4"
+  ],
   "cover": null,
-  "origen": "9ace8574635313"
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-07T12:00:00",
+  "first_comment": "",
+  "despues_de": "5ce35f444bab",
+  "formato": "motion"
+ },
+ {
+  "id": "d7edd5b8baf4",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/25e64c1247ffa5.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "La batalla no es con el colesterol, familia. Puede estar elevado; lo importante es qué tipo de colesterol es. El HDL, el colesterol bueno, es cardioprotector y ayuda a eliminar el malo. El LDL es el que se pega en las arterias y forma placa. ¿Alguna vez te explicaron así tus análisis o solo te dijeron \"tienes el colesterol alto\"?",
+  "when": "2026-11-08T12:00:00",
+  "first_comment": ""
  }
 ]
