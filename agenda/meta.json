@@ -1242,5 +1242,20 @@
   "audio": null,
   "cover": null,
   "origen": "433f96450c55b1"
+ },
+ {
+  "id": "84a72359c89e0f_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/84a72359c89e0f.mp4"
+  ],
+  "caption": "Si tu licuado de proteína no te llena, esto es para ti.\n\nUsa hielo, fresas congeladas, plátano congelado y, en vez de leche, ponle kéfir o yogurt. Se vuelve un licuado más espeso y, con 50 gramos de proteína, una digestión más prolongada para que no te dé hambre durante tu ejercicio o tu día.\n\nGuárdalo para mañana y comenta LICUADO con tu ingrediente secreto.\n\n#licuadodeproteina #proteina #nutricion #saciedad",
+  "when": "2026-11-04T17:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "origen": "561d41cbc8e726"
  }
 ]
