@@ -1642,5 +1642,93 @@
   "caption": "Familia, la mejor sentadilla es la que te deja sentirte cómodo, con una condición: tus rodillas tienen que ir con tus pies. Controla hacia abajo, aprieta el abdomen, quédate un segundito y explota de regreso. Y si se te inclina un poco la espalda con la barra abajito, tranquilo, en la mayoría de nosotros pasa por naturaleza. ¿Tú cómo la haces, barra arriba o abajo?",
   "when": "2026-11-09T10:00:00",
   "first_comment": ""
+ },
+ {
+  "id": "4d3e13f7a474",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/806975e14dc0c5.mp4"
+  ],
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_806975e14dc0c5.jpg",
+  "audio": null,
+  "caption": "La maña para bajar corriendo (y no destrozarte las rodillas en el intento).\n\n\"Vamos a salir ya de regreso y apenas voy de ida.\" Así va la carrera 😅\n\nEn la bajada la mañita es: te recargas un poquito hacia atrás tu cuerpo y levantas bien las rodillas para aprovechar la zancada. Y ojo: el peso siempre es un factor a considerar en este tipo de carreras con tanto impacto.\n\nGuárdalo para tu próxima carrera de montaña y comenta BAJADA si quieres más tips de carrera.\n\n#trailrunning #correr #entrenamiento #running #robertofranco",
+  "when": "2026-11-07T17:00:00",
+  "first_comment": "¿Qué se te hace más difícil en una carrera de montaña: la subida o la bajada?"
+ },
+ {
+  "id": "4d3e13f7a474_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/806975e14dc0c5_story.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-07T17:00:00",
+  "first_comment": "",
+  "despues_de": "4d3e13f7a474",
+  "formato": "avance"
+ },
+ {
+  "id": "104f30e378dc",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/739ddf9f149d0e.mp4"
+  ],
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_739ddf9f149d0e.jpg",
+  "audio": null,
+  "caption": "Kilómetro 27. Valiendo madre. 🏃‍♂️\n\nLos pies como que ya los voy a ignorar, las rodillas igual. Lo que vengo cuidando es un tirón abajito del glúteo, en el isquiosural: un calambre ahorita sería fatal.\n\nVamos por unos 10 kilómetros más de esfuerzo… y los últimos 5, lo que Dios mande.\n\nVerdaderamente es toda una prueba. Esto no es cualquier cosa.\n\n¿Cuál ha sido tu kilómetro 27? Cuéntamelo en comentarios 👇\n\n#maraton #running #mentalidad #endurance #robertofranco",
+  "when": "2026-11-08T10:00:00",
+  "first_comment": "¿Qué te duele primero cuando ya vas al límite: pies, rodillas o la cabeza? 👇"
+ },
+ {
+  "id": "104f30e378dc_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/739ddf9f149d0e_story.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-08T10:00:00",
+  "first_comment": "",
+  "despues_de": "104f30e378dc",
+  "formato": "avance"
+ },
+ {
+  "id": "eacf1d03290c",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/806975e14dc0c5.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "Vamos de regreso… y yo apenas voy de ida 😅 En la bajada la mañita es: te recargas un poquito hacia atrás y levantas bien las rodillas para aprovechar la zancada. El peso siempre es un factor a considerar con tanto impacto. ¿Ustedes cómo bajan en la montaña?",
+  "when": "2026-11-09T12:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "ca3f43b0e7b7",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/739ddf9f149d0e.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "Kilómetro 27 del maratón, familia. Los pies ya los ignoro, las rodillas igual, y voy cuidando un tirón en el isquiosural porque un calambre ahí sería fatal. Diez kilómetros más de esfuerzo y los últimos cinco, lo que Dios mande. Verdaderamente es toda una prueba. ¿Ustedes cuál ha sido su kilómetro 27?",
+  "when": "2026-11-09T17:00:00",
+  "first_comment": ""
  }
 ]
