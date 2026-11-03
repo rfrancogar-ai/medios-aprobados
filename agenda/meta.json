@@ -1524,5 +1524,20 @@
   "audio": null,
   "cover": null,
   "origen": "ca4a1800960299"
+ },
+ {
+  "id": "15b9105f143e14_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/15b9105f143e14.mp4"
+  ],
+  "caption": "Si te despegas del asiento, ya no estás haciendo tríceps.\n\nEstiro, aprieto los tríceps. Regreso: pura flexión de codo, los hombros abajo. La fuerza al subir, y más arriba. Así, todas las reps así.\n\nY la que más se olvida cuando llega el cansancio: no te despegues del asiento.\n\nGuárdalo para tu próximo día de brazo y comenta CODO si te pasa 👇\n\n#triceps #gym #tecnica #entrenamiento #brazo",
+  "when": "2026-11-06T12:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "origen": "f4d32a3e52027a"
  }
 ]
