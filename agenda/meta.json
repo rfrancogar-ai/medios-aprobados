@@ -1494,5 +1494,20 @@
   "audio": null,
   "cover": null,
   "origen": "53afe985571c74"
+ },
+ {
+  "id": "131e2114b37cb8_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/131e2114b37cb8.mp4"
+  ],
+  "caption": "Saber lo que quieres y no hacer nada es solamente tu decisión.\n\nOye, bro: está bien no saber qué quieres. Pero saber lo que quieres y no estar haciendo nada, reduciendo cada vez más la probabilidad de que suceda… eso ya no es mala suerte.\n\nAsí que… te toca.\n\n📌 Guárdalo para cuando lo necesites y mándaselo a quien tiene que oírlo.\n\n#mentalidad #disciplina #gym #motivacion #habitos",
+  "when": "2026-11-06T17:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "origen": "7e53798937f69d"
  }
 ]
