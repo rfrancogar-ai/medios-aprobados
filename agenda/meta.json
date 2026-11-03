@@ -1745,5 +1745,93 @@
   "audio": null,
   "cover": null,
   "origen": "38cf8a4b027b16"
+ },
+ {
+  "id": "21b78dcf8a23",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/82552064c009ab.mp4"
+  ],
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_82552064c009ab.jpg",
+  "audio": null,
+  "caption": "Lo máximo que he corrido en mi vida son 15 kilómetros. Y me estoy preparando para correr 42 en 35 días.\n\nSoy una persona que pesa aproximadamente 100 kilos, con mucha masa muscular. Puedo almacenar suficiente azúcar en mis músculos, pero una vez que se agota, se agotó. Y mover esta corporalidad con cero energía de verdad es bastante difícil.\n\nPor eso la energía rápida durante el entrenamiento va a ser parte fundamental, no solo en los entrenamientos sino el día del evento.\n\n¿Crees que lo logro? Comenta 42 y te voy actualizando de la preparación.\n\n#maraton #running #nutriciondeportiva #correr #robertofranco",
+  "when": "2026-11-08T12:00:00",
+  "first_comment": "¿Cuál ha sido la distancia más larga que has corrido tú?"
+ },
+ {
+  "id": "21b78dcf8a23_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/82552064c009ab_story.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-08T12:00:00",
+  "first_comment": "",
+  "despues_de": "21b78dcf8a23",
+  "formato": "avance"
+ },
+ {
+  "id": "97d749ad02dd",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/657902fe487080.mp4"
+  ],
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_657902fe487080.jpg",
+  "audio": null,
+  "caption": "Parece de espalda, pero es de glúteo\n\nEl ejercicio que parece de pierna o de espalda pero en realidad es de glúteo: espalda curva, empujas la cadera hacia adelante apretando los glúteos.\n\nSígueme para más ciencia aplicada.\n.\n#gym #entrenamiento #fitness",
+  "when": "2026-11-08T17:00:00",
+  "first_comment": "¿Tú lo hacías con la espalda recta o curva? Cuéntame y te digo qué estabas trabajando."
+ },
+ {
+  "id": "97d749ad02dd_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/657902fe487080_motion.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-08T17:00:00",
+  "first_comment": "",
+  "despues_de": "97d749ad02dd",
+  "formato": "motion"
+ },
+ {
+  "id": "0f4aec378c28",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/82552064c009ab.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "Lo máximo que he corrido en mi vida son 15 kilómetros… y me estoy preparando para correr 42 en 35 días. Pesando unos 100 kilos, cuando se agota el azúcar de los músculos, se agotó, y moverse así es bastante difícil. ¿Ustedes creen que lo logro? ¿Cuál ha sido su distancia más larga?",
+  "when": "2026-11-10T10:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "a12ff998ecbd",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/657902fe487080.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "El ejercicio que parece de pierna o de espalda, pero en realidad es de glúteo. La clave: espalda curva, abdomen apretado y empujas la cadera hacia adelante contrayendo fuerte los glúteos. Con la espalda recta trabajas los extensores de la espalda. ¿Ustedes cómo lo hacían?",
+  "when": "2026-11-10T12:00:00",
+  "first_comment": ""
  }
 ]
