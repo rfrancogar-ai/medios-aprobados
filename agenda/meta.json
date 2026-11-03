@@ -933,5 +933,49 @@
   "caption": "No hagas ayunos prolongados, sobre todo si quieres construir o conservar músculo. El ayuno natural ya lo haces cuando duermes; al despertar, desayuno rico en proteína y repártela en todas tus comidas. ¿Tú haces ayuno intermitente? ¿Cómo te ha ido?",
   "when": "2026-11-06T10:00:00",
   "first_comment": ""
+ },
+ {
+  "id": "6968ea394fa1",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/221909971655f7.mp4"
+  ],
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_221909971655f7.jpg",
+  "audio": null,
+  "caption": "“No dejes que tus rodillas pasen la punta del pie.” Es completamente un mito.\n\nAl final de cuentas, no hay ejercicio lesivo, sino una mala ejecución del ejercicio.\n\n¿Y si ya tienes las rodillas operadas? Controla las cargas: mayor volumen de repeticiones, no jugar tanto con incremento de cargas. Quédate un segundito abajo donde estira, aprieta fuerte hacia arriba y que cada repetición se vea igual que la otra.\n\nComenta MITO si te lo habían dicho en el gym 👇\n\n#mitosdelgym #gym #rodillas #sentadilla #entrenamiento",
+  "when": "2026-11-03T10:00:00",
+  "first_comment": "¿Quién te dijo que las rodillas no deben pasar la punta del pie? 👇"
+ },
+ {
+  "id": "6968ea394fa1_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/221909971655f7_story.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-03T10:00:00",
+  "first_comment": "",
+  "despues_de": "6968ea394fa1",
+  "formato": "avance"
+ },
+ {
+  "id": "8fc25e3c5559",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/221909971655f7.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "¿Te han dicho que las rodillas no deben pasar la punta del pie? Es completamente un mito: no hay ejercicio lesivo, sino una mala ejecución. Y si tienes las rodillas operadas, controla las cargas y súbele al volumen de repeticiones. ¿A ti qué mito del gym te dijeron?",
+  "when": "2026-11-03T12:00:00",
+  "first_comment": ""
  }
 ]
