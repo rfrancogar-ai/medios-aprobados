@@ -45,6 +45,35 @@ def page_token(page):
     return req(f"{G}/{page}?fields=access_token&access_token={TOK}")["access_token"]
 
 
+FUERA = ("muert", "halloween", "navidad", "christmas", "en vivo", "live", "san judas", "remaster", "catrina", "llorona",
+         "fantasma", "phantom", "calaca", "bruja", "zombie", "spooky", "ghost", "monster", "thriller", "almas", "witch",
+         "vampir", "calavera", "ofrenda", "trick", "treat", "pumpkin", "calabaza", "terror", "horror", "scream", "boo", "goo goo muck", "watching me")
+_TENDENCIA = None
+
+
+def musica(e):
+    """Música OFICIAL de Instagram en tendencia (México) para cada reel del feed, bajo la voz (15 %). La elige la
+    nube porque aquí vive la llave de Meta (la Mac mini no la tiene). Determinista por publicación."""
+    global _TENDENCIA
+    if e.get("audio") or e.get("sin_musica") or e["kind"] != "reel":
+        return e.get("audio")
+    if _TENDENCIA is None:
+        try:
+            ig_id = e["target"]
+            d = req(f"{G}/ig_audio?audio_type=music&user_id={ig_id}&access_token={TOK}")
+            _TENDENCIA = [a for a in d.get("audio", []) if not any(x in (a.get("title") or "").lower() for x in FUERA)
+                          and a.get("duration_in_ms", 0) >= 20000]
+        except RuntimeError as err:
+            print("música: sin tendencia", str(err)[:120])
+            _TENDENCIA = []
+    if not _TENDENCIA:
+        return None
+    import hashlib
+    a = _TENDENCIA[int(hashlib.sha1(e["id"].encode()).hexdigest(), 16) % len(_TENDENCIA)]
+    e["_musica"] = f"{a.get('title')} — {a.get('display_artist')}"
+    return {"audio_id": a["audio_id"], "audio_volume": 15, "video_volume": 100}
+
+
 def ig(e):
     base, kind, media = f"{G}/{e['target']}/media", e["kind"], e["media"]
     if kind == "reel" and not e.get("cover"):  # un reel del feed nunca sale sin portada (3-nov)
@@ -60,8 +89,10 @@ def ig(e):
             p["share_to_feed"] = "false"  # un trial NO va al feed de tus seguidores
         else:
             p["share_to_feed"] = "true"
-        if e.get("audio"):  # música oficial de Instagram bajo la voz
-            p["audio_configuration"] = json.dumps(e["audio"])
+        audio = musica(e) if kind == "reel" else e.get("audio")
+        if audio:  # música oficial de Instagram (tendencia) bajo la voz
+            p["audio_configuration"] = json.dumps(audio)
+            e["audio"] = audio
         try:
             c = req(base, p)
         except RuntimeError:
@@ -227,6 +258,8 @@ def main():
         try:
             ext = (ig if e["net"] == "ig" else fb)(e)
             hecho[e["id"]] = {"ok": 1, "ext": ext, "ts": datetime.now(MX).isoformat(timespec="seconds")}
+            if e.get("_musica"):
+                hecho[e["id"]]["musica"] = e["_musica"]
             guardar(hecho)  # en cuanto sale, queda escrito en main
             print("✓", e["id"], e["net"], e["kind"], ext)
         except Exception as err:  # noqa: BLE001
