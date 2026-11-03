@@ -1361,5 +1361,20 @@
   "audio": null,
   "cover": null,
   "origen": "9d7a8ec10a19b0"
+ },
+ {
+  "id": "cbe4472eec0784_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cbe4472eec0784.mp4"
+  ],
+  "caption": "No somos comerciantes. No somos empresarios que solo buscan el dinero.\n\nEstamos detrás de suplementar atletas, de verdad. Gracias por permitirnos ser parte de tu entrenamiento, de tu suplementación: todo esto viene desde el corazón, y para mí es muy emocionante poder estar aquí como un pedacito de tu camino.\n\nAsí se construye la familia EPIC, un atleta a la vez.\n\n¿Qué atleta quieres que suplementemos después? Comenta 👇\n\n#epiclabs #atletas #emprendimiento #fitness #familiaepic",
+  "when": "2026-11-05T17:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "origen": "a1f59b20b4a632"
  }
 ]
