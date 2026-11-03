@@ -1183,5 +1183,49 @@
   "audio": null,
   "cover": null,
   "origen": "221909971655f7"
+ },
+ {
+  "id": "a3f9083bd4b9",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/a1f59b20b4a632.mp4"
+  ],
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_a1f59b20b4a632.jpg",
+  "audio": null,
+  "caption": "No somos comerciantes. No somos empresarios que solo buscan el dinero.\n\nEstamos detrás de suplementar atletas, de verdad. Gracias por permitirnos ser parte de tu entrenamiento, de tu suplementación: todo esto viene desde el corazón, y para mí es muy emocionante poder estar aquí como un pedacito de tu camino.\n\nAsí se construye la familia EPIC, un atleta a la vez.\n\n¿Qué atleta quieres que suplementemos después? Comenta 👇\n\n#epiclabs #atletas #emprendimiento #fitness #familiaepic",
+  "when": "2026-11-05T17:00:00",
+  "first_comment": "¿Qué le pides tú a una marca que patrocina atletas? 👇"
+ },
+ {
+  "id": "a3f9083bd4b9_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/a1f59b20b4a632_motion.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-05T17:00:00",
+  "first_comment": "",
+  "despues_de": "a3f9083bd4b9",
+  "formato": "motion"
+ },
+ {
+  "id": "364b2a4ae91c",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/a1f59b20b4a632.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "No somos comerciantes ni empresarios que solo buscan el dinero: estamos detrás de suplementar atletas, de verdad. Así fue recibir a uno de nuestros atletas en la familia EPIC. ¿Qué te importa más de una marca que apoya atletas?",
+  "when": "2026-11-07T10:00:00",
+  "first_comment": ""
  }
 ]
