@@ -1272,5 +1272,20 @@
   "audio": null,
   "cover": null,
   "origen": "e185c0ee4911fc"
+ },
+ {
+  "id": "6f4b1213d20793_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/6f4b1213d20793.mp4"
+  ],
+  "caption": "\"¿A poco también lo tienes por peso?\" Sí, bro.\n\nComúnmente la dosis estándar era de 5 gramos para todos. Todo mundo te da una dosis estándar; nosotros te ponemos en el bote una dosis personalizada y te enseñamos a calcularla con tu peso, para que tomes lo correcto.\n\nComenta DOSIS y te digo cómo calcular la tuya.\n\n#creatina #epiclabs #creanova #suplementos #nutriologo",
+  "when": "2026-11-04T12:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "origen": "fb33d4cb2ac9ff"
  }
 ]
