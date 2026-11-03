@@ -1922,5 +1922,20 @@
   "caption": "La batalla no es con el colesterol, familia. Puede estar elevado; lo importante es qué tipo de colesterol es. El HDL, el colesterol bueno, es cardioprotector y ayuda a eliminar el malo. El LDL es el que se pega en las arterias y forma placa. ¿Alguna vez te explicaron así tus análisis o solo te dijeron \"tienes el colesterol alto\"?",
   "when": "2026-11-08T12:00:00",
   "first_comment": ""
+ },
+ {
+  "id": "0bc4a6b5000473_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/0bc4a6b5000473.mp4"
+  ],
+  "caption": "La batalla no es con el colesterol\n\nLa batalla no es con el colesterol: lo importante es qué tipo de colesterol es. El HDL es cardioprotector; el LDL es el que se pega en las arterias.\n\nGuárdalo para tu próximo entrenamiento.\n.\n#fitness #nutricion",
+  "when": "2026-11-07T12:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "origen": "25e64c1247ffa5"
  }
 ]
