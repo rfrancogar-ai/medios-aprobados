@@ -1539,5 +1539,49 @@
   "audio": null,
   "cover": null,
   "origen": "f4d32a3e52027a"
+ },
+ {
+  "id": "5eb63db62166",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/6d4581bdb135f6.mp4"
+  ],
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_6d4581bdb135f6.jpg",
+  "audio": null,
+  "caption": "No analices a tu competencia para copiarla.\n\nObserva, analiza tu competencia y disfruta ese momento en el que respiras y sabes dentro de ti que nadie está haciendo ni la mitad del esfuerzo.\n\nTienes que asegurarte de eso: que nadie esté trabajando más duro que tú.\n\nNo los vas a analizar para copiarlos. Los vas a analizar para que te des cuenta de que el perro insano vive dentro de ti.\n\n💾 Guárdalo para el día que no tengas ganas de entrenar y mándaselo a quien necesita escucharlo.\n\n#mentalidad #disciplina #gym #motivacion #EPIClabs",
+  "when": "2026-11-07T12:00:00",
+  "first_comment": "Sé honesto: ¿hoy alguien trabajó más duro que tú? 👇"
+ },
+ {
+  "id": "5eb63db62166_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/6d4581bdb135f6_story.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-07T12:00:00",
+  "first_comment": "",
+  "despues_de": "5eb63db62166",
+  "formato": "avance"
+ },
+ {
+  "id": "8080806fdff8",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/6d4581bdb135f6.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "Familia, esto es para el que compite: observa, analiza a tu competencia… pero no para copiarla. Asegúrate de que nadie esté trabajando más duro que tú. Los vas a analizar para que te des cuenta de que el perro insano vive dentro de ti. ¿Tú contra quién te mides?",
+  "when": "2026-11-08T17:00:00",
+  "first_comment": ""
  }
 ]
