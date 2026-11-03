@@ -1937,5 +1937,149 @@
   "audio": null,
   "cover": null,
   "origen": "25e64c1247ffa5"
+ },
+ {
+  "id": "fd2a0f94bc81",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/0f703d3467f55b.mp4"
+  ],
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_0f703d3467f55b.jpg",
+  "audio": {
+   "audio_id": "3550072311825202",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "La intención no es que levantes las piernas.\n\nEn estos levantamientos de pierna puedes ir con rodilla doblada: en la medida en la que puedas estirar tus piernas, está bien. Pero la clave es llevar tu cadera hacia adelante, sacando completamente el aire.\n\nY el regreso es parte fundamental de este ejercicio: tienes que controlarlo.\n\nPrefiero que hagas 6 u 8 reps a que hagas todas mal hechas.\n\n👉 Guárdalo para tu próximo día de abdomen.\n\n#abdomen #core #gym #entrenamiento",
+  "when": "2026-11-09T12:00:00",
+  "first_comment": "¿Cuántas reps bien hechas te salen así? Honestidad 👇"
+ },
+ {
+  "id": "fd2a0f94bc81_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/0f703d3467f55b_motion.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-09T12:00:00",
+  "first_comment": "",
+  "despues_de": "fd2a0f94bc81",
+  "formato": "motion"
+ },
+ {
+  "id": "ae0ba996822b",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/95eeba82bea20d.mp4"
+  ],
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_95eeba82bea20d.jpg",
+  "audio": {
+   "audio_id": "2618313515277554",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "Si entrenas pierna muy, muy intenso, ya sufriste algo como yo.\n\nNo me gusta llamarlo \"infarto de pierna\": la sangre se acumula tanto y expande tanto el músculo que es muy doloroso durante unos 5 minutos aproximadamente.\n\nLo que hago: poner las piernas arriba para ayudar a que la sangre regrese. Lo hice dos minutos y no me dio el dolor.\n\n👉 Mándaselo a tu compa que se tira al piso después de la prensa. ¿A ti te ha pasado? Comenta 🦵\n\n#legday #pierna #gym #entrenamiento",
+  "when": "2026-11-09T17:00:00",
+  "first_comment": "¿Cuál es el ejercicio que te deja tirado en el piso? 👇"
+ },
+ {
+  "id": "ae0ba996822b_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/95eeba82bea20d_motion.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-09T17:00:00",
+  "first_comment": "",
+  "despues_de": "ae0ba996822b",
+  "formato": "motion"
+ },
+ {
+  "id": "9c576e4cd3e9",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/3887372ffabe53.mp4"
+  ],
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_3887372ffabe53.jpg",
+  "audio": {
+   "audio_id": "959794905484673",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "Y el regreso es muy, muy importante. ¿Por qué?\n\nPorque ahí tienes tendones y ligamentos muy fuertes: tienes que permitir que se estire por completo la pantorrilla y quedarte un segundo abajo para transferirle realmente la fuerza al músculo.\n\n✅ La bola de tu pie (abajo del dedo gordo) es tu mayor soporte\n✅ Contrae lo más arriba que puedas\n✅ La bajada siempre es lenta: 2, 3 segunditos estirando\n✅ Reps: 6 a 8 pesadas y 12 a 20 un poquito más ligeras\n\nDale variedad.\n\n👉 Guárdalo para tu próximo día de pierna y mándaselo a tu compa de gym.\n\n#pantorrillas #gym #entrenamiento #hipertrofia #pierna",
+  "when": "2026-11-10T10:00:00",
+  "first_comment": "¿Tú bajas lento o rebotas en las pantorrillas? Sé honesto 👇"
+ },
+ {
+  "id": "9c576e4cd3e9_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/3887372ffabe53_story.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-10T10:00:00",
+  "first_comment": "",
+  "despues_de": "9c576e4cd3e9",
+  "formato": "avance"
+ },
+ {
+  "id": "327bb074d944",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/0f703d3467f55b.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "La intención no es que levantes las piernas, es que lleves tu cadera hacia adelante sacando todo el aire. Y controla el regreso: prefiero que hagas 6 u 8 reps a que hagas todas mal hechas. ¿Tú cómo las haces?",
+  "when": "2026-11-11T10:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "57b0362ca400",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/95eeba82bea20d.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "Si entrenas pierna intenso de verdad, seguro ya lo sentiste: un dolor casi insoportable de 3 a 5 minutos. No me gusta llamarlo infarto de pierna. Yo pongo las piernas arriba para ayudar a que la sangre regrese; lo hice dos minutos y no me dio el dolor. ¿A ti te ha pasado?",
+  "when": "2026-11-11T12:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "d21b3fd80c1f",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/3887372ffabe53.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "Si tus pantorrillas no crecen, fíjate en el regreso: la bajada siempre es lenta y te quedas estirando 2, 3 segunditos antes de regresar a una contracción fuerte hasta arriba. Repeticiones: 6 a 8 pesadas y 12 a 20 un poquito más ligeras. ¿Tú cómo las entrenas?",
+  "when": "2026-11-11T17:00:00",
+  "first_comment": ""
  }
 ]
