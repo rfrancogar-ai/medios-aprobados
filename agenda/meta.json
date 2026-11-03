@@ -261,7 +261,7 @@
   "when": "2026-11-03T16:00:00",
   "first_comment": "",
   "despues_de": "c4cda0cab187",
-  "formato": "compartido"
+  "formato": "post_compartido"
  },
  {
   "id": "117fbf65ff8e9a_trial",
@@ -413,7 +413,7 @@
   "when": "2026-11-03T09:00:00",
   "first_comment": "",
   "despues_de": "a7015542fa2c",
-  "formato": "compartido"
+  "formato": "post_compartido"
  },
  {
   "id": "ab3de2aacb5b",
@@ -461,7 +461,7 @@
   "when": "2026-11-04T09:00:00",
   "first_comment": "",
   "despues_de": "c3b0914e9ede",
-  "formato": "compartido"
+  "formato": "post_compartido"
  },
  {
   "id": "49636d8815f0",
@@ -519,7 +519,7 @@
   "when": "2026-11-04T16:00:00",
   "first_comment": "",
   "despues_de": "f367d64abb93",
-  "formato": "compartido"
+  "formato": "post_compartido"
  },
  {
   "id": "img1d52fb4ff75t_trial",
