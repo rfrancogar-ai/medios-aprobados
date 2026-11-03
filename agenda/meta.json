@@ -1848,5 +1848,20 @@
   "caption": "Un muy buen consejo que les puedo dar: todos los días coman huevo. De 3 a 4. Si eres mujer, 3; si eres hombre o quieres construir masa muscular, 4. Y no, no te suben el colesterol: es un súper alimento. ¿Ustedes cuántos se comen al día?",
   "when": "2026-11-10T17:00:00",
   "first_comment": ""
+ },
+ {
+  "id": "9e6864bc800ea0_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/9e6864bc800ea0.mp4"
+  ],
+  "caption": "Parece de espalda, pero es de glúteo\n\nEl ejercicio que parece de pierna o de espalda pero en realidad es de glúteo: espalda curva, empujas la cadera hacia adelante apretando los glúteos.\n\nSígueme para más ciencia aplicada.\n.\n#gym #entrenamiento #fitness",
+  "when": "2026-11-08T17:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "origen": "657902fe487080"
  }
 ]
