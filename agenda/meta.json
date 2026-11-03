@@ -1021,5 +1021,49 @@
   "caption": "En la extensión de cuádriceps, el control es lo más importante: no hagas seis ni ocho, haz quince, haz veinte repeticiones. Es un ejercicio que te permite aislar muy bien el cuádriceps, así que no hace falta exponerte a lesión con cargas muy altas. ¿Tú cómo la haces?",
   "when": "2026-11-03T17:00:00",
   "first_comment": ""
+ },
+ {
+  "id": "28bfebc6d5e8",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/09044c246eeb12.mp4"
+  ],
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_09044c246eeb12.jpg",
+  "audio": null,
+  "caption": "Aquí el peso no es mucho. Lo que quiero que observes es la velocidad de las repeticiones.\n\n🔁 Todas las repeticiones deben ser iguales: la misma bajada, la misma explosividad en la subida.\n⏸️ No te quedes en la contracción concéntrica arriba, sino en la excéntrica, donde estiras: quédate un segundito y regresa.\n⚡ Nunca pierdas velocidad, hasta que se pierda por sí sola. Ahí donde ya no sube, ahí es lo chido.\n\nCada serie de trabajo con proximidad al fallo — no quiere decir que siempre, para todo, tengas que fallar.\n\nGuárdalo y compártelo con tu compa de gym 💾\n\n#gym #hipertrofia #tecnica #diadepierna #entrenamiento",
+  "when": "2026-11-03T12:00:00",
+  "first_comment": "¿Tus últimas repeticiones se ven igual que las primeras? Sé honesto 👇"
+ },
+ {
+  "id": "28bfebc6d5e8_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/09044c246eeb12_story.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-03T12:00:00",
+  "first_comment": "",
+  "despues_de": "28bfebc6d5e8",
+  "formato": "avance"
+ },
+ {
+  "id": "54e774142d8d",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/09044c246eeb12.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "No es el peso, es la velocidad: todas tus repeticiones deben ser iguales, la misma bajada y la misma explosividad en la subida. Nunca pierdas velocidad hasta que se pierda sola; ahí donde ya no sube, ahí es lo chido. ¿Tus reps se ven todas igual?",
+  "when": "2026-11-04T10:00:00",
+  "first_comment": ""
  }
 ]
