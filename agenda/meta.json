@@ -1257,5 +1257,20 @@
   "audio": null,
   "cover": null,
   "origen": "561d41cbc8e726"
+ },
+ {
+  "id": "a64fb0e244203b_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/a64fb0e244203b.mp4"
+  ],
+  "caption": "No hagas ayunos prolongados. Mucho menos si tu objetivo es construir o conservar masa muscular.\n\nRecuerda: el ayuno completamente natural para el ser humano es cuando vamos a dormir. Al levantarte, lo mejor es romperlo con un desayuno rico en proteínas, distribuirlas bien a lo largo del día y no dejar tanto espacio entre comidas.\n\nAsí el consumo total de proteína del día es suficiente para construir masa muscular y también para conservarla.\n\nGuárdalo y comenta AYUNO si tienes dudas de cómo repartir tu proteína.\n\n#nutricion #proteina #masamuscular #ayuno #nutriologo",
+  "when": "2026-11-05T10:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "origen": "e185c0ee4911fc"
  }
 ]
