@@ -977,5 +977,49 @@
   "caption": "¿Te han dicho que las rodillas no deben pasar la punta del pie? Es completamente un mito: no hay ejercicio lesivo, sino una mala ejecución. Y si tienes las rodillas operadas, controla las cargas y súbele al volumen de repeticiones. ¿A ti qué mito del gym te dijeron?",
   "when": "2026-11-03T12:00:00",
   "first_comment": ""
+ },
+ {
+  "id": "a5f5ecde659b",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/433f96450c55b1.mp4"
+  ],
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_433f96450c55b1.jpg",
+  "audio": null,
+  "caption": "No hagas seis, haz veinte repeticiones\n\nEl control es lo más importante en este ejercicio, el control y el volumen de repeticiones. No hagas seis, no hagas ocho, haz quince, haz veinte repeticiones.\n\nGuárdalo para tu próximo entrenamiento.\n.\n#hipertrofia #gym #musculo",
+  "when": "2026-11-03T10:00:00",
+  "first_comment": "¿En la extensión de cuádriceps tú vas pesado y pocas reps, o ligero y muchas? 👇"
+ },
+ {
+  "id": "a5f5ecde659b_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/433f96450c55b1_motion.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-03T10:00:00",
+  "first_comment": "",
+  "despues_de": "a5f5ecde659b",
+  "formato": "motion"
+ },
+ {
+  "id": "ba7ebea444ab",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/433f96450c55b1.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "En la extensión de cuádriceps, el control es lo más importante: no hagas seis ni ocho, haz quince, haz veinte repeticiones. Es un ejercicio que te permite aislar muy bien el cuádriceps, así que no hace falta exponerte a lesión con cargas muy altas. ¿Tú cómo la haces?",
+  "when": "2026-11-03T17:00:00",
+  "first_comment": ""
  }
 ]
