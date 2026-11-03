@@ -1598,5 +1598,49 @@
   "audio": null,
   "cover": null,
   "origen": "6d4581bdb135f6"
+ },
+ {
+  "id": "2beca2d368b2",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/38cf8a4b027b16.mp4"
+  ],
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_38cf8a4b027b16.jpg",
+  "audio": null,
+  "caption": "Tu sentadilla: rodillas con tus pies\n\nLa mejor manera de hacer tu sentadilla es como te sientas más cómodo. Eso sí: tus rodillas tienen que ir con tus pies, controlas hacia abajo y explotas de regreso.\n\nGuárdalo para tu próximo entrenamiento.\n.\n#gym #entrenamiento #fitness",
+  "when": "2026-11-04T10:00:00",
+  "first_comment": "¿Tú cargas la barra arriba en los trapecios o más abajito? ¿Y se te inclina la espalda? Cuéntame y te digo qué ajustar."
+ },
+ {
+  "id": "2beca2d368b2_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/38cf8a4b027b16_story.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-04T10:00:00",
+  "first_comment": "",
+  "despues_de": "2beca2d368b2",
+  "formato": "avance"
+ },
+ {
+  "id": "72e04bd1829b",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/38cf8a4b027b16.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "Familia, la mejor sentadilla es la que te deja sentirte cómodo, con una condición: tus rodillas tienen que ir con tus pies. Controla hacia abajo, aprieta el abdomen, quédate un segundito y explota de regreso. Y si se te inclina un poco la espalda con la barra abajito, tranquilo, en la mayoría de nosotros pasa por naturaleza. ¿Tú cómo la haces, barra arriba o abajo?",
+  "when": "2026-11-09T10:00:00",
+  "first_comment": ""
  }
 ]
