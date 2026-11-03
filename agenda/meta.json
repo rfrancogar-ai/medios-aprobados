@@ -1080,5 +1080,93 @@
   "audio": null,
   "cover": null,
   "origen": "09044c246eeb12"
+ },
+ {
+  "id": "d9d5a37b1022",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/9d7a8ec10a19b0.mp4"
+  ],
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_9d7a8ec10a19b0.jpg",
+  "audio": null,
+  "caption": "Elevación de talones en la sentadilla: por qué la uso.\n\n✅ Mayor profundidad\n✅ Mayor énfasis en los cuádriceps\n✅ Espalda recta\n\nEso no significa que no tome aire y utilice mi abdomen en cada repetición. Y la barra me gusta aquí, baja: si la pones más arriba tiende a mandar la espalda un poquito hacia adelante.\n\nGuárdalo para tu día de pierna 💾 ¿Tú usas elevación de talones?\n\n#sentadilla #gym #diadepierna #cuadriceps #entrenamiento",
+  "when": "2026-11-03T17:00:00",
+  "first_comment": "¿Sentadilla con talones elevados o planos? ¿Cuál te funciona más? 👇"
+ },
+ {
+  "id": "d9d5a37b1022_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/9d7a8ec10a19b0_story.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-03T17:00:00",
+  "first_comment": "",
+  "despues_de": "d9d5a37b1022",
+  "formato": "avance"
+ },
+ {
+  "id": "28c8a3e653fd",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/2f0f2b4413c7ee.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "Si la repetición hacia arriba dura más de dos segundos con un peso muy desafiante, hay que sacar al personaje. Siempre, siempre, siempre.\n\n¿Por qué? En el excéntrico somos más fuertes y para bajar algo podemos frenar más fácil. Pero cuando estamos tratando de subirlo y ya no hay movimiento, ya te pausaste.\n\nEs muy difícil calcularlo, porque a veces la barra se va moviendo lento. Por eso tomo los segundos en consideración.\n\nMándaselo a tu compa de entrenamiento 🤝\n\n#gym #fuerza #pressbanca #entrenamiento #spotter",
+  "when": "2026-11-04T10:00:00",
+  "first_comment": "¿Cuántos segundos dejas pelear a tu compa antes de ayudarle? 👇"
+ },
+ {
+  "id": "28c8a3e653fd_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/2f0f2b4413c7ee_story.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-04T10:00:00",
+  "first_comment": "",
+  "despues_de": "28c8a3e653fd",
+  "formato": "avance"
+ },
+ {
+  "id": "cac89b064db8",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/9d7a8ec10a19b0.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "¿Por qué pongo un disco debajo de los talones en la sentadilla? Me da mayor profundidad, más énfasis en los cuádriceps y la espalda recta. Y ojo con dónde pones la barra. ¿Tú cómo haces tu sentadilla?",
+  "when": "2026-11-04T12:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "24c7b7ddb300",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/2f0f2b4413c7ee.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "Regla que uso en el gym: si con un peso muy desafiante la repetición tarda más de dos segundos en subir, hay que sacarla. En el excéntrico somos más fuertes, pero cuando subes y ya no hay movimiento, ya te pausaste. ¿Tú peleas tus reps o te ayudan?",
+  "when": "2026-11-06T17:00:00",
+  "first_comment": ""
  }
 ]
