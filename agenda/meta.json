@@ -1509,5 +1509,20 @@
   "audio": null,
   "cover": null,
   "origen": "7e53798937f69d"
+ },
+ {
+  "id": "bd66f3bbf7e4a1_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/bd66f3bbf7e4a1.mp4"
+  ],
+  "caption": "No somos empresarios que solo buscan el dinero.\n\nLe llevamos su suplementación a nuestro peleador de MMA favorito y se lo dije tal cual: gracias por permitirnos ser parte de tu entrenamiento, de tu suplementación. Todo esto viene desde el corazón.\n\nEstamos detrás de suplementar atletas, de verdad. Y para mí es muy emocionante poder estar ahí, como un pedacito de su camino.\n\nÉl lo dijo mejor: muchas veces las marcas piden cosas. Nosotros queremos construir algo épico juntos.\n\n💬 Comenta EPIC si quieres ver cómo entrena con su suplementación.\n\n#EPIClabs #suplementacion #MMA #altorendimiento #emprendimiento",
+  "when": "2026-11-07T10:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "origen": "ca4a1800960299"
  }
 ]
