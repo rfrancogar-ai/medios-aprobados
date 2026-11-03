@@ -1331,5 +1331,93 @@
   "caption": "Hazlo con miedo, pero hazlo.\n\n— Proverbio\n\n¿Lo aplicas o te cuesta? Te leo 👇",
   "when": "2026-11-05T09:00:00",
   "first_comment": ""
+ },
+ {
+  "id": "86e57da56943",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/53afe985571c74.mp4"
+  ],
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_53afe985571c74.jpg",
+  "audio": null,
+  "caption": "No necesitas estar bien para seguir avanzando.\n\nMírate cómo trabajas a través del dolor. Después de esto, nada te va a vencer. Esta es la prueba.\n\nMándaselo a alguien que hoy lo necesita y comenta AVANZO 👇\n\n#mentalidad #disciplina #gym #motivacion",
+  "when": "2026-11-06T10:00:00",
+  "first_comment": "¿Qué es lo que hoy te está costando pero no vas a soltar? 👇"
+ },
+ {
+  "id": "86e57da56943_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/53afe985571c74_motion.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-06T10:00:00",
+  "first_comment": "",
+  "despues_de": "86e57da56943",
+  "formato": "motion"
+ },
+ {
+  "id": "cce5599c8396",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/f4d32a3e52027a.mp4"
+  ],
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_f4d32a3e52027a.jpg",
+  "audio": null,
+  "caption": "Si te despegas del asiento, ya no estás haciendo tríceps.\n\nEstiro, aprieto los tríceps. Regreso: pura flexión de codo, los hombros abajo. La fuerza al subir, y más arriba. Así, todas las reps así.\n\nY la que más se olvida cuando llega el cansancio: no te despegues del asiento.\n\nGuárdalo para tu próximo día de brazo y comenta CODO si te pasa 👇\n\n#triceps #gym #tecnica #entrenamiento #brazo",
+  "when": "2026-11-06T12:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "cce5599c8396_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/f4d32a3e52027a_story.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-06T12:00:00",
+  "first_comment": "",
+  "despues_de": "cce5599c8396",
+  "formato": "avance"
+ },
+ {
+  "id": "02b87b3d2ab5",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/53afe985571c74.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "No necesitas estar bien para avanzar\n\nMírate cómo trabajas a través del dolor. Después de esto nada te va a vencer. No necesitas estar bien, puedes seguir avanzando.\n\nSígueme para más ciencia aplicada.",
+  "when": "2026-11-07T12:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "35663165e705",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/f4d32a3e52027a.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "Tríceps en máquina, indicaciones en vivo: pura flexión de codo, los hombros abajo, la fuerza al subir y no te despegues del asiento. Así, todas las reps así. ¿Cuál se te olvida cuando ya vienes cansado?",
+  "when": "2026-11-07T17:00:00",
+  "first_comment": ""
  }
 ]
