@@ -47,6 +47,8 @@ def page_token(page):
 
 def ig(e):
     base, kind, media = f"{G}/{e['target']}/media", e["kind"], e["media"]
+    if kind == "reel" and not e.get("cover"):  # un reel del feed nunca sale sin portada (3-nov)
+        raise RuntimeError("sin portada: la Mac la vuelve a generar")
     if kind in ("reel", "trial"):
         p = {"media_type": "REELS", "video_url": media[0], "caption": e.get("caption", ""), "access_token": TOK}
         if e.get("cover"):
