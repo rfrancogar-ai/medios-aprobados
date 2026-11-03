@@ -1391,5 +1391,93 @@
   "audio": null,
   "cover": null,
   "origen": "img297493ada1c"
+ },
+ {
+  "id": "0e8a860a1f50",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/7e53798937f69d.mp4"
+  ],
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_7e53798937f69d.jpg",
+  "audio": null,
+  "caption": "Saber lo que quieres y no hacer nada es solamente tu decisión.\n\nOye, bro: está bien no saber qué quieres. Pero saber lo que quieres y no estar haciendo nada, reduciendo cada vez más la probabilidad de que suceda… eso ya no es mala suerte.\n\nAsí que… te toca.\n\n📌 Guárdalo para cuando lo necesites y mándaselo a quien tiene que oírlo.\n\n#mentalidad #disciplina #gym #motivacion #habitos",
+  "when": "2026-11-06T17:00:00",
+  "first_comment": "Dime una cosa que sabes que quieres y que llevas tiempo sin empezar. Escríbela aquí y hazte responsable 👇"
+ },
+ {
+  "id": "0e8a860a1f50_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/7e53798937f69d_story.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-06T17:00:00",
+  "first_comment": "",
+  "despues_de": "0e8a860a1f50",
+  "formato": "avance"
+ },
+ {
+  "id": "a15c9dc222c9",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/ca4a1800960299.mp4"
+  ],
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_ca4a1800960299.jpg",
+  "audio": null,
+  "caption": "No somos empresarios que solo buscan el dinero.\n\nLe llevamos su suplementación a nuestro peleador de MMA favorito y se lo dije tal cual: gracias por permitirnos ser parte de tu entrenamiento, de tu suplementación. Todo esto viene desde el corazón.\n\nEstamos detrás de suplementar atletas, de verdad. Y para mí es muy emocionante poder estar ahí, como un pedacito de su camino.\n\nÉl lo dijo mejor: muchas veces las marcas piden cosas. Nosotros queremos construir algo épico juntos.\n\n💬 Comenta EPIC si quieres ver cómo entrena con su suplementación.\n\n#EPIClabs #suplementacion #MMA #altorendimiento #emprendimiento",
+  "when": "2026-11-07T10:00:00",
+  "first_comment": "¿Qué es lo que más te importa de una marca de suplementos: el producto, la gente detrás o los atletas que la usan?"
+ },
+ {
+  "id": "a15c9dc222c9_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/ca4a1800960299_story.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-07T10:00:00",
+  "first_comment": "",
+  "despues_de": "a15c9dc222c9",
+  "formato": "avance"
+ },
+ {
+  "id": "46255b08360f",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/7e53798937f69d.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "Familia, está bien no saber qué quieres. Pero saber lo que quieres y no estar haciendo nada es solamente tu decisión. Así que… te toca. ¿Qué es eso que sabes que quieres y todavía no empiezas?",
+  "when": "2026-11-08T10:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "af004e685bdd",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/ca4a1800960299.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "Familia, así se vive EPIC por dentro: le llevamos su suplementación a nuestro peleador de MMA y le dije lo que de verdad pienso. No somos comerciantes, no somos empresarios que solo buscan el dinero. Estamos detrás de suplementar atletas, de verdad, y para mí es muy emocionante ser un pedacito de su camino. ¿Qué esperas tú de una marca de suplementos?",
+  "when": "2026-11-08T12:00:00",
+  "first_comment": ""
  }
 ]
