@@ -1863,5 +1863,49 @@
   "audio": null,
   "cover": null,
   "origen": "806975e14dc0c5"
+ },
+ {
+  "id": "4baf272e5e2b",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/9ace8574635313.mp4"
+  ],
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_9ace8574635313.jpg",
+  "audio": null,
+  "caption": "Un muy buen consejo que te puedo dar: todos los días come huevo.\n\nDe 3 a 4 huevos:\n🥚 Si eres mujer, 3.\n🥚 Si eres hombre, 4.\n🥚 Si quieres construir masa muscular, 4.\n🥚 Si eres una persona común y corriente, 3.\n\nPuede variar, 3, 4 o hasta 5. Un solo huevo es muy poquito para la cantidad de proteína necesaria en una comida; apenas es suficiente cuando aplicamos los 3.\n\nY no, no te suben el colesterol. Es un súper alimento. La recomendación: inclúyelo todos los días en tu alimentación.\n\nComenta HUEVO y dime cuántos te comes al día. Guárdalo para tu próxima lista del súper.\n\n#huevo #proteina #nutricion #colesterol #robertofranco",
+  "when": "2026-11-09T10:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "4baf272e5e2b_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/9ace8574635313_story.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-09T10:00:00",
+  "first_comment": "",
+  "despues_de": "4baf272e5e2b",
+  "formato": "avance"
+ },
+ {
+  "id": "65deaf2dd835",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/9ace8574635313.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "Un muy buen consejo que les puedo dar: todos los días coman huevo. De 3 a 4. Si eres mujer, 3; si eres hombre o quieres construir masa muscular, 4. Y no, no te suben el colesterol: es un súper alimento. ¿Ustedes cuántos se comen al día?",
+  "when": "2026-11-10T17:00:00",
+  "first_comment": ""
  }
 ]
