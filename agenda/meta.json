@@ -2287,5 +2287,53 @@
   "caption": "La energía y la persistencia conquistan todas las cosas.\n\n— Benjamin Franklin\n\n¿Te pasa? Cuéntame 👇",
   "when": "2026-11-07T09:00:00",
   "first_comment": ""
+ },
+ {
+  "id": "4c453fd3419b",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/92e49b85025e7d.mp4"
+  ],
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_92e49b85025e7d.jpg",
+  "audio": {
+   "audio_id": "9357431664311634",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "Esta modificación en la Hack Squat\n\nTe voy a enseñar una modificación en la Hack Squat: puntas para empujar, talones arriba, rodillas hacia adelante. Esto va a hacer que tus squats exploten.\n\nSígueme para más ciencia aplicada.\n.\n#gym #entrenamiento #fitness",
+  "when": "2026-11-10T10:00:00",
+  "first_comment": "¿La has probado con talones arriba? ¿Qué sentiste en el cuádriceps? 👇"
+ },
+ {
+  "id": "4c453fd3419b_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/92e49b85025e7d_story.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-10T10:00:00",
+  "first_comment": "",
+  "despues_de": "4c453fd3419b",
+  "formato": "avance"
+ },
+ {
+  "id": "e2e55565cf2e",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/92e49b85025e7d.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "Te voy a enseñar una modificación en la Hack Squat: poco peso, puntas para empujar, talones hacia arriba y rodillas hacia adelante. Bajas lento y subes explosivo. Esto va a hacer que tus squats exploten por completo. ¿La has hecho así?",
+  "when": "2026-11-12T10:00:00",
+  "first_comment": ""
  }
 ]
