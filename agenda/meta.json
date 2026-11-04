@@ -2479,5 +2479,20 @@
   "caption": "Cualquiera puede imprimir una etiqueta bonita y vender un suplemento. Pero ¿quién garantiza que los ingredientes son lo que dicen ser, que no están contaminados o que tienen las dosis que prometen? La mayoría nunca se hace esas preguntas. ¿Tú sí revisas lo que tomas?",
   "when": "2026-11-13T10:00:00",
   "first_comment": ""
+ },
+ {
+  "id": "cb8433471aba4f_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cb8433471aba4f.mp4"
+  ],
+  "caption": "Cualquiera puede imprimir una etiqueta bonita y vender un suplemento.\n\nLo que no te dicen: muchos jamás han pasado por un control de calidad real. ¿Quién garantiza que los ingredientes son lo que dicen ser? ¿Que no están contaminados con sustancias prohibidas? ¿Que tienen las dosis que prometen?\n\nEn muchos países la industria de los suplementos no está bien regulada. El resultado: etiquetas que dicen una cosa y productos que entregan otra.\n\nPor eso en EPIC trabajamos con laboratorios con certificaciones internacionales, cada lote se analiza y exigimos pruebas de estabilidad.\n\nGuárdalo y mándaselo al compa que compra lo más barato.\n\n#suplementos #etiquetas #nutriologo #EPICLabs #calidad",
+  "when": "2026-11-11T10:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "origen": "048cc5db000b6b"
  }
 ]
