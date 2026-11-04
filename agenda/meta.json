@@ -2335,5 +2335,53 @@
   "caption": "Te voy a enseñar una modificación en la Hack Squat: poco peso, puntas para empujar, talones hacia arriba y rodillas hacia adelante. Bajas lento y subes explosivo. Esto va a hacer que tus squats exploten por completo. ¿La has hecho así?",
   "when": "2026-11-12T10:00:00",
   "first_comment": ""
+ },
+ {
+  "id": "2ef221591888",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/e58b210fc81d85.mp4"
+  ],
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_e58b210fc81d85.jpg",
+  "audio": {
+   "audio_id": "1068592065620532",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "No es lo que tomas, es cómo\n\nTomar vitaminas liposolubles sin grasa es un error. Para que un suplemento realmente funcione necesitas tres cosas: el mejor momento, con qué combinarlo y productos premium.\n\nSígueme para más ciencia aplicada.\n.\n#fitness #nutricion",
+  "when": "2026-11-10T12:00:00",
+  "first_comment": "¿Con qué te tomas tus vitaminas: con comida o en ayunas? 👇"
+ },
+ {
+  "id": "2ef221591888_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/e58b210fc81d85_motion.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-10T12:00:00",
+  "first_comment": "",
+  "despues_de": "2ef221591888",
+  "formato": "motion"
+ },
+ {
+  "id": "4c39a972373e",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/e58b210fc81d85.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "Tomar vitaminas liposolubles sin grasa es un error. Para que un suplemento funcione necesitas tres cosas: el mejor momento del día, saber con qué combinarlo y elegir productos premium. No se trata solo de lo que tomas, sino de cómo lo tomas. ¿Tú cómo te tomas tus suplementos?",
+  "when": "2026-11-12T12:00:00",
+  "first_comment": ""
  }
 ]
