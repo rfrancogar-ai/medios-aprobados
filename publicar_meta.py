@@ -57,6 +57,10 @@ def musica(e):
     global _TENDENCIA
     if e.get("audio") or e.get("sin_musica") or e["kind"] != "reel":
         return e.get("audio")
+    import hashlib
+    if int(hashlib.sha256(e["id"].encode()).hexdigest(), 16) % 2:  # prueba A/B real: mitad sin música, para medir
+        e["_musica"] = "sin música (prueba)"
+        return None
     if _TENDENCIA is None:
         try:
             ig_id = e["target"]
@@ -68,7 +72,6 @@ def musica(e):
             _TENDENCIA = []
     if not _TENDENCIA:
         return None
-    import hashlib
     a = _TENDENCIA[int(hashlib.sha1(e["id"].encode()).hexdigest(), 16) % len(_TENDENCIA)]
     e["_musica"] = f"{a.get('title')} — {a.get('display_artist')}"
     return {"audio_id": a["audio_id"], "audio_volume": 15, "video_volume": 100}
