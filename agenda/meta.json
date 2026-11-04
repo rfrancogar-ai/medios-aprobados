@@ -2383,5 +2383,101 @@
   "caption": "Tomar vitaminas liposolubles sin grasa es un error. Para que un suplemento funcione necesitas tres cosas: el mejor momento del día, saber con qué combinarlo y elegir productos premium. No se trata solo de lo que tomas, sino de cómo lo tomas. ¿Tú cómo te tomas tus suplementos?",
   "when": "2026-11-12T12:00:00",
   "first_comment": ""
+ },
+ {
+  "id": "8c043bb01d03",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/921511194e4c23.mp4"
+  ],
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_921511194e4c23.jpg",
+  "audio": {
+   "audio_id": "9357431664311634",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "Seamos sinceros: la nutrición no es el tratamiento principal de un médico.\n\nPara mí el tratamiento nutricional es de los más nobles, de los más complejos y de los más conscientes: generar un cambio que verdaderamente perdure en el estilo de vida del paciente, no solo corregir el error del momento.\n\nLas guías médicas se han ido actualizando y muchas ya traen recomendaciones nutricionales. Pero el tratamiento principal sigue siendo el medicamento. Es raro el médico especializado en nutrición que le da prioridad a la alimentación para corregir situaciones metabólicas antes de mandar medicamento.\n\n¿Te ha pasado? Cuéntame en comentarios y mándaselo a quien esté empezando un tratamiento.\n\n#nutriologo #nutricion #saludmetabolica #habitossaludables #estilodevida",
+  "when": "2026-11-10T17:00:00",
+  "first_comment": "¿Alguna vez un médico te cambió la alimentación ANTES de darte medicamento? Sí o no 👇"
+ },
+ {
+  "id": "8c043bb01d03_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/921511194e4c23_story.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-10T17:00:00",
+  "first_comment": "",
+  "despues_de": "8c043bb01d03",
+  "formato": "avance"
+ },
+ {
+  "id": "2fff360d5558",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/048cc5db000b6b.mp4"
+  ],
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_048cc5db000b6b.jpg",
+  "audio": {
+   "audio_id": "1563497822162594",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "Cualquiera puede imprimir una etiqueta bonita y vender un suplemento.\n\nLo que no te dicen: muchos jamás han pasado por un control de calidad real. ¿Quién garantiza que los ingredientes son lo que dicen ser? ¿Que no están contaminados con sustancias prohibidas? ¿Que tienen las dosis que prometen?\n\nEn muchos países la industria de los suplementos no está bien regulada. El resultado: etiquetas que dicen una cosa y productos que entregan otra.\n\nPor eso en EPIC trabajamos con laboratorios con certificaciones internacionales, cada lote se analiza y exigimos pruebas de estabilidad.\n\nGuárdalo y mándaselo al compa que compra lo más barato.\n\n#suplementos #etiquetas #nutriologo #EPICLabs #calidad",
+  "when": "2026-11-11T10:00:00",
+  "first_comment": "¿Alguna vez has revisado si tu suplemento tiene análisis de lote o certificación? Sí / No 👇"
+ },
+ {
+  "id": "2fff360d5558_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/048cc5db000b6b_story.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-11T10:00:00",
+  "first_comment": "",
+  "despues_de": "2fff360d5558",
+  "formato": "avance"
+ },
+ {
+  "id": "99528b7cbc8b",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/921511194e4c23.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "Seamos sinceros: la nutrición no es el tratamiento principal de un médico. Es raro el médico que le da prioridad a la alimentación para corregir situaciones metabólicas antes de mandar medicamento. Para mí es una ciencia muy noble porque busca un cambio que perdure. ¿A ti qué te ha tocado vivir con tus médicos?",
+  "when": "2026-11-12T17:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "d5d910e0eebc",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/048cc5db000b6b.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "Cualquiera puede imprimir una etiqueta bonita y vender un suplemento. Pero ¿quién garantiza que los ingredientes son lo que dicen ser, que no están contaminados o que tienen las dosis que prometen? La mayoría nunca se hace esas preguntas. ¿Tú sí revisas lo que tomas?",
+  "when": "2026-11-13T10:00:00",
+  "first_comment": ""
  }
 ]
