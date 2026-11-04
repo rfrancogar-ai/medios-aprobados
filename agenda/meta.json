@@ -2494,5 +2494,53 @@
   "audio": null,
   "cover": null,
   "origen": "048cc5db000b6b"
+ },
+ {
+  "id": "271de1ef62a5",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/837a53dabf78d3.mp4"
+  ],
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_837a53dabf78d3.jpg",
+  "audio": {
+   "audio_id": "3550072311825202",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "Creía que ser fuerte era no descansar.\n\nEl saber nadar a través del dolor es una actitud de líder que en su momento me hizo mucho daño: yo creía que implicaba el no descanso, el no soy humano, el no tengo permitido sentirme triste.\n\nPero no es eso. Es: no importa que me tome mi momento, yo sé muy dentro de mí qué es lo que se tiene que hacer. Podré parar, podré llorar, pero seguiré en mi camino.\n\nNo hay plan B. Si tú no te la crees, nadie lo va a hacer por ti.\n\nMándaselo a alguien que necesite leer esto hoy.\n\n#mentalidad #disciplina #saludmental #emprendimiento #motivacion",
+  "when": "2026-11-11T12:00:00",
+  "first_comment": "¿Tú también confundiste disciplina con no permitirte descansar? 👇"
+ },
+ {
+  "id": "271de1ef62a5_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/837a53dabf78d3_motion.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-11T12:00:00",
+  "first_comment": "",
+  "despues_de": "271de1ef62a5",
+  "formato": "motion"
+ },
+ {
+  "id": "f6c0cf4e5043",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/837a53dabf78d3.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "Yo creía que ser fuerte implicaba no descansar, no sentirme triste, no tomarme un momento para mí. Me hizo mucho daño. Hoy sé que puedo parar, sentirme mal o llorar, y aun así seguir en mi camino. No hay plan B. ¿A ti te ha costado darte permiso de descansar?",
+  "when": "2026-11-13T12:00:00",
+  "first_comment": ""
  }
 ]
