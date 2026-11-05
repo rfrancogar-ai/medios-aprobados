@@ -1,23 +1,5 @@
 [
  {
-  "id": "5a3ba77f3e9a",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "images",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img12bca7713f4_0.jpg",
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img12bca7713f4_1.jpg",
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img12bca7713f4_2.jpg",
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img12bca7713f4_3.jpg",
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img12bca7713f4_4.jpg"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "¿La creatina te deja calvo? Esto es lo que encontró un ensayo de 12 semanas.\n\n¿La creatina te deja calvo? — desliza y guárdalo 📌\n\n¿Qué otro mito de la creatina quieres que revise? Comenta y te respondo en video.\n\nFuente: ECA 12 semanas, J Int Soc Sports Nutr 2025 (n=38)\n.\n#nutricion #suplementos #gym #ciencia",
-  "when": "2026-11-01T09:00:00",
-  "first_comment": ""
- },
- {
   "id": "5a3ba77f3e9a_story",
   "net": "ig",
   "target": "17841400277954990",
@@ -29,24 +11,6 @@
   "audio": null,
   "caption": "",
   "when": "2026-11-01T11:00:00",
-  "first_comment": ""
- },
- {
-  "id": "8bdc13c68466",
-  "net": "fb",
-  "target": "564848600309988",
-  "kind": "images",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img12bca7713f4_0.jpg",
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img12bca7713f4_1.jpg",
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img12bca7713f4_2.jpg",
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img12bca7713f4_3.jpg",
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img12bca7713f4_4.jpg"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "¿La creatina te deja calvo? Esto es lo que encontró un ensayo de 12 semanas.\n\n¿La creatina te deja calvo?. Te lo explico en 3 láminas.\n\n¿Qué otro mito de la creatina quieres que revise? Comenta y te respondo en video.\n\nFuente: ECA 12 semanas, J Int Soc Sports Nutr 2025 (n=38)",
-  "when": "2026-11-01T09:00:00",
   "first_comment": ""
  },
  {
@@ -150,34 +114,6 @@
   "first_comment": ""
  },
  {
-  "id": "f8640639af26_story",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "story",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/662f696165cd25_story.mp4"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "",
-  "when": "2026-10-31T20:00:00",
-  "first_comment": ""
- },
- {
-  "id": "bd5f5b18b1b5",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/c50dd113485d00.mp4"
-  ],
-  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_c50dd113485d00.jpg",
-  "audio": null,
-  "caption": "3 razones: CoreX, mi pre favorito\n\nCoreX se volvió mi pre-entreno favorito por tres razones: energía estable, el bombeo y su complejo de minerales y nootrópicos para concentrarte.\n\nSígueme para más ciencia aplicada.\n.\n#preentreno #gym #suplementos",
-  "when": "2026-11-01T10:00:00",
-  "first_comment": ""
- },
- {
   "id": "bd5f5b18b1b5_story",
   "net": "ig",
   "target": "17841400277954990",
@@ -244,21 +180,6 @@
   "first_comment": "",
   "despues_de": "c4cda0cab187",
   "formato": "post_compartido"
- },
- {
-  "id": "117fbf65ff8e9a_trial",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "trial",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/117fbf65ff8e9a.mp4"
-  ],
-  "caption": "3 razones: CoreX, mi pre favorito\n\nCoreX se volvió mi pre-entreno favorito por tres razones: energía estable, el bombeo y su complejo de minerales y nootrópicos para concentrarte.\n\nSígueme para más ciencia aplicada.\n.\n#preentreno #gym #suplementos",
-  "when": "2026-11-01T10:00:00",
-  "first_comment": "",
-  "audio": null,
-  "cover": null,
-  "origen": "c50dd113485d00"
  },
  {
   "id": "img28a99d704e8t_trial",
@@ -2779,5 +2700,49 @@
   "audio": null,
   "cover": null,
   "origen": "837a53dabf78d3"
+ },
+ {
+  "id": "71d8bd8474cb",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img735e2752a06_0.jpg"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "En un Ironman, el que termina y el que abandona a veces entrenaron igual. La diferencia está en la cabeza.\n\n¿Lo aplicas o te cuesta? Te leo 👇\n\nGuárdala para el día que la necesites 📌\n.\n#nutricion #suplementos #gym #ciencia",
+  "when": "2026-11-09T09:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "71d8bd8474cb_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img735e2752a06_story.jpg"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-09T09:00:00",
+  "first_comment": "",
+  "despues_de": "71d8bd8474cb",
+  "formato": "post_compartido"
+ },
+ {
+  "id": "c4d520a29ef7",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img735e2752a06_0.jpg"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "En un Ironman, el que termina y el que abandona a veces entrenaron igual. La diferencia está en la cabeza.\n\n¿Lo aplicas o te cuesta? Te leo 👇",
+  "when": "2026-11-09T09:00:00",
+  "first_comment": ""
  }
 ]
