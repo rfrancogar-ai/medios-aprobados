@@ -150,24 +150,6 @@
   "first_comment": ""
  },
  {
-  "id": "f8640639af26",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/662f696165cd25.mp4"
-  ],
-  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_662f696165cd25.jpg",
-  "audio": {
-   "audio_id": "3015012582136708",
-   "audio_volume": 12,
-   "video_volume": 100
-  },
-  "caption": "«Bro, ¿traes óxido?» 🤔\n\nNo existe el óxido nítrico como tal. Es un gas que tu cuerpo libera a partir de ciertas sustancias, como algunos aminoácidos de los pre-entrenos o de los alimentos.\n\nEse gas ensancha las vías por donde pasa la sangre: mejor flujo sanguíneo, mejor congestión muscular, mejor bombeo.\n\nAsí que si te ofrecieron «óxido», lo mejor que podrías esperar es un precursor del óxido nítrico… y la verdad es que pocos pre-entrenos lo contienen.\n\nGuárdalo para la próxima vez que te pregunten en el gym y comenta ÓXIDO si a ti también te lo ofrecieron 👇\n\n#preentreno #oxidonitrico #nutriciondeportiva #gym",
-  "when": "2026-10-31T18:00:00",
-  "first_comment": "¿Alguna vez te ofrecieron «óxido» en el gym? Sí o no 👇"
- },
- {
   "id": "f8640639af26_story",
   "net": "ig",
   "target": "17841400277954990",
@@ -2572,5 +2554,53 @@
   "audio": null,
   "cover": null,
   "origen": "92e49b85025e7d"
+ },
+ {
+  "id": "1a5fc699cdb6",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/7b08e25ca4be6a.mp4"
+  ],
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_7b08e25ca4be6a.jpg",
+  "audio": {
+   "audio_id": "3015012582136708",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "Payasos, sangre, guerra. Así se ven casi todos los pre-entrenos.\n\nDesde el principio quisimos que todo tuviera un tono premium. Nunca quisimos un pre-entreno de \"energía agresiva\". Quitamos todo eso para que fuera un pre-entreno clínico, que se viera premium y con dosis funcionales, pero nada exagerado, para que la gente no anduviera toda ansiosa.\n\n¿Tú buscas que te pegue o que funcione? Comenta y guárdalo para tu próxima compra.\n\n#preentreno #gym #suplementos #EPICLabs #formulacion",
+  "when": "2026-11-11T17:00:00",
+  "first_comment": "Honestamente: ¿alguna vez un pre te dejó ansioso o con taquicardia? 👇"
+ },
+ {
+  "id": "1a5fc699cdb6_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/7b08e25ca4be6a_story.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-11T17:00:00",
+  "first_comment": "",
+  "despues_de": "1a5fc699cdb6",
+  "formato": "avance"
+ },
+ {
+  "id": "ffd0de555ee9",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/7b08e25ca4be6a.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "Desde el principio no quisimos que nuestro pre-entreno fuera eso de energía agresiva, sangre y guerra. Quisimos un pre-entreno clínico, premium, con dosis funcionales pero nada exagerado para que la gente no estuviera ansiosa. ¿Tú qué buscas en un pre-entreno?",
+  "when": "2026-11-13T17:00:00",
+  "first_comment": ""
  }
 ]
