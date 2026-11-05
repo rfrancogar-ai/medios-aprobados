@@ -2557,5 +2557,20 @@
   "audio": null,
   "cover": null,
   "origen": "921511194e4c23"
+ },
+ {
+  "id": "4bc52d902c3b4b_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/4bc52d902c3b4b.mp4"
+  ],
+  "caption": "Esta modificación en la Hack Squat\n\nTe voy a enseñar una modificación en la Hack Squat: puntas para empujar, talones arriba, rodillas hacia adelante. Esto va a hacer que tus squats exploten.\n\nSígueme para más ciencia aplicada.\n.\n#gym #entrenamiento #fitness",
+  "when": "2026-11-10T10:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "origen": "92e49b85025e7d"
  }
 ]
