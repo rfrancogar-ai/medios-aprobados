@@ -3646,5 +3646,20 @@
   "audio": null,
   "cover": null,
   "origen": "1669b724c638f4"
+ },
+ {
+  "id": "3c66a3493b089d_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/3c66a3493b089d.mp4"
+  ],
+  "caption": "Cualquiera puede imprimir una etiqueta bonita y vender un suplemento.\n\nLo que realmente importa es lo que pasa después. ¿Quién garantiza que los ingredientes son lo que dicen ser? ¿Cómo sabes que no están contaminados con sustancias prohibidas? ¿O que realmente tienen las dosis que prometen?\n\nEl problema es que la mayoría de la gente nunca se hace esas preguntas. Fabricar un suplemento no es solo mezclar ingredientes y empacarlo: tiene que pasar por pruebas de calidad, certificaciones de manufactura y regulaciones estrictas.\n\nGuárdalo para tu próxima compra y comenta ETIQUETA si quieres que revise la tuya.\n\n#suplementos #etiquetas #nutriologo #calidad #fitness",
+  "when": "2026-11-12T20:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "origen": "56491912308640"
  }
 ]
