@@ -3695,5 +3695,20 @@
   "audio": null,
   "cover": null,
   "origen": "999f9b91d9748c"
+ },
+ {
+  "id": "8a858db5707a2a_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/8a858db5707a2a.mp4"
+  ],
+  "caption": "Si no estás en el lugar que quieres estar, probablemente es porque no estás tomando las decisiones que tienes que tomar para estar ahí.\n\nY es difícil en el camino ver el destino: se pone rocoso, difícil, triste, oscuro.\n\nPero siempre que sientas ganas de parar, que te preguntes por qué carajos estás haciendo esto, puedes volver a donde empezaste. Siempre hay una razón mucho más profunda que el día a día.\n\nMándaselo a alguien que hoy necesita acordarse de su razón y comenta RAZÓN si te pegó.\n\n#mentalidad #disciplina #decisiones #emprender",
+  "when": "2026-11-13T12:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "origen": "a191c9212c334d"
  }
 ]
