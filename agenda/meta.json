@@ -2687,50 +2687,6 @@
   "origen": "e7d3c84d6ce4e1"
  },
  {
-  "id": "c692bda1ddb5",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "images",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imga7f20f03cab_0.jpg"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "Mientras se aplaza, la vida pasa corriendo.\n\n— Séneca\n\n¿A quién se la mandarías? Etiquétalo 👇\n\nGuárdala para el día que la necesites 📌\n.\n#nutricion #suplementos #gym #ciencia",
-  "when": "2026-11-11T09:00:00",
-  "first_comment": ""
- },
- {
-  "id": "c692bda1ddb5_story",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "story",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imga7f20f03cab_story.jpg"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "",
-  "when": "2026-11-11T09:00:00",
-  "first_comment": "",
-  "despues_de": "c692bda1ddb5",
-  "formato": "post_compartido"
- },
- {
-  "id": "5b3e347082d3",
-  "net": "fb",
-  "target": "564848600309988",
-  "kind": "images",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imga7f20f03cab_0.jpg"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "Mientras se aplaza, la vida pasa corriendo.\n\n— Séneca\n\n¿A quién se la mandarías? Etiquétalo 👇",
-  "when": "2026-11-11T09:00:00",
-  "first_comment": ""
- },
- {
   "id": "e9a1271e9b0b3d_trial",
   "net": "ig",
   "target": "17841400277954990",
