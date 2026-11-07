@@ -2682,5 +2682,149 @@
   "audio": null,
   "cover": null,
   "origen": "6f367b0dd4b41b"
+ },
+ {
+  "id": "74f9d7c86a61",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/ca46e8cf560b56.mp4"
+  ],
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_ca46e8cf560b56.jpg",
+  "audio": {
+   "audio_id": "1039098790480932",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "Hasta medio segundito puede ser una diferencia.\n\nEl tema de los tiempos lo había visto hace algunos años, pero sin la explicación técnica: solo era 3 segundos para abajo, 2 segundos en pausa y explosivo.\n\nPero tiene que ver con la conexión con las sensaciones que vas teniendo con el cuerpo. Si ya buscas una sensación cercana al fallo, no es necesario contar 15, 12, 15.\n\nGuárdalo y pruébalo en tu siguiente serie.\n\n#tempo #hipertrofia #gym #tecnica #entrenamiento",
+  "when": "2026-11-12T12:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "74f9d7c86a61_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/ca46e8cf560b56_story.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-12T12:00:00",
+  "first_comment": "",
+  "despues_de": "74f9d7c86a61",
+  "formato": "avance"
+ },
+ {
+  "id": "a1adfbb15986",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/9da64326416d1b.mp4"
+  ],
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_9da64326416d1b.jpg",
+  "audio": {
+   "audio_id": "3550072311825202",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "La guerra del calentamiento: ¿estirar o activar?\n\nHay una guerra en internet: que si calentar, que si estirar. Si tienes un movimiento limitado, estira; si tienes un músculo débil, tienes que activarlo.\n\n¿Qué otra duda tienes? Te respondo en video.\n.\n#gym #entrenamiento #fitness",
+  "when": "2026-11-12T17:00:00",
+  "first_comment": "¿Tú estiras antes de entrenar o vas directo a series de aproximación? 👇"
+ },
+ {
+  "id": "a1adfbb15986_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/9da64326416d1b_story.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-12T17:00:00",
+  "first_comment": "",
+  "despues_de": "a1adfbb15986",
+  "formato": "avance"
+ },
+ {
+  "id": "75af26e0ffe9",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/50fb5f20f228e3.mp4"
+  ],
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_50fb5f20f228e3.jpg",
+  "audio": {
+   "audio_id": "4638498156166814",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "Si haces el comando correcto, el ejercicio se corrige de manera inmediata.\n\nTú puedes mandar una rutina. Pero no es lo mismo que te digan 4 de 12, el plan de siempre, toda la vida: te mandan un Excel, 4 de 12, 4 de 15… y si te salen 12, súbele el peso.\n\n¿Oye, pero cuánto le subo? Súbele una barrita.\n\nSon pocos los entrenadores que incluyen la parte de cómo le hablas a la persona: el tacto, el aplauso, los tiempos de ejecución. El comando incorrecto hace que el ejercicio empeore.\n\nMándaselo a tu entrenador o al compa que entrena con un Excel.\n\n#entrenamiento #gym #tecnica #sobrecargaprogresiva #coach",
+  "when": "2026-11-13T10:00:00",
+  "first_comment": "¿Cuál es la indicación que más te ha corregido un ejercicio? Escríbela aquí 👇"
+ },
+ {
+  "id": "75af26e0ffe9_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/50fb5f20f228e3_story.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-13T10:00:00",
+  "first_comment": "",
+  "despues_de": "75af26e0ffe9",
+  "formato": "avance"
+ },
+ {
+  "id": "cd12825b9639",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/ca46e8cf560b56.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "Hasta medio segundito puede ser una diferencia. Me enseñaron 3 segundos abajo, 2 en pausa y explosivo, pero sin la explicación técnica. Lo que importa es la conexión con las sensaciones y buscar una sensación cercana al fallo. ¿Tú cuentas los tiempos de tus repeticiones?",
+  "when": "2026-11-15T17:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "fd549dc4ab6e",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/9da64326416d1b.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "Hay una guerra en internet sobre el calentamiento. Si tienes un movimiento limitado, ahí tiene sentido estirar. Si tienes un músculo débil en comparación con su opuesto, tienes que activarlo. Y el movimiento ya eleva la temperatura corporal. ¿Tú qué haces antes de entrenar?",
+  "when": "2026-11-16T10:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "33b8f38606f6",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/50fb5f20f228e3.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "Tú puedes mandar una rutina, pero no es lo mismo que te digan 4 de 12 en un Excel. Si haces el comando correcto, el ejercicio se corrige de inmediato; si haces el incorrecto, peora. ¿Y cuánto le subo? 'Súbele una barrita'. ¿Tú entrenas con rutina en Excel o con alguien que te corrige?",
+  "when": "2026-11-16T12:00:00",
+  "first_comment": ""
  }
 ]
