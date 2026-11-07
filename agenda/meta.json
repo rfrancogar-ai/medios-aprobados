@@ -1,23 +1,5 @@
 [
  {
-  "id": "4d350f3cd6e7",
-  "net": "fb",
-  "target": "564848600309988",
-  "kind": "images",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img28a99d704e8_0.jpg",
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img28a99d704e8_1.jpg",
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img28a99d704e8_2.jpg",
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img28a99d704e8_3.jpg",
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img28a99d704e8_4.jpg"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "Tomas creatina, te sale alta la creatinina y tu médico se asusta. Esto pasa.\n\nCreatina y riñón: tu análisis no miente, pero se malinterpreta. Te lo explico en 3 láminas.\n\nComparte esto con quien le dijeron que la creatina le iba a dañar el riñón.\n\nFuente: Kabiri Naeini E et al. 2025, BMC Nephrology (metaanálisis)",
-  "when": "2026-11-03T15:00:00",
-  "first_comment": ""
- },
- {
   "id": "c4cda0cab187",
   "net": "ig",
   "target": "17841400277954990",
@@ -3062,6 +3044,150 @@
   "audio": null,
   "caption": "Si no tomas tu suplemento en el momento adecuado, en la dosis suficiente o con los nutrientes clave, puedes estar bloqueando su absorción. Por ejemplo, tomar vitaminas liposolubles sin grasa es un error. ¿Tú cómo y a qué hora tomas tus suplementos?",
   "when": "2026-11-18T12:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "8c89cd59f76f",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/56491912308640.mp4"
+  ],
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_56491912308640.jpg",
+  "audio": {
+   "audio_id": "1540755600953104",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "Cualquiera puede imprimir una etiqueta bonita y vender un suplemento.\n\nLo que realmente importa es lo que pasa después. ¿Quién garantiza que los ingredientes son lo que dicen ser? ¿Cómo sabes que no están contaminados con sustancias prohibidas? ¿O que realmente tienen las dosis que prometen?\n\nEl problema es que la mayoría de la gente nunca se hace esas preguntas. Fabricar un suplemento no es solo mezclar ingredientes y empacarlo: tiene que pasar por pruebas de calidad, certificaciones de manufactura y regulaciones estrictas.\n\nGuárdalo para tu próxima compra y comenta ETIQUETA si quieres que revise la tuya.\n\n#suplementos #etiquetas #nutriologo #calidad #fitness",
+  "when": "2026-11-13T10:00:00",
+  "first_comment": "¿Alguna vez has revisado si tu suplemento tiene pruebas de calidad? Mándame foto de tu etiqueta y la leemos juntos 👇"
+ },
+ {
+  "id": "8c89cd59f76f_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/56491912308640_motion.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-13T10:00:00",
+  "first_comment": "",
+  "despues_de": "8c89cd59f76f",
+  "formato": "motion"
+ },
+ {
+  "id": "ee75bd8e77a4",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/dc3f5d54d73b31.mp4"
+  ],
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_dc3f5d54d73b31.jpg",
+  "audio": {
+   "audio_id": "3550072311825202",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "Probablemente sea la última vez que pruebe este pre-entreno.\n\nYa estamos en las pruebas finales y hoy toca dos scoops, porque todavía no sabemos cómo pegan. La experiencia es completa desde el primero, así que vamos a averiguar si es soportable para los que no me hagan caso de tomarse solamente un scoop.\n\nAsí se formula un pre-entreno: probándolo antes que nadie.\n\nComenta UNO o DOS: ¿cuántos scoops te tomarías?\n\n#preentreno #epiclabs #formulacion #gym #suplementos",
+  "when": "2026-11-13T12:00:00",
+  "first_comment": "¿Tú respetas la dosis de la etiqueta o le subes? Sé honesto 👇"
+ },
+ {
+  "id": "ee75bd8e77a4_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/dc3f5d54d73b31_motion.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-13T12:00:00",
+  "first_comment": "",
+  "despues_de": "ee75bd8e77a4",
+  "formato": "motion"
+ },
+ {
+  "id": "d2d41d8c33e5",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/a191c9212c334d.mp4"
+  ],
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_a191c9212c334d.jpg",
+  "audio": {
+   "audio_id": "4638498156166814",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "Si no estás en el lugar que quieres estar, probablemente es porque no estás tomando las decisiones que tienes que tomar para estar ahí.\n\nY es difícil en el camino ver el destino: se pone rocoso, difícil, triste, oscuro.\n\nPero siempre que sientas ganas de parar, que te preguntes por qué carajos estás haciendo esto, puedes volver a donde empezaste. Siempre hay una razón mucho más profunda que el día a día.\n\nMándaselo a alguien que hoy necesita acordarse de su razón y comenta RAZÓN si te pegó.\n\n#mentalidad #disciplina #decisiones #emprender",
+  "when": "2026-11-13T17:00:00",
+  "first_comment": "¿Cuál es la razón que te hace levantarte a hacer lo que haces? 👇"
+ },
+ {
+  "id": "d2d41d8c33e5_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/a191c9212c334d_motion.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-13T17:00:00",
+  "first_comment": "",
+  "despues_de": "d2d41d8c33e5",
+  "formato": "motion"
+ },
+ {
+  "id": "c7060d24a775",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/56491912308640.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "Cualquiera puede imprimir una etiqueta bonita y vender un suplemento. Lo que importa es lo que pasa después: pruebas de calidad, certificaciones de manufactura y regulaciones. ¿Tú te habías hecho estas preguntas antes de comprar tu suplemento?",
+  "when": "2026-11-18T17:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "7c2761531ff8",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/dc3f5d54d73b31.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "Probablemente la última vez que pruebo este pre-entreno antes de lanzarlo: pruebas finales y hoy toca dos scoops, para saber cómo se sienten los que no me hagan caso de tomarse solo uno. ¿Tú respetas la dosis de la etiqueta?",
+  "when": "2026-11-19T10:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "725578be3aa4",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/a191c9212c334d.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "No hay más en esta vida que las decisiones que estamos tomando. Cuando sientas ganas de parar, vuelve a por qué empezaste. ¿Cuál es la razón que te mueve a ti?",
+  "when": "2026-11-19T12:00:00",
   "first_comment": ""
  }
 ]
