@@ -307,20 +307,6 @@
   "first_comment": ""
  },
  {
-  "id": "ba7ebea444ab",
-  "net": "fb",
-  "target": "564848600309988",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/433f96450c55b1.mp4"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "En la extensión de cuádriceps, el control es lo más importante: no hagas seis ni ocho, haz quince, haz veinte repeticiones. Es un ejercicio que te permite aislar muy bien el cuádriceps, así que no hace falta exponerte a lesión con cargas muy altas. ¿Tú cómo la haces?",
-  "when": "2026-11-03T17:00:00",
-  "first_comment": ""
- },
- {
   "id": "54e774142d8d",
   "net": "fb",
   "target": "564848600309988",
@@ -333,36 +319,6 @@
   "caption": "No es el peso, es la velocidad: todas tus repeticiones deben ser iguales, la misma bajada y la misma explosividad en la subida. Nunca pierdas velocidad hasta que se pierda sola; ahí donde ya no sube, ahí es lo chido. ¿Tus reps se ven todas igual?",
   "when": "2026-11-04T10:00:00",
   "first_comment": ""
- },
- {
-  "id": "d9d5a37b1022",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/9d7a8ec10a19b0.mp4"
-  ],
-  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_9d7a8ec10a19b0.jpg",
-  "audio": null,
-  "caption": "Elevación de talones en la sentadilla: por qué la uso.\n\n✅ Mayor profundidad\n✅ Mayor énfasis en los cuádriceps\n✅ Espalda recta\n\nEso no significa que no tome aire y utilice mi abdomen en cada repetición. Y la barra me gusta aquí, baja: si la pones más arriba tiende a mandar la espalda un poquito hacia adelante.\n\nGuárdalo para tu día de pierna 💾 ¿Tú usas elevación de talones?\n\n#sentadilla #gym #diadepierna #cuadriceps #entrenamiento",
-  "when": "2026-11-03T17:00:00",
-  "first_comment": "¿Sentadilla con talones elevados o planos? ¿Cuál te funciona más? 👇"
- },
- {
-  "id": "d9d5a37b1022_story",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "story",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/9d7a8ec10a19b0_story.mp4"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "",
-  "when": "2026-11-03T17:00:00",
-  "first_comment": "",
-  "despues_de": "d9d5a37b1022",
-  "formato": "avance"
  },
  {
   "id": "cac89b064db8",
@@ -524,21 +480,6 @@
   "caption": "Hazlo con miedo, pero hazlo.\n\n— Proverbio\n\n¿Lo aplicas o te cuesta? Te leo 👇",
   "when": "2026-11-05T09:00:00",
   "first_comment": ""
- },
- {
-  "id": "54f4cf75ae7f16_trial",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "trial",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/54f4cf75ae7f16.mp4"
-  ],
-  "caption": "Elevación de talones en la sentadilla: por qué la uso.\n\n✅ Mayor profundidad\n✅ Mayor énfasis en los cuádriceps\n✅ Espalda recta\n\nEso no significa que no tome aire y utilice mi abdomen en cada repetición. Y la barra me gusta aquí, baja: si la pones más arriba tiende a mandar la espalda un poquito hacia adelante.\n\nGuárdalo para tu día de pierna 💾 ¿Tú usas elevación de talones?\n\n#sentadilla #gym #diadepierna #cuadriceps #entrenamiento",
-  "when": "2026-11-03T17:00:00",
-  "first_comment": "",
-  "audio": null,
-  "cover": null,
-  "origen": "9d7a8ec10a19b0"
  },
  {
   "id": "cbe4472eec0784_trial",
@@ -3691,5 +3632,53 @@
   "audio": null,
   "cover": null,
   "origen": "675e6eee1b5592"
+ },
+ {
+  "id": "1f4c066edcbf",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/99072f5e092e2f.mp4"
+  ],
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_99072f5e092e2f.jpg",
+  "audio": {
+   "audio_id": "959794905484673",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "Es raro el médico que le da prioridad a la nutrición antes de mandar medicamento.\n\nEl tratamiento principal de un médico es la alopatía. Y hay situaciones metabólicas que se pueden corregir simplemente con una mejor alimentación.\n\nPor eso me apasiona la nutrición: es una ciencia muy noble que acompaña al paciente a generar un cambio permanente en su estilo de vida, a través del aprendizaje, del amor y de la conciencia misma.\n\nPara mí, la nutrición es lo mejor que me pudo pasar.\n\nMándaselo a alguien que quiere cambiar desde su alimentación y comenta NUTRICIÓN si te ha pasado.\n\n#nutricion #nutriologo #saludmetabolica #estilodevida #robertofranco",
+  "when": "2026-11-16T10:00:00",
+  "first_comment": "¿Alguna vez un médico te dio un plan de alimentación antes que una receta? Cuéntame tu experiencia 👇"
+ },
+ {
+  "id": "1f4c066edcbf_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/99072f5e092e2f_story.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-16T10:00:00",
+  "first_comment": "",
+  "despues_de": "1f4c066edcbf",
+  "formato": "avance"
+ },
+ {
+  "id": "a3d8b5f0fd38",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/99072f5e092e2f.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "El tratamiento principal de un médico es la alopatía. Es raro el que le da prioridad a la nutrición para corregir situaciones metabólicas antes de mandar medicamento. Para mí la nutrición es una ciencia muy noble: acompaña al paciente a un cambio permanente en su estilo de vida. ¿A ti algún médico te ha cambiado la alimentación antes de recetarte algo?",
+  "when": "2026-11-22T17:00:00",
+  "first_comment": ""
  }
 ]
