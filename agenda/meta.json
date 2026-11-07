@@ -3631,5 +3631,20 @@
   "caption": "Estático vs PNF: en el estático llego a mi primer punto de restricción y me quedo 30, 60 segundos. En el PNF ya no me importa ese punto, me importa el rango final. ¿Cuál usas tú?",
   "when": "2026-11-22T12:00:00",
   "first_comment": ""
+ },
+ {
+  "id": "61cb4f8fcb8926_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/61cb4f8fcb8926.mp4"
+  ],
+  "caption": "Esto le va a dar mucho tamaño a tu pierna.\n\nEn la máquina de femoral lo hacemos UNILATERAL, porque luego estas máquinas se enchuecan del brazo. Siempre fíjate que los ejes estén bien; si no, vas a terminar haciendo más fuerza en una pierna que en otra.\n\n✅ Una pierna y luego la otra\n✅ Deja que estire por completo\n✅ Arriba, jalón fuerte hacia abajo\n✅ No te subestimes: sube el peso y dale volumen de repeticiones\n\nGuárdalo para tu próximo día de pierna y mándaselo al compa que siempre lo hace con las dos.\n\n#entrenamiento #pierna #isquiosurales #gym #hipertrofia",
+  "when": "2026-11-14T17:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "origen": "1669b724c638f4"
  }
 ]
