@@ -2826,5 +2826,20 @@
   "caption": "Tú puedes mandar una rutina, pero no es lo mismo que te digan 4 de 12 en un Excel. Si haces el comando correcto, el ejercicio se corrige de inmediato; si haces el incorrecto, peora. ¿Y cuánto le subo? 'Súbele una barrita'. ¿Tú entrenas con rutina en Excel o con alguien que te corrige?",
   "when": "2026-11-16T12:00:00",
   "first_comment": ""
+ },
+ {
+  "id": "de4ff727a31391_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/de4ff727a31391.mp4"
+  ],
+  "caption": "Una bacteria en tu bote de proteína no se queda ahí.\n\nLas bacterias se reproducen muy rápido. Por ser un alimento no tan rápido, pero sí se reproducen: no le dejas una bacteria, le dejas una que va a ser mil bacterias, y cuando el cliente se la toma, le puede hacer algún efecto.\n\nPor eso lo correcto es tu sistema de recepción de materias primas: aceptar o rechazar. Pruebas previas antes de envasar. ¿Me venden proteína? Prueba de nitrógeno. ¿Me venden un polvo para tableta? Revisar qué tanta humedad tiene, si no las pastillas llegan quebradas.\n\nGuárdalo y comenta CALIDAD si quieres que te cuente qué más revisamos.\n\n#suplementos #proteina #calidad #epiclabs #nutricion",
+  "when": "2026-11-08T10:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "origen": "dd6ccc954d4b76"
  }
 ]
