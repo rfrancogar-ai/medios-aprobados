@@ -3661,5 +3661,20 @@
   "audio": null,
   "cover": null,
   "origen": "56491912308640"
+ },
+ {
+  "id": "97e386dbdb51dc_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/97e386dbdb51dc.mp4"
+  ],
+  "caption": "Tu suplemento necesita tres cosas para funcionar\n\nSi no tomas tu suplemento en el momento adecuado, en la dosis suficiente o con los nutrientes clave, puedes estar bloqueando su absorción.\n\n¿Qué otra duda tienes? Te respondo en video.\n.\n#fitness #nutricion",
+  "when": "2026-11-12T17:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "origen": "5ecbbefb8c5eff"
  }
 ]
