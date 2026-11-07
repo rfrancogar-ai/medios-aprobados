@@ -3015,5 +3015,53 @@
   "caption": "¿Y si no lo logro? ¿Y si no es la inversión correcta? Yo también lo pienso. Pero todas esas maneras de derrotarte son las mismas que tienes de construirte. ¿Qué es lo que más te da miedo de arrancar tu proyecto?",
   "when": "2026-11-18T10:00:00",
   "first_comment": ""
+ },
+ {
+  "id": "29da1e47110c",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/5ecbbefb8c5eff.mp4"
+  ],
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_5ecbbefb8c5eff.jpg",
+  "audio": {
+   "audio_id": "1501269788724597",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "Tu suplemento necesita tres cosas para funcionar\n\nSi no tomas tu suplemento en el momento adecuado, en la dosis suficiente o con los nutrientes clave, puedes estar bloqueando su absorción.\n\n¿Qué otra duda tienes? Te respondo en video.\n.\n#fitness #nutricion",
+  "when": "2026-11-12T17:00:00",
+  "first_comment": "¿Qué suplemento tomas y a qué hora? Te digo si lo estás tomando en el momento correcto 👇"
+ },
+ {
+  "id": "29da1e47110c_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/5ecbbefb8c5eff_motion.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-12T17:00:00",
+  "first_comment": "",
+  "despues_de": "29da1e47110c",
+  "formato": "motion"
+ },
+ {
+  "id": "9f8d4f90a111",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/5ecbbefb8c5eff.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "Si no tomas tu suplemento en el momento adecuado, en la dosis suficiente o con los nutrientes clave, puedes estar bloqueando su absorción. Por ejemplo, tomar vitaminas liposolubles sin grasa es un error. ¿Tú cómo y a qué hora tomas tus suplementos?",
+  "when": "2026-11-18T12:00:00",
+  "first_comment": ""
  }
 ]
