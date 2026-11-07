@@ -3189,5 +3189,101 @@
   "caption": "No hay más en esta vida que las decisiones que estamos tomando. Cuando sientas ganas de parar, vuelve a por qué empezaste. ¿Cuál es la razón que te mueve a ti?",
   "when": "2026-11-19T12:00:00",
   "first_comment": ""
+ },
+ {
+  "id": "edc1299af8b6",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/42ba8e561bb1ca.mp4"
+  ],
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_42ba8e561bb1ca.jpg",
+  "audio": {
+   "audio_id": "1093060787857874",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "No te falta dinero. Te faltan ganas. 👇\n\nTú dices querer hacerlo, dices querer lograrlo, pero activamente no estás incomodándote para llegar a ese punto donde dices querer llegar.\n\nTodas esas personas que ves avanzando se están incomodando muchísimo más que tú todos los días.\n\nY no es competencia: quien lo quiere hacer lo puede lograr. Estamos en la era donde la información está disponible y las herramientas son ilimitadas.\n\nMándaselo al que lleva meses diciendo \"ya voy a empezar\". Guárdalo para cuando lo necesites.\n\n#mentalidad #disciplina #emprendimiento #motivacion #robertofranco",
+  "when": "2026-11-13T17:00:00",
+  "first_comment": "¿Qué proyecto llevas tiempo diciendo que vas a empezar y todavía no arrancas?"
+ },
+ {
+  "id": "edc1299af8b6_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/42ba8e561bb1ca_motion.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-13T17:00:00",
+  "first_comment": "",
+  "despues_de": "edc1299af8b6",
+  "formato": "motion"
+ },
+ {
+  "id": "822c9f8f22c1",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/526292e437d25a.mp4"
+  ],
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_526292e437d25a.jpg",
+  "audio": {
+   "audio_id": "2183167475296101",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "Dos años de proyecto para llegar a esto 👇\n\nDespués de alrededor de seis meses perfeccionando la fórmula, después de varios incidentes y pruebas fallidas, llegamos a lo que queríamos llegar: ingredientes funcionales, dosis funcionales y un pre-entreno que no está cargado de estimulantes.\n\nUno que puedes utilizar todos los días y que te da las sensaciones necesarias para entrenar.\n\nMándaselo al compa que se toma un pre que lo deja temblando.\n\nComenta FÓRMULA si quieres que te cuente qué falló en las pruebas.\n\n#preentreno #epiclabs #suplementos #gym #nutriciondeportiva",
+  "when": "2026-11-14T10:00:00",
+  "first_comment": "¿Qué es lo que menos te gusta de tu pre-entreno actual: el bajón, el temblor o que no te deja dormir?"
+ },
+ {
+  "id": "822c9f8f22c1_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/526292e437d25a_motion.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-14T10:00:00",
+  "first_comment": "",
+  "despues_de": "822c9f8f22c1",
+  "formato": "motion"
+ },
+ {
+  "id": "c36493bb65bf",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/42ba8e561bb1ca.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "No te hace falta ni una palanca, ni motivación, ni dinero. Te hace falta que realmente quieras hacerlo. Las personas que ves avanzando se están incomodando muchísimo más que tú todos los días. ¿Qué es lo que hoy te está limitando?",
+  "when": "2026-11-19T17:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "ec9a1fb13675",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/526292e437d25a.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "Dos años de proyecto, seis meses perfeccionando la fórmula, varios incidentes y pruebas fallidas. Así llegamos a un pre-entreno con ingredientes funcionales, dosis funcionales y que no está cargado de estimulantes. ¿Tú qué le pedirías a un pre-entreno?",
+  "when": "2026-11-20T10:00:00",
+  "first_comment": ""
  }
 ]
