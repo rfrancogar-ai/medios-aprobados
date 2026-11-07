@@ -18,6 +18,7 @@ MX = timezone(timedelta(hours=-6))
 AGENDA, HECHO = "agenda/meta.json", "agenda/hecho.json"
 MAX_RETRASO_H = 12      # si algo se atrasó más que esto, no se publica fuera de hora
 MAX_INTENTOS = 3
+TOPE_REELS_DIA, SEPARACION_MIN = 4, 60  # Roberto: 4 reels al día, nunca pegados
 
 
 def req(url, data=None, headers=None, method=None):
@@ -246,6 +247,19 @@ def main():
         if ahora - when > timedelta(hours=MAX_RETRASO_H):
             hecho[e["id"]] = {"ok": 0, "final": 1, "error": "vencido sin publicar", "ts": ahora.isoformat()}
             continue
+        if e["net"] == "ig" and e["kind"] in ("reel", "trial"):  # última llave contra saturar el perfil
+            if not 8 <= ahora.hour < 23:
+                continue  # nunca de madrugada: espera a la mañana
+            if e["kind"] == "reel":
+                hoy_ = ahora.strftime("%Y-%m-%d")
+                salidos = [hecho[x["id"]]["ts"][:19] for x in agenda if x["net"] == "ig" and x["kind"] == "reel"
+                           and hecho.get(x["id"], {}).get("ok") and hecho[x["id"]].get("ts", "").startswith(hoy_)]
+                if len(salidos) >= TOPE_REELS_DIA:
+                    print("= tope diario de reels: espera", e["id"])
+                    continue
+                if salidos and ahora - datetime.fromisoformat(max(salidos)) < timedelta(minutes=SEPARACION_MIN):
+                    print("= muy pegado al anterior: espera", e["id"])
+                    continue
         rem = hecho_remoto() or {}  # justo antes de publicar: ¿otra corrida ya lo sacó?
         if rem.get(e["id"], {}).get("ok"):
             hecho[e["id"]] = rem[e["id"]]
