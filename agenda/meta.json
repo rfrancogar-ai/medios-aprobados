@@ -388,36 +388,6 @@
   "first_comment": ""
  },
  {
-  "id": "a5f5ecde659b",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/433f96450c55b1.mp4"
-  ],
-  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_433f96450c55b1.jpg",
-  "audio": null,
-  "caption": "No hagas seis, haz veinte repeticiones\n\nEl control es lo más importante en este ejercicio, el control y el volumen de repeticiones. No hagas seis, no hagas ocho, haz quince, haz veinte repeticiones.\n\nGuárdalo para tu próximo entrenamiento.\n.\n#hipertrofia #gym #musculo",
-  "when": "2026-11-03T10:00:00",
-  "first_comment": "¿En la extensión de cuádriceps tú vas pesado y pocas reps, o ligero y muchas? 👇"
- },
- {
-  "id": "a5f5ecde659b_story",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "story",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/433f96450c55b1_motion.mp4"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "",
-  "when": "2026-11-03T10:00:00",
-  "first_comment": "",
-  "despues_de": "a5f5ecde659b",
-  "formato": "motion"
- },
- {
   "id": "ba7ebea444ab",
   "net": "fb",
   "target": "564848600309988",
@@ -591,21 +561,6 @@
   "caption": "No somos comerciantes ni empresarios que solo buscan el dinero: estamos detrás de suplementar atletas, de verdad. Así fue recibir a uno de nuestros atletas en la familia EPIC. ¿Qué te importa más de una marca que apoya atletas?",
   "when": "2026-11-07T10:00:00",
   "first_comment": ""
- },
- {
-  "id": "f1bb7d2dd28b59_trial",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "trial",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/f1bb7d2dd28b59.mp4"
-  ],
-  "caption": "No hagas seis, haz veinte repeticiones\n\nEl control es lo más importante en este ejercicio, el control y el volumen de repeticiones. No hagas seis, no hagas ocho, haz quince, haz veinte repeticiones.\n\nGuárdalo para tu próximo entrenamiento.\n.\n#hipertrofia #gym #musculo",
-  "when": "2026-11-03T10:00:00",
-  "first_comment": "",
-  "audio": null,
-  "cover": null,
-  "origen": "433f96450c55b1"
  },
  {
   "id": "84a72359c89e0f_trial",
@@ -2848,5 +2803,101 @@
   "audio": null,
   "cover": null,
   "origen": "50fb5f20f228e3"
+ },
+ {
+  "id": "81d9339470f1",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/a4eed4786f1443.mp4"
+  ],
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_a4eed4786f1443.jpg",
+  "audio": {
+   "audio_id": "263896829897972",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "Siempre hay que acostumbrarse a empezar desde el concéntrico.\n\nLa idea es que las agarres y las pongas en tus piernas. Si las pones allá abajo, vas a empezar el ejercicio en extensión.\n\nY a la hora que haces la sobrecarga y empiezas a agregar más peso, eso es peligroso para el músculo y para la articulación.\n\n¿Tú arrancas así o desde abajo? Guárdalo para tu próximo día de pierna y mándaselo al compa que siempre empieza en extensión.\n\n#entrenamiento #gym #tecnica #hipertrofia #fuerza",
+  "when": "2026-11-08T10:00:00",
+  "first_comment": "¿Desde dónde arrancas tu primera repetición cuando ya cargas mucho peso? 👇"
+ },
+ {
+  "id": "81d9339470f1_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/a4eed4786f1443_story.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-08T10:00:00",
+  "first_comment": "",
+  "despues_de": "81d9339470f1",
+  "formato": "avance"
+ },
+ {
+  "id": "ae3dd0da873b",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/2f431c00907479.mp4"
+  ],
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_2f431c00907479.jpg",
+  "audio": {
+   "audio_id": "1093060787857874",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "Te están engañando… y no es tu novia 👀\n\n\"100 % whey protein\". Pues sí, pero ¿qué tipo?\n\nCuando compras una proteína, fíjate que te diga qué tipo de whey es:\n• Concentrado de suero de leche: todavía trae algo de las grasas y azúcares propios del suero. Digestión un poco más lenta, mayor saciedad.\n• Aislado: ya le removieron las grasas y los azúcares. Hasta arriba en la pirámide de valor biológico, más que el huevo, la carne y la leche.\n\nLas dos tienen una digestibilidad muy buena. Tienen diferentes aplicaciones: si quieres un licuado que te llene varias horas, el concentrado te sirve.\n\nGuárdalo para tu próxima compra y mándaselo al compa que compra la proteína nada más por el bote.\n\n#proteina #wheyprotein #nutricion #gym #etiquetas",
+  "when": "2026-11-13T12:00:00",
+  "first_comment": "Sin ver el bote: ¿la tuya es concentrado, aislado o no tienes idea? 👇"
+ },
+ {
+  "id": "ae3dd0da873b_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/2f431c00907479_motion.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-13T12:00:00",
+  "first_comment": "",
+  "despues_de": "ae3dd0da873b",
+  "formato": "motion"
+ },
+ {
+  "id": "155182c5b754",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/a4eed4786f1443.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "Siempre hay que acostumbrarse a empezar desde el concéntrico. Empezar en extensión completa cuando ya es mucho peso es peligroso para el músculo y para la articulación. ¿Tú cómo arrancas tus series pesadas?",
+  "when": "2026-11-16T17:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "90ac150bb00a",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/2f431c00907479.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "Te están engañando y no es tu novia 😅 Es la etiqueta de tu proteína. \"100 % whey protein\", pues sí, pero ¿qué tipo? El concentrado todavía trae algo de grasas y azúcares del suero y te da más saciedad; al aislado ya se los removieron y está hasta arriba en valor biológico. ¿Tú sabías cuál estás tomando?",
+  "when": "2026-11-17T10:00:00",
+  "first_comment": ""
  }
 ]
