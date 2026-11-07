@@ -2652,5 +2652,20 @@
   "audio": null,
   "cover": null,
   "origen": "01a4abe9c65346"
+ },
+ {
+  "id": "12730b9f6c2c48_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/12730b9f6c2c48.mp4"
+  ],
+  "caption": "Quiero pesado, pero no quiero mucha fatiga.\n\nAsí entrenamos a Ricardo en peso muerto con barra hexagonal: arrancamos con 60 kilos, desde abajo súper agresivo. Si la barra sale muy rápido, está muy ligero: incrementamos 20 por lado.\n\nY la clave: 10 % de pérdida de velocidad. Cuando la barra pierde velocidad, se acaba la serie. Pesado, sí; fatiga de más, no. Descanso de 3:30 y el pecho fuerte y firme todo el tiempo, aunque vayas bajando.\n\nGuárdalo para tu próximo día de pierna y mándaselo al compa que entrena siempre al fallo.\n\n#pesomuerto #entrenamientodefuerza #gym #fuerza #nutriologo",
+  "when": "2026-11-12T10:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "origen": "1f3c7a82cd85fd"
  }
 ]
