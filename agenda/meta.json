@@ -3676,5 +3676,20 @@
   "audio": null,
   "cover": null,
   "origen": "5ecbbefb8c5eff"
+ },
+ {
+  "id": "d3d9775c546cfe_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/d3d9775c546cfe.mp4"
+  ],
+  "caption": "Se llaman Y-raises. No es lateral.\n\nLa indicación: suéltate completamente hacia el lado, brazos sueltos y los codos completamente estirados. Esa es.\n\nGuárdalo para tu día de hombro y mándaselo al que los hace como elevación lateral.\n\n#entrenamiento #hombro #gym #tecnica",
+  "when": "2026-11-14T10:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "origen": "675e6eee1b5592"
  }
 ]
