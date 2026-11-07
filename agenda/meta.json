@@ -3441,18 +3441,195 @@
   "origen": "42ba8e561bb1ca"
  },
  {
-  "id": "2ebb1a4878f234_trial",
+  "id": "fd20e4f9bbe0",
   "net": "ig",
   "target": "17841400277954990",
-  "kind": "trial",
+  "kind": "reel",
   "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/2ebb1a4878f234.mp4"
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/c8eaebf0424f5d.mp4"
   ],
-  "caption": "Dos años de proyecto para llegar a esto 👇\n\nDespués de alrededor de seis meses perfeccionando la fórmula, después de varios incidentes y pruebas fallidas, llegamos a lo que queríamos llegar: ingredientes funcionales, dosis funcionales y un pre-entreno que no está cargado de estimulantes.\n\nUno que puedes utilizar todos los días y que te da las sensaciones necesarias para entrenar.\n\nMándaselo al compa que se toma un pre que lo deja temblando.\n\nComenta FÓRMULA si quieres que te cuente qué falló en las pruebas.\n\n#preentreno #epiclabs #suplementos #gym #nutriciondeportiva",
-  "when": "2026-11-13T20:00:00",
-  "first_comment": "",
-  "audio": null,
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_c8eaebf0424f5d.jpg",
+  "audio": {
+   "audio_id": "922651130026328",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "El miedo te paraliza o te impulsa. No hay otra.\n\nNo deja de existir. La incomodidad vivirá en ti. Eso de adaptarse al proceso es mental: siempre va a ser incómodo, simplemente te vuelves más fuerte y aceptas esas incomodidades con mayor facilidad.\n\nLa vida es para vivirla incómodo.\n\nMándaselo a quien hoy lo necesite escuchar. 🔥\n\n#mentalidad #disciplina #miedo #emprendimiento",
+  "when": "2026-11-15T10:00:00",
+  "first_comment": "¿Qué es eso que te da miedo y aun así vas a hacer esta semana? Escríbelo aquí 👇"
+ },
+ {
+  "id": "fd20e4f9bbe0_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/c8eaebf0424f5d_story.mp4"
+  ],
   "cover": null,
-  "origen": "526292e437d25a"
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-15T10:00:00",
+  "first_comment": "",
+  "despues_de": "fd20e4f9bbe0",
+  "formato": "avance"
+ },
+ {
+  "id": "bb1a847029b2",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/bc3539a56be9c5.mp4"
+  ],
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_bc3539a56be9c5.jpg",
+  "audio": {
+   "audio_id": "520605971680626",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "El ejercicio en ayunas no tiene beneficios particulares. 🚫\n\nSi te sientes cómodo entrenando en ayunas, no te sientes desbalanceado y rindes como necesitas para tu objetivo, no hay necesidad de que desayunes.\n\nPero si lo que buscas es tener el mayor rendimiento posible en cada entrenamiento y extraerle a tu cuerpo cada onza de energía disponible, necesitas una fuente de carbohidratos previa al entrenamiento.\n\nGuárdalo y mándaselo al compa que jura que en ayunas quema más. 👇\n\n#nutriciondeportiva #ayuno #entrenamiento #carbohidratos #mitosfitness",
+  "when": "2026-11-15T12:00:00",
+  "first_comment": "Pregunta honesta: ¿entrenas en ayunas o comes algo antes? Y si comes, ¿qué? 👇"
+ },
+ {
+  "id": "bb1a847029b2_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/bc3539a56be9c5_motion.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-15T12:00:00",
+  "first_comment": "",
+  "despues_de": "bb1a847029b2",
+  "formato": "motion"
+ },
+ {
+  "id": "a36f5e0b1644",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/e1531e2ed15dd0.mp4"
+  ],
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_e1531e2ed15dd0.jpg",
+  "audio": {
+   "audio_id": "2141116976274369",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "Aquí ya 10 personas se hubieran parado.\n\nY otras 15 también. Por eso la serie no se acaba cuando uno quiere: se acaba cuando ya no hay movimiento. Y cuando ya no sale completa… parcialitas.\n\nMándaselo al compa que deja la serie en cuanto empieza a arder. Y tú, ¿hasta dónde llegas?\n\n#entrenamiento #gym #hipertrofia #parciales",
+  "when": "2026-11-15T17:00:00",
+  "first_comment": "Sé honesto: ¿tú eres de los que se paran antes o de los que sacan parcialitas? 👇"
+ },
+ {
+  "id": "a36f5e0b1644_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/e1531e2ed15dd0_story.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-15T17:00:00",
+  "first_comment": "",
+  "despues_de": "a36f5e0b1644",
+  "formato": "avance"
+ },
+ {
+  "id": "47cdd8444193",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/999f9b91d9748c.mp4"
+  ],
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_999f9b91d9748c.jpg",
+  "audio": {
+   "audio_id": "1050681075992013",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "Estiramiento estático vs PNF: no es lo mismo.\n\n🔹 Estático: llego a mi primer punto de restricción y me quedo ahí 30, 60 segundos, puede ser un poquito más o un poquito menos.\n🔹 PNF: contracción, estiramiento, intensidad submáxima en la contracción. Aquí ya no me importa el primer punto de restricción: me importa el rango final.\n\nGuárdalo para tu próxima sesión de movilidad. ¿Cuál usas tú?\n\n#movilidad #estiramiento #pnf #entrenamiento",
+  "when": "2026-11-16T10:00:00",
+  "first_comment": "¿Tú estiras estático o has probado PNF? Cuéntame 👇"
+ },
+ {
+  "id": "47cdd8444193_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/999f9b91d9748c_story.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-16T10:00:00",
+  "first_comment": "",
+  "despues_de": "47cdd8444193",
+  "formato": "avance"
+ },
+ {
+  "id": "fac2c963457c",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/c8eaebf0424f5d.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "Familia, el miedo es real: te paraliza o te impulsa. Siempre va a ser incómodo, simplemente te vuelves más fuerte. La vida es para vivirla incómodo. ¿A ti qué te hace el miedo?",
+  "when": "2026-11-21T12:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "d8ae4b05d945",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/bc3539a56be9c5.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "Familia, el ejercicio en ayunas no tiene beneficios particulares. Si te sientes cómodo y rindes bien, no hay necesidad de desayunar. Pero si buscas el mayor rendimiento en cada entrenamiento, necesitas una fuente de carbohidratos antes. ¿Tú cómo lo haces: en ayunas o con algo en el estómago?",
+  "when": "2026-11-21T17:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "d55f84a05756",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/e1531e2ed15dd0.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "Aquí ya 10 personas se hubieran parado, y otras 15 también. La serie se termina cuando ya no hay movimiento, no cuando uno quiere. ¿Tú hasta dónde llegas en cada serie?",
+  "when": "2026-11-22T10:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "13f92f4fafa4",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/999f9b91d9748c.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "Estático vs PNF: en el estático llego a mi primer punto de restricción y me quedo 30, 60 segundos. En el PNF ya no me importa ese punto, me importa el rango final. ¿Cuál usas tú?",
+  "when": "2026-11-22T12:00:00",
+  "first_comment": ""
  }
 ]
