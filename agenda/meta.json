@@ -2929,5 +2929,101 @@
   "audio": null,
   "cover": null,
   "origen": "ca46e8cf560b56"
+ },
+ {
+  "id": "3d4af9b10591",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/9c1c4104c2d72d.mp4"
+  ],
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_9c1c4104c2d72d.jpg",
+  "audio": {
+   "audio_id": "263896829897972",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "A pegarle .55 en la primera o segunda repetición.\n\nAsí entrenamos midiendo la velocidad de la barra. Si le pegamos .55 en la primera, después .55 en la segunda… pero la tercera ya no debería salir más rápida.\n\nNada más la segunda puede ser más rápida que la primera; la tercera sería rarísimo que fuera más rápida que la primera o segunda. Con todo, bro.\n\n¿Tú entrenas midiendo velocidad o a ojo? Comenta VELOCIDAD y guárdalo para tu próximo día de fuerza.\n\n#entrenamiento #fuerza #gym #powerlifting #tecnica",
+  "when": "2026-11-13T17:00:00",
+  "first_comment": "¿Alguna vez has medido la velocidad de tu barra? ¿En qué ejercicio te gustaría probarlo? 👇"
+ },
+ {
+  "id": "3d4af9b10591_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/9c1c4104c2d72d_story.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-13T17:00:00",
+  "first_comment": "",
+  "despues_de": "3d4af9b10591",
+  "formato": "avance"
+ },
+ {
+  "id": "6b8e773a2c71",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/13c69220e33912.mp4"
+  ],
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_13c69220e33912.jpg",
+  "audio": {
+   "audio_id": "25373412465646198",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "¿Por qué 300 a 400 mililitros de agua?\n\nPorque la osmolaridad que dan los ingredientes así asegura una disolución perfecta. Así lo preparamos y lo probamos: el de mango está igual de refrescante que el CoreX, pero un poquito más dulce, no tan ácido. 10 de 10.\n\nMe habían dicho que hasta para un agua fresca está delicioso.\n\nGuárdalo para la próxima vez que lo prepares y mándaselo al compa que lo hace con un chorrito de agua.\n\n#preentreno #pumpx #epiclabs #gym #suplementos",
+  "when": "2026-11-14T10:00:00",
+  "first_comment": "¿Con cuánta agua preparas tu pre-entreno? Sé honesto 👇"
+ },
+ {
+  "id": "6b8e773a2c71_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/13c69220e33912_story.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-14T10:00:00",
+  "first_comment": "",
+  "despues_de": "6b8e773a2c71",
+  "formato": "avance"
+ },
+ {
+  "id": "69c79d381dab",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/9c1c4104c2d72d.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "A pegarle .55 en la primera o segunda repetición. Así trabajamos midiendo la velocidad de la barra: la segunda puede salir más rápida que la primera, pero la tercera sería rarísimo. ¿Tú has entrenado midiendo velocidad o todo a ojo?",
+  "when": "2026-11-17T12:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "2d97b5488853",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/13c69220e33912.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "¿Por qué 300 a 400 mililitros de agua para el PumpX? Por la osmolaridad de los ingredientes: así se disuelve bien. Lo probamos: el de mango está igual de refrescante que el CoreX, pero más dulce y no tan ácido. Me dijeron que hasta para agua fresca está delicioso. ¿Tú con cuánta agua lo preparas?",
+  "when": "2026-11-17T17:00:00",
+  "first_comment": ""
  }
 ]
