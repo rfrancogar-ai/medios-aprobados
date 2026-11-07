@@ -3330,18 +3330,99 @@
   "first_comment": ""
  },
  {
-  "id": "488d91b92d98e3_trial",
+  "id": "4873544be968",
   "net": "ig",
   "target": "17841400277954990",
-  "kind": "trial",
+  "kind": "reel",
   "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/488d91b92d98e3.mp4"
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/c7f2abca15b4cb.mp4"
   ],
-  "caption": "Por supuesto que yo también pienso: ¿y si no lo logro?\n\n¿Y si gasto dinero de más? ¿Y si no es la inversión correcta? ¿Y si no gusta?\n\nTodas esas maneras de derrotarte son las mismas que tienes de construirte. Esos sentimientos van a estar ahí, pero tú los haces realidad con tus palabras.\n\nEstá bien sentir miedo, está bien sentir frustración. Conviértelo en algo donde niegas fallar.\n\nMándaselo a alguien que está por arrancar algo y comenta CONSTRUIR si tú también estás en eso.\n\n#emprender #mentalidad #disciplina #epiclabs",
-  "when": "2026-11-08T12:00:00",
-  "first_comment": "",
-  "audio": null,
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_c7f2abca15b4cb.jpg",
+  "audio": {
+   "audio_id": "242659649830381",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "Tu preparación no es para verte chido al explicar.\n\nEs para que puedas ayudar con más asertividad, precisión, energía e intensidad a los demás. No se trata de tener más títulos para decir 'yo soy'… porque eso no sirve de nada en el mundo real.\n\nPero no quiere decir que no sirva prepararte: sirve para ver la enorme área de oportunidad que hay en aplicar esa teoría.\n\nMándaselo a un coach o nutriólogo que lo necesite.\n\n#coach #entrenadorpersonal #nutriologo #mentalidad",
+  "when": "2026-11-14T12:00:00",
+  "first_comment": "¿Qué vale más para ti en un coach: los títulos o cómo te explica? 👇"
+ },
+ {
+  "id": "4873544be968_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/c7f2abca15b4cb_motion.mp4"
+  ],
   "cover": null,
-  "origen": "2064be66461c78"
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-14T12:00:00",
+  "first_comment": "",
+  "despues_de": "4873544be968",
+  "formato": "motion"
+ },
+ {
+  "id": "9a9519dbcc39",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/1669b724c638f4.mp4"
+  ],
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_1669b724c638f4.jpg",
+  "audio": {
+   "audio_id": "1287142955643084",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "Esto le va a dar mucho tamaño a tu pierna.\n\nEn la máquina de femoral lo hacemos UNILATERAL, porque luego estas máquinas se enchuecan del brazo. Siempre fíjate que los ejes estén bien; si no, vas a terminar haciendo más fuerza en una pierna que en otra.\n\n✅ Una pierna y luego la otra\n✅ Deja que estire por completo\n✅ Arriba, jalón fuerte hacia abajo\n✅ No te subestimes: sube el peso y dale volumen de repeticiones\n\nGuárdalo para tu próximo día de pierna y mándaselo al compa que siempre lo hace con las dos.\n\n#entrenamiento #pierna #isquiosurales #gym #hipertrofia",
+  "when": "2026-11-14T17:00:00",
+  "first_comment": "¿Tú lo haces unilateral o con las dos piernas al mismo tiempo? Te leo 👇"
+ },
+ {
+  "id": "9a9519dbcc39_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/1669b724c638f4_motion.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-14T17:00:00",
+  "first_comment": "",
+  "despues_de": "9a9519dbcc39",
+  "formato": "motion"
+ },
+ {
+  "id": "668dcf98b425",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/c7f2abca15b4cb.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "Tu preparación no es para verte chido al explicar, es para ayudar mejor a los demás. Los títulos para decir 'yo soy' no sirven de nada en el mundo real; aplicar la teoría sí. ¿Qué opinas?",
+  "when": "2026-11-20T17:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "4f99f3c20dd7",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/1669b724c638f4.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "Esto le va a dar mucho tamaño a tu pierna. En la máquina de femoral hazlo unilateral: si los ejes no están bien vas a terminar haciendo más fuerza con una pierna que con otra. Estira por completo, jalón fuerte abajo y no te subestimes: sube el peso. ¿Tú cómo lo haces?",
+  "when": "2026-11-21T10:00:00",
+  "first_comment": ""
  }
 ]
