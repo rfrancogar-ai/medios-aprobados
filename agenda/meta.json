@@ -1922,7 +1922,8 @@
   "caption": "",
   "when": "2026-11-07T16:00:00",
   "first_comment": "",
-  "despues_de": "3c615b5002a9"
+  "despues_de": "3c615b5002a9",
+  "formato": "post_compartido"
  },
  {
   "id": "574f812a54ba",
@@ -1951,7 +1952,8 @@
   "caption": "",
   "when": "2026-11-08T09:00:00",
   "first_comment": "",
-  "despues_de": "574f812a54ba"
+  "despues_de": "574f812a54ba",
+  "formato": "post_compartido"
  },
  {
   "id": "18883cc3504a",
@@ -2008,7 +2010,8 @@
   "caption": "",
   "when": "2026-11-08T16:00:00",
   "first_comment": "",
-  "despues_de": "9a0dbc089668"
+  "despues_de": "9a0dbc089668",
+  "formato": "post_compartido"
  },
  {
   "id": "e83b6cb418ba85_trial",
@@ -2067,7 +2070,8 @@
   "caption": "",
   "when": "2026-11-09T09:00:00",
   "first_comment": "",
-  "despues_de": "71d8bd8474cb"
+  "despues_de": "71d8bd8474cb",
+  "formato": "post_compartido"
  },
  {
   "id": "c4d520a29ef7",
@@ -2124,7 +2128,8 @@
   "caption": "",
   "when": "2026-11-09T16:00:00",
   "first_comment": "",
-  "despues_de": "ad1bd0f34bfd"
+  "despues_de": "ad1bd0f34bfd",
+  "formato": "post_compartido"
  },
  {
   "id": "ce83c7ca3165",
@@ -2219,7 +2224,8 @@
   "caption": "",
   "when": "2026-11-10T16:00:00",
   "first_comment": "",
-  "despues_de": "f12c062a4203"
+  "despues_de": "f12c062a4203",
+  "formato": "post_compartido"
  },
  {
   "id": "a6f5ae9b0fee",
