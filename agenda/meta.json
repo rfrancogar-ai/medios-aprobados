@@ -1887,7 +1887,7 @@
   "target": "564848600309988",
   "kind": "images",
   "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img857381473c9_0.jpg"
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img857381473c9t_0.jpg"
   ],
   "cover": null,
   "audio": null,
@@ -1901,7 +1901,7 @@
   "target": "17841400277954990",
   "kind": "images",
   "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img857381473c9_0.jpg"
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img857381473c9t_0.jpg"
   ],
   "cover": null,
   "audio": null,
@@ -1922,8 +1922,7 @@
   "caption": "",
   "when": "2026-11-07T16:00:00",
   "first_comment": "",
-  "despues_de": "3c615b5002a9",
-  "formato": "post_compartido"
+  "despues_de": "3c615b5002a9"
  },
  {
   "id": "574f812a54ba",
@@ -1931,7 +1930,7 @@
   "target": "17841400277954990",
   "kind": "images",
   "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img1320c84e55a_0.jpg"
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img1320c84e55at_0.jpg"
   ],
   "cover": null,
   "audio": null,
@@ -1952,8 +1951,7 @@
   "caption": "",
   "when": "2026-11-08T09:00:00",
   "first_comment": "",
-  "despues_de": "574f812a54ba",
-  "formato": "post_compartido"
+  "despues_de": "574f812a54ba"
  },
  {
   "id": "18883cc3504a",
@@ -1961,7 +1959,7 @@
   "target": "564848600309988",
   "kind": "images",
   "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img1320c84e55a_0.jpg"
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img1320c84e55at_0.jpg"
   ],
   "cover": null,
   "audio": null,
@@ -1975,7 +1973,7 @@
   "target": "564848600309988",
   "kind": "images",
   "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imgc747a89a50a_0.jpg"
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imgc747a89a50at_0.jpg"
   ],
   "cover": null,
   "audio": null,
@@ -1989,7 +1987,7 @@
   "target": "17841400277954990",
   "kind": "images",
   "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imgc747a89a50a_0.jpg"
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imgc747a89a50at_0.jpg"
   ],
   "cover": null,
   "audio": null,
@@ -2010,8 +2008,7 @@
   "caption": "",
   "when": "2026-11-08T16:00:00",
   "first_comment": "",
-  "despues_de": "9a0dbc089668",
-  "formato": "post_compartido"
+  "despues_de": "9a0dbc089668"
  },
  {
   "id": "e83b6cb418ba85_trial",
@@ -2049,7 +2046,7 @@
   "target": "17841400277954990",
   "kind": "images",
   "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img735e2752a06_0.jpg"
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img735e2752a06t_0.jpg"
   ],
   "cover": null,
   "audio": null,
@@ -2070,8 +2067,7 @@
   "caption": "",
   "when": "2026-11-09T09:00:00",
   "first_comment": "",
-  "despues_de": "71d8bd8474cb",
-  "formato": "post_compartido"
+  "despues_de": "71d8bd8474cb"
  },
  {
   "id": "c4d520a29ef7",
@@ -2079,7 +2075,7 @@
   "target": "564848600309988",
   "kind": "images",
   "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img735e2752a06_0.jpg"
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img735e2752a06t_0.jpg"
   ],
   "cover": null,
   "audio": null,
@@ -2093,7 +2089,7 @@
   "target": "564848600309988",
   "kind": "images",
   "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imgd9b54898950_0.jpg"
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imgd9b54898950t_0.jpg"
   ],
   "cover": null,
   "audio": null,
@@ -2107,7 +2103,7 @@
   "target": "17841400277954990",
   "kind": "images",
   "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imgd9b54898950_0.jpg"
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imgd9b54898950t_0.jpg"
   ],
   "cover": null,
   "audio": null,
@@ -2128,8 +2124,7 @@
   "caption": "",
   "when": "2026-11-09T16:00:00",
   "first_comment": "",
-  "despues_de": "ad1bd0f34bfd",
-  "formato": "post_compartido"
+  "despues_de": "ad1bd0f34bfd"
  },
  {
   "id": "ce83c7ca3165",
@@ -2189,7 +2184,7 @@
   "target": "564848600309988",
   "kind": "images",
   "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img240de0f936c_0.jpg"
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img240de0f936ct_0.jpg"
   ],
   "cover": null,
   "audio": null,
@@ -2203,7 +2198,7 @@
   "target": "17841400277954990",
   "kind": "images",
   "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img240de0f936c_0.jpg"
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img240de0f936ct_0.jpg"
   ],
   "cover": null,
   "audio": null,
@@ -2224,8 +2219,7 @@
   "caption": "",
   "when": "2026-11-10T16:00:00",
   "first_comment": "",
-  "despues_de": "f12c062a4203",
-  "formato": "post_compartido"
+  "despues_de": "f12c062a4203"
  },
  {
   "id": "a6f5ae9b0fee",
