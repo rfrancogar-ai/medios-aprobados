@@ -237,36 +237,6 @@
   "origen": "img6f621e5f542"
  },
  {
-  "id": "a32b9edcdb93",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/17b124cadc5928.mp4"
-  ],
-  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_17b124cadc5928.jpg",
-  "audio": null,
-  "caption": "¡Se pudo, se pudo, se pudo!\n\nNo hay entrenamiento donde un compa no rompa su récord personal conmigo. Y no es por la exigencia: es porque se sienten seguros de que lo están haciendo con la técnica que yo les dije… y conmigo ahí atrás.\n\nDesde las piernas, el abdomen, controla hacia abajo.\n\nEtiqueta al compa con el que rompes récords.\n\n#gym #récordpersonal #tecnica #entrenamiento",
-  "when": "2026-11-02T20:20:00",
-  "first_comment": "¿Cuál fue tu último récord personal y en qué ejercicio?"
- },
- {
-  "id": "a32b9edcdb93_story",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "story",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/17b124cadc5928_motion.mp4"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "",
-  "when": "2026-11-02T20:20:00",
-  "first_comment": "",
-  "despues_de": "a32b9edcdb93",
-  "formato": "motion"
- },
- {
   "id": "ff2409c20217",
   "net": "fb",
   "target": "564848600309988",
@@ -281,51 +251,6 @@
   "first_comment": ""
  },
  {
-  "id": "d91c32e2e3b4f7_trial",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "trial",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/d91c32e2e3b4f7.mp4"
-  ],
-  "caption": "¡Se pudo, se pudo, se pudo!\n\nNo hay entrenamiento donde un compa no rompa su récord personal conmigo. Y no es por la exigencia: es porque se sienten seguros de que lo están haciendo con la técnica que yo les dije… y conmigo ahí atrás.\n\nDesde las piernas, el abdomen, controla hacia abajo.\n\nEtiqueta al compa con el que rompes récords.\n\n#gym #récordpersonal #tecnica #entrenamiento",
-  "when": "2026-11-02T20:20:00",
-  "first_comment": "",
-  "audio": null,
-  "cover": null,
-  "origen": "17b124cadc5928"
- },
- {
-  "id": "da838338a46d",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/bbdbf582934303.mp4"
-  ],
-  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_bbdbf582934303.jpg",
-  "audio": null,
-  "caption": "Ponerse abajo de una barra de 100 kilos da miedo. Y hay que ser transparentes.\n\nNo sabes cómo te va a ir… hasta que llega alguien, te dice \"aquí estamos, para eso estamos\" y te empuja.\n\nY el día que te quedas abajo y te ayudan a levantarla, te das cuenta de que no era lo peor que te podía pasar.\n\nEtiqueta a tu compa de gym.\n\n#gym #mentalidad #pressbanca #entrenamiento",
-  "when": "2026-11-02T21:10:00",
-  "first_comment": "¿Cuál es el peso que más miedo te ha dado tocar?"
- },
- {
-  "id": "da838338a46d_story",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "story",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/bbdbf582934303_story.mp4"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "",
-  "when": "2026-11-02T21:10:00",
-  "first_comment": "",
-  "despues_de": "da838338a46d",
-  "formato": "avance"
- },
- {
   "id": "8ce3b01e9739",
   "net": "fb",
   "target": "564848600309988",
@@ -338,21 +263,6 @@
   "caption": "Siendo transparente: siempre ha dado miedo ponerse abajo de una barra de 100 kilos y no saber cómo te va a ir, hasta que alguien te dice 'aquí estamos, para eso estamos'. ¿A ti qué peso te ha dado miedo?",
   "when": "2026-11-05T10:00:00",
   "first_comment": ""
- },
- {
-  "id": "566cb3e85d68c8_trial",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "trial",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/566cb3e85d68c8.mp4"
-  ],
-  "caption": "Ponerse abajo de una barra de 100 kilos da miedo. Y hay que ser transparentes.\n\nNo sabes cómo te va a ir… hasta que llega alguien, te dice \"aquí estamos, para eso estamos\" y te empuja.\n\nY el día que te quedas abajo y te ayudan a levantarla, te das cuenta de que no era lo peor que te podía pasar.\n\nEtiqueta a tu compa de gym.\n\n#gym #mentalidad #pressbanca #entrenamiento",
-  "when": "2026-11-02T21:10:00",
-  "first_comment": "",
-  "audio": null,
-  "cover": null,
-  "origen": "bbdbf582934303"
  },
  {
   "id": "eadeee18e016",
@@ -531,36 +441,6 @@
   "first_comment": ""
  },
  {
-  "id": "6968ea394fa1",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/221909971655f7.mp4"
-  ],
-  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_221909971655f7.jpg",
-  "audio": null,
-  "caption": "“No dejes que tus rodillas pasen la punta del pie.” Es completamente un mito.\n\nAl final de cuentas, no hay ejercicio lesivo, sino una mala ejecución del ejercicio.\n\n¿Y si ya tienes las rodillas operadas? Controla las cargas: mayor volumen de repeticiones, no jugar tanto con incremento de cargas. Quédate un segundito abajo donde estira, aprieta fuerte hacia arriba y que cada repetición se vea igual que la otra.\n\nComenta MITO si te lo habían dicho en el gym 👇\n\n#mitosdelgym #gym #rodillas #sentadilla #entrenamiento",
-  "when": "2026-11-02T19:30:00",
-  "first_comment": "¿Quién te dijo que las rodillas no deben pasar la punta del pie? 👇"
- },
- {
-  "id": "6968ea394fa1_story",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "story",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/221909971655f7_story.mp4"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "",
-  "when": "2026-11-02T19:30:00",
-  "first_comment": "",
-  "despues_de": "6968ea394fa1",
-  "formato": "avance"
- },
- {
   "id": "8fc25e3c5559",
   "net": "fb",
   "target": "564848600309988",
@@ -708,36 +588,6 @@
   "formato": "avance"
  },
  {
-  "id": "28c8a3e653fd",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/2f0f2b4413c7ee.mp4"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "Si la repetición hacia arriba dura más de dos segundos con un peso muy desafiante, hay que sacar al personaje. Siempre, siempre, siempre.\n\n¿Por qué? En el excéntrico somos más fuertes y para bajar algo podemos frenar más fácil. Pero cuando estamos tratando de subirlo y ya no hay movimiento, ya te pausaste.\n\nEs muy difícil calcularlo, porque a veces la barra se va moviendo lento. Por eso tomo los segundos en consideración.\n\nMándaselo a tu compa de entrenamiento 🤝\n\n#gym #fuerza #pressbanca #entrenamiento #spotter",
-  "when": "2026-11-03T01:00:00",
-  "first_comment": "¿Cuántos segundos dejas pelear a tu compa antes de ayudarle? 👇"
- },
- {
-  "id": "28c8a3e653fd_story",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "story",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/2f0f2b4413c7ee_story.mp4"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "",
-  "when": "2026-11-03T01:00:00",
-  "first_comment": "",
-  "despues_de": "28c8a3e653fd",
-  "formato": "avance"
- },
- {
   "id": "cac89b064db8",
   "net": "fb",
   "target": "564848600309988",
@@ -764,21 +614,6 @@
   "caption": "Regla que uso en el gym: si con un peso muy desafiante la repetición tarda más de dos segundos en subir, hay que sacarla. En el excéntrico somos más fuertes, pero cuando subes y ya no hay movimiento, ya te pausaste. ¿Tú peleas tus reps o te ayudan?",
   "when": "2026-11-06T17:00:00",
   "first_comment": ""
- },
- {
-  "id": "9fe60bcdf6c0ec_trial",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "trial",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/9fe60bcdf6c0ec.mp4"
-  ],
-  "caption": "“No dejes que tus rodillas pasen la punta del pie.” Es completamente un mito.\n\nAl final de cuentas, no hay ejercicio lesivo, sino una mala ejecución del ejercicio.\n\n¿Y si ya tienes las rodillas operadas? Controla las cargas: mayor volumen de repeticiones, no jugar tanto con incremento de cargas. Quédate un segundito abajo donde estira, aprieta fuerte hacia arriba y que cada repetición se vea igual que la otra.\n\nComenta MITO si te lo habían dicho en el gym 👇\n\n#mitosdelgym #gym #rodillas #sentadilla #entrenamiento",
-  "when": "2026-11-02T19:58:41",
-  "first_comment": "",
-  "audio": null,
-  "cover": null,
-  "origen": "221909971655f7"
  },
  {
   "id": "a3f9083bd4b9",
@@ -927,21 +762,6 @@
   "caption": "Hazlo con miedo, pero hazlo.\n\n— Proverbio\n\n¿Lo aplicas o te cuesta? Te leo 👇",
   "when": "2026-11-05T09:00:00",
   "first_comment": ""
- },
- {
-  "id": "ba9c61020aba62_trial",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "trial",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/ba9c61020aba62.mp4"
-  ],
-  "caption": "Si la repetición hacia arriba dura más de dos segundos con un peso muy desafiante, hay que sacar al personaje. Siempre, siempre, siempre.\n\n¿Por qué? En el excéntrico somos más fuertes y para bajar algo podemos frenar más fácil. Pero cuando estamos tratando de subirlo y ya no hay movimiento, ya te pausaste.\n\nEs muy difícil calcularlo, porque a veces la barra se va moviendo lento. Por eso tomo los segundos en consideración.\n\nMándaselo a tu compa de entrenamiento 🤝\n\n#gym #fuerza #pressbanca #entrenamiento #spotter",
-  "when": "2026-11-03T01:00:00",
-  "first_comment": "",
-  "audio": null,
-  "cover": null,
-  "origen": "2f0f2b4413c7ee"
  },
  {
   "id": "54f4cf75ae7f16_trial",
@@ -2577,5 +2397,53 @@
   "first_comment": "",
   "despues_de": "f12c062a4203",
   "formato": "post_compartido"
+ },
+ {
+  "id": "a6f5ae9b0fee",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/dd6ccc954d4b76.mp4"
+  ],
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_dd6ccc954d4b76.jpg",
+  "audio": {
+   "audio_id": "2183167475296101",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "Una bacteria en tu bote de proteína no se queda ahí.\n\nLas bacterias se reproducen muy rápido. Por ser un alimento no tan rápido, pero sí se reproducen: no le dejas una bacteria, le dejas una que va a ser mil bacterias, y cuando el cliente se la toma, le puede hacer algún efecto.\n\nPor eso lo correcto es tu sistema de recepción de materias primas: aceptar o rechazar. Pruebas previas antes de envasar. ¿Me venden proteína? Prueba de nitrógeno. ¿Me venden un polvo para tableta? Revisar qué tanta humedad tiene, si no las pastillas llegan quebradas.\n\nGuárdalo y comenta CALIDAD si quieres que te cuente qué más revisamos.\n\n#suplementos #proteina #calidad #epiclabs #nutricion",
+  "when": "2026-11-08T10:00:00",
+  "first_comment": "¿Alguna vez te ha llegado un suplemento con algo raro (grumos, olor, pastillas quebradas)? Cuéntame 👇"
+ },
+ {
+  "id": "a6f5ae9b0fee_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/dd6ccc954d4b76_story.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-08T10:00:00",
+  "first_comment": "",
+  "despues_de": "a6f5ae9b0fee",
+  "formato": "avance"
+ },
+ {
+  "id": "025e327a6c95",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/dd6ccc954d4b76.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "Si le dejas una bacteria a un bote de proteína, no se queda ahí: va a ser mil bacterias. Por eso lo correcto es un sistema de recepción de materias primas, aceptar o rechazar, con pruebas antes de envasar: nitrógeno para la proteína, humedad para las tabletas. ¿Tú te fijas quién hace tus suplementos?",
+  "when": "2026-11-14T10:00:00",
+  "first_comment": ""
  }
 ]
