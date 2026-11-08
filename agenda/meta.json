@@ -4831,5 +4831,149 @@
   "caption": "¿Natural o no natural, el esfuerzo debería cambiar? Hay días más fatigado, pero siempre buscar acercarte a dar tu máximo. Lo que cambia es la cantidad, el volumen y la frecuencia. ¿Tú entrenas siempre al máximo?",
   "when": "2026-11-29T02:59:16",
   "first_comment": ""
+ },
+ {
+  "id": "2f5fd34668a2",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/4e081870b93c14.mp4"
+  ],
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_4e081870b93c14.jpg",
+  "audio": {
+   "audio_id": "25373412465646198",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "¿Le subes o no le subes? Aquí está el punto crítico del entrenamiento.\n\nHizo 10 de 10. ¿Podríamos subirle? La respuesta es sí. Pero… ¿vamos a competir a ver quién levanta más peso? Ni siquiera existe esa competencia.\n\n¿Podemos mejor enfocarnos en mejorar la forma? Ahí está la respuesta.\n\nMándaselo al compa que le sube peso cada semana 👇 y comenta FORMA si tú también lo haces.\n\n#pressdebanca #tecnica #gym #entrenamiento #fuerza",
+  "when": "2026-11-21T10:00:00",
+  "first_comment": "Honesto: ¿cuándo fue la última vez que le subiste peso sin que tus repeticiones estuvieran perfectas?"
+ },
+ {
+  "id": "2f5fd34668a2_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/4e081870b93c14_story.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-21T10:00:00",
+  "first_comment": "",
+  "despues_de": "2f5fd34668a2",
+  "formato": "avance"
+ },
+ {
+  "id": "7bc777cc1926",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/97b44b5736ab6d.mp4"
+  ],
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_97b44b5736ab6d.jpg",
+  "audio": {
+   "audio_id": "1468413651836753",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "De los músculos más difíciles de conectar, dicho por todo el mundo. 👇\n\nCon tu propio cuerpo puedes modular la extensión y sobreponer el componente de rotación. En la última tuvo que hacer mucha fuerza para no irse, y está bien: también es parte de la rotación.\n\nEl resultado: \"tenía rato que no sentía mi hombro… la sensación es nueva\".\n\nMándaselo al que lleva años entrenando y no siente el hombro.\n\n#hombro #gym #tecnica #entrenamiento",
+  "when": "2026-11-21T12:00:00",
+  "first_comment": "¿Qué músculo te cuesta más sentir cuando entrenas?"
+ },
+ {
+  "id": "7bc777cc1926_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/97b44b5736ab6d_story.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-21T12:00:00",
+  "first_comment": "",
+  "despues_de": "7bc777cc1926",
+  "formato": "avance"
+ },
+ {
+  "id": "bf4f1ef05815",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/2918215810d762.mp4"
+  ],
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_2918215810d762.jpg",
+  "audio": {
+   "audio_id": "964909332832815",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "El hack para subir las mancuernas\n\nEl hack para subir las mancuernas: usa tus piernas, sube una y luego la otra, a medio camino no te detengas, y al final un poquito de muñeca hacia adentro.\n\nGuárdalo para tu próximo entrenamiento.\n.\n#nutricion #dieta #salud",
+  "when": "2026-11-21T17:00:00",
+  "first_comment": "¿Tú cómo subes las mancuernas pesadas: con las piernas o pides ayuda?"
+ },
+ {
+  "id": "bf4f1ef05815_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/2918215810d762_story.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-21T17:00:00",
+  "first_comment": "",
+  "despues_de": "bf4f1ef05815",
+  "formato": "avance"
+ },
+ {
+  "id": "e0d7f5554c51",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/2918215810d762.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "Este es el hack para subir las mancuernas: usas tus piernas, subes una, luego la otra, a medio camino no te detienes y al final un poquito de muñeca hacia adentro. ¿Tú pides ayuda o las subes solo?",
+  "when": "2026-11-29T03:19:54",
+  "first_comment": ""
+ },
+ {
+  "id": "ff266a6bb8e3",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/97b44b5736ab6d.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "De los músculos más difíciles de conectar: controlas la rotación con tu propio cuerpo y de repente \"tenía rato que no sentía mi hombro\". ¿Cuál es el músculo que tú no logras sentir?",
+  "when": "2026-11-29T03:19:54",
+  "first_comment": ""
+ },
+ {
+  "id": "6d559cdf8b54",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/4e081870b93c14.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "Hiciste 10 de 10 repeticiones. ¿Le subes o no le subes? Sí podríamos subirle… pero no estamos compitiendo a ver quién levanta más peso. ¿Podemos mejor enfocarnos en mejorar la forma? Ahí está la respuesta. ¿Tú cómo decides cuándo subir peso?",
+  "when": "2026-11-29T03:19:54",
+  "first_comment": ""
  }
 ]
