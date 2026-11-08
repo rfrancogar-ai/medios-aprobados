@@ -4990,5 +4990,20 @@
   "audio": null,
   "cover": null,
   "origen": "0c8840d385b51b"
+ },
+ {
+  "id": "80a3aefe45ba89_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/80a3aefe45ba89.mp4"
+  ],
+  "caption": "¿El colágeno es para el cabello? 👇\n\nUna proteína así de larga, el estómago la descompone en aminoácidos. Y el cuerpo decide en qué usa esos aminoácidos.\n\n¿Qué sí puedes hacer? Estimular que tu cuerpo vuelva a juntar esas proteínas: a través de la vitamina C y del entrenamiento.\n\n¿Te asegura que se vaya a las articulaciones? ¿Al cabello? No.\n\nMándaselo a quien se toma su colágeno para el cabello y guárdalo.\n\n#colageno #nutricion #mitos #suplementos",
+  "when": "2026-11-20T12:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "origen": "2e168acbe1c298"
  }
 ]
