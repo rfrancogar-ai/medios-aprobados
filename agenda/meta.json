@@ -4402,5 +4402,20 @@
   "caption": "El mito de los 30 gramos de proteína\n\nTe dijeron que tu cuerpo solo aprovecha treinta gramos de proteína por comida. Un estudio de dos mil veintitrés lo rompió, y el número te va a sorprender.\n\nGuárdalo para tu próximo entrenamiento.",
   "when": "2026-11-26T12:00:00",
   "first_comment": ""
+ },
+ {
+  "id": "6b22a781fd5d42_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/6b22a781fd5d42.mp4"
+  ],
+  "caption": "Desde abajo, súper agresivo.\n\nPeso muerto con barra hexagonal, arrancamos con 60 kilos. Medimos la velocidad de la barra: está muy ligero. Otra vez, dos repeticiones… y baja la barra: incrementamos 20 por lado.\n\nNo subes peso porque sí: subes cuando la barra te dice que está muy ligero.\n\nMándaselo al compa que siempre se queda con el mismo peso. Guarda este para tu próximo día de pierna.\n\n#pesomuerto #barrahexagonal #entrenamiento #fuerza #gym",
+  "when": "2026-11-18T17:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "origen": "dafb84e10a3a62"
  }
 ]
