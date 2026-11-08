@@ -4639,5 +4639,53 @@
   "caption": "Pierna recta, brazo atrás, abdomen fuerte. Encaja los dedos del pie, mano abajo del hombro, dispara una pierna para atrás y el brazo opuesto atrás; mantienes 5 segundos y cambias de lado. 6 repeticiones, 3 por lado. ¿Tú cómo lo haces?",
   "when": "2026-11-27T17:00:00",
   "first_comment": ""
+ },
+ {
+  "id": "00f32f1c61ea",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/52a5aa361d078b.mp4"
+  ],
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_52a5aa361d078b.jpg",
+  "audio": {
+   "audio_id": "922651130026328",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "Mi pre-entreno lo formulé con menor dosis de todos los que hay en el mercado. ⚡\n\nY entonces la pregunta: los demás pre-entrenos que se supone que son más fuertes, ¿realmente traen esas cantidades que le dicen a la gente?\n\nEl problema es que el mercado no está educado. Y los productores dicen: vamos a hacer lo que vende. Ahí está la raya: la disposición de la marca para educar.\n\nComenta ETIQUETA si quieres que lea la de tu pre.\n\n#preentreno #suplementos #cafeina #etiquetas #EPIC",
+  "when": "2026-11-20T10:00:00",
+  "first_comment": "¿Cuánta cafeína dice tu pre en la etiqueta? Te leo 👇"
+ },
+ {
+  "id": "00f32f1c61ea_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/52a5aa361d078b_story.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-20T10:00:00",
+  "first_comment": "",
+  "despues_de": "00f32f1c61ea",
+  "formato": "avance"
+ },
+ {
+  "id": "5aa56db3b02a",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/52a5aa361d078b.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "Mi pre-entreno lo formulé con menor dosis que todos los del mercado. ¿Los que se supone que son más fuertes realmente traen esas cantidades? El mercado no está educado y la marca tiene que educar. ¿Tú lees la etiqueta?",
+  "when": "2026-11-28T10:00:00",
+  "first_comment": ""
  }
 ]
