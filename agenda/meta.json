@@ -5121,5 +5121,53 @@
   "caption": "Mucha gente cree que no puede bajar en sentadilla, y muchas veces solo le estorba el brazo o la posición. Disco al pecho, abrázalo, rodillas hacia adelante, cadera hacia atrás y todo el rango hasta abajo. ¿Ya viste que sí bajas? ¿A ti qué es lo que más te cuesta de la sentadilla?",
   "when": "2026-11-29T09:59:48",
   "first_comment": ""
+ },
+ {
+  "id": "0879c4e75dce",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/977d6bffc5bc78.mp4"
+  ],
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_977d6bffc5bc78.jpg",
+  "audio": {
+   "audio_id": "964909332832815",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "Abdomen al principio de tu entrenamiento\n\nDesde que pongo el abdomen al principio de mi entrenamiento, he tenido muy buenos resultados en la fuerza de mi zona abdominal. Cada serie, un poquito más de inclinación.\n\nSígueme para más ciencia aplicada.\n.\n#gym #entrenamiento #fitness",
+  "when": "2026-11-22T12:00:00",
+  "first_comment": "¿Tú entrenas abdomen al principio, al final o… nunca? 😅 Dime la verdad 👇"
+ },
+ {
+  "id": "0879c4e75dce_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/977d6bffc5bc78_story.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-22T12:00:00",
+  "first_comment": "",
+  "despues_de": "0879c4e75dce",
+  "formato": "avance"
+ },
+ {
+  "id": "e7ff6d4dd124",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/977d6bffc5bc78.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "Casi todos dejamos el abdomen para el final, cuando ya no hay energía. Yo lo pongo al principio: cada serie un poquito más de inclinación y sacando el aire al subir. Desde que lo hago así, he notado mucho más fuerza en el abdomen. ¿Tú en qué orden lo entrenas?",
+  "when": "2026-11-29T10:19:48",
+  "first_comment": ""
  }
 ]
