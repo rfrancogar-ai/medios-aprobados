@@ -3725,5 +3725,53 @@
   "audio": null,
   "cover": null,
   "origen": "bc3539a56be9c5"
+ },
+ {
+  "id": "38e3783cc24e",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/vox4268076985.mp4"
+  ],
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_vox4268076985.jpg",
+  "audio": {
+   "audio_id": "2115441332323070",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "El error de volumen que te deja sin músculo\n\nSi entrenas cada músculo una sola vez por semana, estás dejando músculo en la mesa. Al final te digo el número exacto de series que necesitas.\n\nGuárdalo para tu próximo entrenamiento.\n.\n#fitness #nutricion",
+  "when": "2026-11-16T10:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "38e3783cc24e_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/vox4268076985_story.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-16T10:00:00",
+  "first_comment": "",
+  "despues_de": "38e3783cc24e",
+  "formato": "avance"
+ },
+ {
+  "id": "b5023a4095c6",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/vox4268076985.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "El error de volumen que te deja sin músculo\n\nSi entrenas cada músculo una sola vez por semana, estás dejando músculo en la mesa. Al final te digo el número exacto de series que necesitas.\n\nGuárdalo para tu próximo entrenamiento.",
+  "when": "2026-11-23T10:00:00",
+  "first_comment": ""
  }
 ]
