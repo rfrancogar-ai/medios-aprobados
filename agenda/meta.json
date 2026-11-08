@@ -5169,5 +5169,57 @@
   "caption": "Casi todos dejamos el abdomen para el final, cuando ya no hay energía. Yo lo pongo al principio: cada serie un poquito más de inclinación y sacando el aire al subir. Desde que lo hago así, he notado mucho más fuerza en el abdomen. ¿Tú en qué orden lo entrenas?",
   "when": "2026-11-29T10:19:48",
   "first_comment": ""
+ },
+ {
+  "id": "3f1d26606f63",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img8fa7b670d97_0.jpg",
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img8fa7b670d97_1.jpg",
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img8fa7b670d97_2.jpg",
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img8fa7b670d97_3.jpg",
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img8fa7b670d97_4.jpg"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "Si tu pre-entreno solo trae cafeína, le falta algo.\n\nCafeína + L-teanina: por qué van juntas — desliza y guárdalo 📌\n\nComenta tu pre-entreno y te digo qué dosis trae de cada cosa.\n\nFuente: Gerolymos C et al. 2026, Molecular Psychiatry (31 ECA, n=1,168); Payne ER et al. 2025, Nutrition Reviews (50 ECA)\n.\n#nutricion #suplementos #gym #ciencia",
+  "when": "2026-11-12T09:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "3f1d26606f63_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img8fa7b670d97_story.jpg"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-12T09:00:00",
+  "first_comment": "",
+  "despues_de": "3f1d26606f63",
+  "formato": "post_compartido"
+ },
+ {
+  "id": "57f0d5905c5d",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img8fa7b670d97_0.jpg",
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img8fa7b670d97_1.jpg",
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img8fa7b670d97_2.jpg",
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img8fa7b670d97_3.jpg",
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img8fa7b670d97_4.jpg"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "Si tu pre-entreno solo trae cafeína, le falta algo.\n\nCafeína + L-teanina: por qué van juntas. Te lo explico en 3 láminas.\n\nComenta tu pre-entreno y te digo qué dosis trae de cada cosa.\n\nFuente: Gerolymos C et al. 2026, Molecular Psychiatry (31 ECA, n=1,168); Payne ER et al. 2025, Nutrition Reviews (50 ECA)",
+  "when": "2026-11-12T09:00:00",
+  "first_comment": ""
  }
 ]
