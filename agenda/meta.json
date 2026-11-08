@@ -1,49 +1,5 @@
 [
  {
-  "id": "c3b0914e9ede",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "images",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imgc978c264b2f_0.jpg"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "No te compares con alguien que lleva diez años entrenando cuando tú llevas diez semanas.\n\n¿A quién se la mandarías? Etiquétalo 👇\n\nGuárdala para el día que la necesites 📌\n.\n#nutricion #suplementos #gym #ciencia",
-  "when": "2026-11-04T09:00:00",
-  "first_comment": ""
- },
- {
-  "id": "c3b0914e9ede_story",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "story",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imgc978c264b2f_story.jpg"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "",
-  "when": "2026-11-04T09:00:00",
-  "first_comment": "",
-  "despues_de": "c3b0914e9ede",
-  "formato": "post_compartido"
- },
- {
-  "id": "49636d8815f0",
-  "net": "fb",
-  "target": "564848600309988",
-  "kind": "images",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imgc978c264b2f_0.jpg"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "No te compares con alguien que lleva diez años entrenando cuando tú llevas diez semanas.\n\n¿A quién se la mandarías? Etiquétalo 👇",
-  "when": "2026-11-04T09:00:00",
-  "first_comment": ""
- },
- {
   "id": "e28f1f0eb785",
   "net": "fb",
   "target": "564848600309988",
@@ -86,21 +42,6 @@
   "first_comment": "",
   "despues_de": "f367d64abb93",
   "formato": "post_compartido"
- },
- {
-  "id": "imgc978c264b2ft_trial",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "trial",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imgc978c264b2ft.mp4"
-  ],
-  "caption": "No te compares con alguien que lleva diez años entrenando cuando tú llevas diez semanas.\n\n¿A quién se la mandarías? Etiquétalo 👇\n\nGuárdala para el día que la necesites 📌\n.\n#nutricion #suplementos #gym #ciencia",
-  "when": "2026-11-04T09:00:00",
-  "first_comment": "",
-  "audio": null,
-  "cover": null,
-  "origen": "imgc978c264b2f"
  },
  {
   "id": "ff2409c20217",
@@ -263,36 +204,6 @@
   "formato": "avance"
  },
  {
-  "id": "24206f4a1552",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/e185c0ee4911fc.mp4"
-  ],
-  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_e185c0ee4911fc.jpg",
-  "audio": null,
-  "caption": "No hagas ayunos prolongados. Mucho menos si tu objetivo es construir o conservar masa muscular.\n\nRecuerda: el ayuno completamente natural para el ser humano es cuando vamos a dormir. Al levantarte, lo mejor es romperlo con un desayuno rico en proteínas, distribuirlas bien a lo largo del día y no dejar tanto espacio entre comidas.\n\nAsí el consumo total de proteína del día es suficiente para construir masa muscular y también para conservarla.\n\nGuárdalo y comenta AYUNO si tienes dudas de cómo repartir tu proteína.\n\n#nutricion #proteina #masamuscular #ayuno #nutriologo",
-  "when": "2026-11-04T09:50:00",
-  "first_comment": "¿Cuántas horas pasas sin comer al día? ¿Y cuántas comidas con proteína haces?"
- },
- {
-  "id": "24206f4a1552_story",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "story",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/e185c0ee4911fc_motion.mp4"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "",
-  "when": "2026-11-04T09:50:00",
-  "first_comment": "",
-  "despues_de": "24206f4a1552",
-  "formato": "motion"
- },
- {
   "id": "8eefba1f5b00",
   "net": "fb",
   "target": "564848600309988",
@@ -304,20 +215,6 @@
   "audio": null,
   "caption": "No hagas ayunos prolongados, sobre todo si quieres construir o conservar músculo. El ayuno natural ya lo haces cuando duermes; al despertar, desayuno rico en proteína y repártela en todas tus comidas. ¿Tú haces ayuno intermitente? ¿Cómo te ha ido?",
   "when": "2026-11-06T10:00:00",
-  "first_comment": ""
- },
- {
-  "id": "54e774142d8d",
-  "net": "fb",
-  "target": "564848600309988",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/09044c246eeb12.mp4"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "No es el peso, es la velocidad: todas tus repeticiones deben ser iguales, la misma bajada y la misma explosividad en la subida. Nunca pierdas velocidad hasta que se pierda sola; ahí donde ya no sube, ahí es lo chido. ¿Tus reps se ven todas igual?",
-  "when": "2026-11-04T10:00:00",
   "first_comment": ""
  },
  {
@@ -406,21 +303,6 @@
   "audio": null,
   "cover": null,
   "origen": "561d41cbc8e726"
- },
- {
-  "id": "a64fb0e244203b_trial",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "trial",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/a64fb0e244203b.mp4"
-  ],
-  "caption": "No hagas ayunos prolongados. Mucho menos si tu objetivo es construir o conservar masa muscular.\n\nRecuerda: el ayuno completamente natural para el ser humano es cuando vamos a dormir. Al levantarte, lo mejor es romperlo con un desayuno rico en proteínas, distribuirlas bien a lo largo del día y no dejar tanto espacio entre comidas.\n\nAsí el consumo total de proteína del día es suficiente para construir masa muscular y también para conservarla.\n\nGuárdalo y comenta AYUNO si tienes dudas de cómo repartir tu proteína.\n\n#nutricion #proteina #masamuscular #ayuno #nutriologo",
-  "when": "2026-11-04T09:50:00",
-  "first_comment": "",
-  "audio": null,
-  "cover": null,
-  "origen": "e185c0ee4911fc"
  },
  {
   "id": "6f4b1213d20793_trial",
@@ -645,36 +527,6 @@
   "origen": "6d4581bdb135f6"
  },
  {
-  "id": "2beca2d368b2",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/38cf8a4b027b16.mp4"
-  ],
-  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_38cf8a4b027b16.jpg",
-  "audio": null,
-  "caption": "Tu sentadilla: rodillas con tus pies\n\nLa mejor manera de hacer tu sentadilla es como te sientas más cómodo. Eso sí: tus rodillas tienen que ir con tus pies, controlas hacia abajo y explotas de regreso.\n\nGuárdalo para tu próximo entrenamiento.\n.\n#gym #entrenamiento #fitness",
-  "when": "2026-11-04T10:00:00",
-  "first_comment": "¿Tú cargas la barra arriba en los trapecios o más abajito? ¿Y se te inclina la espalda? Cuéntame y te digo qué ajustar."
- },
- {
-  "id": "2beca2d368b2_story",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "story",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/38cf8a4b027b16_story.mp4"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "",
-  "when": "2026-11-04T10:00:00",
-  "first_comment": "",
-  "despues_de": "2beca2d368b2",
-  "formato": "avance"
- },
- {
   "id": "72e04bd1829b",
   "net": "fb",
   "target": "564848600309988",
@@ -775,21 +627,6 @@
   "caption": "Kilómetro 27 del maratón, familia. Los pies ya los ignoro, las rodillas igual, y voy cuidando un tirón en el isquiosural porque un calambre ahí sería fatal. Diez kilómetros más de esfuerzo y los últimos cinco, lo que Dios mande. Verdaderamente es toda una prueba. ¿Ustedes cuál ha sido su kilómetro 27?",
   "when": "2026-11-09T17:00:00",
   "first_comment": ""
- },
- {
-  "id": "d17e2f43f67075_trial",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "trial",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/d17e2f43f67075.mp4"
-  ],
-  "caption": "Tu sentadilla: rodillas con tus pies\n\nLa mejor manera de hacer tu sentadilla es como te sientas más cómodo. Eso sí: tus rodillas tienen que ir con tus pies, controlas hacia abajo y explotas de regreso.\n\nGuárdalo para tu próximo entrenamiento.\n.\n#gym #entrenamiento #fitness",
-  "when": "2026-11-04T10:00:00",
-  "first_comment": "",
-  "audio": null,
-  "cover": null,
-  "origen": "38cf8a4b027b16"
  },
  {
   "id": "21b78dcf8a23",
@@ -5236,5 +5073,53 @@
   "audio": null,
   "cover": null,
   "origen": "97b44b5736ab6d"
+ },
+ {
+  "id": "c736fd279fb6",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/939a144d58f1e3.mp4"
+  ],
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_939a144d58f1e3.jpg",
+  "audio": {
+   "audio_id": "1668904424802271",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "¿Crees que no te da la movilidad para bajar en sentadilla? 👀\n\nTriserie del diablo. La parte donde ya no hay que pensar nada: nomás lo haces.\n\n✅ Sube bien el disco a tu pecho y abrázalo para que no te estorbe\n✅ Trae todo el rango, hasta abajo\n✅ Avienta las rodillas hacia adelante y la cadera hacia atrás\n✅ Inclusive podrías dejar tu espalda derecha\n\n¿Ya viste que sí bajas? Nada más te estorbaba el brazo.\n\nGuárdalo para tu próximo día de pierna y mándaselo al compa que siempre se queda a medias. 💪\n\n#sentadilla #diadepierna #gym #tecnica #entrenamiento",
+  "when": "2026-11-22T10:00:00",
+  "first_comment": "¿Tú hasta dónde bajas en sentadilla: paralelo, abajo de paralelo o te quedas a medias? Sé honesto 👇"
+ },
+ {
+  "id": "c736fd279fb6_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/939a144d58f1e3_story.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-22T10:00:00",
+  "first_comment": "",
+  "despues_de": "c736fd279fb6",
+  "formato": "avance"
+ },
+ {
+  "id": "d1c1e5fd9cdd",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/939a144d58f1e3.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "Mucha gente cree que no puede bajar en sentadilla, y muchas veces solo le estorba el brazo o la posición. Disco al pecho, abrázalo, rodillas hacia adelante, cadera hacia atrás y todo el rango hasta abajo. ¿Ya viste que sí bajas? ¿A ti qué es lo que más te cuesta de la sentadilla?",
+  "when": "2026-11-29T09:59:48",
+  "first_comment": ""
  }
 ]
