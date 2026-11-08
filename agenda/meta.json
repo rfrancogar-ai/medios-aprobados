@@ -5289,5 +5289,149 @@
   "audio": null,
   "cover": null,
   "origen": "ed0f2eeefcefbb"
+ },
+ {
+  "id": "784613232f31",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/199131437ec712.mp4"
+  ],
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_199131437ec712.jpg",
+  "audio": {
+   "audio_id": "1620971306430249",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "El mejor consejo para sacar una marca de suplementos.\n\nLo más difícil es innovar manteniéndose basado en evidencia. Porque para mí lo más importante es cuidar la salud de mis pacientes y de los más de 25 mil clientes que tengo.\n\nPor eso el pre de EPIC: cafeína 100 % natural y mucho más enfocado en bombeo muscular y concentración.\n\n¿Qué te gustaría saber de cómo construimos EPIC? Te leo en comentarios 👇\n\n#EPICLabs #suplementos #emprendimiento #nutriologo #preentreno",
+  "when": "2026-11-23T10:00:00",
+  "first_comment": "¿Qué le preguntarías a alguien que acaba de sacar su marca de suplementos? 👇"
+ },
+ {
+  "id": "784613232f31_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/199131437ec712_motion.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-23T10:00:00",
+  "first_comment": "",
+  "despues_de": "784613232f31",
+  "formato": "motion"
+ },
+ {
+  "id": "62a474653241",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/c9b0f5532867d0.mp4"
+  ],
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_c9b0f5532867d0.jpg",
+  "audio": {
+   "audio_id": "1668904424802271",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "¿Qué puede reclutar la mayor cantidad de fibras posible?\n\nUna isométrica.\n\nAsí lo desarrollé: primero una isométrica. Después de eso, cuando ya tengo las fibras reclutadas, empiezo a hacer las repeticiones. ¿Por qué? Porque primero yo cargo el sistema nervioso y después hago las repeticiones.\n\nLas libras, los segundos y las repeticiones.\n\nPruébalo en tu siguiente serie y mándaselo a tu compa de gym 👇\n\n#entrenamiento #isometrico #gym #hipertrofia #fuerza",
+  "when": "2026-11-23T12:00:00",
+  "first_comment": "¿Haces isométricos antes de tus repeticiones o nunca los has probado? 👇"
+ },
+ {
+  "id": "62a474653241_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/c9b0f5532867d0_motion.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-23T12:00:00",
+  "first_comment": "",
+  "despues_de": "62a474653241",
+  "formato": "motion"
+ },
+ {
+  "id": "84c931164447",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/349177664af079.mp4"
+  ],
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_349177664af079.jpg",
+  "audio": {
+   "audio_id": "1134729364933022",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "Más series no siempre es mejor.\n\nInicio de la rutina, un ejercicio muy neurodemandante: estamos utilizando mucha energía, es un ejercicio también mental. Si hacemos muchas series, va a ser detrimental para nuestro entrenamiento.\n\nEntonces aquí se hacen dos, máximo tres series. Cuando vas al final ya no importa tanto, vas a tu máximo hasta donde salga. Pero ahorita es un ejercicio dentro de la rutina y tenemos que cuidarlo.\n\nGuárdalo y mándaselo al compa que hace series infinitas 👇\n\n#entrenamiento #gym #series #hipertrofia #fuerza",
+  "when": "2026-11-23T17:00:00",
+  "first_comment": "¿Cuántas series haces de tu primer ejercicio? 👇"
+ },
+ {
+  "id": "84c931164447_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/349177664af079_story.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-23T17:00:00",
+  "first_comment": "",
+  "despues_de": "84c931164447",
+  "formato": "avance"
+ },
+ {
+  "id": "3f7f6947b77f",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/349177664af079.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "Inicio de la rutina, un ejercicio muy neurodemandante: dos, máximo tres series. Si haces muchas, va a ser detrimental para tu entrenamiento. ¿Tú cuántas series haces de tu primer ejercicio?",
+  "when": "2026-11-29T15:46:25",
+  "first_comment": ""
+ },
+ {
+  "id": "c09f6e71686c",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/c9b0f5532867d0.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "¿Qué puede reclutar la mayor cantidad de fibras posible? Una isométrica. Primero cargo el sistema nervioso y después hago las repeticiones. ¿Tú haces isométricos antes de tus series?",
+  "when": "2026-11-29T15:46:25",
+  "first_comment": ""
+ },
+ {
+  "id": "286b68aa1a2e",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/199131437ec712.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "Me preguntaron el mejor consejo para sacar una marca de suplementos: innovar manteniéndote basado en evidencia, porque lo más importante es cuidar la salud de mis pacientes y de más de 25 mil clientes. ¿Qué le preguntarías tú?",
+  "when": "2026-11-29T15:46:25",
+  "first_comment": ""
  }
 ]
