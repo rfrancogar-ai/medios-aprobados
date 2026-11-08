@@ -1,49 +1,5 @@
 [
  {
-  "id": "f367d64abb93",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "images",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imgb6941f62828_0.jpg"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "No nos interesa que nos compres una vez, nos interesa que realmente obtengas el beneficio de nuestros suplementos.\n\nDe esa forma podemos decir y garantizar que son fórmulas para que llegues al siguiente nivel. Así que, ya sabes, escríbenos tu mensajito.\n\n¿A quién se la mandarías? Etiquétalo 👇\n\nGuárdala para el día que la necesites 📌\n.\n#nutricion #suplementos #gym #ciencia",
-  "when": "2026-11-04T16:00:00",
-  "first_comment": ""
- },
- {
-  "id": "f367d64abb93_story",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "story",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imgb6941f62828_story.jpg"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "",
-  "when": "2026-11-04T16:00:00",
-  "first_comment": "",
-  "despues_de": "f367d64abb93",
-  "formato": "post_compartido"
- },
- {
-  "id": "ff2409c20217",
-  "net": "fb",
-  "target": "564848600309988",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/17b124cadc5928.mp4"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "¡Se pudo! No hay entrenamiento donde un compa no rompa su récord personal conmigo. No es la exigencia: es que se sienten seguros de que lo hacen con la técnica que yo les dije, y conmigo ahí atrás. ¿Tú tienes a alguien que te cuide la barra?",
-  "when": "2026-11-04T17:00:00",
-  "first_comment": ""
- },
- {
   "id": "8ce3b01e9739",
   "net": "fb",
   "target": "564848600309988",
@@ -56,36 +12,6 @@
   "caption": "Siendo transparente: siempre ha dado miedo ponerse abajo de una barra de 100 kilos y no saber cómo te va a ir, hasta que alguien te dice 'aquí estamos, para eso estamos'. ¿A ti qué peso te ha dado miedo?",
   "when": "2026-11-05T10:00:00",
   "first_comment": ""
- },
- {
-  "id": "52ae61c0ca55",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/561d41cbc8e726.mp4"
-  ],
-  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_561d41cbc8e726.jpg",
-  "audio": null,
-  "caption": "Si tu licuado de proteína no te llena, esto es para ti.\n\nUsa hielo, fresas congeladas, plátano congelado y, en vez de leche, ponle kéfir o yogurt. Se vuelve un licuado más espeso y, con 50 gramos de proteína, una digestión más prolongada para que no te dé hambre durante tu ejercicio o tu día.\n\nGuárdalo para mañana y comenta LICUADO con tu ingrediente secreto.\n\n#licuadodeproteina #proteina #nutricion #saciedad",
-  "when": "2026-11-04T17:00:00",
-  "first_comment": "¿Licuado con agua, leche o yogurt? Cuéntame cómo lo preparas tú."
- },
- {
-  "id": "52ae61c0ca55_story",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "story",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/561d41cbc8e726_motion.mp4"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "",
-  "when": "2026-11-04T17:00:00",
-  "first_comment": "",
-  "despues_de": "52ae61c0ca55",
-  "formato": "motion"
  },
  {
   "id": "f68e4e2d0098",
@@ -230,21 +156,6 @@
   "caption": "No somos comerciantes ni empresarios que solo buscan el dinero: estamos detrás de suplementar atletas, de verdad. Así fue recibir a uno de nuestros atletas en la familia EPIC. ¿Qué te importa más de una marca que apoya atletas?",
   "when": "2026-11-07T10:00:00",
   "first_comment": ""
- },
- {
-  "id": "84a72359c89e0f_trial",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "trial",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/84a72359c89e0f.mp4"
-  ],
-  "caption": "Si tu licuado de proteína no te llena, esto es para ti.\n\nUsa hielo, fresas congeladas, plátano congelado y, en vez de leche, ponle kéfir o yogurt. Se vuelve un licuado más espeso y, con 50 gramos de proteína, una digestión más prolongada para que no te dé hambre durante tu ejercicio o tu día.\n\nGuárdalo para mañana y comenta LICUADO con tu ingrediente secreto.\n\n#licuadodeproteina #proteina #nutricion #saciedad",
-  "when": "2026-11-04T17:00:00",
-  "first_comment": "",
-  "audio": null,
-  "cover": null,
-  "origen": "561d41cbc8e726"
  },
  {
   "id": "f6c3711f6240",
@@ -5432,6 +5343,50 @@
   "audio": null,
   "caption": "Me preguntaron el mejor consejo para sacar una marca de suplementos: innovar manteniéndote basado en evidencia, porque lo más importante es cuidar la salud de mis pacientes y de más de 25 mil clientes. ¿Qué le preguntarías tú?",
   "when": "2026-11-29T15:46:25",
+  "first_comment": ""
+ },
+ {
+  "id": "f9cbaca643e7",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img98acc568765_0.jpg"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "Un buen plan se puede comprar. El hambre de cumplirlo, no.\n\n¿Estás de acuerdo? Dímelo en comentarios 👇\n\nGuárdala para el día que la necesites 📌\n.\n#nutricion #suplementos #gym #ciencia",
+  "when": "2026-11-12T16:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "f9cbaca643e7_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img98acc568765_story.jpg"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-12T16:00:00",
+  "first_comment": "",
+  "despues_de": "f9cbaca643e7",
+  "formato": "post_compartido"
+ },
+ {
+  "id": "c10c047676dc",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img98acc568765_0.jpg"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "Un buen plan se puede comprar. El hambre de cumplirlo, no.\n\n¿Estás de acuerdo? Dímelo en comentarios 👇",
+  "when": "2026-11-12T16:00:00",
   "first_comment": ""
  }
 ]
