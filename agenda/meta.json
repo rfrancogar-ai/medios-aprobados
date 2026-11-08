@@ -4184,5 +4184,20 @@
   "caption": "El baño de hielo que te roba músculo\n\nEl baño de hielo que todos suben a redes puede estar frenando tu músculo. Hay un momento en el que sí te conviene, al final te lo digo.\n\nGuárdalo para tu próximo entrenamiento.",
   "when": "2026-11-25T12:00:00",
   "first_comment": ""
+ },
+ {
+  "id": "1546f21283bece_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/1546f21283bece.mp4"
+  ],
+  "caption": "Son las 3 de la mañana.\n\nAcabo de crear una aplicación para que puedan rastrear los pedidos en la página. Llevo 5 horas aquí, usando ChatGPT, haciendo código. Está cabrón… pero está quedando.\n\nEsto también es construir una marca: lo que nadie ve.\n\nComenta 🕒 si tú también te has desvelado por tu proyecto.\n\n#emprendimiento #detrasdecamaras #epiclabs #fundador",
+  "when": "2026-11-17T20:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "origen": "14c35ab48651c6"
  }
 ]
