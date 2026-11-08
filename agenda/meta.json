@@ -3818,5 +3818,245 @@
   "audio": null,
   "cover": null,
   "origen": "c8eaebf0424f5d"
+ },
+ {
+  "id": "4618cc5f6527",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/vox333428157.mp4"
+  ],
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_vox333428157.jpg",
+  "audio": {
+   "audio_id": "640468588176831",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "Pesado o ligero: cuál da más músculo\n\nTe dijeron que para crecer tienes que cargar pesado. No es del todo cierto. Hay un detalle que cambia todo, te lo digo en diez segundos. Los metaanálisis comparan cargas ligeras contra pesadas.\n\nGuárdalo para tu próximo entrenamiento.\n.\n#fitness #nutricion",
+  "when": "2026-11-16T12:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "4618cc5f6527_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/vox333428157_motion.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-16T12:00:00",
+  "first_comment": "",
+  "despues_de": "4618cc5f6527",
+  "formato": "motion"
+ },
+ {
+  "id": "c5e281fc1aff",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/vox8638340602.mp4"
+  ],
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_vox8638340602.jpg",
+  "audio": {
+   "audio_id": "25373412465646198",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "Una noche sin dormir y tu músculo lo paga\n\nUna sola noche sin dormir y tu cuerpo empieza a construir menos músculo. Quédate, porque el dato de las hormonas es todavía peor.\n\nGuárdalo para tu próximo entrenamiento.\n.\n#fitness #nutricion",
+  "when": "2026-11-16T17:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "c5e281fc1aff_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/vox8638340602_story.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-16T17:00:00",
+  "first_comment": "",
+  "despues_de": "c5e281fc1aff",
+  "formato": "avance"
+ },
+ {
+  "id": "cb619ab74b1a",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/09ecda2272fc22.mp4"
+  ],
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_09ecda2272fc22.jpg",
+  "audio": {
+   "audio_id": "2183167475296101",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "¿Por qué todo el mundo lo hace para adelante?\n\nEn este ejercicio ni siquiera tienes que poner mucha presión: como la palanca está tan lejos, con poquito peso ya es suficiente para darle estabilidad.\n\nY el detalle: un brazo y una pierna contralateral, para trabajar la contralateralidad, igual que como corremos.\n\nGuárdalo para tu próximo día de pierna y mándaselo al compa que lo hace todo para adelante. 👇\n\n#entrenamiento #gym #tecnica #pierna #nutriologo",
+  "when": "2026-11-17T10:00:00",
+  "first_comment": "¿Tú lo hacías para adelante o para atrás? Cuéntame 👇"
+ },
+ {
+  "id": "cb619ab74b1a_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/09ecda2272fc22_story.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-17T10:00:00",
+  "first_comment": "",
+  "despues_de": "cb619ab74b1a",
+  "formato": "avance"
+ },
+ {
+  "id": "af9a93fe23dd",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/474275425002b7.mp4"
+  ],
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_474275425002b7.jpg",
+  "audio": {
+   "audio_id": "1287142955643084",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "Está bien no estar bien.\n\nEstá bien fallar, está bien no tener ganas de hacer nada, está bien ser humano, no creer, sentirse vacío, sentirse solo. Es completamente normal, es parte del proceso.\n\nMándaselo a esa persona que hoy lo necesita escuchar. 🤍\n\n#mentalidad #proceso #salud #disciplina",
+  "when": "2026-11-17T12:00:00",
+  "first_comment": "¿Qué te ayuda a ti a seguir cuando no tienes ganas de nada?"
+ },
+ {
+  "id": "af9a93fe23dd_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/474275425002b7_story.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-17T12:00:00",
+  "first_comment": "",
+  "despues_de": "af9a93fe23dd",
+  "formato": "avance"
+ },
+ {
+  "id": "84fc8fb3a5a3",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/14c35ab48651c6.mp4"
+  ],
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_14c35ab48651c6.jpg",
+  "audio": {
+   "audio_id": "3550072311825202",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "Son las 3 de la mañana.\n\nAcabo de crear una aplicación para que puedan rastrear los pedidos en la página. Llevo 5 horas aquí, usando ChatGPT, haciendo código. Está cabrón… pero está quedando.\n\nEsto también es construir una marca: lo que nadie ve.\n\nComenta 🕒 si tú también te has desvelado por tu proyecto.\n\n#emprendimiento #detrasdecamaras #epiclabs #fundador",
+  "when": "2026-11-17T17:00:00",
+  "first_comment": "¿Cuál ha sido tu desvelada más larga por tu proyecto?"
+ },
+ {
+  "id": "84fc8fb3a5a3_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/14c35ab48651c6_story.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-17T17:00:00",
+  "first_comment": "",
+  "despues_de": "84fc8fb3a5a3",
+  "formato": "avance"
+ },
+ {
+  "id": "496488751a47",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/vox333428157.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "Pesado o ligero: cuál da más músculo\n\nTe dijeron que para crecer tienes que cargar pesado. No es del todo cierto. Hay un detalle que cambia todo, te lo digo en diez segundos. Los metaanálisis comparan cargas ligeras contra pesadas.\n\nGuárdalo para tu próximo entrenamiento.",
+  "when": "2026-11-23T12:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "d9d54af33f36",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/vox8638340602.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "Una noche sin dormir y tu músculo lo paga\n\nUna sola noche sin dormir y tu cuerpo empieza a construir menos músculo. Quédate, porque el dato de las hormonas es todavía peor.\n\nGuárdalo para tu próximo entrenamiento.",
+  "when": "2026-11-23T17:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "2c5d046a79da",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/09ecda2272fc22.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "Con poner poquito peso ya es suficiente para darle estabilidad, porque la palanca está muy lejos. ¿Y por qué todo el mundo lo hace para adelante? Brazo y pierna contralateral, como corremos. ¿Tú cómo lo haces en tu rutina?",
+  "when": "2026-11-24T10:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "488a92e38181",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/474275425002b7.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "Hey familia, paso por acá para decirte que está bien no estar bien. Está bien fallar, está bien ser humano. Es completamente normal, es parte del proceso. ¿Qué haces tú en los días en que no tienes ganas de nada?",
+  "when": "2026-11-24T12:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "329e5c92abdd",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/14c35ab48651c6.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "Son las 3 de la mañana, llevo 5 horas aquí haciendo código para que puedan rastrear sus pedidos en la página. Está cabrón, pero está quedando muy bien. ¿Hasta qué hora te has desvelado tú por tu proyecto?",
+  "when": "2026-11-24T17:00:00",
+  "first_comment": ""
  }
 ]
