@@ -5176,5 +5176,20 @@
   "audio": null,
   "cover": null,
   "origen": "186a7180463e60"
+ },
+ {
+  "id": "2c82e29b01a79a_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/2c82e29b01a79a.mp4"
+  ],
+  "caption": "El hack para subir las mancuernas\n\nEl hack para subir las mancuernas: usa tus piernas, sube una y luego la otra, a medio camino no te detengas, y al final un poquito de muñeca hacia adentro.\n\nGuárdalo para tu próximo entrenamiento.\n.\n#nutricion #dieta #salud",
+  "when": "2026-11-21T12:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "origen": "2918215810d762"
  }
 ]
