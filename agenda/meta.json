@@ -4465,5 +4465,53 @@
   "caption": "Así se ve seguir indicaciones con el máximo esfuerzo: no me gires, sube en el mismo plano, hasta arriba… y controlas el regreso. ¿Tú controlas la bajada o la dejas caer?",
   "when": "2026-11-26T17:00:00",
   "first_comment": ""
+ },
+ {
+  "id": "0b8d1acffb9b",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/05233115c72d93.mp4"
+  ],
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_05233115c72d93.jpg",
+  "audio": {
+   "audio_id": "1579921342191993",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "Mientras más ocupados tus días, más energía.\n\nSi de repente no tienes absolutamente nada que hacer, estás ahí tirado en tu cama, y sabes que hay cosas que hacer… todo eso te quita mucha energía.\n\nOcupa tu día con las cosas que necesitas y con las que sabes que te van a hacer avanzar. Te vas a sentir mucho más enérgico y mucho más feliz contigo mismo.\n\nMándaselo a quien lleva días tirado en la cama. Guárdalo para tu lunes.\n\n#mentalidad #disciplina #energia #productividad",
+  "when": "2026-11-19T10:00:00",
+  "first_comment": "¿Qué es lo primero que haces en tu día para no quedarte tirado? 👇"
+ },
+ {
+  "id": "0b8d1acffb9b_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/05233115c72d93_motion.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-19T10:00:00",
+  "first_comment": "",
+  "despues_de": "0b8d1acffb9b",
+  "formato": "motion"
+ },
+ {
+  "id": "949547a6536e",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/05233115c72d93.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "Mientras más ocupados mantengas tus días, más energía vas a sentir. Estar tirado sabiendo que hay pendientes te drena. ¿Qué haces tú para no quedarte en la cama?",
+  "when": "2026-11-27T10:00:00",
+  "first_comment": ""
  }
 ]
