@@ -4088,5 +4088,101 @@
   "audio": null,
   "cover": null,
   "origen": "e1531e2ed15dd0"
+ },
+ {
+  "id": "8e7ebfd70fc3",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/vox4476026287.mp4"
+  ],
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_vox4476026287.jpg",
+  "audio": {
+   "audio_id": "1540755600953104",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "No necesitas 10,000 pasos\n\nLos diez mil pasos al día salieron de un anuncio, no de la ciencia. Te digo cuántos necesitas según tu edad. Un metaanálisis en The Lancet siguió a casi cuarenta y siete mil adultos.\n\nGuárdalo para tu próximo entrenamiento.\n.\n#fitness #nutricion",
+  "when": "2026-11-17T17:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "8e7ebfd70fc3_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/vox4476026287_motion.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-17T17:00:00",
+  "first_comment": "",
+  "despues_de": "8e7ebfd70fc3",
+  "formato": "motion"
+ },
+ {
+  "id": "5ba0212939d1",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/vox3703540618.mp4"
+  ],
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_vox3703540618.jpg",
+  "audio": {
+   "audio_id": "1134729364933022",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "El baño de hielo que te roba músculo\n\nEl baño de hielo que todos suben a redes puede estar frenando tu músculo. Hay un momento en el que sí te conviene, al final te lo digo.\n\nGuárdalo para tu próximo entrenamiento.\n.\n#fitness #nutricion",
+  "when": "2026-11-18T10:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "5ba0212939d1_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/vox3703540618_story.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-18T10:00:00",
+  "first_comment": "",
+  "despues_de": "5ba0212939d1",
+  "formato": "avance"
+ },
+ {
+  "id": "b3220791fb2a",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/vox4476026287.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "No necesitas 10,000 pasos\n\nLos diez mil pasos al día salieron de un anuncio, no de la ciencia. Te digo cuántos necesitas según tu edad. Un metaanálisis en The Lancet siguió a casi cuarenta y siete mil adultos.\n\nGuárdalo para tu próximo entrenamiento.",
+  "when": "2026-11-25T10:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "c9dbbfabe9b2",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/vox3703540618.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "El baño de hielo que te roba músculo\n\nEl baño de hielo que todos suben a redes puede estar frenando tu músculo. Hay un momento en el que sí te conviene, al final te lo digo.\n\nGuárdalo para tu próximo entrenamiento.",
+  "when": "2026-11-25T12:00:00",
+  "first_comment": ""
  }
 ]
