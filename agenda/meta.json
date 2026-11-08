@@ -5005,5 +5005,101 @@
   "audio": null,
   "cover": null,
   "origen": "2e168acbe1c298"
+ },
+ {
+  "id": "05f4266355a3",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/186a7180463e60.mp4"
+  ],
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_186a7180463e60.jpg",
+  "audio": {
+   "audio_id": "242659649830381",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "¿Quieres la parte alta del pecho? La inclinación no es todo.\n\nLa gente que quiere desarrollar la zona clavicular tiende a hacer ejercicios con inclinación… pero la forma, otra vez:\n🥇 Codos abiertos → fibras de todo el pecho\n🥈 Codos a 45 grados → zona clavicular\n🥉 Codos adentro → más contribución de tríceps\n\nGuárdalo para tu próximo día de pecho y mándaselo a tu compa de entreno 👇\n\n#pecho #pressinclinado #gym #tecnica #hipertrofia",
+  "when": "2026-11-21T17:00:00",
+  "first_comment": "¿Cómo llevas tus codos en el press inclinado: abiertos, a 45 o pegados? 👇"
+ },
+ {
+  "id": "05f4266355a3_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/186a7180463e60_story.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-21T17:00:00",
+  "first_comment": "",
+  "despues_de": "05f4266355a3",
+  "formato": "avance"
+ },
+ {
+  "id": "e3600e746f87",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/69e83d06ec3ec4.mp4"
+  ],
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_69e83d06ec3ec4.jpg",
+  "audio": {
+   "audio_id": "1501269788724597",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "Super tip: si generas velocidad en tus entrenamientos, entrenas otra cosa.\n\nHay un tipo de fibras más explosivas, como las que usan los corredores de 100 metros: rápido y se agotan rápido. Aquí en el gym estamos muy acostumbrados a hacer todo lento… y entre más lento hagas tus movimientos de fuerza, más lento te vas a hacer.\n\nSi quieres conservar potencia (fuerza + velocidad), necesitas movimientos explosivos.\n\nGuárdalo y mándaselo al compa que hace todo en cámara lenta 👇\n\n#potencia #fuerza #gym #entrenamiento #hipertrofia",
+  "when": "2026-11-22T10:00:00",
+  "first_comment": "¿Cuántas de tus repeticiones son explosivas al subir? Sé honesto 👇"
+ },
+ {
+  "id": "e3600e746f87_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/69e83d06ec3ec4_story.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-22T10:00:00",
+  "first_comment": "",
+  "despues_de": "e3600e746f87",
+  "formato": "avance"
+ },
+ {
+  "id": "bf68a3ab2754",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/69e83d06ec3ec4.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "Aquí en el gym estamos muy acostumbrados a hacer el movimiento lento y lento. Pero entre más lento hagas tus movimientos de fuerza, más lento te vas a hacer. Si quieres conservar potencia, que es fuerza más velocidad, necesitas movimientos explosivos. ¿Tú entrenas rápido o lento?",
+  "when": "2026-11-29T03:39:52",
+  "first_comment": ""
+ },
+ {
+  "id": "c1e88cf13ab1",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/186a7180463e60.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "¿Haces press inclinado para la parte alta del pecho? La forma importa: con codos abiertos trabajas todo el pecho, con codos a 45 grados la zona clavicular y con codos adentro le das más trabajo al tríceps. ¿Tú cómo los llevas?",
+  "when": "2026-11-29T03:39:52",
+  "first_comment": ""
  }
 ]
