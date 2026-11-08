@@ -5221,5 +5221,20 @@
   "audio": null,
   "cover": null,
   "origen": "69e83d06ec3ec4"
+ },
+ {
+  "id": "9ec88a19023d74_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/9ec88a19023d74.mp4"
+  ],
+  "caption": "De los músculos más difíciles de conectar, dicho por todo el mundo. 👇\n\nCon tu propio cuerpo puedes modular la extensión y sobreponer el componente de rotación. En la última tuvo que hacer mucha fuerza para no irse, y está bien: también es parte de la rotación.\n\nEl resultado: \"tenía rato que no sentía mi hombro… la sensación es nueva\".\n\nMándaselo al que lleva años entrenando y no siente el hombro.\n\n#hombro #gym #tecnica #entrenamiento",
+  "when": "2026-11-21T10:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "origen": "97b44b5736ab6d"
  }
 ]
