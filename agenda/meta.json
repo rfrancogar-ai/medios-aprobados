@@ -4354,5 +4354,53 @@
   "caption": "Peso muerto con barra hexagonal: arrancamos con 60 kilos, desde abajo y súper agresivo. La barra iba muy ligera, así que incrementamos 20 por lado. ¿Tú cómo decides cuándo subirle al peso?",
   "when": "2026-11-26T10:00:00",
   "first_comment": ""
+ },
+ {
+  "id": "f86420c1b48f",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/vox5540416659.mp4"
+  ],
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_vox5540416659.jpg",
+  "audio": {
+   "audio_id": "1039098790480932",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "El mito de los 30 gramos de proteína\n\nTe dijeron que tu cuerpo solo aprovecha treinta gramos de proteína por comida. Un estudio de dos mil veintitrés lo rompió, y el número te va a sorprender.\n\nGuárdalo para tu próximo entrenamiento.\n.\n#fitness #nutricion",
+  "when": "2026-11-18T17:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "f86420c1b48f_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/vox5540416659_story.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-18T17:00:00",
+  "first_comment": "",
+  "despues_de": "f86420c1b48f",
+  "formato": "avance"
+ },
+ {
+  "id": "5a283a9d94f7",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/vox5540416659.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "El mito de los 30 gramos de proteína\n\nTe dijeron que tu cuerpo solo aprovecha treinta gramos de proteína por comida. Un estudio de dos mil veintitrés lo rompió, y el número te va a sorprender.\n\nGuárdalo para tu próximo entrenamiento.",
+  "when": "2026-11-26T12:00:00",
+  "first_comment": ""
  }
 ]
