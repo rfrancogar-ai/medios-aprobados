@@ -4543,5 +4543,101 @@
   "audio": null,
   "cover": null,
   "origen": "7b02e6d43a21a1"
+ },
+ {
+  "id": "3976a5215165",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/0c8840d385b51b.mp4"
+  ],
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_0c8840d385b51b.jpg",
+  "audio": {
+   "audio_id": "1108285910189784",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "Nadie me dijo cómo hacerlo.\n\nNadie me dijo “oye Roberto, te tienes que levantar temprano, tienes que ir a entrenar, tienes que hacer pedido, no puedes gastar en cosas estúpidas, tienes que cuidar el negocio”. Te tropiezas, la vida te da putazos y vas entendiendo, investigando, averiguando.\n\nPero la realidad es que son decisiones que tú tomas día a día. Hacerse víctima de su proceso es inútil: solamente te estanca. El dolor hay que saber utilizarlo como una herramienta útil y poderosa.\n\nSi no estás en el lugar que quieres estar, probablemente es porque no estás tomando las decisiones que tienes que tomar.\n\nMándaselo a alguien que necesita escucharlo hoy.\n\n#mentalidad #emprendimiento #disciplina #decisiones",
+  "when": "2026-11-19T12:00:00",
+  "first_comment": "¿Cuál es la decisión que llevas tiempo posponiendo? Escríbela aquí 👇"
+ },
+ {
+  "id": "3976a5215165_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/0c8840d385b51b_story.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-19T12:00:00",
+  "first_comment": "",
+  "despues_de": "3976a5215165",
+  "formato": "avance"
+ },
+ {
+  "id": "68cc93e38e2a",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/d369e989aa22f5.mp4"
+  ],
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_d369e989aa22f5.jpg",
+  "audio": {
+   "audio_id": "2514409042132061",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "Pierna recta, brazo atrás, abdomen fuerte. Así se hace 👇\n\n1️⃣ Encaja los dedos del pie: pies activos.\n2️⃣ Mano: dibuja una línea directamente abajo del hombro.\n3️⃣ Dispara una pierna para atrás, con la punta hacia adentro. El talón no sobrepasa la cadera o glúteo.\n4️⃣ Brazo opuesto para atrás.\n5️⃣ Mantén 5 segundos, baja y cambia de lado. 6 repeticiones, 3 por lado.\n\nGuárdalo para tu próximo día de core y mándaselo a quien entrena contigo.\n\n#entrenamiento #core #abdomen #tecnica #gym",
+  "when": "2026-11-19T17:00:00",
+  "first_comment": "¿Qué se te complica más: mantener la pierna recta o el abdomen fuerte los 5 segundos?"
+ },
+ {
+  "id": "68cc93e38e2a_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/d369e989aa22f5_motion.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-19T17:00:00",
+  "first_comment": "",
+  "despues_de": "68cc93e38e2a",
+  "formato": "motion"
+ },
+ {
+  "id": "fa7a5fca4ee2",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/0c8840d385b51b.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "Nadie me dijo cómo hacerlo: levantarme temprano, entrenar, hacer pedidos, cuidar el negocio. Te tropiezas y vas entendiendo. Pero son decisiones que tú tomas día a día, y hacerse víctima del proceso solo te estanca. ¿Qué decisión estás posponiendo?",
+  "when": "2026-11-27T12:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "2b8e5413e622",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/d369e989aa22f5.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "Pierna recta, brazo atrás, abdomen fuerte. Encaja los dedos del pie, mano abajo del hombro, dispara una pierna para atrás y el brazo opuesto atrás; mantienes 5 segundos y cambias de lado. 6 repeticiones, 3 por lado. ¿Tú cómo lo haces?",
+  "when": "2026-11-27T17:00:00",
+  "first_comment": ""
  }
 ]
