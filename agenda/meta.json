@@ -4073,5 +4073,20 @@
   "audio": null,
   "cover": null,
   "origen": "dc3f5d54d73b31"
+ },
+ {
+  "id": "6c7c4ae9e54d7f_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/6c7c4ae9e54d7f.mp4"
+  ],
+  "caption": "Aquí ya 10 personas se hubieran parado.\n\nY otras 15 también. Por eso la serie no se acaba cuando uno quiere: se acaba cuando ya no hay movimiento. Y cuando ya no sale completa… parcialitas.\n\nMándaselo al compa que deja la serie en cuanto empieza a arder. Y tú, ¿hasta dónde llegas?\n\n#entrenamiento #gym #hipertrofia #parciales",
+  "when": "2026-11-15T12:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "origen": "e1531e2ed15dd0"
  }
 ]
