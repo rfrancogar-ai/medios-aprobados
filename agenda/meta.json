@@ -4528,5 +4528,20 @@
   "audio": null,
   "cover": null,
   "origen": "05233115c72d93"
+ },
+ {
+  "id": "764c5b5f828c3f_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/764c5b5f828c3f.mp4"
+  ],
+  "caption": "No me gires. Sube en el mismo plano.\n\nAquí está el mero ejemplo de seguir indicaciones y hacer el máximo esfuerzo: empuja, no gires, sube hasta arriba en el mismo plano… y controlas el regreso. Cinco más, te ayudo, pero control, control, control.\n\nEl regreso también es la serie. Si lo sueltas, te estás regalando la mitad del trabajo.\n\nMándaselo al compa que sube bien y baja en caída libre. Guárdalo para tu próximo entreno.\n\n#entrenamiento #gym #tecnica #fuerza #coach",
+  "when": "2026-11-18T20:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "origen": "7b02e6d43a21a1"
  }
 ]
