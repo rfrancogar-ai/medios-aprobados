@@ -50,6 +50,7 @@ FUERA = ("muert", "halloween", "navidad", "christmas", "en vivo", "live", "san j
          "fantasma", "phantom", "calaca", "bruja", "zombie", "spooky", "ghost", "monster", "thriller", "almas", "witch",
          "vampir", "calavera", "ofrenda", "trick", "treat", "pumpkin", "calabaza", "terror", "horror", "scream", "boo", "goo goo muck", "watching me")
 _TENDENCIA = None
+_RECIENTES = None
 
 
 def musica(e):
@@ -185,19 +186,28 @@ def guardar(hecho):
 
 
 def ya_en_instagram(e):
-    """Segunda llave: si en las últimas 6 h ya hay en la cuenta un post con el mismo texto y del mismo tipo, no se
-    vuelve a subir (se anota ese). Cubre cualquier pérdida de estado."""
+    """Segunda llave: si en los últimos 45 días ya hay en la cuenta un post con el mismo texto y del mismo tipo, no se
+    vuelve a subir (se anota ese). Cubre cualquier pérdida de estado o un segundo camino de publicación."""
     if e["net"] != "ig" or e["kind"] == "story":
         return None
-    try:
-        d = req(f"{G}/{e['target']}/media?fields=id,caption,timestamp,media_product_type,is_shared_to_feed"
-                f"&limit=15&access_token={TOK}")
-    except RuntimeError:
-        return None
+    global _RECIENTES
+    if _RECIENTES is None:
+        _RECIENTES, url = [], (f"{G}/{e['target']}/media?fields=id,caption,timestamp,media_product_type,"
+                               f"is_shared_to_feed&limit=100&access_token={TOK}")
+        try:
+            for _ in range(3):
+                d = req(url)
+                _RECIENTES += d.get("data", [])
+                url = (d.get("paging") or {}).get("next")
+                if not url:
+                    break
+        except RuntimeError:
+            pass
+    d = {"data": _RECIENTES}
     cap = " ".join((e.get("caption") or "").split())[:120]
     if not cap:
         return None
-    limite = datetime.now(timezone.utc) - timedelta(hours=6)
+    limite = datetime.now(timezone.utc) - timedelta(days=45)
     for m in d.get("data", []):
         t = datetime.strptime(m["timestamp"], "%Y-%m-%dT%H:%M:%S%z")
         if t < limite or " ".join((m.get("caption") or "").split())[:120] != cap:
@@ -275,6 +285,11 @@ def main():
         try:
             ext = (ig if e["net"] == "ig" else fb)(e)
             hecho[e["id"]] = {"ok": 1, "ext": ext, "ts": datetime.now(MX).isoformat(timespec="seconds")}
+            if _RECIENTES is not None and e["net"] == "ig":  # lo recién publicado también cuenta en esta corrida
+                _RECIENTES.insert(0, {"id": ext, "caption": e.get("caption"), "media_product_type":
+                                      "FEED" if e["kind"] == "images" else "REELS",
+                                      "is_shared_to_feed": e["kind"] != "trial",
+                                      "timestamp": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S+0000")})
             if e.get("_musica"):
                 hecho[e["id"]]["musica"] = e["_musica"]
             guardar(hecho)  # en cuanto sale, queda escrito en main
