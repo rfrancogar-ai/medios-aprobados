@@ -5290,5 +5290,35 @@
   "audio": null,
   "cover": null,
   "origen": "9b929a6f7e55fa"
+ },
+ {
+  "id": "bc063dfbb586",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imge382e97ffc0_0.jpg"
+  ],
+  "animo": "reflexivo",
+  "cover": null,
+  "audio": null,
+  "caption": "No importa qué tan bien comes un día. Importa qué tan parecido comes toda la semana.\n\n¿A quién se la mandarías? Etiquétalo 👇\n\nGuárdala para el día que la necesites 📌\n.\n#nutricion #suplementos #gym #ciencia",
+  "when": "2026-11-13T09:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "ef9cf2344eb4",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imge382e97ffc0_0.jpg"
+  ],
+  "animo": "reflexivo",
+  "cover": null,
+  "audio": null,
+  "caption": "No importa qué tan bien comes un día. Importa qué tan parecido comes toda la semana.\n\n¿A quién se la mandarías? Etiquétalo 👇",
+  "when": "2026-11-13T09:00:00",
+  "first_comment": ""
  }
 ]
