@@ -2314,40 +2314,6 @@
   "origen": "ca46e8cf560b56"
  },
  {
-  "id": "3d4af9b10591",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/9c1c4104c2d72d.mp4"
-  ],
-  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_9c1c4104c2d72d.jpg",
-  "audio": {
-   "audio_id": "263896829897972",
-   "audio_volume": 15,
-   "video_volume": 100
-  },
-  "caption": "A pegarle .55 en la primera o segunda repetición.\n\nAsí entrenamos midiendo la velocidad de la barra. Si le pegamos .55 en la primera, después .55 en la segunda… pero la tercera ya no debería salir más rápida.\n\nNada más la segunda puede ser más rápida que la primera; la tercera sería rarísimo que fuera más rápida que la primera o segunda. Con todo, bro.\n\n¿Tú entrenas midiendo velocidad o a ojo? Comenta VELOCIDAD y guárdalo para tu próximo día de fuerza.\n\n#entrenamiento #fuerza #gym #powerlifting #tecnica",
-  "when": "2026-11-12T20:00:00",
-  "first_comment": "¿Alguna vez has medido la velocidad de tu barra? ¿En qué ejercicio te gustaría probarlo? 👇"
- },
- {
-  "id": "3d4af9b10591_story",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "story",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/9c1c4104c2d72d_story.mp4"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "",
-  "when": "2026-11-12T20:00:00",
-  "first_comment": "",
-  "despues_de": "3d4af9b10591",
-  "formato": "avance"
- },
- {
   "id": "6b8e773a2c71",
   "net": "ig",
   "target": "17841400277954990",
@@ -2380,20 +2346,6 @@
   "first_comment": "",
   "despues_de": "6b8e773a2c71",
   "formato": "avance"
- },
- {
-  "id": "69c79d381dab",
-  "net": "fb",
-  "target": "564848600309988",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/9c1c4104c2d72d.mp4"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "A pegarle .55 en la primera o segunda repetición. Así trabajamos midiendo la velocidad de la barra: la segunda puede salir más rápida que la primera, pero la tercera sería rarísimo. ¿Tú has entrenado midiendo velocidad o todo a ojo?",
-  "when": "2026-11-17T12:00:00",
-  "first_comment": ""
  },
  {
   "id": "2d97b5488853",
@@ -2438,21 +2390,6 @@
   "audio": null,
   "cover": null,
   "origen": "2f431c00907479"
- },
- {
-  "id": "e1190bac6040e0_trial",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "trial",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/e1190bac6040e0.mp4"
-  ],
-  "caption": "A pegarle .55 en la primera o segunda repetición.\n\nAsí entrenamos midiendo la velocidad de la barra. Si le pegamos .55 en la primera, después .55 en la segunda… pero la tercera ya no debería salir más rápida.\n\nNada más la segunda puede ser más rápida que la primera; la tercera sería rarísimo que fuera más rápida que la primera o segunda. Con todo, bro.\n\n¿Tú entrenas midiendo velocidad o a ojo? Comenta VELOCIDAD y guárdalo para tu próximo día de fuerza.\n\n#entrenamiento #fuerza #gym #powerlifting #tecnica",
-  "when": "2026-11-12T20:00:00",
-  "first_comment": "",
-  "audio": null,
-  "cover": null,
-  "origen": "9c1c4104c2d72d"
  },
  {
   "id": "fad97232bd3a",
