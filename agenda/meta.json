@@ -1927,40 +1927,6 @@
   "formato": "motion"
  },
  {
-  "id": "7e1e366306c2",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/1f3c7a82cd85fd.mp4"
-  ],
-  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_1f3c7a82cd85fd.jpg",
-  "audio": {
-   "audio_id": "4156242777853896",
-   "audio_volume": 15,
-   "video_volume": 100
-  },
-  "caption": "Quiero pesado, pero no quiero mucha fatiga.\n\nAsí entrenamos a Ricardo en peso muerto con barra hexagonal: arrancamos con 60 kilos, desde abajo súper agresivo. Si la barra sale muy rápido, está muy ligero: incrementamos 20 por lado.\n\nY la clave: 10 % de pérdida de velocidad. Cuando la barra pierde velocidad, se acaba la serie. Pesado, sí; fatiga de más, no. Descanso de 3:30 y el pecho fuerte y firme todo el tiempo, aunque vayas bajando.\n\nGuárdalo para tu próximo día de pierna y mándaselo al compa que entrena siempre al fallo.\n\n#pesomuerto #entrenamientodefuerza #gym #fuerza #nutriologo",
-  "when": "2026-11-11T17:00:00",
-  "first_comment": "¿Alguna vez has entrenado midiendo la velocidad de la barra? Cuéntame qué usas para saber cuándo cortar la serie 👇"
- },
- {
-  "id": "7e1e366306c2_story",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "story",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/1f3c7a82cd85fd_story.mp4"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "",
-  "when": "2026-11-11T17:00:00",
-  "first_comment": "",
-  "despues_de": "7e1e366306c2",
-  "formato": "avance"
- },
- {
   "id": "4cbe029aef92",
   "net": "fb",
   "target": "564848600309988",
@@ -2003,20 +1969,6 @@
   "first_comment": ""
  },
  {
-  "id": "f9dc5ef9f354",
-  "net": "fb",
-  "target": "564848600309988",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/1f3c7a82cd85fd.mp4"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "Quiero pesado, pero no quiero mucha fatiga. Por eso en este peso muerto con barra hexagonal pusimos 10 % de pérdida de velocidad: desde abajo súper agresivo, y si la barra sale muy rápido, subimos 20 por lado. Descanso de 3:30 y pecho fuerte y firme todo el tiempo. ¿Tú cómo sabes cuándo cortar una serie: por reps, por sensación o por velocidad?",
-  "when": "2026-11-15T12:00:00",
-  "first_comment": ""
- },
- {
   "id": "d402c2c0f045a1_trial",
   "net": "ig",
   "target": "17841400277954990",
@@ -2030,21 +1982,6 @@
   "audio": null,
   "cover": null,
   "origen": "01a4abe9c65346"
- },
- {
-  "id": "12730b9f6c2c48_trial",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "trial",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/12730b9f6c2c48.mp4"
-  ],
-  "caption": "Quiero pesado, pero no quiero mucha fatiga.\n\nAsí entrenamos a Ricardo en peso muerto con barra hexagonal: arrancamos con 60 kilos, desde abajo súper agresivo. Si la barra sale muy rápido, está muy ligero: incrementamos 20 por lado.\n\nY la clave: 10 % de pérdida de velocidad. Cuando la barra pierde velocidad, se acaba la serie. Pesado, sí; fatiga de más, no. Descanso de 3:30 y el pecho fuerte y firme todo el tiempo, aunque vayas bajando.\n\nGuárdalo para tu próximo día de pierna y mándaselo al compa que entrena siempre al fallo.\n\n#pesomuerto #entrenamientodefuerza #gym #fuerza #nutriologo",
-  "when": "2026-11-11T17:00:00",
-  "first_comment": "",
-  "audio": null,
-  "cover": null,
-  "origen": "1f3c7a82cd85fd"
  },
  {
   "id": "f786c1b7a200d5_trial",
