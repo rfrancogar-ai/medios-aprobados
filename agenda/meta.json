@@ -3939,40 +3939,6 @@
   "formato": "avance"
  },
  {
-  "id": "68cc93e38e2a",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/d369e989aa22f5.mp4"
-  ],
-  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_d369e989aa22f5.jpg",
-  "audio": {
-   "audio_id": "2514409042132061",
-   "audio_volume": 15,
-   "video_volume": 100
-  },
-  "caption": "Pierna recta, brazo atrás, abdomen fuerte. Así se hace 👇\n\n1️⃣ Encaja los dedos del pie: pies activos.\n2️⃣ Mano: dibuja una línea directamente abajo del hombro.\n3️⃣ Dispara una pierna para atrás, con la punta hacia adentro. El talón no sobrepasa la cadera o glúteo.\n4️⃣ Brazo opuesto para atrás.\n5️⃣ Mantén 5 segundos, baja y cambia de lado. 6 repeticiones, 3 por lado.\n\nGuárdalo para tu próximo día de core y mándaselo a quien entrena contigo.\n\n#entrenamiento #core #abdomen #tecnica #gym",
-  "when": "2026-11-18T12:00:00",
-  "first_comment": "¿Qué se te complica más: mantener la pierna recta o el abdomen fuerte los 5 segundos?"
- },
- {
-  "id": "68cc93e38e2a_story",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "story",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/d369e989aa22f5_motion.mp4"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "",
-  "when": "2026-11-18T12:00:00",
-  "first_comment": "",
-  "despues_de": "68cc93e38e2a",
-  "formato": "motion"
- },
- {
   "id": "fa7a5fca4ee2",
   "net": "fb",
   "target": "564848600309988",
@@ -3984,20 +3950,6 @@
   "audio": null,
   "caption": "Nadie me dijo cómo hacerlo: levantarme temprano, entrenar, hacer pedidos, cuidar el negocio. Te tropiezas y vas entendiendo. Pero son decisiones que tú tomas día a día, y hacerse víctima del proceso solo te estanca. ¿Qué decisión estás posponiendo?",
   "when": "2026-11-27T12:00:00",
-  "first_comment": ""
- },
- {
-  "id": "2b8e5413e622",
-  "net": "fb",
-  "target": "564848600309988",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/d369e989aa22f5.mp4"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "Pierna recta, brazo atrás, abdomen fuerte. Encaja los dedos del pie, mano abajo del hombro, dispara una pierna para atrás y el brazo opuesto atrás; mantienes 5 segundos y cambias de lado. 6 repeticiones, 3 por lado. ¿Tú cómo lo haces?",
-  "when": "2026-11-27T17:00:00",
   "first_comment": ""
  },
  {
@@ -4506,21 +4458,6 @@
   "audio": null,
   "cover": null,
   "origen": "8ed57e1552eeb5"
- },
- {
-  "id": "49e01ba22e36f2_trial",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "trial",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/49e01ba22e36f2.mp4"
-  ],
-  "caption": "Pierna recta, brazo atrás, abdomen fuerte. Así se hace 👇\n\n1️⃣ Encaja los dedos del pie: pies activos.\n2️⃣ Mano: dibuja una línea directamente abajo del hombro.\n3️⃣ Dispara una pierna para atrás, con la punta hacia adentro. El talón no sobrepasa la cadera o glúteo.\n4️⃣ Brazo opuesto para atrás.\n5️⃣ Mantén 5 segundos, baja y cambia de lado. 6 repeticiones, 3 por lado.\n\nGuárdalo para tu próximo día de core y mándaselo a quien entrena contigo.\n\n#entrenamiento #core #abdomen #tecnica #gym",
-  "when": "2026-11-18T12:00:00",
-  "first_comment": "",
-  "audio": null,
-  "cover": null,
-  "origen": "d369e989aa22f5"
  },
  {
   "id": "699bafa88436cb_trial",
