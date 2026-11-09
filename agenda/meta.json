@@ -4535,54 +4535,6 @@
   "origen": "97b44b5736ab6d"
  },
  {
-  "id": "c736fd279fb6",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/939a144d58f1e3.mp4"
-  ],
-  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_939a144d58f1e3.jpg",
-  "audio": {
-   "audio_id": "1668904424802271",
-   "audio_volume": 15,
-   "video_volume": 100
-  },
-  "caption": "¿Crees que no te da la movilidad para bajar en sentadilla? 👀\n\nTriserie del diablo. La parte donde ya no hay que pensar nada: nomás lo haces.\n\n✅ Sube bien el disco a tu pecho y abrázalo para que no te estorbe\n✅ Trae todo el rango, hasta abajo\n✅ Avienta las rodillas hacia adelante y la cadera hacia atrás\n✅ Inclusive podrías dejar tu espalda derecha\n\n¿Ya viste que sí bajas? Nada más te estorbaba el brazo.\n\nGuárdalo para tu próximo día de pierna y mándaselo al compa que siempre se queda a medias. 💪\n\n#sentadilla #diadepierna #gym #tecnica #entrenamiento",
-  "when": "2026-11-20T20:00:00",
-  "first_comment": "¿Tú hasta dónde bajas en sentadilla: paralelo, abajo de paralelo o te quedas a medias? Sé honesto 👇"
- },
- {
-  "id": "c736fd279fb6_story",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "story",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/939a144d58f1e3_story.mp4"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "",
-  "when": "2026-11-20T20:00:00",
-  "first_comment": "",
-  "despues_de": "c736fd279fb6",
-  "formato": "avance"
- },
- {
-  "id": "d1c1e5fd9cdd",
-  "net": "fb",
-  "target": "564848600309988",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/939a144d58f1e3.mp4"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "Mucha gente cree que no puede bajar en sentadilla, y muchas veces solo le estorba el brazo o la posición. Disco al pecho, abrázalo, rodillas hacia adelante, cadera hacia atrás y todo el rango hasta abajo. ¿Ya viste que sí bajas? ¿A ti qué es lo que más te cuesta de la sentadilla?",
-  "when": "2026-11-29T09:59:48",
-  "first_comment": ""
- },
- {
   "id": "0879c4e75dce",
   "net": "ig",
   "target": "17841400277954990",
@@ -4681,21 +4633,6 @@
   "caption": "Si tu pre-entreno solo trae cafeína, le falta algo.\n\nCafeína + L-teanina: por qué van juntas. Te lo explico en 3 láminas.\n\nComenta tu pre-entreno y te digo qué dosis trae de cada cosa.\n\nFuente: Gerolymos C et al. 2026, Molecular Psychiatry (31 ECA, n=1,168); Payne ER et al. 2025, Nutrition Reviews (50 ECA)",
   "when": "2026-11-12T09:00:00",
   "first_comment": ""
- },
- {
-  "id": "12339ce977a228_trial",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "trial",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/12339ce977a228.mp4"
-  ],
-  "caption": "¿Crees que no te da la movilidad para bajar en sentadilla? 👀\n\nTriserie del diablo. La parte donde ya no hay que pensar nada: nomás lo haces.\n\n✅ Sube bien el disco a tu pecho y abrázalo para que no te estorbe\n✅ Trae todo el rango, hasta abajo\n✅ Avienta las rodillas hacia adelante y la cadera hacia atrás\n✅ Inclusive podrías dejar tu espalda derecha\n\n¿Ya viste que sí bajas? Nada más te estorbaba el brazo.\n\nGuárdalo para tu próximo día de pierna y mándaselo al compa que siempre se queda a medias. 💪\n\n#sentadilla #diadepierna #gym #tecnica #entrenamiento",
-  "when": "2026-11-20T20:00:00",
-  "first_comment": "",
-  "audio": null,
-  "cover": null,
-  "origen": "939a144d58f1e3"
  },
  {
   "id": "7da8cf7b7e1a35_trial",
