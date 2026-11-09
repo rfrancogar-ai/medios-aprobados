@@ -1,19 +1,5 @@
 [
  {
-  "id": "f68e4e2d0098",
-  "net": "fb",
-  "target": "564848600309988",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/fb33d4cb2ac9ff.mp4"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "Todo mundo te da una dosis estándar de 5 gramos para todos. Nosotros te ponemos en el bote una dosis personalizada y te enseñamos a calcularla con tu peso. ¿Tú sabías que se calcula por peso?",
-  "when": "2026-11-05T12:00:00",
-  "first_comment": ""
- },
- {
   "id": "eccbe47f33dd",
   "net": "fb",
   "target": "564848600309988",
@@ -40,36 +26,6 @@
   "caption": "No es necesario llegar al fallo\n\nEn lenguaje cotidiano Se le llama repeticiones en el tanque ¿Cuántas y cuántas quedaron?\n\n¿Qué otra duda tienes? Te respondo en video.",
   "when": "2026-11-06T12:00:00",
   "first_comment": ""
- },
- {
-  "id": "891482dbc00er",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/38434609fe6bae.mp4"
-  ],
-  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_38434609fe6bae.jpg",
-  "audio": null,
-  "caption": "Este gym nos vio vomitar. 🤢\n\nAquí hicimos pruebas para este pre-entreno que no salieron tan bien. Fueron muchos, muchos meses de producción para llevar la fórmula a la realidad.\n\nHoy volvimos al mismo lugar a probarlo ya terminado. Primeras impresiones: «muy fresco», «es como envolvente».\n\n¿Quieres que les cuente cómo fueron esas primeras pruebas? Comenta PRUEBAS 👇\n\n#preentreno #epiclabs #detrasdecamaras #gym",
-  "when": "2026-11-05T12:00:00",
-  "first_comment": "¿Quieres la historia completa de las pruebas fallidas? Sí o no 👇"
- },
- {
-  "id": "891482dbc00er_story",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "story",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/38434609fe6bae_story.mp4"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "",
-  "when": "2026-11-05T12:00:00",
-  "first_comment": "",
-  "despues_de": "891482dbc00er",
-  "formato": "avance"
  },
  {
   "id": "8eefba1f5b00",
@@ -5319,6 +5275,57 @@
   "audio": null,
   "caption": "No importa qué tan bien comes un día. Importa qué tan parecido comes toda la semana.\n\n¿A quién se la mandarías? Etiquétalo 👇",
   "when": "2026-11-13T09:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "1b53d91c59e1",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/1796e4029ed843.mp4"
+  ],
+  "animo": "energia",
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_1796e4029ed843.jpg",
+  "audio": {
+   "audio_id": "2115441332323070",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "El bombeo muscular se ve súper alterado por el consumo de carbohidratos.\n\nMucha gente busca el bombeo a través de sustancias: citrulina, nitratos, suplementos que ayudan a vasodilatar. Inclusive el sodio y los líquidos ayudan.\n\nPero los carbohidratos pre-entreno no solo te dan energía: también te ayudan a tener un mejor bombeo muscular.\n\n✅ Carbohidratos simples, sin mucha fibra, grasa ni proteína, para que los digieras rápido\n✅ 30, 45 o 60 minutos antes de entrenar\n✅ Por lo menos un gramo por kilo de peso: si pesas 100 kilos, unos 100 gramos; si pesas 50, unos 50\n\nGuárdalo para tu próximo pre y mándaselo al compa que solo vive de pre-entreno. Comenta BOMBEO si tienes dudas.\n\n#bombeo #nutriciondeportiva #carbohidratos #gym #preentreno",
+  "when": "2026-11-24T10:00:00",
+  "first_comment": "¿Qué comes antes de entrenar hoy? Escríbelo y te digo si te está ayudando o frenando el bombeo."
+ },
+ {
+  "id": "1b53d91c59e1_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/1796e4029ed843_story.mp4"
+  ],
+  "animo": "energia",
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-24T10:00:00",
+  "first_comment": "",
+  "despues_de": "1b53d91c59e1",
+  "formato": "avance"
+ },
+ {
+  "id": "ed6c435c6306",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/1796e4029ed843.mp4"
+  ],
+  "animo": "energia",
+  "cover": null,
+  "audio": null,
+  "caption": "Mucha gente busca el bombeo muscular en la citrulina, los nitratos o los suplementos que vasodilatan… pero los carbohidratos pre-entreno también te ayudan a tener mejor bombeo. Carbohidratos simples, 30 a 60 minutos antes, por lo menos un gramo por kilo de peso: si pesas 100 kilos, unos 100 gramos. ¿Tú comes carbohidratos antes de entrenar?",
+  "when": "2026-11-30T14:29:09",
   "first_comment": ""
  }
 ]
