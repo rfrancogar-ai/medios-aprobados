@@ -53,30 +53,43 @@ _TENDENCIA = None
 _RECIENTES = None
 
 
+BUSQUEDAS = {  # música CONGRUENTE con lo que se dice (Roberto 9-nov), no solo lo que está de moda
+    "energia": ["workout motivation", "gym hip hop", "phonk", "energetic beat", "trap instrumental"],
+    "tranquilo": ["lofi chill", "chill beat", "acoustic chill", "soft piano"],
+    "reflexivo": ["cinematic inspiring", "motivational piano", "emotional piano", "ambient"],
+}
+BALADAS = ("rain", "lluvia", "sin ti", "confieso", "amor", "corazón", "llorar", "despecho", "ballad", "love")
+_POOL: dict = {}
+
+
 def musica(e):
-    """Música OFICIAL de Instagram en tendencia (México) para cada reel del feed, bajo la voz (15 %). La elige la
-    nube porque aquí vive la llave de Meta (la Mac mini no la tiene). Determinista por publicación."""
-    global _TENDENCIA
-    if e.get("audio") or e.get("sin_musica") or e["kind"] != "reel":
+    """Música OFICIAL de Instagram para TODO lo que la acepte (reels y posts), elegida por el ánimo del contenido:
+    energía para entrenamiento, tranquila para nutrición/ciencia, reflexiva para frases. Determinista por publicación."""
+    if e.get("audio") or e.get("sin_musica") or e["kind"] not in ("reel", "images"):
         return e.get("audio")
+    animo = e.get("animo") or ("reflexivo" if e["kind"] == "images" else "energia")
+    if animo not in _POOL:
+        vistos, pool = set(), []
+        for q in BUSQUEDAS.get(animo, BUSQUEDAS["energia"]):
+            try:
+                d = req(f"{G}/ig_audio?audio_type=music&user_id={e['target']}&search_query={urllib.parse.quote(q)}"
+                        f"&access_token={TOK}")
+            except RuntimeError:
+                continue
+            for a in d.get("audio", [])[:8]:
+                t = (a.get("title") or "").lower()
+                if a["audio_id"] in vistos or any(x in t for x in FUERA + BALADAS) or a.get("duration_in_ms", 0) < 20000:
+                    continue
+                vistos.add(a["audio_id"])
+                pool.append(a)
+        _POOL[animo] = pool
+    pool = _POOL[animo]
+    if not pool:
+        return None
     import hashlib
-    if int(hashlib.sha256(e["id"].encode()).hexdigest(), 16) % 2:  # prueba A/B real: mitad sin música, para medir
-        e["_musica"] = "sin música (prueba)"
-        return None
-    if _TENDENCIA is None:
-        try:
-            ig_id = e["target"]
-            d = req(f"{G}/ig_audio?audio_type=music&user_id={ig_id}&access_token={TOK}")
-            _TENDENCIA = [a for a in d.get("audio", []) if not any(x in (a.get("title") or "").lower() for x in FUERA)
-                          and a.get("duration_in_ms", 0) >= 20000]
-        except RuntimeError as err:
-            print("música: sin tendencia", str(err)[:120])
-            _TENDENCIA = []
-    if not _TENDENCIA:
-        return None
-    a = _TENDENCIA[int(hashlib.sha1(e["id"].encode()).hexdigest(), 16) % len(_TENDENCIA)]
-    e["_musica"] = f"{a.get('title')} — {a.get('display_artist')}"
-    return {"audio_id": a["audio_id"], "audio_volume": 15, "video_volume": 100}
+    a = pool[int(hashlib.sha1(e["id"].encode()).hexdigest(), 16) % len(pool)]
+    e["_musica"] = f"{a.get('title')} — {a.get('display_artist')} ({animo})"
+    return {"audio_id": a["audio_id"], "audio_volume": 15 if e["kind"] == "reel" else 100, "video_volume": 100}
 
 
 def ig(e):
@@ -108,12 +121,24 @@ def ig(e):
     elif kind == "story":
         key = "video_url" if media[0].endswith(".mp4") else "image_url"
         c = req(base, {"media_type": "STORIES", key: media[0], "access_token": TOK})
-    elif len(media) == 1:
-        c = req(base, {"image_url": media[0], "caption": e.get("caption", ""), "access_token": TOK})
     else:
-        kids = [req(base, {"image_url": u, "is_carousel_item": "true", "access_token": TOK})["id"] for u in media[:10]]
-        c = req(base, {"media_type": "CAROUSEL", "children": ",".join(kids), "caption": e.get("caption", ""),
-                       "access_token": TOK})
+        if len(media) == 1:
+            p = {"image_url": media[0], "caption": e.get("caption", ""), "access_token": TOK}
+        else:
+            kids = [req(base, {"image_url": u, "is_carousel_item": "true", "access_token": TOK})["id"] for u in media[:10]]
+            p = {"media_type": "CAROUSEL", "children": ",".join(kids), "caption": e.get("caption", ""), "access_token": TOK}
+        audio = musica(e)
+        if audio:
+            p["audio_configuration"] = json.dumps(audio)
+        try:
+            c = req(base, p)
+        except RuntimeError as err:
+            if "audio_configuration" not in p:
+                raise
+            print("post: Instagram no aceptó música en imagen →", str(err)[:120])
+            p.pop("audio_configuration")
+            e["_musica"] = "sin música (Instagram no la aceptó en post)"
+            c = req(base, p)
     esperar(c["id"])
     pub = req(f"{G}/{e['target']}/media_publish", {"creation_id": c["id"], "access_token": TOK})["id"]
     if e.get("first_comment"):
