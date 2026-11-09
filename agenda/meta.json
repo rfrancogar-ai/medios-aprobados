@@ -4944,5 +4944,53 @@
   "audio": null,
   "cover": null,
   "origen": "e4fd3a85b1a27d"
+ },
+ {
+  "id": "6bc26b65af29",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/195936d20ee779.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "Top 3 maneras de tener un bombeo muscular intenso. La primera: una comida alta en carbohidratos simples una hora a hora y media antes de entrenar.\n\nEvita grasas y fibra. Pan, plátano, miel, azúcar… lo más simple que puedas.\n\n¿Tú qué comes antes de entrenar?",
+  "when": "2026-11-15T12:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "9333a4cc9107",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/195936d20ee779.mp4"
+  ],
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_195936d20ee779.jpg",
+  "audio": {
+   "audio_id": "1501269788724597",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "Bombeo intenso: carbohidratos simples antes de entrenar\n\nTop 3 maneras de tener un bombeo muscular intenso. Primero: comida alta en carbohidratos simples una hora a hora y media antes de entrenar.\n\nGuárdalo para tu próximo entrenamiento.\n.\n#nutricion #dieta #salud",
+  "when": "2026-11-22T10:00:00",
+  "first_comment": "Pregunta honesta, familia: ¿qué es lo último que comes antes de entrenar? 👇"
+ },
+ {
+  "id": "9333a4cc9107_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/195936d20ee779_story.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-22T10:00:00",
+  "first_comment": "",
+  "despues_de": "9333a4cc9107",
+  "formato": "avance"
  }
 ]
