@@ -5275,5 +5275,20 @@
   "audio": null,
   "cover": null,
   "origen": "278b159c9f6af9"
+ },
+ {
+  "id": "c30ded6eea902d_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/c30ded6eea902d.mp4"
+  ],
+  "caption": "SUPLEMENTOS\n\nUn pre-entreno clínico no lo vas a detectar en el sabor, pero lo puedes detectar desde quién lo formula, cómo está formulado y a qué dosis.\n\n¿Qué otra duda tienes? Te respondo en video.\n.\n#fitness #nutricion",
+  "when": "2026-11-23T17:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "origen": "9b929a6f7e55fa"
  }
 ]
