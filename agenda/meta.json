@@ -790,36 +790,6 @@
   "origen": "95eeba82bea20d"
  },
  {
-  "id": "79e10a717c7a",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "images",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img2bea1ab2659_0.jpg"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "No vas a la carnicería y pides pollo para mujer y pollo para hombre, ¿verdad?\n\nNo vas al súper y hay latas de atún para hombre y atún para mujer. Cuando te mandan una proteína para mujeres, pura mercadotecnia.\n\n¿Lo aplicas o te cuesta? Te leo 👇\n\nGuárdala para el día que la necesites 📌\n.\n#nutricion #suplementos #gym #ciencia",
-  "when": "2026-11-05T16:00:00",
-  "first_comment": ""
- },
- {
-  "id": "79e10a717c7a_story",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "story",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img2bea1ab2659_story.jpg"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "",
-  "when": "2026-11-05T16:00:00",
-  "first_comment": "",
-  "despues_de": "79e10a717c7a",
-  "formato": "post_compartido"
- },
- {
   "id": "dba65e2ade43",
   "net": "ig",
   "target": "17841400277954990",
@@ -5444,6 +5414,57 @@
   "audio": null,
   "caption": "Tres series de trabajo, no tres series ahí más o menos contando la del calentamiento. Si haces 3 a 4 series en 3 a 4 ejercicios y entrenas el músculo 2 veces por semana, ya vas en 24 series por grupo muscular. Lo mejor: recortar a 2 o 3 ejercicios por sesión. ¿Cuántos ejercicios le haces tú a cada músculo?",
   "when": "2026-11-30T15:39:17",
+  "first_comment": ""
+ },
+ {
+  "id": "1a7ec38f5394",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/e6b80e645de7ab.mp4"
+  ],
+  "animo": "energia",
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_e6b80e645de7ab.jpg",
+  "audio": {
+   "audio_id": "263896829897972",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "No todo tiene que ser cuatro series por ejercicio.\n\n¿En cuáles haces más series?\n\n✅ Ejercicios a los que les das prioridad porque quieres entrenar más esos grupos musculares\n\n✅ Ejercicios donde te sientas cómodo o donde tu progresión vaya siendo rápida\n\nPor ejemplo, el bench press: la gente es muy fan.\n\nPuedes hacer cuatro, cinco, hasta seis series sin ningún problema, ajustándolo a tu volumen por sesión y semanal.\n\n¿En cuáles haces menos?\n\nEjercicios aislados, músculos pequeñitos, donde la progresión no es tan rápida: dos, tres series de trabajo.\n\n#gym #entrenamiento #series #hipertrofia #fuerza",
+  "when": "2026-11-25T10:00:00",
+  "first_comment": "¿Cuál es el ejercicio al que tú le das más series? Te leo 👇"
+ },
+ {
+  "id": "1a7ec38f5394_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/e6b80e645de7ab_motion.mp4"
+  ],
+  "animo": "energia",
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-25T10:00:00",
+  "first_comment": "",
+  "despues_de": "1a7ec38f5394",
+  "formato": "motion"
+ },
+ {
+  "id": "ded7046f20ad",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/e6b80e645de7ab.mp4"
+  ],
+  "animo": "energia",
+  "cover": null,
+  "audio": null,
+  "caption": "No todo tiene que ser cuatro series por ejercicio. Más series en lo que te importa y donde progresas rápido (el bench press, por ejemplo, aguanta cuatro, cinco, hasta seis series), y dos o tres series de trabajo en los aislados de músculos pequeñitos.",
+  "when": "2026-11-30T15:59:10",
   "first_comment": ""
  }
 ]
