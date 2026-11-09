@@ -5103,5 +5103,20 @@
   "audio": null,
   "cover": null,
   "origen": "195936d20ee779"
+ },
+ {
+  "id": "73c97534a2e128_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/73c97534a2e128.mp4"
+  ],
+  "caption": "No necesitas dos horas de tu día para entrenar fuerza. Así como no necesitas cinco días de tu semana.\n\nLa gente tiende a alargar los entrenamientos con series de cotorreo y buscando aparatos para ver qué sigue, porque no trae una rutina estructurada.\n\nLo más importante: que tu entrenamiento de fuerza no dure más de una hora, con todo y cardio.\n\nEtiqueta al compa que se tarda dos horas en el gym 👇 y comenta RUTINA si traes la tuya planeada.\n\n#gym #entrenamiento #fuerza #rutina",
+  "when": "2026-11-22T10:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "origen": "528778681ad777"
  }
 ]
