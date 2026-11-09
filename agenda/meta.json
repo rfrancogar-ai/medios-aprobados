@@ -2999,40 +2999,6 @@
   "formato": "motion"
  },
  {
-  "id": "a36f5e0b1644",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/e1531e2ed15dd0.mp4"
-  ],
-  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_e1531e2ed15dd0.jpg",
-  "audio": {
-   "audio_id": "2141116976274369",
-   "audio_volume": 15,
-   "video_volume": 100
-  },
-  "caption": "Aquí ya 10 personas se hubieran parado.\n\nY otras 15 también. Por eso la serie no se acaba cuando uno quiere: se acaba cuando ya no hay movimiento. Y cuando ya no sale completa… parcialitas.\n\nMándaselo al compa que deja la serie en cuanto empieza a arder. Y tú, ¿hasta dónde llegas?\n\n#entrenamiento #gym #hipertrofia #parciales",
-  "when": "2026-11-16T17:00:00",
-  "first_comment": "Sé honesto: ¿tú eres de los que se paran antes o de los que sacan parcialitas? 👇"
- },
- {
-  "id": "a36f5e0b1644_story",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "story",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/e1531e2ed15dd0_story.mp4"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "",
-  "when": "2026-11-16T17:00:00",
-  "first_comment": "",
-  "despues_de": "a36f5e0b1644",
-  "formato": "avance"
- },
- {
   "id": "47cdd8444193",
   "net": "ig",
   "target": "17841400277954990",
@@ -3092,20 +3058,6 @@
   "audio": null,
   "caption": "Familia, el ejercicio en ayunas no tiene beneficios particulares. Si te sientes cómodo y rindes bien, no hay necesidad de desayunar. Pero si buscas el mayor rendimiento en cada entrenamiento, necesitas una fuente de carbohidratos antes. ¿Tú cómo lo haces: en ayunas o con algo en el estómago?",
   "when": "2026-11-21T17:00:00",
-  "first_comment": ""
- },
- {
-  "id": "d55f84a05756",
-  "net": "fb",
-  "target": "564848600309988",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/e1531e2ed15dd0.mp4"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "Aquí ya 10 personas se hubieran parado, y otras 15 también. La serie se termina cuando ya no hay movimiento, no cuando uno quiere. ¿Tú hasta dónde llegas en cada serie?",
-  "when": "2026-11-22T10:00:00",
   "first_comment": ""
  },
  {
@@ -3622,21 +3574,6 @@
   "audio": null,
   "cover": null,
   "origen": "dc3f5d54d73b31"
- },
- {
-  "id": "6c7c4ae9e54d7f_trial",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "trial",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/6c7c4ae9e54d7f.mp4"
-  ],
-  "caption": "Aquí ya 10 personas se hubieran parado.\n\nY otras 15 también. Por eso la serie no se acaba cuando uno quiere: se acaba cuando ya no hay movimiento. Y cuando ya no sale completa… parcialitas.\n\nMándaselo al compa que deja la serie en cuanto empieza a arder. Y tú, ¿hasta dónde llegas?\n\n#entrenamiento #gym #hipertrofia #parciales",
-  "when": "2026-11-16T17:00:00",
-  "first_comment": "",
-  "audio": null,
-  "cover": null,
-  "origen": "e1531e2ed15dd0"
  },
  {
   "id": "8e7ebfd70fc3",
