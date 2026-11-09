@@ -5327,5 +5327,56 @@
   "caption": "Mucha gente busca el bombeo muscular en la citrulina, los nitratos o los suplementos que vasodilatan… pero los carbohidratos pre-entreno también te ayudan a tener mejor bombeo. Carbohidratos simples, 30 a 60 minutos antes, por lo menos un gramo por kilo de peso: si pesas 100 kilos, unos 100 gramos. ¿Tú comes carbohidratos antes de entrenar?",
   "when": "2026-11-30T14:29:09",
   "first_comment": ""
+ },
+ {
+  "id": "afaadd586f2c",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/281182f0c5aecb.mp4"
+  ],
+  "animo": "energia",
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_281182f0c5aecb.jpg",
+  "audio": {
+   "audio_id": "1016489024173816",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "Si nunca has venido a un gimnasio, estas son 5 cosas que debes saber antes de pisar uno 👇\n\nTe vas a tener que acostumbrar.\n\nTodos venimos a mejorar nuestra salud y nuestro físico.\n\n5️⃣ La más importante: que te sientas cómodo.\n\nSi vives algo incómodo, acércate al staff o cámbiate de gimnasio.\n\nEs como el trabajo o la escuela.\n\nMándaselo al compa que lleva meses diciendo que ya va a empezar.\n\n¿Cuál faltó?\n\n👇\n\n#gym #principiantes #gymtips #entrenamiento #fitnessmexico",
+  "when": "2026-11-24T12:00:00",
+  "first_comment": "¿Cuál fue lo que más pena te dio tu primer día en el gym? Te leo 👇"
+ },
+ {
+  "id": "afaadd586f2c_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/281182f0c5aecb_motion.mp4"
+  ],
+  "animo": "energia",
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-24T12:00:00",
+  "first_comment": "",
+  "despues_de": "afaadd586f2c",
+  "formato": "motion"
+ },
+ {
+  "id": "b86e2a74ec64",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/281182f0c5aecb.mp4"
+  ],
+  "animo": "energia",
+  "cover": null,
+  "audio": null,
+  "caption": "Si nunca has venido a un gimnasio, estas son cinco cosas que debes saber antes: los avanzados te ayudamos sin pena, vas a toparte con gente que no comparte el aparato, cambia de gimnasio según tu nivel y que te quede cerca, no importa el peso que cargas o cómo te ves, y lo más importante, que te sientas cómodo. ¿Qué te dio más pena tu primer día en el gym?",
+  "when": "2026-11-30T14:49:12",
+  "first_comment": ""
  }
 ]
