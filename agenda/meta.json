@@ -4650,54 +4650,6 @@
   "origen": "977d6bffc5bc78"
  },
  {
-  "id": "258564cae675",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/ed0f2eeefcefbb.mp4"
-  ],
-  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_ed0f2eeefcefbb.jpg",
-  "audio": {
-   "audio_id": "1468413651836753",
-   "audio_volume": 15,
-   "video_volume": 100
-  },
-  "caption": "Él podría hacer más repeticiones ahorita. Y no lo dejo.\n\nEn temporada trabajamos con un 10 % de fatiga: es un buen punto de empujar, pero dejar en el tanque. ¿Por qué? Porque también quiero combinarlo con el otro trabajo.\n\nFuera de temporada sí puedes agarrar pérdidas de velocidad de 40 por ciento. Podría permitirlo, pero me llevaría hacia otras adaptaciones.\n\nNo todo entrenamiento es para vaciarte. Depende de en qué momento estás.\n\nGuarda este video y mándaselo al compa que se mata en cada serie 👇\n\n#entrenamiento #fuerza #rendimientodeportivo #gym #nutriologo",
-  "when": "2026-11-20T20:00:00",
-  "first_comment": "¿Tú cuántas repeticiones dejas en el tanque en tus series? Cuéntame 👇"
- },
- {
-  "id": "258564cae675_story",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "story",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/ed0f2eeefcefbb_story.mp4"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "",
-  "when": "2026-11-20T20:00:00",
-  "first_comment": "",
-  "despues_de": "258564cae675",
-  "formato": "avance"
- },
- {
-  "id": "11300e857290",
-  "net": "fb",
-  "target": "564848600309988",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/ed0f2eeefcefbb.mp4"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "Él podría hacer más repeticiones ahorita, sin problema. Pero en temporada trabajamos con un 10 % de fatiga: empujar, pero dejar en el tanque. Fuera de temporada sí puedes agarrar pérdidas de velocidad de 40 por ciento. ¿Tú entrenas siempre al máximo o dejas algo en el tanque?",
-  "when": "2026-11-29T12:56:54",
-  "first_comment": ""
- },
- {
   "id": "0feeda9822de",
   "net": "ig",
   "target": "17841400277954990",
@@ -4744,21 +4696,6 @@
   "caption": "Si pones el banco a 90 grados para hombro, también entran romboides y trapecios. No es malo, ayudan al movimiento. Pero si quieres solamente hombro: banco en medio, párate un poquito atrás, posición ligeramente inclinada y manos un poquito adelante. ¿Tú cómo lo haces?",
   "when": "2026-11-29T15:27:04",
   "first_comment": ""
- },
- {
-  "id": "1520349f7c94ec_trial",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "trial",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/1520349f7c94ec.mp4"
-  ],
-  "caption": "Él podría hacer más repeticiones ahorita. Y no lo dejo.\n\nEn temporada trabajamos con un 10 % de fatiga: es un buen punto de empujar, pero dejar en el tanque. ¿Por qué? Porque también quiero combinarlo con el otro trabajo.\n\nFuera de temporada sí puedes agarrar pérdidas de velocidad de 40 por ciento. Podría permitirlo, pero me llevaría hacia otras adaptaciones.\n\nNo todo entrenamiento es para vaciarte. Depende de en qué momento estás.\n\nGuarda este video y mándaselo al compa que se mata en cada serie 👇\n\n#entrenamiento #fuerza #rendimientodeportivo #gym #nutriologo",
-  "when": "2026-11-20T20:00:00",
-  "first_comment": "",
-  "audio": null,
-  "cover": null,
-  "origen": "ed0f2eeefcefbb"
  },
  {
   "id": "784613232f31",
