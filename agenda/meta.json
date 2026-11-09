@@ -4992,5 +4992,101 @@
   "first_comment": "",
   "despues_de": "9333a4cc9107",
   "formato": "avance"
+ },
+ {
+  "id": "7762e30fa75e",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/528778681ad777.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "No necesitas dos horas de tu día para entrenar fuerza, así como no necesitas cinco días de tu semana. La gente alarga sus entrenamientos con series de cotorreo y buscando aparatos porque no trae una rutina estructurada. ¿Cuánto dura tu entrenamiento?",
+  "when": "2026-11-17T12:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "47a7e996d411",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/7a90b56dddda96.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "No necesitas entrenar 5 veces a la semana para poner masa muscular, y mucho menos para comenzar en el gimnasio. Puedes entrenar 2 a 3 veces a la semana y aún así tener muy buenos resultados. Los resultados llegan acumulando volumen año tras año. ¿Cuántos días a la semana entrenas tú?",
+  "when": "2026-11-22T10:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "b869f4a676f1",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/528778681ad777.mp4"
+  ],
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_528778681ad777.jpg",
+  "audio": {
+   "audio_id": "1984011618647045",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "No necesitas dos horas de tu día para entrenar fuerza. Así como no necesitas cinco días de tu semana.\n\nLa gente tiende a alargar los entrenamientos con series de cotorreo y buscando aparatos para ver qué sigue, porque no trae una rutina estructurada.\n\nLo más importante: que tu entrenamiento de fuerza no dure más de una hora, con todo y cardio.\n\nEtiqueta al compa que se tarda dos horas en el gym 👇 y comenta RUTINA si traes la tuya planeada.\n\n#gym #entrenamiento #fuerza #rutina",
+  "when": "2026-11-22T10:00:00",
+  "first_comment": "Sé honesto: ¿cuánto de tu entrenamiento es entrenar y cuánto es cotorreo? 😅"
+ },
+ {
+  "id": "b869f4a676f1_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/528778681ad777_motion.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-22T10:00:00",
+  "first_comment": "",
+  "despues_de": "b869f4a676f1",
+  "formato": "motion"
+ },
+ {
+  "id": "df43ace2abf5",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/7a90b56dddda96.mp4"
+  ],
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_7a90b56dddda96.jpg",
+  "audio": {
+   "audio_id": "1377485917727304",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "No necesitas entrenar 5 veces a la semana para poner masa muscular. Y mucho menos para comenzar en el gimnasio.\n\nPuedes entrenar solamente 2 a 3 veces a la semana, sobre todo cuando eres principiante, y aún así tener muy buenos resultados, si no es que los mejores.\n\nLa frecuencia es solo uno de los factores de la programación, y ni siquiera es el más importante. Un buen entrenamiento estructurado, tres veces a la semana, entrenando todos los grupos musculares.\n\nLos resultados llegan acumulando volumen año tras año. Adáptalo a tus necesidades y a tu nivel.\n\nMándaselo al compa que dice que no tiene tiempo para el gym 👇 y comenta TRES si entrenas 3 días.\n\n#gym #hipertrofia #entrenamiento #rutina #principiantes",
+  "when": "2026-11-22T12:00:00",
+  "first_comment": "Pregunta honesta: ¿cuántos días a la semana entrenas hoy y cuántos crees que de verdad necesitas?"
+ },
+ {
+  "id": "df43ace2abf5_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/7a90b56dddda96_story.mp4"
+  ],
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-22T12:00:00",
+  "first_comment": "",
+  "despues_de": "df43ace2abf5",
+  "formato": "avance"
  }
 ]
