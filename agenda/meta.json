@@ -5762,5 +5762,20 @@
   "audio": null,
   "cover": null,
   "origen": "35ba14c2f6e3fe"
+ },
+ {
+  "id": "62bdd0a6a47a6d_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/62bdd0a6a47a6d.mp4"
+  ],
+  "caption": "Tu proteína en polvo antes se tiraba.\n\n🧀\n\nDe la leche de la vaca sacamos el queso, y en ese proceso empezaba a sobrar este compuesto famoso llamado suero de leche.\n\nSe llegaba a hacer desperdicio…\n\nhasta que se dieron cuenta estudiando su valor biológico.\n\nSu valor biológico es superior: más alto que el huevo, más alto que la misma leche.\n\n¿Por qué?\n\nPor su porcentaje de concentración, que se logra con micro y ultrafiltración: remueven impurezas y excesos y queda más puro en proteína.\n\n#whey #proteina #suerodeleche #nutricion #suplementos",
+  "when": "2026-11-25T20:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "origen": "e128cc8f821f90"
  }
 ]
