@@ -5835,5 +5835,56 @@
   "caption": "\"La proteína solo me la puedo tomar porque voy al gym.\" No: el pollo también es proteína y no lo comes solo cuando entrenas. Es un macronutriente esencial. ¿Tú ya sabes cuánta necesitas?",
   "when": "2026-12-01T08:59:35",
   "first_comment": ""
+ },
+ {
+  "id": "ee788d9db905",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/35ea290acc5ca4.mp4"
+  ],
+  "animo": "energia",
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_35ea290acc5ca4.jpg",
+  "audio": {
+   "audio_id": "263896829897972",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "Nomás les pica la cara, les pica en las manos… y no la usan bien. 😳\n\nLa beta-alanina eleva el aminoácido carnosina y tiene que ver con la regulación del pH: es para la resistencia a la fatiga. La debería consumir un corredor, alguien de HYROX.\n\nEl detalle: hay que consumirla todos los días, como la creatina. ¿Por qué la gente no lo hace así? Porque el producto donde viene es el pre-entreno, y casi no lo toman diario.\n\n📌 Mándaselo al compa que corre o hace HYROX y solo siente el piquete.\n\nComenta BETA y te explico cómo tomarla.\n\n#betaalanina #preentreno #suplementos #hyrox #running",
+  "when": "2026-11-27T10:00:00",
+  "first_comment": "¿Tú sientes el piquete con tu pre? ¿Y lo tomas solo los días que entrenas o diario? 👇"
+ },
+ {
+  "id": "ee788d9db905_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/35ea290acc5ca4_motion.mp4"
+  ],
+  "animo": "energia",
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-27T10:00:00",
+  "first_comment": "",
+  "despues_de": "ee788d9db905",
+  "formato": "motion"
+ },
+ {
+  "id": "772f7375a0e5",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/35ea290acc5ca4.mp4"
+  ],
+  "animo": "energia",
+  "cover": null,
+  "audio": null,
+  "caption": "¿Te pica la cara cuando te tomas el pre-entreno? Es la beta-alanina. Sirve para la resistencia a la fatiga, ideal para un corredor o alguien de HYROX, pero hay que consumirla todos los días, como la creatina. Como viene en el pre, casi nadie lo hace así. ¿Tú la tomas diario o solo cuando entrenas?",
+  "when": "2026-12-01T09:19:34",
+  "first_comment": ""
  }
 ]
