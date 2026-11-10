@@ -5528,5 +5528,56 @@
   "caption": "La proteína debe de ser lo primero en el día. No por una razón metabólica: simplemente para que logres cumplir. Si la dejas para la cena, cargar tantos gramos al final suele ser pesado para la digestión. Desayunos y colaciones altos en proteína, y que en tu comida nunca falte la porción. ¿Tú en qué comida metes más proteína?",
   "when": "2026-11-30T20:09:21",
   "first_comment": ""
+ },
+ {
+  "id": "6bd2b169522b",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/98208ccf10f456.mp4"
+  ],
+  "animo": "tranquilo",
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_98208ccf10f456.jpg",
+  "audio": {
+   "audio_id": "2488847887958999",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "No debes medir tu progreso con tu peso.\n\nKilos menos pueden ser de grasa, pero también pueden ser de masa muscular. Y en algunas ocasiones también influye el agua, los líquidos.\n\nEl peso es un valor que fluctúa mucho y es multifactorial: tus niveles de estrés, tu digestión, tu consumo energético, cuántas calorías, proteínas, grasas y carbohidratos consumes.\n\n¿Por qué no es una medición precisa de tu progreso? Porque la famosa recomposición corporal no es más que cambiar un poco el porcentaje de grasa y, a veces al mismo tiempo, incrementar un poco el porcentaje de músculo. La báscula no te dice cuál de los dos cambió.\n\nMándaselo a quien se frustra con la báscula cada mañana. Comenta BÁSCULA si quieres saber cómo medirlo mejor.\n\n#recomposicioncorporal #perdidadegrasa #nutricion #gym #nutriologo",
+  "when": "2026-11-25T12:00:00",
+  "first_comment": "¿Cada cuánto te pesas y qué tanto te afecta el número? Cuéntame y te digo qué estás midiendo en realidad."
+ },
+ {
+  "id": "6bd2b169522b_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/98208ccf10f456_motion.mp4"
+  ],
+  "animo": "tranquilo",
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-25T12:00:00",
+  "first_comment": "",
+  "despues_de": "6bd2b169522b",
+  "formato": "motion"
+ },
+ {
+  "id": "6290cc0b9d28",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/98208ccf10f456.mp4"
+  ],
+  "animo": "tranquilo",
+  "cover": null,
+  "audio": null,
+  "caption": "No debes medir el progreso con tu peso. Kilos menos pueden ser de grasa, pero también de masa muscular, o simplemente agua. El peso fluctúa mucho y depende del estrés, la digestión y lo que comes. En una recomposición corporal lo que cambia es el porcentaje de grasa y de músculo. ¿Tú cómo mides tu progreso?",
+  "when": "2026-11-30T20:29:24",
+  "first_comment": ""
  }
 ]
