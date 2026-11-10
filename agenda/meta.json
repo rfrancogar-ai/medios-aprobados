@@ -5747,5 +5747,20 @@
   "caption": "La proteína whey nació de algo que sobraba al hacer queso: el suero de leche. Se desperdiciaba hasta que estudiaron su valor biológico, más alto que el huevo y que la misma leche. ¿Tú sabías de dónde salía tu proteína?",
   "when": "2026-12-01T05:19:23",
   "first_comment": ""
+ },
+ {
+  "id": "4c5f854112cfa0_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/4c5f854112cfa0.mp4"
+  ],
+  "caption": "La espirulina tiene mucha proteína… en el papel. 🧐\n\nAquí hay que revisar siempre de dónde proviene el resultado de la cantidad de proteína. Si lo mides mediante nitrógeno puedes llevarte muchas sorpresas: no siempre son proteínas tan completas ni con todos los aminoácidos.\n\nLa concentración de proteína de la espirulina es alta, pero lo que se absorbe no es de gran ayuda por el tipo de aminoácidos que la componen. Y ojo, no quiero decir que sea mala: la cantidad de polvo que tendrías que consumir para llegar a tu proteína es demasiado.\n\n📌 Guárdalo y mándaselo al que dice que la espirulina sustituye a la carne.\n\n#espirulina #proteina #nutricion #suplementos #lecturadeetiquetas",
+  "when": "2026-11-26T10:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "origen": "35ba14c2f6e3fe"
  }
 ]
