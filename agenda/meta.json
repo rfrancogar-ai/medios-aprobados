@@ -731,50 +731,6 @@
   "origen": "95eeba82bea20d"
  },
  {
-  "id": "dba65e2ade43",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "images",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img72e3e45e357_0.jpg"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "Deja de sobreestimar a los demás y de subestimarte a ti. La línea de salida es la misma para todos.\n\n¿A quién se la mandarías? Etiquétalo 👇\n\nGuárdala para el día que la necesites 📌\n.\n#nutricion #suplementos #gym #ciencia",
-  "when": "2026-11-06T09:00:00",
-  "first_comment": ""
- },
- {
-  "id": "dba65e2ade43_story",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "story",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img72e3e45e357_story.jpg"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "",
-  "when": "2026-11-06T09:00:00",
-  "first_comment": "",
-  "despues_de": "dba65e2ade43",
-  "formato": "post_compartido"
- },
- {
-  "id": "47fd04a6bc28",
-  "net": "fb",
-  "target": "564848600309988",
-  "kind": "images",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img72e3e45e357_0.jpg"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "Deja de sobreestimar a los demás y de subestimarte a ti. La línea de salida es la misma para todos.\n\n¿A quién se la mandarías? Etiquétalo 👇",
-  "when": "2026-11-06T09:00:00",
-  "first_comment": ""
- },
- {
   "id": "2f2ad3ef2096",
   "net": "fb",
   "target": "564848600309988",
@@ -5827,6 +5783,57 @@
   "audio": null,
   "caption": "\"Mira, mi proteína es suero de leche.\" No rey, es concentrado de la leche. El WPI 90 sí es suero de leche; el concentrado de leche se parece en la composición y por eso lo usan. ¿Tú ya revisaste qué dice la etiqueta de tu proteína?",
   "when": "2026-12-01T06:59:32",
+  "first_comment": ""
+ },
+ {
+  "id": "d51e585365e0",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/5487335b1543a6.mp4"
+  ],
+  "animo": "energia",
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_5487335b1543a6.jpg",
+  "audio": {
+   "audio_id": "1668904424802271",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "No es como que comas el pollo solo cuando vas al gym.\n\n🍗\n\nGrasas, proteínas, azúcares: son macronutrientes esenciales.\n\nLa proteína no es un suplemento de gimnasio; si no vas al gym, realmente la puedes tomar.\n\nEse mito ya le pueden echar a la basura.\n\n¿Cuánta consumir?\n\n📌 Guárdalo y mándaselo a quien cree que la proteína es solo para los que entrenan.\n\nComenta PROTEÍNA y te digo cómo calcular la tuya.\n\n#proteina #nutricion #nutriologo #masamuscular #mitos",
+  "when": "2026-11-26T17:00:00",
+  "first_comment": "¿Cuántos gramos te salieron y cuántos crees que comes hoy? 👇"
+ },
+ {
+  "id": "d51e585365e0_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/5487335b1543a6_motion.mp4"
+  ],
+  "animo": "energia",
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-26T17:00:00",
+  "first_comment": "",
+  "despues_de": "d51e585365e0",
+  "formato": "motion"
+ },
+ {
+  "id": "b4b303d217e0",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/5487335b1543a6.mp4"
+  ],
+  "animo": "energia",
+  "cover": null,
+  "audio": null,
+  "caption": "\"La proteína solo me la puedo tomar porque voy al gym.\" No: el pollo también es proteína y no lo comes solo cuando entrenas. Es un macronutriente esencial. ¿Tú ya sabes cuánta necesitas?",
+  "when": "2026-12-01T08:59:35",
   "first_comment": ""
  }
 ]
