@@ -1,19 +1,5 @@
 [
  {
-  "id": "eccbe47f33dd",
-  "net": "fb",
-  "target": "564848600309988",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/561d41cbc8e726.mp4"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "Mi truco para un licuado de proteína que sí te deje satisfecho: hielo, fresas y plátano congelados, y kéfir o yogurt en lugar de leche. Más espeso y más saciedad. ¿Tú cómo preparas el tuyo?",
-  "when": "2026-11-05T17:00:00",
-  "first_comment": ""
- },
- {
   "id": "b234a26cdf5cr",
   "net": "fb",
   "target": "564848600309988",
@@ -56,36 +42,6 @@
   "first_comment": ""
  },
  {
-  "id": "a3f9083bd4b9",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/a1f59b20b4a632.mp4"
-  ],
-  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_a1f59b20b4a632.jpg",
-  "audio": null,
-  "caption": "No somos comerciantes. No somos empresarios que solo buscan el dinero.\n\nEstamos detrás de suplementar atletas, de verdad. Gracias por permitirnos ser parte de tu entrenamiento, de tu suplementación: todo esto viene desde el corazón, y para mí es muy emocionante poder estar aquí como un pedacito de tu camino.\n\nAsí se construye la familia EPIC, un atleta a la vez.\n\n¿Qué atleta quieres que suplementemos después? Comenta 👇\n\n#epiclabs #atletas #emprendimiento #fitness #familiaepic",
-  "when": "2026-11-05T17:00:00",
-  "first_comment": "¿Qué le pides tú a una marca que patrocina atletas? 👇"
- },
- {
-  "id": "a3f9083bd4b9_story",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "story",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/a1f59b20b4a632_motion.mp4"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "",
-  "when": "2026-11-05T17:00:00",
-  "first_comment": "",
-  "despues_de": "a3f9083bd4b9",
-  "formato": "motion"
- },
- {
   "id": "364b2a4ae91c",
   "net": "fb",
   "target": "564848600309988",
@@ -98,21 +54,6 @@
   "caption": "No somos comerciantes ni empresarios que solo buscan el dinero: estamos detrás de suplementar atletas, de verdad. Así fue recibir a uno de nuestros atletas en la familia EPIC. ¿Qué te importa más de una marca que apoya atletas?",
   "when": "2026-11-07T10:00:00",
   "first_comment": ""
- },
- {
-  "id": "cbe4472eec0784_trial",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "trial",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cbe4472eec0784.mp4"
-  ],
-  "caption": "No somos comerciantes. No somos empresarios que solo buscan el dinero.\n\nEstamos detrás de suplementar atletas, de verdad. Gracias por permitirnos ser parte de tu entrenamiento, de tu suplementación: todo esto viene desde el corazón, y para mí es muy emocionante poder estar aquí como un pedacito de tu camino.\n\nAsí se construye la familia EPIC, un atleta a la vez.\n\n¿Qué atleta quieres que suplementemos después? Comenta 👇\n\n#epiclabs #atletas #emprendimiento #fitness #familiaepic",
-  "when": "2026-11-05T17:00:00",
-  "first_comment": "",
-  "audio": null,
-  "cover": null,
-  "origen": "a1f59b20b4a632"
  },
  {
   "id": "0e8a860a1f50",
@@ -5496,5 +5437,45 @@
   "audio": null,
   "cover": null,
   "origen": "e6b80e645de7ab"
+ },
+ {
+  "id": "27a5cff9f291",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imga31362e0ca1_0.jpg",
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imga31362e0ca1_1.jpg",
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imga31362e0ca1_2.jpg",
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imga31362e0ca1_3.jpg",
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imga31362e0ca1_4.jpg",
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imga31362e0ca1_5.jpg"
+  ],
+  "animo": "reflexivo",
+  "cover": null,
+  "audio": null,
+  "caption": "Llevas meses en el gym y no creces. Probablemente es una de estas 3.\n\nTop 3 cosas para ganar músculo que casi todos hacen mal. Te lo explico en 4 láminas.\n\nMándaselo al que entrena pecho solo los lunes.\n\nFuente: Schoenfeld BJ, Ogborn D, Krieger JW 2017, Journal of Sports Sciences 35:1073 (metaanálisis dosis-respuesta); Morton RW et al. 2018, British Journal of Sports Medicine 52:376",
+  "when": "2026-11-13T15:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "1528a9637db4",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imga31362e0ca1_0.jpg",
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imga31362e0ca1_1.jpg",
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imga31362e0ca1_2.jpg",
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imga31362e0ca1_3.jpg",
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imga31362e0ca1_4.jpg",
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imga31362e0ca1_5.jpg"
+  ],
+  "animo": "reflexivo",
+  "cover": null,
+  "audio": null,
+  "caption": "Llevas meses en el gym y no creces. Probablemente es una de estas 3.\n\nTop 3 cosas para ganar músculo que casi todos hacen mal — desliza y guárdalo 📌\n\nMándaselo al que entrena pecho solo los lunes.\n\nFuente: Schoenfeld BJ, Ogborn D, Krieger JW 2017, Journal of Sports Sciences 35:1073 (metaanálisis dosis-respuesta); Morton RW et al. 2018, British Journal of Sports Medicine 52:376\n.\n#nutricion #suplementos #gym #ciencia",
+  "when": "2026-11-13T16:00:00",
+  "first_comment": ""
  }
 ]
