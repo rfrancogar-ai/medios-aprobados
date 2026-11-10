@@ -1,47 +1,5 @@
 [
  {
-  "id": "b234a26cdf5cr",
-  "net": "fb",
-  "target": "564848600309988",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/33a7f0f9c33cc3.mp4"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "No es necesario llegar al fallo\n\nEn lenguaje cotidiano Se le llama repeticiones en el tanque ¿Cuántas y cuántas quedaron?\n\n¿Qué otra duda tienes? Te respondo en video.",
-  "when": "2026-11-06T12:00:00",
-  "first_comment": ""
- },
- {
-  "id": "8eefba1f5b00",
-  "net": "fb",
-  "target": "564848600309988",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/e185c0ee4911fc.mp4"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "No hagas ayunos prolongados, sobre todo si quieres construir o conservar músculo. El ayuno natural ya lo haces cuando duermes; al despertar, desayuno rico en proteína y repártela en todas tus comidas. ¿Tú haces ayuno intermitente? ¿Cómo te ha ido?",
-  "when": "2026-11-06T10:00:00",
-  "first_comment": ""
- },
- {
-  "id": "24c7b7ddb300",
-  "net": "fb",
-  "target": "564848600309988",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/2f0f2b4413c7ee.mp4"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "Regla que uso en el gym: si con un peso muy desafiante la repetición tarda más de dos segundos en subir, hay que sacarla. En el excéntrico somos más fuertes, pero cuando subes y ya no hay movimiento, ya te pausaste. ¿Tú peleas tus reps o te ayudan?",
-  "when": "2026-11-06T17:00:00",
-  "first_comment": ""
- },
- {
   "id": "364b2a4ae91c",
   "net": "fb",
   "target": "564848600309988",
@@ -54,36 +12,6 @@
   "caption": "No somos comerciantes ni empresarios que solo buscan el dinero: estamos detrás de suplementar atletas, de verdad. Así fue recibir a uno de nuestros atletas en la familia EPIC. ¿Qué te importa más de una marca que apoya atletas?",
   "when": "2026-11-07T10:00:00",
   "first_comment": ""
- },
- {
-  "id": "0e8a860a1f50",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/7e53798937f69d.mp4"
-  ],
-  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_7e53798937f69d.jpg",
-  "audio": null,
-  "caption": "Saber lo que quieres y no hacer nada es solamente tu decisión.\n\nOye, bro: está bien no saber qué quieres. Pero saber lo que quieres y no estar haciendo nada, reduciendo cada vez más la probabilidad de que suceda… eso ya no es mala suerte.\n\nAsí que… te toca.\n\n📌 Guárdalo para cuando lo necesites y mándaselo a quien tiene que oírlo.\n\n#mentalidad #disciplina #gym #motivacion #habitos",
-  "when": "2026-11-06T17:00:00",
-  "first_comment": "Dime una cosa que sabes que quieres y que llevas tiempo sin empezar. Escríbela aquí y hazte responsable 👇"
- },
- {
-  "id": "0e8a860a1f50_story",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "story",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/7e53798937f69d_story.mp4"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "",
-  "when": "2026-11-06T17:00:00",
-  "first_comment": "",
-  "despues_de": "0e8a860a1f50",
-  "formato": "avance"
  },
  {
   "id": "46255b08360f",
@@ -100,66 +28,6 @@
   "first_comment": ""
  },
  {
-  "id": "131e2114b37cb8_trial",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "trial",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/131e2114b37cb8.mp4"
-  ],
-  "caption": "Saber lo que quieres y no hacer nada es solamente tu decisión.\n\nOye, bro: está bien no saber qué quieres. Pero saber lo que quieres y no estar haciendo nada, reduciendo cada vez más la probabilidad de que suceda… eso ya no es mala suerte.\n\nAsí que… te toca.\n\n📌 Guárdalo para cuando lo necesites y mándaselo a quien tiene que oírlo.\n\n#mentalidad #disciplina #gym #motivacion #habitos",
-  "when": "2026-11-06T17:00:00",
-  "first_comment": "",
-  "audio": null,
-  "cover": null,
-  "origen": "7e53798937f69d"
- },
- {
-  "id": "15b9105f143e14_trial",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "trial",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/15b9105f143e14.mp4"
-  ],
-  "caption": "Si te despegas del asiento, ya no estás haciendo tríceps.\n\nEstiro, aprieto los tríceps. Regreso: pura flexión de codo, los hombros abajo. La fuerza al subir, y más arriba. Así, todas las reps así.\n\nY la que más se olvida cuando llega el cansancio: no te despegues del asiento.\n\nGuárdalo para tu próximo día de brazo y comenta CODO si te pasa 👇\n\n#triceps #gym #tecnica #entrenamiento #brazo",
-  "when": "2026-11-06T12:00:00",
-  "first_comment": "",
-  "audio": null,
-  "cover": null,
-  "origen": "f4d32a3e52027a"
- },
- {
-  "id": "5eb63db62166",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/6d4581bdb135f6.mp4"
-  ],
-  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_6d4581bdb135f6.jpg",
-  "audio": null,
-  "caption": "No analices a tu competencia para copiarla.\n\nObserva, analiza tu competencia y disfruta ese momento en el que respiras y sabes dentro de ti que nadie está haciendo ni la mitad del esfuerzo.\n\nTienes que asegurarte de eso: que nadie esté trabajando más duro que tú.\n\nNo los vas a analizar para copiarlos. Los vas a analizar para que te des cuenta de que el perro insano vive dentro de ti.\n\n💾 Guárdalo para el día que no tengas ganas de entrenar y mándaselo a quien necesita escucharlo.\n\n#mentalidad #disciplina #gym #motivacion #EPIClabs",
-  "when": "2026-11-06T09:50:00",
-  "first_comment": "Sé honesto: ¿hoy alguien trabajó más duro que tú? 👇"
- },
- {
-  "id": "5eb63db62166_story",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "story",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/6d4581bdb135f6_story.mp4"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "",
-  "when": "2026-11-06T09:50:00",
-  "first_comment": "",
-  "despues_de": "5eb63db62166",
-  "formato": "avance"
- },
- {
   "id": "8080806fdff8",
   "net": "fb",
   "target": "564848600309988",
@@ -172,21 +40,6 @@
   "caption": "Familia, esto es para el que compite: observa, analiza a tu competencia… pero no para copiarla. Asegúrate de que nadie esté trabajando más duro que tú. Los vas a analizar para que te des cuenta de que el perro insano vive dentro de ti. ¿Tú contra quién te mides?",
   "when": "2026-11-08T17:00:00",
   "first_comment": ""
- },
- {
-  "id": "03331ef0800d5b_trial",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "trial",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/03331ef0800d5b.mp4"
-  ],
-  "caption": "No analices a tu competencia para copiarla.\n\nObserva, analiza tu competencia y disfruta ese momento en el que respiras y sabes dentro de ti que nadie está haciendo ni la mitad del esfuerzo.\n\nTienes que asegurarte de eso: que nadie esté trabajando más duro que tú.\n\nNo los vas a analizar para copiarlos. Los vas a analizar para que te des cuenta de que el perro insano vive dentro de ti.\n\n💾 Guárdalo para el día que no tengas ganas de entrenar y mándaselo a quien necesita escucharlo.\n\n#mentalidad #disciplina #gym #motivacion #EPIClabs",
-  "when": "2026-11-06T09:50:00",
-  "first_comment": "",
-  "audio": null,
-  "cover": null,
-  "origen": "6d4581bdb135f6"
  },
  {
   "id": "72e04bd1829b",
@@ -230,36 +83,6 @@
   "when": "2026-11-08T10:00:00",
   "first_comment": "",
   "despues_de": "4d3e13f7a474",
-  "formato": "avance"
- },
- {
-  "id": "104f30e378dc",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/739ddf9f149d0e.mp4"
-  ],
-  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_739ddf9f149d0e.jpg",
-  "audio": null,
-  "caption": "Kilómetro 27. Valiendo madre. 🏃‍♂️\n\nLos pies como que ya los voy a ignorar, las rodillas igual. Lo que vengo cuidando es un tirón abajito del glúteo, en el isquiosural: un calambre ahorita sería fatal.\n\nVamos por unos 10 kilómetros más de esfuerzo… y los últimos 5, lo que Dios mande.\n\nVerdaderamente es toda una prueba. Esto no es cualquier cosa.\n\n¿Cuál ha sido tu kilómetro 27? Cuéntamelo en comentarios 👇\n\n#maraton #running #mentalidad #endurance #robertofranco",
-  "when": "2026-11-06T12:50:00",
-  "first_comment": "¿Qué te duele primero cuando ya vas al límite: pies, rodillas o la cabeza? 👇"
- },
- {
-  "id": "104f30e378dc_story",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "story",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/739ddf9f149d0e_story.mp4"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "",
-  "when": "2026-11-06T12:50:00",
-  "first_comment": "",
-  "despues_de": "104f30e378dc",
   "formato": "avance"
  },
  {
@@ -379,21 +202,6 @@
   "first_comment": ""
  },
  {
-  "id": "23c9400c23eec4_trial",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "trial",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/23c9400c23eec4.mp4"
-  ],
-  "caption": "Kilómetro 27. Valiendo madre. 🏃‍♂️\n\nLos pies como que ya los voy a ignorar, las rodillas igual. Lo que vengo cuidando es un tirón abajito del glúteo, en el isquiosural: un calambre ahorita sería fatal.\n\nVamos por unos 10 kilómetros más de esfuerzo… y los últimos 5, lo que Dios mande.\n\nVerdaderamente es toda una prueba. Esto no es cualquier cosa.\n\n¿Cuál ha sido tu kilómetro 27? Cuéntamelo en comentarios 👇\n\n#maraton #running #mentalidad #endurance #robertofranco",
-  "when": "2026-11-06T12:50:00",
-  "first_comment": "",
-  "audio": null,
-  "cover": null,
-  "origen": "739ddf9f149d0e"
- },
- {
   "id": "511c6d2bdbb1cb_trial",
   "net": "ig",
   "target": "17841400277954990",
@@ -407,36 +215,6 @@
   "audio": null,
   "cover": null,
   "origen": "806975e14dc0c5"
- },
- {
-  "id": "4baf272e5e2b",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/9ace8574635313.mp4"
-  ],
-  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_9ace8574635313.jpg",
-  "audio": null,
-  "caption": "Un muy buen consejo que te puedo dar: todos los días come huevo.\n\nDe 3 a 4 huevos:\n🥚 Si eres mujer, 3.\n🥚 Si eres hombre, 4.\n🥚 Si quieres construir masa muscular, 4.\n🥚 Si eres una persona común y corriente, 3.\n\nPuede variar, 3, 4 o hasta 5. Un solo huevo es muy poquito para la cantidad de proteína necesaria en una comida; apenas es suficiente cuando aplicamos los 3.\n\nY no, no te suben el colesterol. Es un súper alimento. La recomendación: inclúyelo todos los días en tu alimentación.\n\nComenta HUEVO y dime cuántos te comes al día. Guárdalo para tu próxima lista del súper.\n\n#huevo #proteina #nutricion #colesterol #robertofranco",
-  "when": "2026-11-06T10:40:00",
-  "first_comment": ""
- },
- {
-  "id": "4baf272e5e2b_story",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "story",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/9ace8574635313_story.mp4"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "",
-  "when": "2026-11-06T10:40:00",
-  "first_comment": "",
-  "despues_de": "4baf272e5e2b",
-  "formato": "avance"
  },
  {
   "id": "65deaf2dd835",
@@ -729,50 +507,6 @@
   "audio": null,
   "cover": null,
   "origen": "95eeba82bea20d"
- },
- {
-  "id": "2f2ad3ef2096",
-  "net": "fb",
-  "target": "564848600309988",
-  "kind": "images",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img289563c2fa1_0.jpg"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "Cuando compras una proteína, fíjate que te diga qué tipo de whey protein es, no nada más.\n\n100 % whey protein, pues sí, pero qué tipo. Y te digo por qué, porque existe el concentrado de suero de leche, que todavía trae algo de las grasas y los azúcares propios del suero.\n\n¿Estás de acuerdo? Dímelo en comentarios 👇",
-  "when": "2026-11-06T15:00:00",
-  "first_comment": ""
- },
- {
-  "id": "3d5e8c8f276e",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "images",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img289563c2fa1_0.jpg"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "Cuando compras una proteína, fíjate que te diga qué tipo de whey protein es, no nada más.\n\n100 % whey protein, pues sí, pero qué tipo. Y te digo por qué, porque existe el concentrado de suero de leche, que todavía trae algo de las grasas y los azúcares propios del suero.\n\n¿Estás de acuerdo? Dímelo en comentarios 👇\n\nGuárdala para el día que la necesites 📌\n.\n#nutricion #suplementos #gym #ciencia",
-  "when": "2026-11-06T16:00:00",
-  "first_comment": ""
- },
- {
-  "id": "3d5e8c8f276e_story",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "story",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img289563c2fa1_story.jpg"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "",
-  "when": "2026-11-06T16:00:00",
-  "first_comment": "",
-  "despues_de": "3d5e8c8f276e",
-  "formato": "post_compartido"
  },
  {
   "id": "1410e4e382bd",
@@ -5956,5 +5690,56 @@
   "audio": null,
   "cover": null,
   "origen": "5487335b1543a6"
+ },
+ {
+  "id": "1c35c292dd57",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/6a5137ec647412.mp4"
+  ],
+  "animo": "tranquilo",
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_6a5137ec647412.jpg",
+  "audio": {
+   "audio_id": "2172813549435530",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "“Tómatelo, igual no te hace daño.” No, familia: igual sí te hace daño.\n\nLa carnitina es súper famosa para la grasa… y para eso no funciona. Tribulus terrestris, potenciadores de testosterona, multivitamínicos: cero los recomiendo. Poco de todo es nada; mejor nada, como dicen.\n\nAlgunos suplementos, si no sabes lo que tomas, pueden ser un problema. Y aparte estás gastando.\n\nGuarda este video y mándaselo al compa que se toma todo lo que le recomiendan en el gym. Comenta cuál de estos tomas y te digo qué opino.\n\n#suplementos #nutricion #nutriologo #mitosdelgym #carnitina",
+  "when": "2026-11-27T10:00:00",
+  "first_comment": "¿Cuál de estos has tomado: carnitina, tribulus, potenciador de testosterona o multivitamínico? Te leo 👇"
+ },
+ {
+  "id": "1c35c292dd57_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/6a5137ec647412_story.mp4"
+  ],
+  "animo": "tranquilo",
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-27T10:00:00",
+  "first_comment": "",
+  "despues_de": "1c35c292dd57",
+  "formato": "avance"
+ },
+ {
+  "id": "f2c7a582d503",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/6a5137ec647412.mp4"
+  ],
+  "animo": "tranquilo",
+  "cover": null,
+  "audio": null,
+  "caption": "“Tómatelo, igual no te hace daño.” ¿Cuántas veces lo has escuchado? Igual sí te hace daño, y aparte estás gastando. Carnitina, tribulus, potenciadores de testosterona, multivitamínicos… poco de todo es nada. ¿Cuál te han recomendado a ti?",
+  "when": "2026-12-01T16:59:41",
+  "first_comment": ""
  }
 ]
