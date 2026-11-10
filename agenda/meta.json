@@ -5777,5 +5777,56 @@
   "audio": null,
   "cover": null,
   "origen": "e128cc8f821f90"
+ },
+ {
+  "id": "5d9221f26829",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/f316c932440235.mp4"
+  ],
+  "animo": "tranquilo",
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_f316c932440235.jpg",
+  "audio": {
+   "audio_id": "1607250466797248",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "No rey, es concentrado de la leche. 🥛\n\n¿Cómo se debe de ver una proteína de verdad? Suero de leche es todo: el WPI 90 es suero de leche.\n\nA lo que muchos hacen referencia es al concentrado de leche, que se parece mucho en la composición. Por eso lo utilizan y dicen: \"mira, mi proteína es suero de leche\". Y no.\n\n📌 Guárdalo para la próxima vez que compres proteína y mándaselo al compa que compra la más barata.\n\nComenta ETIQUETA y la revisamos juntos.\n\n#proteina #whey #suerodeleche #nutricion #etiquetas",
+  "when": "2026-11-26T12:00:00",
+  "first_comment": "Voltea tu bote: ¿dice suero de leche o concentrado de leche? Escríbeme qué dice la tuya 👇"
+ },
+ {
+  "id": "5d9221f26829_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/f316c932440235_story.mp4"
+  ],
+  "animo": "tranquilo",
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-26T12:00:00",
+  "first_comment": "",
+  "despues_de": "5d9221f26829",
+  "formato": "avance"
+ },
+ {
+  "id": "e2c33aba2323",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/f316c932440235.mp4"
+  ],
+  "animo": "tranquilo",
+  "cover": null,
+  "audio": null,
+  "caption": "\"Mira, mi proteína es suero de leche.\" No rey, es concentrado de la leche. El WPI 90 sí es suero de leche; el concentrado de leche se parece en la composición y por eso lo usan. ¿Tú ya revisaste qué dice la etiqueta de tu proteína?",
+  "when": "2026-12-01T06:59:32",
+  "first_comment": ""
  }
 ]
