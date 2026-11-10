@@ -5594,5 +5594,56 @@
   "audio": null,
   "cover": null,
   "origen": "a55bc4bb89d8eb"
+ },
+ {
+  "id": "90fcbe4b5980",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/vox6b99c9922a.mp4"
+  ],
+  "animo": "tranquilo",
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_vox6b99c9922a.jpg",
+  "audio": {
+   "audio_id": "521711751036658",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "La única persona que no le cae bien esta proteína es la que no quiere tomar proteína. 😅\n\nO es alérgico al suero, pero eso lo notas desde la primera vez: es una reacción tremenda.\n\n¿Te inflama demasiado? Búscate una proteína que sea proteína de verdad: a lo mejor estás comprando un mix o una marca chafa.\n\n¿Ya compraste la mejor, en la fuente más confiable, y sigue inflamando? Cambia de tipo de proteína o vete con las proteínas vegetales.\n\nMándaselo al que dice que la proteína le cae mal.\n\nComenta INFLAMA y te digo qué revisar 👇\n\n#proteina #suplementos #nutricion #gym",
+  "when": "2026-11-25T17:00:00",
+  "first_comment": "¿A ti te ha inflamado alguna proteína? ¿Era concentrado, aislado o vegetal? 👇"
+ },
+ {
+  "id": "90fcbe4b5980_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/vox6b99c9922a_motion.mp4"
+  ],
+  "animo": "tranquilo",
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-25T17:00:00",
+  "first_comment": "",
+  "despues_de": "90fcbe4b5980",
+  "formato": "motion"
+ },
+ {
+  "id": "da14376d161b",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/vox6b99c9922a.mp4"
+  ],
+  "animo": "tranquilo",
+  "cover": null,
+  "audio": null,
+  "caption": "¿La proteína te inflama? La única persona que no le cae bien es la que no quiere tomar proteína… o la que es alérgica al suero, y eso se nota desde la primera vez. Si te inflama, revisa que no sea un mix o una marca chafa, y si sigue, cambia de tipo de proteína o vete con las vegetales. ¿Te ha pasado?",
+  "when": "2026-12-01T03:19:28",
+  "first_comment": ""
  }
 ]
