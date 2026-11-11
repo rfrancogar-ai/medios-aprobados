@@ -5860,5 +5860,56 @@
   "caption": "'La creatina te infla.' Verdad a medias. Te explico la otra mitad.\n\nLa creatina te infla: verdad a medias — desliza y guárdalo 📌\n\n¿Te pasó que subiste de peso con creatina? Cuéntame.\n\nFuente: Pashayee-Khamene F et al. 2024, J Int Soc Sports Nutr (143 ECA, GRADE alto)\n.\n#nutricion #suplementos #gym #ciencia",
   "when": "2026-11-14T16:00:00",
   "first_comment": ""
+ },
+ {
+  "id": "42a8ded36d29",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/0890715ea0bb6d.mp4"
+  ],
+  "animo": "energia",
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_0890715ea0bb6d.jpg",
+  "audio": {
+   "audio_id": "1607250466797248",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "No es descanso como tal: aquí estás haciendo fuerza 🔥\n\nHaces 5 repeticiones, y en lugar de soltar, descansas haciendo una contracción isométrica. Estiras, estiras, estiras… se hace una oclusión y arde, arde, arde.\n\nY ojo: no dejes que el peso se lo lleve todo, porque se te carga la articulación del codo.\n\nHaces 5, isometría, otras 5, y lo repites las veces que toque.\n\nGuárdalo para tu próximo día de brazo y mándaselo a tu compa de entreno 💪\n\n#gym #biceps #hipertrofia #tecnicagym #entrenamiento",
+  "when": "2026-11-27T17:00:00",
+  "first_comment": "¿Tú qué haces en tus descansos: sueltas todo o te quedas haciendo fuerza? 👇"
+ },
+ {
+  "id": "42a8ded36d29_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/0890715ea0bb6d_story.mp4"
+  ],
+  "animo": "energia",
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-27T17:00:00",
+  "first_comment": "",
+  "despues_de": "42a8ded36d29",
+  "formato": "avance"
+ },
+ {
+  "id": "934456dfdd10",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/0890715ea0bb6d.mp4"
+  ],
+  "animo": "energia",
+  "cover": null,
+  "audio": null,
+  "caption": "No es descanso como tal: aquí estás haciendo fuerza. Haces 5, descansas con una isometría (sin soltar) y luego otras 5. Eso sí, que el peso no se lleve tu codo. ¿Ya lo habías probado o siempre sueltas entre series?",
+  "when": "2026-12-02T05:19:11",
+  "first_comment": ""
  }
 ]
