@@ -5911,5 +5911,56 @@
   "caption": "No es descanso como tal: aquí estás haciendo fuerza. Haces 5, descansas con una isometría (sin soltar) y luego otras 5. Eso sí, que el peso no se lleve tu codo. ¿Ya lo habías probado o siempre sueltas entre series?",
   "when": "2026-12-02T05:19:11",
   "first_comment": ""
+ },
+ {
+  "id": "70bd95dacefd",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/b85cb48a94d163.mp4"
+  ],
+  "animo": "energia",
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_b85cb48a94d163.jpg",
+  "audio": {
+   "audio_id": "39217198467923603",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "Codos atrás del cuerpo. Completamente. 💪\n\nEsta extensión de tríceps va en biserie, y lo importante es que estires por completo. Codos atrás, aprietas fuerte… y por eso se hace con dos cuerdas: una para un brazo y otra para el otro.\n\n¿Por qué? Porque si no, la cuerda choca con tu cuerpo. Si no hay dos cuerdas, pon dos agarres o dos cables, o busca la manera.\n\nDespués te pasas al segundo ejercicio: te metes un poquito para que el cable quede en línea con tu brazo y se estire mucho tu tríceps.\n\nGuárdalo para tu día de brazo y mándaselo al que siempre usa una sola cuerda 👇\n\n#triceps #gym #hipertrofia #tecnicagym #entrenamiento",
+  "when": "2026-11-28T10:00:00",
+  "first_comment": "¿Una cuerda o dos? Dime cómo la haces tú 👇"
+ },
+ {
+  "id": "70bd95dacefd_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/b85cb48a94d163_motion.mp4"
+  ],
+  "animo": "energia",
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-28T10:00:00",
+  "first_comment": "",
+  "despues_de": "70bd95dacefd",
+  "formato": "motion"
+ },
+ {
+  "id": "e81f2f40b26e",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/b85cb48a94d163.mp4"
+  ],
+  "animo": "energia",
+  "cover": null,
+  "audio": null,
+  "caption": "Codos atrás del cuerpo, completamente, y aprietas fuerte. Por eso son dos cuerdas, una para cada brazo: si no, choca con tu cuerpo. Y si no hay, pon dos agarres o dos cables. ¿Tú la haces con una o con dos cuerdas?",
+  "when": "2026-12-02T05:39:56",
+  "first_comment": ""
  }
 ]
