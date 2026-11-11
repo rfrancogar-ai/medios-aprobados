@@ -5822,5 +5822,43 @@
   "audio": null,
   "cover": null,
   "origen": "6a5137ec647412"
+ },
+ {
+  "id": "6d906bf69842",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imgf6baadea746_0.jpg",
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imgf6baadea746_1.jpg",
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imgf6baadea746_2.jpg",
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imgf6baadea746_3.jpg",
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imgf6baadea746_4.jpg"
+  ],
+  "animo": "reflexivo",
+  "cover": null,
+  "audio": null,
+  "caption": "'La creatina te infla.' Verdad a medias. Te explico la otra mitad.\n\nLa creatina te infla: verdad a medias. Te lo explico en 3 láminas.\n\n¿Te pasó que subiste de peso con creatina? Cuéntame.\n\nFuente: Pashayee-Khamene F et al. 2024, J Int Soc Sports Nutr (143 ECA, GRADE alto)",
+  "when": "2026-11-14T15:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "e703fcaf4125",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imgf6baadea746_0.jpg",
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imgf6baadea746_1.jpg",
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imgf6baadea746_2.jpg",
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imgf6baadea746_3.jpg",
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imgf6baadea746_4.jpg"
+  ],
+  "animo": "reflexivo",
+  "cover": null,
+  "audio": null,
+  "caption": "'La creatina te infla.' Verdad a medias. Te explico la otra mitad.\n\nLa creatina te infla: verdad a medias — desliza y guárdalo 📌\n\n¿Te pasó que subiste de peso con creatina? Cuéntame.\n\nFuente: Pashayee-Khamene F et al. 2024, J Int Soc Sports Nutr (143 ECA, GRADE alto)\n.\n#nutricion #suplementos #gym #ciencia",
+  "when": "2026-11-14T16:00:00",
+  "first_comment": ""
  }
 ]
