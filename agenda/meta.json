@@ -509,50 +509,6 @@
   "origen": "95eeba82bea20d"
  },
  {
-  "id": "1410e4e382bd",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "images",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img9ba34eb508f_0.jpg"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "La energía y la persistencia conquistan todas las cosas.\n\n— Benjamin Franklin\n\n¿Te pasa? Cuéntame 👇\n\nGuárdala para el día que la necesites 📌\n.\n#nutricion #suplementos #gym #ciencia",
-  "when": "2026-11-07T09:00:00",
-  "first_comment": ""
- },
- {
-  "id": "1410e4e382bd_story",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "story",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img9ba34eb508f_story.jpg"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "",
-  "when": "2026-11-07T09:00:00",
-  "first_comment": "",
-  "despues_de": "1410e4e382bd",
-  "formato": "post_compartido"
- },
- {
-  "id": "960a9410ccf4",
-  "net": "fb",
-  "target": "564848600309988",
-  "kind": "images",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img9ba34eb508f_0.jpg"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "La energía y la persistencia conquistan todas las cosas.\n\n— Benjamin Franklin\n\n¿Te pasa? Cuéntame 👇",
-  "when": "2026-11-07T09:00:00",
-  "first_comment": ""
- },
- {
   "id": "4c453fd3419b",
   "net": "ig",
   "target": "17841400277954990",
@@ -5992,5 +5948,43 @@
   "audio": null,
   "cover": null,
   "origen": "b85cb48a94d163"
+ },
+ {
+  "id": "1ed02a292084",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imgdc3b71d7738_0.jpg",
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imgdc3b71d7738_1.jpg",
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imgdc3b71d7738_2.jpg",
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imgdc3b71d7738_3.jpg",
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imgdc3b71d7738_4.jpg"
+  ],
+  "animo": "reflexivo",
+  "cover": null,
+  "audio": null,
+  "caption": "Hace unos años un video mío de magnesio llegó a más de 4 millones de personas. Hoy lo corrijo.\n\nMi video de magnesio con 4 millones de vistas: hoy lo corrijo — desliza y guárdalo 📌\n\n¿Qué otro video viejo quieres que revise con la evidencia de hoy?\n\nFuente: Schuster J et al. 2025, Nature and Science of Sleep (ECA, n≈153, d=0.2); Mah J, Pitre T. 2021, BMC Complement Med Ther (3 ECA, calidad baja)\n.\n#nutricion #suplementos #gym #ciencia",
+  "when": "2026-11-15T09:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "d5ed34efa58b",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imgdc3b71d7738_0.jpg",
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imgdc3b71d7738_1.jpg",
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imgdc3b71d7738_2.jpg",
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imgdc3b71d7738_3.jpg",
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imgdc3b71d7738_4.jpg"
+  ],
+  "animo": "reflexivo",
+  "cover": null,
+  "audio": null,
+  "caption": "Hace unos años un video mío de magnesio llegó a más de 4 millones de personas. Hoy lo corrijo.\n\nMi video de magnesio con 4 millones de vistas: hoy lo corrijo. Te lo explico en 3 láminas.\n\n¿Qué otro video viejo quieres que revise con la evidencia de hoy?\n\nFuente: Schuster J et al. 2025, Nature and Science of Sleep (ECA, n≈153, d=0.2); Mah J, Pitre T. 2021, BMC Complement Med Ther (3 ECA, calidad baja)",
+  "when": "2026-11-15T09:00:00",
+  "first_comment": ""
  }
 ]
