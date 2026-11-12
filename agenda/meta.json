@@ -6042,5 +6042,20 @@
   "audio": null,
   "cover": null,
   "origen": "26fa626a99e3c2"
+ },
+ {
+  "id": "d7edd5b8baf4",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/25e64c1247ffa5.mp4"
+  ],
+  "animo": "tranquilo",
+  "cover": null,
+  "audio": null,
+  "caption": "La batalla no es con el colesterol, familia. Puede estar elevado; lo importante es qué tipo de colesterol es. El HDL, el colesterol bueno, es cardioprotector y ayuda a eliminar el malo. El LDL es el que se pega en las arterias y forma placa. ¿Alguna vez te explicaron así tus análisis o solo te dijeron \"tienes el colesterol alto\"?",
+  "when": "2026-12-03T12:56:06",
+  "first_comment": ""
  }
 ]
