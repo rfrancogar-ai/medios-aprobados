@@ -659,50 +659,6 @@
   "origen": "e58b210fc81d85"
  },
  {
-  "id": "574f812a54ba",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "images",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img1320c84e55at_0.jpg"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "Podré parar, podré sentirme mal, podré llorar, podré gritar, pero seguiré en mi camino.\n\nY en cuanto te desvíes es en cuanto dejas de ser el protagonista de tu propia historia. no hay plan B, solo el plan A el que tú te planteaste, el que tú quieres para ti mismo y si tú no te la crees, nadie lo va a hacer por ti\n\n¿Estás de acuerdo? Dímelo en comentarios 👇\n\nGuárdala para el día que la necesites 📌\n.\n#nutricion #suplementos #gym #ciencia",
-  "when": "2026-11-08T09:00:00",
-  "first_comment": ""
- },
- {
-  "id": "574f812a54ba_story",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "story",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img1320c84e55a_story.jpg"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "",
-  "when": "2026-11-08T09:00:00",
-  "first_comment": "",
-  "despues_de": "574f812a54ba",
-  "formato": "post_compartido"
- },
- {
-  "id": "18883cc3504a",
-  "net": "fb",
-  "target": "564848600309988",
-  "kind": "images",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img1320c84e55at_0.jpg"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "Podré parar, podré sentirme mal, podré llorar, podré gritar, pero seguiré en mi camino.\n\nY en cuanto te desvíes es en cuanto dejas de ser el protagonista de tu propia historia. no hay plan B, solo el plan A el que tú te planteaste, el que tú quieres para ti mismo y si tú no te la crees, nadie lo va a hacer por ti\n\n¿Estás de acuerdo? Dímelo en comentarios 👇",
-  "when": "2026-11-08T09:00:00",
-  "first_comment": ""
- },
- {
   "id": "bce525863ceb",
   "net": "fb",
   "target": "564848600309988",
@@ -5929,5 +5885,56 @@
   "audio": null,
   "cover": null,
   "origen": "ec0ce8bcae7e8f"
+ },
+ {
+  "id": "7f35c77a09de",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/4c92449aa28042.mp4"
+  ],
+  "animo": "energia",
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_4c92449aa28042.jpg",
+  "audio": {
+   "audio_id": "1984011618647045",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "Si tu pre-entreno solo trae cafeína, no es pre-entreno.\n\nSi tu objetivo es solo cafeinarte, pensar mejor o quemar un poco de grasa, la pastilla es la mejor alternativa. No solo porque es fácil, sino porque está bien medida la dosis.\n\nCon el café le puedes pasar la mano, depende del tipo de extracción.\n\nY si los primeros dos ingredientes de tu pre-entreno son la cafeína y la beta-alanina… eso no debería de ser pre-entreno.\n\nVoltea tu bote y dime cuáles son los primeros dos ingredientes. Guárdalo y mándaselo al compa que paga pre solo por la cafeína 👇\n\n#preentreno #cafeina #suplementos #etiquetas #nutricion",
+  "when": "2026-11-29T17:00:00",
+  "first_comment": "Escríbelos y te digo si es pre o solo cafeína 👇"
+ },
+ {
+  "id": "7f35c77a09de_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/4c92449aa28042_motion.mp4"
+  ],
+  "animo": "energia",
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-29T17:00:00",
+  "first_comment": "",
+  "despues_de": "7f35c77a09de",
+  "formato": "motion"
+ },
+ {
+  "id": "2dd439492f07",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/4c92449aa28042.mp4"
+  ],
+  "animo": "energia",
+  "cover": null,
+  "audio": null,
+  "caption": "Si lo único que te da tu pre-entreno es cafeína, ¿para qué lo pagas? Para cafeinarte, la pastilla es mejor alternativa: la dosis está bien medida. Con el café le puedes pasar la mano. Y si los primeros dos ingredientes son cafeína y beta-alanina, no debería de ser pre-entreno. ¿Qué trae el tuyo en los primeros lugares de la etiqueta?",
+  "when": "2026-12-03T09:48:44",
+  "first_comment": ""
  }
 ]
