@@ -5812,5 +5812,56 @@
   "caption": "Últimamente la vida me ha hecho entender que no hay que ser buena onda de más, y no hay que ser buena onda con todos. La gente se acostumbra y te carga la mano. Hay que darse su valor, su tiempo y su respeto. ¿A ustedes les ha pasado?",
   "when": "2026-12-03T04:30:25",
   "first_comment": ""
+ },
+ {
+  "id": "cd6f120c7a86",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/ec0ce8bcae7e8f.mp4"
+  ],
+  "animo": "tranquilo",
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_ec0ce8bcae7e8f.jpg",
+  "audio": {
+   "audio_id": "25373412465646198",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "Aunque le pongas chocolate… sabe a chocolate con tierra. 🦗\n\nLa proteína de grillo para mí es 10 de 10: es la alternativa del futuro y ya hay pioneros aquí en México que lanzaron la suya.\n\nPero también te explico por qué muchas proteínas vegetales son mezclas: lentejas, arroz… no solo por los aminoácidos, también para abaratar el costo, porque entre leguminosas los precios varían mucho.\n\nLo difícil del grillo no es la proteína. Es que sepa bien y que se mezcle bien.\n\n¿Tú la probarías? Comenta GRILLO 👇 y mándaselo al compa que dice que se come lo que sea.\n\n#proteina #nutricion #suplementos #nutriologo #proteinavegetal",
+  "when": "2026-11-29T10:00:00",
+  "first_comment": "Pregunta seria: si sabe bien y se mezcla bien, ¿te tomarías una proteína de grillo? Sí o no y por qué 👇"
+ },
+ {
+  "id": "cd6f120c7a86_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/ec0ce8bcae7e8f_story.mp4"
+  ],
+  "animo": "tranquilo",
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-29T10:00:00",
+  "first_comment": "",
+  "despues_de": "cd6f120c7a86",
+  "formato": "avance"
+ },
+ {
+  "id": "23412710481e",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/ec0ce8bcae7e8f.mp4"
+  ],
+  "animo": "tranquilo",
+  "cover": null,
+  "audio": null,
+  "caption": "Aunque le pongas chocolate, sabe a chocolate con tierra 😅 La proteína de grillo es la alternativa del futuro, pero lo difícil es que sepa bien y se mezcle bien. Y ojo: muchas proteínas vegetales mezclan lentejas, arroz… también para abaratar costos. ¿Tú te tomarías una proteína de grillo?",
+  "when": "2026-12-03T08:00:29",
+  "first_comment": ""
  }
 ]
