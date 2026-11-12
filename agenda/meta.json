@@ -5863,5 +5863,56 @@
   "caption": "Aunque le pongas chocolate, sabe a chocolate con tierra 😅 La proteína de grillo es la alternativa del futuro, pero lo difícil es que sepa bien y se mezcle bien. Y ojo: muchas proteínas vegetales mezclan lentejas, arroz… también para abaratar costos. ¿Tú te tomarías una proteína de grillo?",
   "when": "2026-12-03T08:00:29",
   "first_comment": ""
+ },
+ {
+  "id": "84dc8cc3f331",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/b1e5e968edc9ea.mp4"
+  ],
+  "animo": "tranquilo",
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_b1e5e968edc9ea.jpg",
+  "audio": {
+   "audio_id": "1093060787857874",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "Enfrente dice 10 gramos de creatina…\n\ny luego lo volteas.\n\n👀\n\nY dice: cada dos porciones.\n\nEntonces no trae 10 gramos: trae 5 por cucharada, y te tienes que poner 2 para esos 10 que te prometieron.\n\nPor eso importa la cantidad POR PORCIÓN.\n\nLo mejor siempre es reportarlo como es.\n\nGuárdalo y revisa tu bote hoy.\n\nComenta PORCIÓN si quieres que lea tu etiqueta 👇\n\n#creatina #suplementos #etiquetas #nutriologo #nutricion",
+  "when": "2026-11-29T12:00:00",
+  "first_comment": "Ve por tu bote de creatina ahora: ¿cuántos gramos dice por porción y cuántas cucharadas es la porción? Escríbelo aquí 👇"
+ },
+ {
+  "id": "84dc8cc3f331_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/b1e5e968edc9ea_motion.mp4"
+  ],
+  "animo": "tranquilo",
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-29T12:00:00",
+  "first_comment": "",
+  "despues_de": "84dc8cc3f331",
+  "formato": "motion"
+ },
+ {
+  "id": "1e6859224e33",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/b1e5e968edc9ea.mp4"
+  ],
+  "animo": "tranquilo",
+  "cover": null,
+  "audio": null,
+  "caption": "Ojo con esto: enfrente dice 10 gramos de creatina, volteas el bote y es cada dos porciones. O sea, 5 por cucharada. Por eso siempre fíjate en la cantidad por porción. ¿Ya revisaste la etiqueta de tu creatina? ¿Cuánto dice?",
+  "when": "2026-12-03T08:22:08",
+  "first_comment": ""
  }
 ]
