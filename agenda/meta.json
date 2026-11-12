@@ -5593,5 +5593,56 @@
   "caption": "Tu genética, tu horario y tu trabajo explican dónde estás. No deciden a dónde vas.\n\n¿Lo aplicas o te cuesta? Te leo 👇",
   "when": "2026-11-15T16:00:00",
   "first_comment": ""
+ },
+ {
+  "id": "744e762bcf88",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/812842fba069db.mp4"
+  ],
+  "animo": "tranquilo",
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_812842fba069db.jpg",
+  "audio": {
+   "audio_id": "39217198467923603",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "Me hacía la pinta en la secundaria… pero no para irme de vago.\n\nMe pasaba a unas oficinas en la esquina, agarrábamos el wifi y nos poníamos a jugarle al emprendedor: venta de boletos para eventos, gerentes, equipo de RP, entregas en Plaza del Sol y Plaza Ciudadela.\n\nDesde entonces ya le andaba jugando al emprendedor, sin ningún temor. Y claro que después estudié: nutrición, y luego otra licenciatura en ciencias del deporte, porque me encanta ser estudiante.\n\nAsí empezó todo lo que hoy es EPIC.\n\n¿Tú a qué le jugabas en la secundaria? Cuéntamelo en comentarios 👇 y mándaselo al compa que también se volaba clases para emprender.\n\n#emprendedor #historiadefundador #nutriologo #cienciasdeldeporte #epiclabs",
+  "when": "2026-11-27T12:00:00",
+  "first_comment": "¿Tú qué negocio tenías de morro? El mío eran los boletos para eventos 😅 Cuéntame el tuyo 👇"
+ },
+ {
+  "id": "744e762bcf88_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/812842fba069db_motion.mp4"
+  ],
+  "animo": "tranquilo",
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-27T12:00:00",
+  "first_comment": "",
+  "despues_de": "744e762bcf88",
+  "formato": "motion"
+ },
+ {
+  "id": "397747a39d93",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/812842fba069db.mp4"
+  ],
+  "animo": "tranquilo",
+  "cover": null,
+  "audio": null,
+  "caption": "Familia, una historia de la secundaria: me hacía la pinta para irme a unas oficinas en la esquina, agarrar el wifi y jugarle al emprendedor. Vendíamos boletos para eventos y yo tenía mi equipo de RP. Después estudié nutrición y ciencias del deporte, porque me encanta ser estudiante. ¿Ustedes a qué le jugaban de morros?",
+  "when": "2026-12-02T21:00:14",
+  "first_comment": ""
  }
 ]
