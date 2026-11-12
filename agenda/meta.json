@@ -1,19 +1,5 @@
 [
  {
-  "id": "8080806fdff8",
-  "net": "fb",
-  "target": "564848600309988",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/6d4581bdb135f6.mp4"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "Familia, esto es para el que compite: observa, analiza a tu competencia… pero no para copiarla. Asegúrate de que nadie esté trabajando más duro que tú. Los vas a analizar para que te des cuenta de que el perro insano vive dentro de ti. ¿Tú contra quién te mides?",
-  "when": "2026-11-08T17:00:00",
-  "first_comment": ""
- },
- {
   "id": "72e04bd1829b",
   "net": "fb",
   "target": "564848600309988",
@@ -586,50 +572,6 @@
   "origen": "e58b210fc81d85"
  },
  {
-  "id": "bce525863ceb",
-  "net": "fb",
-  "target": "564848600309988",
-  "kind": "images",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imgc747a89a50at_0.jpg"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "Exígete más de lo que te exigiría tu entrenador. El día que lo logres, ya nadie tendrá que vigilarte.\n\n¿Te pasa? Cuéntame 👇",
-  "when": "2026-11-08T15:00:00",
-  "first_comment": ""
- },
- {
-  "id": "9a0dbc089668",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "images",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imgc747a89a50at_0.jpg"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "Exígete más de lo que te exigiría tu entrenador. El día que lo logres, ya nadie tendrá que vigilarte.\n\n¿Te pasa? Cuéntame 👇\n\nGuárdala para el día que la necesites 📌\n.\n#nutricion #suplementos #gym #ciencia",
-  "when": "2026-11-08T16:00:00",
-  "first_comment": ""
- },
- {
-  "id": "9a0dbc089668_story",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "story",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imgc747a89a50a_story.jpg"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "",
-  "when": "2026-11-08T16:00:00",
-  "first_comment": "",
-  "despues_de": "9a0dbc089668",
-  "formato": "post_compartido"
- },
- {
   "id": "e83b6cb418ba85_trial",
   "net": "ig",
   "target": "17841400277954990",
@@ -810,40 +752,6 @@
   "first_comment": ""
  },
  {
-  "id": "a651bbf7c760",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/01a4abe9c65346.mp4"
-  ],
-  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_01a4abe9c65346.jpg",
-  "audio": {
-   "audio_id": "520605971680626",
-   "audio_volume": 15,
-   "video_volume": 100
-  },
-  "caption": "Las rodillas ya no se mueven. Todo es cadera.\n\nAsí se hace un muerto rumano: bloqueas ligeramente las rodillas y todo el movimiento sucede en la cadera, hasta donde puedas. Esa es tu flexión de rodilla y ya no se mueve más: todo es acá.\n\nSi en cada repetición doblas más las rodillas, ya no es rumano.\n\nGuárdalo para tu día de pierna y mándaselo al compa que lo hace como sentadilla.\n\n#pesomuertorumano #femorales #gluteos #entrenamiento #gym",
-  "when": "2026-11-08T17:00:00",
-  "first_comment": "¿Dónde lo sientes más cuando haces muerto rumano: femoral, glúteo o espalda baja? 👇"
- },
- {
-  "id": "a651bbf7c760_story",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "story",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/01a4abe9c65346_motion.mp4"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "",
-  "when": "2026-11-08T17:00:00",
-  "first_comment": "",
-  "despues_de": "a651bbf7c760",
-  "formato": "motion"
- },
- {
   "id": "4cbe029aef92",
   "net": "fb",
   "target": "564848600309988",
@@ -884,21 +792,6 @@
   "caption": "En el muerto rumano las rodillas se bloquean ligeramente y ya no se mueven: todo el movimiento sucede en la cadera, hasta donde puedas. ¿Tú lo haces así o se te convierte en sentadilla?",
   "when": "2026-11-15T10:00:00",
   "first_comment": ""
- },
- {
-  "id": "d402c2c0f045a1_trial",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "trial",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/d402c2c0f045a1.mp4"
-  ],
-  "caption": "Las rodillas ya no se mueven. Todo es cadera.\n\nAsí se hace un muerto rumano: bloqueas ligeramente las rodillas y todo el movimiento sucede en la cadera, hasta donde puedas. Esa es tu flexión de rodilla y ya no se mueve más: todo es acá.\n\nSi en cada repetición doblas más las rodillas, ya no es rumano.\n\nGuárdalo para tu día de pierna y mándaselo al compa que lo hace como sentadilla.\n\n#pesomuertorumano #femorales #gluteos #entrenamiento #gym",
-  "when": "2026-11-08T17:00:00",
-  "first_comment": "",
-  "audio": null,
-  "cover": null,
-  "origen": "01a4abe9c65346"
  },
  {
   "id": "74f9d7c86a61",
@@ -6072,5 +5965,35 @@
   "audio": null,
   "cover": null,
   "origen": "d1a851c4da82e7"
+ },
+ {
+  "id": "1aa02f7e77f4",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imga64d03edb57_0.jpg"
+  ],
+  "animo": "reflexivo",
+  "cover": null,
+  "audio": null,
+  "caption": "La porción que te sirven decide más de lo que comes que el hambre con la que llegas.\n\n¿Estás de acuerdo? Dímelo en comentarios 👇\n\nGuárdala para el día que la necesites 📌\n.\n#nutricion #suplementos #gym #ciencia",
+  "when": "2026-11-16T16:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "c15da2244ab8",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imga64d03edb57_0.jpg"
+  ],
+  "animo": "reflexivo",
+  "cover": null,
+  "audio": null,
+  "caption": "La porción que te sirven decide más de lo que comes que el hambre con la que llegas.\n\n¿Estás de acuerdo? Dímelo en comentarios 👇",
+  "when": "2026-11-16T16:00:00",
+  "first_comment": ""
  }
 ]
