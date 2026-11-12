@@ -5710,5 +5710,56 @@
   "audio": null,
   "cover": null,
   "origen": "812842fba069db"
+ },
+ {
+  "id": "abdfa865bc0b",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/a7a6610ac4e075.mp4"
+  ],
+  "animo": "energia",
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_a7a6610ac4e075.jpg",
+  "audio": {
+   "audio_id": "521711751036658",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "Fabricar un buen suplemento NO es mezclar polvo y ponerle una etiqueta bonita.\n\nEl proceso de formulación es una guerra entre calidad y costos.\n\nLas marcas tienen dos caminos:\n\nAdivina cuál elige la mayoría.\n\nEn EPIC Labs tomamos el camino difícil: ingredientes con estudios clínicos, laboratorios certificados, análisis de pureza y cada fórmula probada en el mundo real con atletas.\n\nEste es el estándar que debería tener la industria.\n\nPor eso lo cambiamos.\n\nComenta CAMINO y dime cuál crees que elige tu marca 👇\n\n#suplementos #formulacion #epiclabs #nutriologo #etiquetas",
+  "when": "2026-11-28T17:00:00",
+  "first_comment": "Pregunta honesta: ¿alguna vez revisaste si las dosis de tu suplemento son las que dicen los estudios? Sí / No 👇"
+ },
+ {
+  "id": "abdfa865bc0b_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/a7a6610ac4e075_motion.mp4"
+  ],
+  "animo": "energia",
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-28T17:00:00",
+  "first_comment": "",
+  "despues_de": "abdfa865bc0b",
+  "formato": "motion"
+ },
+ {
+  "id": "4ad167b02422",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/a7a6610ac4e075.mp4"
+  ],
+  "animo": "energia",
+  "cover": null,
+  "audio": null,
+  "caption": "Si crees que fabricar un buen suplemento es solo mezclar polvo y ponerle una etiqueta bonita, prepárate para la verdad. La formulación es una guerra entre calidad y costos: dosis efectivas, que es caro y complejo, o dosis mínimas, que vende igual y nadie se da cuenta. Nosotros tomamos el camino difícil. ¿Cuál camino crees que elige la mayoría de las marcas?",
+  "when": "2026-12-03T04:10:30",
+  "first_comment": ""
  }
 ]
