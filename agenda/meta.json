@@ -5943,5 +5943,35 @@
   "audio": null,
   "cover": null,
   "origen": "559f5dd92a0639"
+ },
+ {
+  "id": "040569a2e32e",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imgbc3b3717809_0.jpg"
+  ],
+  "animo": "reflexivo",
+  "cover": null,
+  "audio": null,
+  "caption": "Antes de apostar todo, prueba en pequeño. Un negocio validado vale más que una idea perfecta en tu cabeza.\n\n¿Te pasa? Cuéntame 👇\n\nGuárdala para el día que la necesites 📌\n.\n#nutricion #suplementos #gym #ciencia",
+  "when": "2026-11-16T09:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "27fb90039788",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imgbc3b3717809_0.jpg"
+  ],
+  "animo": "reflexivo",
+  "cover": null,
+  "audio": null,
+  "caption": "Antes de apostar todo, prueba en pequeño. Un negocio validado vale más que una idea perfecta en tu cabeza.\n\n¿Te pasa? Cuéntame 👇",
+  "when": "2026-11-16T09:00:00",
+  "first_comment": ""
  }
 ]
