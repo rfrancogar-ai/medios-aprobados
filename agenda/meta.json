@@ -98,20 +98,6 @@
   "first_comment": ""
  },
  {
-  "id": "d7edd5b8baf4",
-  "net": "fb",
-  "target": "564848600309988",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/25e64c1247ffa5.mp4"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "La batalla no es con el colesterol, familia. Puede estar elevado; lo importante es qué tipo de colesterol es. El HDL, el colesterol bueno, es cardioprotector y ayuda a eliminar el malo. El LDL es el que se pega en las arterias y forma placa. ¿Alguna vez te explicaron así tus análisis o solo te dijeron \"tienes el colesterol alto\"?",
-  "when": "2026-11-08T12:00:00",
-  "first_comment": ""
- },
- {
   "id": "fd2a0f94bc81",
   "net": "ig",
   "target": "17841400277954990",
@@ -1242,40 +1228,6 @@
   "audio": null,
   "cover": null,
   "origen": "2f431c00907479"
- },
- {
-  "id": "fad97232bd3a",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/2064be66461c78.mp4"
-  ],
-  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_2064be66461c78.jpg",
-  "audio": {
-   "audio_id": "2488847887958999",
-   "audio_volume": 15,
-   "video_volume": 100
-  },
-  "caption": "Por supuesto que yo también pienso: ¿y si no lo logro?\n\n¿Y si gasto dinero de más? ¿Y si no es la inversión correcta? ¿Y si no gusta?\n\nTodas esas maneras de derrotarte son las mismas que tienes de construirte. Esos sentimientos van a estar ahí, pero tú los haces realidad con tus palabras.\n\nEstá bien sentir miedo, está bien sentir frustración. Conviértelo en algo donde niegas fallar.\n\nMándaselo a alguien que está por arrancar algo y comenta CONSTRUIR si tú también estás en eso.\n\n#emprender #mentalidad #disciplina #epiclabs",
-  "when": "2026-11-08T12:00:00",
-  "first_comment": "¿Cuál de esas preguntas es la que más te frena a ti? 👇"
- },
- {
-  "id": "fad97232bd3a_story",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "story",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/2064be66461c78_motion.mp4"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "",
-  "when": "2026-11-08T12:00:00",
-  "first_comment": "",
-  "despues_de": "fad97232bd3a",
-  "formato": "motion"
  },
  {
   "id": "681f253f9437",
@@ -5972,6 +5924,108 @@
   "audio": null,
   "caption": "Antes de apostar todo, prueba en pequeño. Un negocio validado vale más que una idea perfecta en tu cabeza.\n\n¿Te pasa? Cuéntame 👇",
   "when": "2026-11-16T09:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "c0a9734fac3b",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/26fa626a99e3c2.mp4"
+  ],
+  "animo": "tranquilo",
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_26fa626a99e3c2.jpg",
+  "audio": {
+   "audio_id": "263896829897972",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "Gluten free no es lo mismo que low carb.\n\nLos productos que no contienen gluten son productos que no contienen esas cuatro partes: globulinas, albúminas, prolaminas y gluteninas. Pero no quiere decir que sean low carb.\n\nY el gluten te puede generar malestar aunque ahorita no te lo genere: las intolerancias te pueden aparecer con el tiempo. ¿Tienes que dejar los cereales? Consúltalo con tu profesional de la salud.\n\nMándaselo a quien compra todo 'sin gluten' para bajar de peso. Y comenta LOWCARB si quieres el video de la dieta low carb.\n\n#gluten #glutenfree #lowcarb #nutricion #nutriologo",
+  "when": "2026-11-30T10:00:00",
+  "first_comment": "¿Tú has comprado algo 'sin gluten' pensando que era más saludable? 👇"
+ },
+ {
+  "id": "c0a9734fac3b_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/26fa626a99e3c2_motion.mp4"
+  ],
+  "animo": "tranquilo",
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-30T10:00:00",
+  "first_comment": "",
+  "despues_de": "c0a9734fac3b",
+  "formato": "motion"
+ },
+ {
+  "id": "26d444dc1fd1",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/d1a851c4da82e7.mp4"
+  ],
+  "animo": "tranquilo",
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_d1a851c4da82e7.jpg",
+  "audio": {
+   "audio_id": "28878749835112354",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "No, no tienes que ser celíaco para que el gluten te afecte.\n\nLos enterocitos son las células que forman las paredes del intestino: por ahí absorbemos todos los nutrientes. Están juntitos, uno a otro, para que no pasen cosas que no deben pasar.\n\nCuando llega la glutenina, dilata el espacio entre enterocito y enterocito, y pasan proteínas que pueden empeorar procesos de inflamación.\n\n¿Tú comes gluten todos los días? Cuéntame en comentarios y guarda este video para cuando te pregunten por qué hablan tan mal del gluten.\n\n#gluten #nutricion #intestino #nutriologo #bioquimica",
+  "when": "2026-11-30T12:00:00",
+  "first_comment": "¿Sientes distensión abdominal después de comer pan o pasta? Sí / No 👇"
+ },
+ {
+  "id": "26d444dc1fd1_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/d1a851c4da82e7_story.mp4"
+  ],
+  "animo": "tranquilo",
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-30T12:00:00",
+  "first_comment": "",
+  "despues_de": "26d444dc1fd1",
+  "formato": "avance"
+ },
+ {
+  "id": "4c384b575ef9",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/d1a851c4da82e7.mp4"
+  ],
+  "animo": "tranquilo",
+  "cover": null,
+  "audio": null,
+  "caption": "Mucha gente cree que el gluten solo le hace daño a los celíacos. Aquí explico qué hace la glutenina en las paredes del intestino y por qué se habla tanto de inflamación. ¿Tú has notado algo después de comer pan o pasta?",
+  "when": "2026-12-03T12:20:35",
+  "first_comment": ""
+ },
+ {
+  "id": "3aeb08179972",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/26fa626a99e3c2.mp4"
+  ],
+  "animo": "tranquilo",
+  "cover": null,
+  "audio": null,
+  "caption": "Mucha gente compra productos sin gluten pensando que son bajos en carbohidratos. Gluten free no es lo mismo que low carb. ¿Tú lo sabías o también caíste?",
+  "when": "2026-12-03T12:20:35",
   "first_comment": ""
  }
 ]
