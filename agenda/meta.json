@@ -5644,5 +5644,56 @@
   "caption": "Familia, una historia de la secundaria: me hacía la pinta para irme a unas oficinas en la esquina, agarrar el wifi y jugarle al emprendedor. Vendíamos boletos para eventos y yo tenía mi equipo de RP. Después estudié nutrición y ciencias del deporte, porque me encanta ser estudiante. ¿Ustedes a qué le jugaban de morros?",
   "when": "2026-12-02T21:00:14",
   "first_comment": ""
+ },
+ {
+  "id": "adfa0fd6c6cb",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/af7950e93b6e55.mp4"
+  ],
+  "animo": "tranquilo",
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_af7950e93b6e55.jpg",
+  "audio": {
+   "audio_id": "1093060787857874",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "¿Cómo hago para sentir ahí? La pregunta que más me hacen del hombro.\n\nLa parte del lado no se trabaja moviendo los hombros así. Cuando te alineas con las fibras únicamente de la parte que quieres trabajar, la sientes. Pero obviamente tienes que reducir la carga mucho.\n\nBien sueltito, los brazos rectos completamente; inclusive puedes flexionar el tríceps.\n\nGuárdalo para tu próximo día de hombro y mándaselo al compa que hace laterales con mancuernas pesadas.\n\n#hombro #gym #tecnica #entrenamiento #hipertrofia",
+  "when": "2026-11-27T12:00:00",
+  "first_comment": "¿Con cuánto peso haces laterales hoy? Pruébalo bajando la carga y me cuentas si por fin sentiste la del lado 👇"
+ },
+ {
+  "id": "adfa0fd6c6cb_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/af7950e93b6e55_story.mp4"
+  ],
+  "animo": "tranquilo",
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-27T12:00:00",
+  "first_comment": "",
+  "despues_de": "adfa0fd6c6cb",
+  "formato": "avance"
+ },
+ {
+  "id": "26b7044cdcc5",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/af7950e93b6e55.mp4"
+  ],
+  "animo": "tranquilo",
+  "cover": null,
+  "audio": null,
+  "caption": "La que mucha gente dice: ¿cómo hago para sentir ahí? La parte del lado del hombro se siente cuando te alineas con sus fibras, y para eso tienes que reducir la carga mucho. Brazos rectos, bien sueltito. ¿Tú la sientes en tus laterales o se te va al trapecio?",
+  "when": "2026-12-02T21:28:33",
+  "first_comment": ""
  }
 ]
