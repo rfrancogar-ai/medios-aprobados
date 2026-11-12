@@ -1,19 +1,5 @@
 [
  {
-  "id": "46255b08360f",
-  "net": "fb",
-  "target": "564848600309988",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/7e53798937f69d.mp4"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "Familia, está bien no saber qué quieres. Pero saber lo que quieres y no estar haciendo nada es solamente tu decisión. Así que… te toca. ¿Qué es eso que sabes que quieres y todavía no empiezas?",
-  "when": "2026-11-08T10:00:00",
-  "first_comment": ""
- },
- {
   "id": "8080806fdff8",
   "net": "fb",
   "target": "564848600309988",
@@ -40,36 +26,6 @@
   "caption": "Familia, la mejor sentadilla es la que te deja sentirte cómodo, con una condición: tus rodillas tienen que ir con tus pies. Controla hacia abajo, aprieta el abdomen, quédate un segundito y explota de regreso. Y si se te inclina un poco la espalda con la barra abajito, tranquilo, en la mayoría de nosotros pasa por naturaleza. ¿Tú cómo la haces, barra arriba o abajo?",
   "when": "2026-11-09T10:00:00",
   "first_comment": ""
- },
- {
-  "id": "4d3e13f7a474",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/806975e14dc0c5.mp4"
-  ],
-  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_806975e14dc0c5.jpg",
-  "audio": null,
-  "caption": "La maña para bajar corriendo (y no destrozarte las rodillas en el intento).\n\n\"Vamos a salir ya de regreso y apenas voy de ida.\" Así va la carrera 😅\n\nEn la bajada la mañita es: te recargas un poquito hacia atrás tu cuerpo y levantas bien las rodillas para aprovechar la zancada. Y ojo: el peso siempre es un factor a considerar en este tipo de carreras con tanto impacto.\n\nGuárdalo para tu próxima carrera de montaña y comenta BAJADA si quieres más tips de carrera.\n\n#trailrunning #correr #entrenamiento #running #robertofranco",
-  "when": "2026-11-08T10:00:00",
-  "first_comment": "¿Qué se te hace más difícil en una carrera de montaña: la subida o la bajada?"
- },
- {
-  "id": "4d3e13f7a474_story",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "story",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/806975e14dc0c5_story.mp4"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "",
-  "when": "2026-11-08T10:00:00",
-  "first_comment": "",
-  "despues_de": "4d3e13f7a474",
-  "formato": "avance"
  },
  {
   "id": "eacf1d03290c",
@@ -126,21 +82,6 @@
   "caption": "El ejercicio que parece de pierna o de espalda, pero en realidad es de glúteo. La clave: espalda curva, abdomen apretado y empujas la cadera hacia adelante contrayendo fuerte los glúteos. Con la espalda recta trabajas los extensores de la espalda. ¿Ustedes cómo lo hacían?",
   "when": "2026-11-10T12:00:00",
   "first_comment": ""
- },
- {
-  "id": "511c6d2bdbb1cb_trial",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "trial",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/511c6d2bdbb1cb.mp4"
-  ],
-  "caption": "La maña para bajar corriendo (y no destrozarte las rodillas en el intento).\n\n\"Vamos a salir ya de regreso y apenas voy de ida.\" Así va la carrera 😅\n\nEn la bajada la mañita es: te recargas un poquito hacia atrás tu cuerpo y levantas bien las rodillas para aprovechar la zancada. Y ojo: el peso siempre es un factor a considerar en este tipo de carreras con tanto impacto.\n\nGuárdalo para tu próxima carrera de montaña y comenta BAJADA si quieres más tips de carrera.\n\n#trailrunning #correr #entrenamiento #running #robertofranco",
-  "when": "2026-11-08T10:00:00",
-  "first_comment": "",
-  "audio": null,
-  "cover": null,
-  "origen": "806975e14dc0c5"
  },
  {
   "id": "65deaf2dd835",
@@ -5935,6 +5876,57 @@
   "audio": null,
   "caption": "Si lo único que te da tu pre-entreno es cafeína, ¿para qué lo pagas? Para cafeinarte, la pastilla es mejor alternativa: la dosis está bien medida. Con el café le puedes pasar la mano. Y si los primeros dos ingredientes son cafeína y beta-alanina, no debería de ser pre-entreno. ¿Qué trae el tuyo en los primeros lugares de la etiqueta?",
   "when": "2026-12-03T09:48:44",
+  "first_comment": ""
+ },
+ {
+  "id": "7545bea8b655",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/559f5dd92a0639.mp4"
+  ],
+  "animo": "energia",
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_559f5dd92a0639.jpg",
+  "audio": {
+   "audio_id": "775990388248999",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "No lo manifesté. Lo tenía bien claro.\n\nEl primer día de clases nos dieron una hoja para anotar nuestro objetivo y propósito al terminar la carrera, a corto, mediano y largo plazo. Yo lo tenía clarísimo: que me fuera bien, elegir el hospital que quería, aprender mucho, disfrutar las clases.\n\nLo anoté. Y sí, lo cumplí.\n\n¿Por qué? No porque lo manifesté, sino porque teniendo un propósito claro, lo que haces es tomar acción. Y al tomar acción te vuelves más sistemático, más ordenado y no te pierdes.\n\nSi no tienes un propósito claro, va a ser muy difícil.\n\n👉 Escribe en comentarios tu propósito en una palabra y guarda este video para cuando te pierdas.\n\n#mentalidad #disciplina #proposito #metas #robertofranco",
+  "when": "2026-11-30T10:00:00",
+  "first_comment": "Sé honesto: ¿tienes tu propósito por escrito o solo en la cabeza? Escríbelo aquí en una frase 👇"
+ },
+ {
+  "id": "7545bea8b655_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/559f5dd92a0639_story.mp4"
+  ],
+  "animo": "energia",
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-30T10:00:00",
+  "first_comment": "",
+  "despues_de": "7545bea8b655",
+  "formato": "avance"
+ },
+ {
+  "id": "af3b63a9ca4a",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/559f5dd92a0639.mp4"
+  ],
+  "animo": "energia",
+  "cover": null,
+  "audio": null,
+  "caption": "El primer día de clases nos pidieron anotar nuestro objetivo al terminar la carrera. Yo lo tenía bien claro, lo anoté y lo cumplí. No porque lo manifesté, sino porque teniendo un propósito claro, lo que haces es tomar acción. Sin eso, nos vamos a perder. ¿Tú tienes tu propósito por escrito? Cuéntame cuál es.",
+  "when": "2026-12-03T10:28:44",
   "first_comment": ""
  }
 ]
