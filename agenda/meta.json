@@ -1,19 +1,5 @@
 [
  {
-  "id": "364b2a4ae91c",
-  "net": "fb",
-  "target": "564848600309988",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/a1f59b20b4a632.mp4"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "No somos comerciantes ni empresarios que solo buscan el dinero: estamos detrás de suplementar atletas, de verdad. Así fue recibir a uno de nuestros atletas en la familia EPIC. ¿Qué te importa más de una marca que apoya atletas?",
-  "when": "2026-11-07T10:00:00",
-  "first_comment": ""
- },
- {
   "id": "46255b08360f",
   "net": "fb",
   "target": "564848600309988",
@@ -114,66 +100,6 @@
   "first_comment": ""
  },
  {
-  "id": "21b78dcf8a23",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/82552064c009ab.mp4"
-  ],
-  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_82552064c009ab.jpg",
-  "audio": null,
-  "caption": "Lo máximo que he corrido en mi vida son 15 kilómetros. Y me estoy preparando para correr 42 en 35 días.\n\nSoy una persona que pesa aproximadamente 100 kilos, con mucha masa muscular. Puedo almacenar suficiente azúcar en mis músculos, pero una vez que se agota, se agotó. Y mover esta corporalidad con cero energía de verdad es bastante difícil.\n\nPor eso la energía rápida durante el entrenamiento va a ser parte fundamental, no solo en los entrenamientos sino el día del evento.\n\n¿Crees que lo logro? Comenta 42 y te voy actualizando de la preparación.\n\n#maraton #running #nutriciondeportiva #correr #robertofranco",
-  "when": "2026-11-07T09:50:00",
-  "first_comment": "¿Cuál ha sido la distancia más larga que has corrido tú?"
- },
- {
-  "id": "21b78dcf8a23_story",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "story",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/82552064c009ab_story.mp4"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "",
-  "when": "2026-11-07T09:50:00",
-  "first_comment": "",
-  "despues_de": "21b78dcf8a23",
-  "formato": "avance"
- },
- {
-  "id": "97d749ad02dd",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/657902fe487080.mp4"
-  ],
-  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_657902fe487080.jpg",
-  "audio": null,
-  "caption": "Parece de espalda, pero es de glúteo\n\nEl ejercicio que parece de pierna o de espalda pero en realidad es de glúteo: espalda curva, empujas la cadera hacia adelante apretando los glúteos.\n\nSígueme para más ciencia aplicada.\n.\n#gym #entrenamiento #fitness",
-  "when": "2026-11-07T10:40:00",
-  "first_comment": "¿Tú lo hacías con la espalda recta o curva? Cuéntame y te digo qué estabas trabajando."
- },
- {
-  "id": "97d749ad02dd_story",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "story",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/657902fe487080_motion.mp4"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "",
-  "when": "2026-11-07T10:40:00",
-  "first_comment": "",
-  "despues_de": "97d749ad02dd",
-  "formato": "motion"
- },
- {
   "id": "0f4aec378c28",
   "net": "fb",
   "target": "564848600309988",
@@ -231,66 +157,6 @@
   "first_comment": ""
  },
  {
-  "id": "9e6864bc800ea0_trial",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "trial",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/9e6864bc800ea0.mp4"
-  ],
-  "caption": "Parece de espalda, pero es de glúteo\n\nEl ejercicio que parece de pierna o de espalda pero en realidad es de glúteo: espalda curva, empujas la cadera hacia adelante apretando los glúteos.\n\nSígueme para más ciencia aplicada.\n.\n#gym #entrenamiento #fitness",
-  "when": "2026-11-07T10:40:00",
-  "first_comment": "",
-  "audio": null,
-  "cover": null,
-  "origen": "657902fe487080"
- },
- {
-  "id": "7f468707139e28_trial",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "trial",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/7f468707139e28.mp4"
-  ],
-  "caption": "Lo máximo que he corrido en mi vida son 15 kilómetros. Y me estoy preparando para correr 42 en 35 días.\n\nSoy una persona que pesa aproximadamente 100 kilos, con mucha masa muscular. Puedo almacenar suficiente azúcar en mis músculos, pero una vez que se agota, se agotó. Y mover esta corporalidad con cero energía de verdad es bastante difícil.\n\nPor eso la energía rápida durante el entrenamiento va a ser parte fundamental, no solo en los entrenamientos sino el día del evento.\n\n¿Crees que lo logro? Comenta 42 y te voy actualizando de la preparación.\n\n#maraton #running #nutriciondeportiva #correr #robertofranco",
-  "when": "2026-11-07T09:50:00",
-  "first_comment": "",
-  "audio": null,
-  "cover": null,
-  "origen": "82552064c009ab"
- },
- {
-  "id": "5ce35f444bab",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/25e64c1247ffa5.mp4"
-  ],
-  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_25e64c1247ffa5.jpg",
-  "audio": null,
-  "caption": "La batalla no es con el colesterol\n\nLa batalla no es con el colesterol: lo importante es qué tipo de colesterol es. El HDL es cardioprotector; el LDL es el que se pega en las arterias.\n\nGuárdalo para tu próximo entrenamiento.\n.\n#fitness #nutricion",
-  "when": "2026-11-07T12:20:00",
-  "first_comment": "¿En tus últimos análisis te dieron solo el colesterol total o también HDL y LDL? Cuéntame 👇"
- },
- {
-  "id": "5ce35f444bab_story",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "story",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/25e64c1247ffa5_motion.mp4"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "",
-  "when": "2026-11-07T12:20:00",
-  "first_comment": "",
-  "despues_de": "5ce35f444bab",
-  "formato": "motion"
- },
- {
   "id": "d7edd5b8baf4",
   "net": "fb",
   "target": "564848600309988",
@@ -303,21 +169,6 @@
   "caption": "La batalla no es con el colesterol, familia. Puede estar elevado; lo importante es qué tipo de colesterol es. El HDL, el colesterol bueno, es cardioprotector y ayuda a eliminar el malo. El LDL es el que se pega en las arterias y forma placa. ¿Alguna vez te explicaron así tus análisis o solo te dijeron \"tienes el colesterol alto\"?",
   "when": "2026-11-08T12:00:00",
   "first_comment": ""
- },
- {
-  "id": "0bc4a6b5000473_trial",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "trial",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/0bc4a6b5000473.mp4"
-  ],
-  "caption": "La batalla no es con el colesterol\n\nLa batalla no es con el colesterol: lo importante es qué tipo de colesterol es. El HDL es cardioprotector; el LDL es el que se pega en las arterias.\n\nGuárdalo para tu próximo entrenamiento.\n.\n#fitness #nutricion",
-  "when": "2026-11-07T12:20:00",
-  "first_comment": "",
-  "audio": null,
-  "cover": null,
-  "origen": "25e64c1247ffa5"
  },
  {
   "id": "fd2a0f94bc81",
@@ -388,40 +239,6 @@
   "formato": "motion"
  },
  {
-  "id": "9c576e4cd3e9",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/3887372ffabe53.mp4"
-  ],
-  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_3887372ffabe53.jpg",
-  "audio": {
-   "audio_id": "959794905484673",
-   "audio_volume": 15,
-   "video_volume": 100
-  },
-  "caption": "Y el regreso es muy, muy importante. ¿Por qué?\n\nPorque ahí tienes tendones y ligamentos muy fuertes: tienes que permitir que se estire por completo la pantorrilla y quedarte un segundo abajo para transferirle realmente la fuerza al músculo.\n\n✅ La bola de tu pie (abajo del dedo gordo) es tu mayor soporte\n✅ Contrae lo más arriba que puedas\n✅ La bajada siempre es lenta: 2, 3 segunditos estirando\n✅ Reps: 6 a 8 pesadas y 12 a 20 un poquito más ligeras\n\nDale variedad.\n\n👉 Guárdalo para tu próximo día de pierna y mándaselo a tu compa de gym.\n\n#pantorrillas #gym #entrenamiento #hipertrofia #pierna",
-  "when": "2026-11-07T11:30:00",
-  "first_comment": "¿Tú bajas lento o rebotas en las pantorrillas? Sé honesto 👇"
- },
- {
-  "id": "9c576e4cd3e9_story",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "story",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/3887372ffabe53_story.mp4"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "",
-  "when": "2026-11-07T11:30:00",
-  "first_comment": "",
-  "despues_de": "9c576e4cd3e9",
-  "formato": "avance"
- },
- {
   "id": "327bb074d944",
   "net": "fb",
   "target": "564848600309988",
@@ -477,21 +294,6 @@
   "audio": null,
   "cover": null,
   "origen": "0f703d3467f55b"
- },
- {
-  "id": "4d853d7a8ff608_trial",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "trial",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/4d853d7a8ff608.mp4"
-  ],
-  "caption": "Y el regreso es muy, muy importante. ¿Por qué?\n\nPorque ahí tienes tendones y ligamentos muy fuertes: tienes que permitir que se estire por completo la pantorrilla y quedarte un segundo abajo para transferirle realmente la fuerza al músculo.\n\n✅ La bola de tu pie (abajo del dedo gordo) es tu mayor soporte\n✅ Contrae lo más arriba que puedas\n✅ La bajada siempre es lenta: 2, 3 segunditos estirando\n✅ Reps: 6 a 8 pesadas y 12 a 20 un poquito más ligeras\n\nDale variedad.\n\n👉 Guárdalo para tu próximo día de pierna y mándaselo a tu compa de gym.\n\n#pantorrillas #gym #entrenamiento #hipertrofia #pierna",
-  "when": "2026-11-07T11:30:00",
-  "first_comment": "",
-  "audio": null,
-  "cover": null,
-  "origen": "3887372ffabe53"
  },
  {
   "id": "3daacf94fc7930_trial",
@@ -857,50 +659,6 @@
   "origen": "e58b210fc81d85"
  },
  {
-  "id": "4ad1c8102a7d",
-  "net": "fb",
-  "target": "564848600309988",
-  "kind": "images",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img857381473c9t_0.jpg"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "No todas las salidas son para ir rápido. Unas son para entrenar, otras para disfrutar, y todas suman.\n\n¿A quién se la mandarías? Etiquétalo 👇",
-  "when": "2026-11-07T15:00:00",
-  "first_comment": ""
- },
- {
-  "id": "3c615b5002a9",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "images",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img857381473c9t_0.jpg"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "No todas las salidas son para ir rápido. Unas son para entrenar, otras para disfrutar, y todas suman.\n\n¿A quién se la mandarías? Etiquétalo 👇\n\nGuárdala para el día que la necesites 📌\n.\n#nutricion #suplementos #gym #ciencia",
-  "when": "2026-11-07T16:00:00",
-  "first_comment": ""
- },
- {
-  "id": "3c615b5002a9_story",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "story",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img857381473c9_story.jpg"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "",
-  "when": "2026-11-07T16:00:00",
-  "first_comment": "",
-  "despues_de": "3c615b5002a9",
-  "formato": "post_compartido"
- },
- {
   "id": "574f812a54ba",
   "net": "ig",
   "target": "17841400277954990",
@@ -1155,40 +913,6 @@
   "first_comment": ""
  },
  {
-  "id": "a6f5ae9b0fee",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/dd6ccc954d4b76.mp4"
-  ],
-  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_dd6ccc954d4b76.jpg",
-  "audio": {
-   "audio_id": "2183167475296101",
-   "audio_volume": 15,
-   "video_volume": 100
-  },
-  "caption": "Una bacteria en tu bote de proteína no se queda ahí.\n\nLas bacterias se reproducen muy rápido. Por ser un alimento no tan rápido, pero sí se reproducen: no le dejas una bacteria, le dejas una que va a ser mil bacterias, y cuando el cliente se la toma, le puede hacer algún efecto.\n\nPor eso lo correcto es tu sistema de recepción de materias primas: aceptar o rechazar. Pruebas previas antes de envasar. ¿Me venden proteína? Prueba de nitrógeno. ¿Me venden un polvo para tableta? Revisar qué tanta humedad tiene, si no las pastillas llegan quebradas.\n\nGuárdalo y comenta CALIDAD si quieres que te cuente qué más revisamos.\n\n#suplementos #proteina #calidad #epiclabs #nutricion",
-  "when": "2026-11-07T11:00:00",
-  "first_comment": "¿Alguna vez te ha llegado un suplemento con algo raro (grumos, olor, pastillas quebradas)? Cuéntame 👇"
- },
- {
-  "id": "a6f5ae9b0fee_story",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "story",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/dd6ccc954d4b76_story.mp4"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "",
-  "when": "2026-11-07T11:00:00",
-  "first_comment": "",
-  "despues_de": "a6f5ae9b0fee",
-  "formato": "avance"
- },
- {
   "id": "025e327a6c95",
   "net": "fb",
   "target": "564848600309988",
@@ -1201,74 +925,6 @@
   "caption": "Si le dejas una bacteria a un bote de proteína, no se queda ahí: va a ser mil bacterias. Por eso lo correcto es un sistema de recepción de materias primas, aceptar o rechazar, con pruebas antes de envasar: nitrógeno para la proteína, humedad para las tabletas. ¿Tú te fijas quién hace tus suplementos?",
   "when": "2026-11-14T10:00:00",
   "first_comment": ""
- },
- {
-  "id": "9347ff338d69",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/6f367b0dd4b41b.mp4"
-  ],
-  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_6f367b0dd4b41b.jpg",
-  "audio": {
-   "audio_id": "25373412465646198",
-   "audio_volume": 15,
-   "video_volume": 100
-  },
-  "caption": "Hay gente muy mamada que no tiene la testosterona más alta.\n\nLa gente dice: mi testo, mi músculo. Sí se relacionan, pero no tienen una relación directa.\n\nYo me la mido ahorita, me la mido en 10 años, y probablemente mi normal sea 400 nanogramos por decilitro. Para otras personas es de 600 a 800. Y estamos dentro del rango.\n\nTu número se compara contigo, no con el del gym.\n\nComenta TESTO si quieres que hable de cómo leer tus análisis.\n\n#testosterona #hipertrofia #nutriologo #mitosdelgym",
-  "when": "2026-11-07T12:30:00",
-  "first_comment": "¿Te has medido la testosterona alguna vez? ¿Para qué te la pidieron? 👇"
- },
- {
-  "id": "9347ff338d69_story",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "story",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/6f367b0dd4b41b_story.mp4"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "",
-  "when": "2026-11-07T12:30:00",
-  "first_comment": "",
-  "despues_de": "9347ff338d69",
-  "formato": "avance"
- },
- {
-  "id": "355598eea8a3",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/e7d3c84d6ce4e1.mp4"
-  ],
-  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_e7d3c84d6ce4e1.jpg",
-  "audio": {
-   "audio_id": "3550072311825202",
-   "audio_volume": 15,
-   "video_volume": 100
-  },
-  "caption": "Sí podía mover el peso, pero no dominarlo.\n\nNo fue tanto el tema de ego. Para tener una progresión tienes que tener la sobrecarga progresiva en el tiempo. Pero siendo principiante, de una barrita en cualquier máquina puedes pasar en el primer mes a seis barritas… y quieres seguir subiendo de la misma forma.\n\nLa progresión no siempre es más y más: llega un punto donde el cuerpo ya no te da y tienes que empezar a meter técnicas. Yo tenía 17, 18 años, haciendo remo de piso con toda la máquina y otro disco de 20. Lo movía, sí. Pero no lo dominaba ni generaba las contracciones que tiene que tener el movimiento.\n\nGuárdalo y mándaselo al compa que sube peso cada semana sin pensar.\n\n#sobrecargaprogresiva #entrenamiento #gym #espalda #tecnica",
-  "when": "2026-11-07T13:30:00",
-  "first_comment": "¿Cuál ha sido el ejercicio donde más peso subiste sin dominarlo? Cuéntame 👇"
- },
- {
-  "id": "355598eea8a3_story",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "story",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/e7d3c84d6ce4e1_motion.mp4"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "",
-  "when": "2026-11-07T13:30:00",
-  "first_comment": "",
-  "despues_de": "355598eea8a3",
-  "formato": "motion"
  },
  {
   "id": "a651bbf7c760",
@@ -1360,21 +1016,6 @@
   "audio": null,
   "cover": null,
   "origen": "01a4abe9c65346"
- },
- {
-  "id": "f786c1b7a200d5_trial",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "trial",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/f786c1b7a200d5.mp4"
-  ],
-  "caption": "Hay gente muy mamada que no tiene la testosterona más alta.\n\nLa gente dice: mi testo, mi músculo. Sí se relacionan, pero no tienen una relación directa.\n\nYo me la mido ahorita, me la mido en 10 años, y probablemente mi normal sea 400 nanogramos por decilitro. Para otras personas es de 600 a 800. Y estamos dentro del rango.\n\nTu número se compara contigo, no con el del gym.\n\nComenta TESTO si quieres que hable de cómo leer tus análisis.\n\n#testosterona #hipertrofia #nutriologo #mitosdelgym",
-  "when": "2026-11-07T12:30:00",
-  "first_comment": "",
-  "audio": null,
-  "cover": null,
-  "origen": "6f367b0dd4b41b"
  },
  {
   "id": "74f9d7c86a61",
@@ -1521,36 +1162,6 @@
   "first_comment": ""
  },
  {
-  "id": "de4ff727a31391_trial",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "trial",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/de4ff727a31391.mp4"
-  ],
-  "caption": "Una bacteria en tu bote de proteína no se queda ahí.\n\nLas bacterias se reproducen muy rápido. Por ser un alimento no tan rápido, pero sí se reproducen: no le dejas una bacteria, le dejas una que va a ser mil bacterias, y cuando el cliente se la toma, le puede hacer algún efecto.\n\nPor eso lo correcto es tu sistema de recepción de materias primas: aceptar o rechazar. Pruebas previas antes de envasar. ¿Me venden proteína? Prueba de nitrógeno. ¿Me venden un polvo para tableta? Revisar qué tanta humedad tiene, si no las pastillas llegan quebradas.\n\nGuárdalo y comenta CALIDAD si quieres que te cuente qué más revisamos.\n\n#suplementos #proteina #calidad #epiclabs #nutricion",
-  "when": "2026-11-07T11:00:00",
-  "first_comment": "",
-  "audio": null,
-  "cover": null,
-  "origen": "dd6ccc954d4b76"
- },
- {
-  "id": "dc4f4816a5631c_trial",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "trial",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/dc4f4816a5631c.mp4"
-  ],
-  "caption": "Sí podía mover el peso, pero no dominarlo.\n\nNo fue tanto el tema de ego. Para tener una progresión tienes que tener la sobrecarga progresiva en el tiempo. Pero siendo principiante, de una barrita en cualquier máquina puedes pasar en el primer mes a seis barritas… y quieres seguir subiendo de la misma forma.\n\nLa progresión no siempre es más y más: llega un punto donde el cuerpo ya no te da y tienes que empezar a meter técnicas. Yo tenía 17, 18 años, haciendo remo de piso con toda la máquina y otro disco de 20. Lo movía, sí. Pero no lo dominaba ni generaba las contracciones que tiene que tener el movimiento.\n\nGuárdalo y mándaselo al compa que sube peso cada semana sin pensar.\n\n#sobrecargaprogresiva #entrenamiento #gym #espalda #tecnica",
-  "when": "2026-11-07T13:30:00",
-  "first_comment": "",
-  "audio": null,
-  "cover": null,
-  "origen": "e7d3c84d6ce4e1"
- },
- {
   "id": "e9a1271e9b0b3d_trial",
   "net": "ig",
   "target": "17841400277954990",
@@ -1564,40 +1175,6 @@
   "audio": null,
   "cover": null,
   "origen": "50fb5f20f228e3"
- },
- {
-  "id": "81d9339470f1",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/a4eed4786f1443.mp4"
-  ],
-  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_a4eed4786f1443.jpg",
-  "audio": {
-   "audio_id": "263896829897972",
-   "audio_volume": 15,
-   "video_volume": 100
-  },
-  "caption": "Siempre hay que acostumbrarse a empezar desde el concéntrico.\n\nLa idea es que las agarres y las pongas en tus piernas. Si las pones allá abajo, vas a empezar el ejercicio en extensión.\n\nY a la hora que haces la sobrecarga y empiezas a agregar más peso, eso es peligroso para el músculo y para la articulación.\n\n¿Tú arrancas así o desde abajo? Guárdalo para tu próximo día de pierna y mándaselo al compa que siempre empieza en extensión.\n\n#entrenamiento #gym #tecnica #hipertrofia #fuerza",
-  "when": "2026-11-07T12:00:00",
-  "first_comment": "¿Desde dónde arrancas tu primera repetición cuando ya cargas mucho peso? 👇"
- },
- {
-  "id": "81d9339470f1_story",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "story",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/a4eed4786f1443_story.mp4"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "",
-  "when": "2026-11-07T12:00:00",
-  "first_comment": "",
-  "despues_de": "81d9339470f1",
-  "formato": "avance"
  },
  {
   "id": "ae3dd0da873b",
@@ -5985,6 +5562,36 @@
   "audio": null,
   "caption": "Hace unos años un video mío de magnesio llegó a más de 4 millones de personas. Hoy lo corrijo.\n\nMi video de magnesio con 4 millones de vistas: hoy lo corrijo. Te lo explico en 3 láminas.\n\n¿Qué otro video viejo quieres que revise con la evidencia de hoy?\n\nFuente: Schuster J et al. 2025, Nature and Science of Sleep (ECA, n≈153, d=0.2); Mah J, Pitre T. 2021, BMC Complement Med Ther (3 ECA, calidad baja)",
   "when": "2026-11-15T09:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "3deb321c2ef6",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img02a28c965c1_0.jpg"
+  ],
+  "animo": "reflexivo",
+  "cover": null,
+  "audio": null,
+  "caption": "Tu genética, tu horario y tu trabajo explican dónde estás. No deciden a dónde vas.\n\n¿Lo aplicas o te cuesta? Te leo 👇\n\nGuárdala para el día que la necesites 📌\n.\n#nutricion #suplementos #gym #ciencia",
+  "when": "2026-11-15T16:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "0030bd81b870",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img02a28c965c1_0.jpg"
+  ],
+  "animo": "reflexivo",
+  "cover": null,
+  "audio": null,
+  "caption": "Tu genética, tu horario y tu trabajo explican dónde estás. No deciden a dónde vas.\n\n¿Lo aplicas o te cuesta? Te leo 👇",
+  "when": "2026-11-15T16:00:00",
   "first_comment": ""
  }
 ]
