@@ -5806,5 +5806,92 @@
   "caption": "No todo se resuelve entrenando más fuerte. A veces la respuesta llega cuando por fin te quedas quieto.\n\n¿A quién se la mandarías? Etiquétalo 👇",
   "when": "2026-11-17T09:00:00",
   "first_comment": ""
+ },
+ {
+  "id": "fd2a0f94bc81",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/0f703d3467f55b.mp4"
+  ],
+  "animo": "energia",
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_0f703d3467f55b.jpg",
+  "audio": {
+   "audio_id": "1023975440092422",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "La intención no es que levantes las piernas.\n\nEn estos levantamientos de pierna puedes ir con rodilla doblada: en la medida en la que puedas estirar tus piernas, está bien. Pero la clave es llevar tu cadera hacia adelante, sacando completamente el aire.\n\nY el regreso es parte fundamental de este ejercicio: tienes que controlarlo.\n\nPrefiero que hagas 6 u 8 reps a que hagas todas mal hechas.\n\n👉 Guárdalo para tu próximo día de abdomen.\n\n#abdomen #core #gym #entrenamiento",
+  "when": "2026-11-30T17:00:00",
+  "first_comment": "¿Cuántas reps bien hechas te salen así? Honestidad 👇"
+ },
+ {
+  "id": "fd2a0f94bc81_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/0f703d3467f55b_story.mp4"
+  ],
+  "animo": "energia",
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-11-30T17:00:00",
+  "first_comment": "",
+  "despues_de": "fd2a0f94bc81",
+  "formato": "avance"
+ },
+ {
+  "id": "ae0ba996822b",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/95eeba82bea20d.mp4"
+  ],
+  "animo": "energia",
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_95eeba82bea20d.jpg",
+  "audio": {
+   "audio_id": "1285441729498295",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "Si entrenas pierna muy, muy intenso, ya sufriste algo como yo.\n\nNo me gusta llamarlo \"infarto de pierna\": la sangre se acumula tanto y expande tanto el músculo que es muy doloroso durante unos 5 minutos aproximadamente.\n\nLo que hago: poner las piernas arriba para ayudar a que la sangre regrese. Lo hice dos minutos y no me dio el dolor.\n\n👉 Mándaselo a tu compa que se tira al piso después de la prensa. ¿A ti te ha pasado? Comenta 🦵\n\n#legday #pierna #gym #entrenamiento",
+  "when": "2026-12-01T10:00:00",
+  "first_comment": "¿Cuál es el ejercicio que te deja tirado en el piso? 👇"
+ },
+ {
+  "id": "ae0ba996822b_story",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "story",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/95eeba82bea20d_motion.mp4"
+  ],
+  "animo": "energia",
+  "cover": null,
+  "audio": null,
+  "caption": "",
+  "when": "2026-12-01T10:00:00",
+  "first_comment": "",
+  "despues_de": "ae0ba996822b",
+  "formato": "motion"
+ },
+ {
+  "id": "eacf1d03290c",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/806975e14dc0c5.mp4"
+  ],
+  "animo": "tranquilo",
+  "cover": null,
+  "audio": null,
+  "caption": "Vamos de regreso… y yo apenas voy de ida 😅 En la bajada la mañita es: te recargas un poquito hacia atrás y levantas bien las rodillas para aprovechar la zancada. El peso siempre es un factor a considerar con tanto impacto. ¿Ustedes cómo bajan en la montaña?",
+  "when": "2026-12-04T13:06:43",
+  "first_comment": ""
  }
 ]
