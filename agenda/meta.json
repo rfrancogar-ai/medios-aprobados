@@ -1,33 +1,5 @@
 [
  {
-  "id": "72e04bd1829b",
-  "net": "fb",
-  "target": "564848600309988",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/38cf8a4b027b16.mp4"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "Familia, la mejor sentadilla es la que te deja sentirte cómodo, con una condición: tus rodillas tienen que ir con tus pies. Controla hacia abajo, aprieta el abdomen, quédate un segundito y explota de regreso. Y si se te inclina un poco la espalda con la barra abajito, tranquilo, en la mayoría de nosotros pasa por naturaleza. ¿Tú cómo la haces, barra arriba o abajo?",
-  "when": "2026-11-09T10:00:00",
-  "first_comment": ""
- },
- {
-  "id": "eacf1d03290c",
-  "net": "fb",
-  "target": "564848600309988",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/806975e14dc0c5.mp4"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "Vamos de regreso… y yo apenas voy de ida 😅 En la bajada la mañita es: te recargas un poquito hacia atrás y levantas bien las rodillas para aprovechar la zancada. El peso siempre es un factor a considerar con tanto impacto. ¿Ustedes cómo bajan en la montaña?",
-  "when": "2026-11-09T12:00:00",
-  "first_comment": ""
- },
- {
   "id": "ca3f43b0e7b7",
   "net": "fb",
   "target": "564848600309988",
@@ -84,74 +56,6 @@
   "first_comment": ""
  },
  {
-  "id": "fd2a0f94bc81",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/0f703d3467f55b.mp4"
-  ],
-  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_0f703d3467f55b.jpg",
-  "audio": {
-   "audio_id": "3550072311825202",
-   "audio_volume": 15,
-   "video_volume": 100
-  },
-  "caption": "La intención no es que levantes las piernas.\n\nEn estos levantamientos de pierna puedes ir con rodilla doblada: en la medida en la que puedas estirar tus piernas, está bien. Pero la clave es llevar tu cadera hacia adelante, sacando completamente el aire.\n\nY el regreso es parte fundamental de este ejercicio: tienes que controlarlo.\n\nPrefiero que hagas 6 u 8 reps a que hagas todas mal hechas.\n\n👉 Guárdalo para tu próximo día de abdomen.\n\n#abdomen #core #gym #entrenamiento",
-  "when": "2026-11-08T20:00:00",
-  "first_comment": "¿Cuántas reps bien hechas te salen así? Honestidad 👇"
- },
- {
-  "id": "fd2a0f94bc81_story",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "story",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/0f703d3467f55b_motion.mp4"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "",
-  "when": "2026-11-08T20:00:00",
-  "first_comment": "",
-  "despues_de": "fd2a0f94bc81",
-  "formato": "motion"
- },
- {
-  "id": "ae0ba996822b",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/95eeba82bea20d.mp4"
-  ],
-  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_95eeba82bea20d.jpg",
-  "audio": {
-   "audio_id": "2618313515277554",
-   "audio_volume": 15,
-   "video_volume": 100
-  },
-  "caption": "Si entrenas pierna muy, muy intenso, ya sufriste algo como yo.\n\nNo me gusta llamarlo \"infarto de pierna\": la sangre se acumula tanto y expande tanto el músculo que es muy doloroso durante unos 5 minutos aproximadamente.\n\nLo que hago: poner las piernas arriba para ayudar a que la sangre regrese. Lo hice dos minutos y no me dio el dolor.\n\n👉 Mándaselo a tu compa que se tira al piso después de la prensa. ¿A ti te ha pasado? Comenta 🦵\n\n#legday #pierna #gym #entrenamiento",
-  "when": "2026-11-09T10:00:00",
-  "first_comment": "¿Cuál es el ejercicio que te deja tirado en el piso? 👇"
- },
- {
-  "id": "ae0ba996822b_story",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "story",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/95eeba82bea20d_motion.mp4"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "",
-  "when": "2026-11-09T10:00:00",
-  "first_comment": "",
-  "despues_de": "ae0ba996822b",
-  "formato": "motion"
- },
- {
   "id": "327bb074d944",
   "net": "fb",
   "target": "564848600309988",
@@ -192,70 +96,6 @@
   "caption": "Si tus pantorrillas no crecen, fíjate en el regreso: la bajada siempre es lenta y te quedas estirando 2, 3 segunditos antes de regresar a una contracción fuerte hasta arriba. Repeticiones: 6 a 8 pesadas y 12 a 20 un poquito más ligeras. ¿Tú cómo las entrenas?",
   "when": "2026-11-11T17:00:00",
   "first_comment": ""
- },
- {
-  "id": "60cbb6ff3c2e3d_trial",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "trial",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/60cbb6ff3c2e3d.mp4"
-  ],
-  "caption": "La intención no es que levantes las piernas.\n\nEn estos levantamientos de pierna puedes ir con rodilla doblada: en la medida en la que puedas estirar tus piernas, está bien. Pero la clave es llevar tu cadera hacia adelante, sacando completamente el aire.\n\nY el regreso es parte fundamental de este ejercicio: tienes que controlarlo.\n\nPrefiero que hagas 6 u 8 reps a que hagas todas mal hechas.\n\n👉 Guárdalo para tu próximo día de abdomen.\n\n#abdomen #core #gym #entrenamiento",
-  "when": "2026-11-08T20:00:00",
-  "first_comment": "",
-  "audio": null,
-  "cover": null,
-  "origen": "0f703d3467f55b"
- },
- {
-  "id": "3daacf94fc7930_trial",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "trial",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/3daacf94fc7930.mp4"
-  ],
-  "caption": "Si entrenas pierna muy, muy intenso, ya sufriste algo como yo.\n\nNo me gusta llamarlo \"infarto de pierna\": la sangre se acumula tanto y expande tanto el músculo que es muy doloroso durante unos 5 minutos aproximadamente.\n\nLo que hago: poner las piernas arriba para ayudar a que la sangre regrese. Lo hice dos minutos y no me dio el dolor.\n\n👉 Mándaselo a tu compa que se tira al piso después de la prensa. ¿A ti te ha pasado? Comenta 🦵\n\n#legday #pierna #gym #entrenamiento",
-  "when": "2026-11-09T10:00:00",
-  "first_comment": "",
-  "audio": null,
-  "cover": null,
-  "origen": "95eeba82bea20d"
- },
- {
-  "id": "4c453fd3419b",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/92e49b85025e7d.mp4"
-  ],
-  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_92e49b85025e7d.jpg",
-  "audio": {
-   "audio_id": "9357431664311634",
-   "audio_volume": 15,
-   "video_volume": 100
-  },
-  "caption": "Esta modificación en la Hack Squat\n\nTe voy a enseñar una modificación en la Hack Squat: puntas para empujar, talones arriba, rodillas hacia adelante. Esto va a hacer que tus squats exploten.\n\nSígueme para más ciencia aplicada.\n.\n#gym #entrenamiento #fitness",
-  "when": "2026-11-09T12:00:00",
-  "first_comment": "¿La has probado con talones arriba? ¿Qué sentiste en el cuádriceps? 👇"
- },
- {
-  "id": "4c453fd3419b_story",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "story",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/92e49b85025e7d_story.mp4"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "",
-  "when": "2026-11-09T12:00:00",
-  "first_comment": "",
-  "despues_de": "4c453fd3419b",
-  "formato": "avance"
  },
  {
   "id": "e2e55565cf2e",
@@ -494,21 +334,6 @@
   "origen": "921511194e4c23"
  },
  {
-  "id": "4bc52d902c3b4b_trial",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "trial",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/4bc52d902c3b4b.mp4"
-  ],
-  "caption": "Esta modificación en la Hack Squat\n\nTe voy a enseñar una modificación en la Hack Squat: puntas para empujar, talones arriba, rodillas hacia adelante. Esto va a hacer que tus squats exploten.\n\nSígueme para más ciencia aplicada.\n.\n#gym #entrenamiento #fitness",
-  "when": "2026-11-09T12:00:00",
-  "first_comment": "",
-  "audio": null,
-  "cover": null,
-  "origen": "92e49b85025e7d"
- },
- {
   "id": "1a5fc699cdb6",
   "net": "ig",
   "target": "17841400277954990",
@@ -600,50 +425,6 @@
   "audio": null,
   "cover": null,
   "origen": "837a53dabf78d3"
- },
- {
-  "id": "71d8bd8474cb",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "images",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img735e2752a06t_0.jpg"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "En un Ironman, el que termina y el que abandona a veces entrenaron igual. La diferencia está en la cabeza.\n\n¿Lo aplicas o te cuesta? Te leo 👇\n\nGuárdala para el día que la necesites 📌\n.\n#nutricion #suplementos #gym #ciencia",
-  "when": "2026-11-09T09:00:00",
-  "first_comment": ""
- },
- {
-  "id": "71d8bd8474cb_story",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "story",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img735e2752a06_story.jpg"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "",
-  "when": "2026-11-09T09:00:00",
-  "first_comment": "",
-  "despues_de": "71d8bd8474cb",
-  "formato": "post_compartido"
- },
- {
-  "id": "c4d520a29ef7",
-  "net": "fb",
-  "target": "564848600309988",
-  "kind": "images",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img735e2752a06t_0.jpg"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "En un Ironman, el que termina y el que abandona a veces entrenaron igual. La diferencia está en la cabeza.\n\n¿Lo aplicas o te cuesta? Te leo 👇",
-  "when": "2026-11-09T09:00:00",
-  "first_comment": ""
  },
  {
   "id": "e102063a0b81",
@@ -5994,6 +5775,36 @@
   "audio": null,
   "caption": "La porción que te sirven decide más de lo que comes que el hambre con la que llegas.\n\n¿Estás de acuerdo? Dímelo en comentarios 👇",
   "when": "2026-11-16T16:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "3158af12e3c3",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img8da5bb161a7_0.jpg"
+  ],
+  "animo": "reflexivo",
+  "cover": null,
+  "audio": null,
+  "caption": "No todo se resuelve entrenando más fuerte. A veces la respuesta llega cuando por fin te quedas quieto.\n\n¿A quién se la mandarías? Etiquétalo 👇\n\nGuárdala para el día que la necesites 📌\n.\n#nutricion #suplementos #gym #ciencia",
+  "when": "2026-11-17T09:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "ec2a6012efbf",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img8da5bb161a7_0.jpg"
+  ],
+  "animo": "reflexivo",
+  "cover": null,
+  "audio": null,
+  "caption": "No todo se resuelve entrenando más fuerte. A veces la respuesta llega cuando por fin te quedas quieto.\n\n¿A quién se la mandarías? Etiquétalo 👇",
+  "when": "2026-11-17T09:00:00",
   "first_comment": ""
  }
 ]
