@@ -1310,5 +1310,29 @@
   "ok": 1,
   "ext": "18106217393529768",
   "ts": "2026-11-13T17:04:20-06:00"
+ },
+ "4873544be968": {
+  "ok": 0,
+  "final": 1,
+  "error": "vencido sin publicar",
+  "ts": "2026-11-14T09:07:55.310520"
+ },
+ "cbd2f033933541_trial": {
+  "ok": 0,
+  "final": 1,
+  "error": "vencido sin publicar",
+  "ts": "2026-11-14T09:07:55.310520"
+ },
+ "4873544be968_story": {
+  "ok": 0,
+  "final": 1,
+  "error": "su post no salió",
+  "ts": "2026-11-14T09:07:55.310520"
+ },
+ "ef19971f97a5": {
+  "ok": 1,
+  "ext": "18131310556632087",
+  "ts": "2026-11-14T09:08:38-06:00",
+  "musica": "sin música (Instagram no la aceptó en post)"
  }
 }
