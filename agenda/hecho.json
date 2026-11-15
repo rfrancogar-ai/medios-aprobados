@@ -1410,5 +1410,23 @@
   "ok": 1,
   "ext": "18028812287866829",
   "ts": "2026-11-14T21:15:38-06:00"
+ },
+ "bb1a847029b2": {
+  "ok": 0,
+  "final": 1,
+  "error": "vencido sin publicar",
+  "ts": "2026-11-15T11:39:27.141423"
+ },
+ "bb1a847029b2_story": {
+  "ok": 0,
+  "final": 1,
+  "error": "su post no salió",
+  "ts": "2026-11-15T11:39:27.141423"
+ },
+ "1ed02a292084": {
+  "ok": 1,
+  "ext": "17958880983298278",
+  "ts": "2026-11-15T11:40:15-06:00",
+  "musica": "sin música (Instagram no la aceptó en post)"
  }
 }
