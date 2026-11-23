@@ -2034,5 +2034,40 @@
   "ok": 1,
   "ext": "18472518691137275",
   "ts": "2026-11-22T19:31:24-06:00"
+ },
+ "b869f4a676f1": {
+  "ok": 0,
+  "final": 1,
+  "error": "vencido sin publicar",
+  "ts": "2026-11-23T15:41:56.008129"
+ },
+ "b869f4a676f1_story": {
+  "ok": 0,
+  "final": 1,
+  "error": "su post no salió",
+  "ts": "2026-11-23T15:41:56.008129"
+ },
+ "df43ace2abf5": {
+  "ok": 0,
+  "final": 1,
+  "error": "vencido sin publicar",
+  "ts": "2026-11-23T15:41:56.008129"
+ },
+ "6e6ce6087d2a51_trial": {
+  "ok": 0,
+  "final": 1,
+  "error": "vencido sin publicar",
+  "ts": "2026-11-23T15:41:56.008129"
+ },
+ "df43ace2abf5_story": {
+  "ok": 0,
+  "final": 1,
+  "error": "su post no salió",
+  "ts": "2026-11-23T15:41:56.008129"
+ },
+ "b5023a4095c6": {
+  "ok": 1,
+  "ext": "2148009309437320",
+  "ts": "2026-11-23T15:42:11-06:00"
  }
 }
