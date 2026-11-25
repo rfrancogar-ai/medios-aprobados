@@ -2187,5 +2187,40 @@
   "ok": 1,
   "ext": "18144460012627939",
   "ts": "2026-11-24T19:06:09-06:00"
+ },
+ "afaadd586f2c": {
+  "ok": 0,
+  "final": 1,
+  "error": "vencido sin publicar",
+  "ts": "2026-11-25T13:37:15.320587"
+ },
+ "afaadd586f2c_story": {
+  "ok": 0,
+  "final": 1,
+  "error": "su post no salió",
+  "ts": "2026-11-25T13:37:15.320587"
+ },
+ "7b10fa1e765f": {
+  "ok": 0,
+  "final": 1,
+  "error": "vencido sin publicar",
+  "ts": "2026-11-25T13:37:15.320587"
+ },
+ "9ea02774918ef9_trial": {
+  "ok": 0,
+  "final": 1,
+  "error": "vencido sin publicar",
+  "ts": "2026-11-25T13:37:15.320587"
+ },
+ "7b10fa1e765f_story": {
+  "ok": 0,
+  "final": 1,
+  "error": "su post no salió",
+  "ts": "2026-11-25T13:37:15.320587"
+ },
+ "b3220791fb2a": {
+  "ok": 1,
+  "ext": "1667965448405842",
+  "ts": "2026-11-25T13:37:29-06:00"
  }
 }
