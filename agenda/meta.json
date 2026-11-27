@@ -2134,5 +2134,20 @@
   "audio": null,
   "cover": null,
   "origen": "voxt73d24c488f"
+ },
+ {
+  "id": "voxt5c4a1992fd_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/voxt5c4a1992fd.mp4"
+  ],
+  "caption": "Los metaanálisis comparan cargas ligeras contra pesadas.\nPesado o ligero: cuál da más músculo",
+  "when": "2026-11-27T17:18:29",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "origen": "voxt5c4a1992fd"
  }
 ]
