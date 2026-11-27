@@ -2387,5 +2387,20 @@
   "caption": "Si entrenas pierna intenso de verdad, seguro ya lo sentiste: un dolor casi insoportable de 3 a 5 minutos. No me gusta llamarlo infarto de pierna. Yo pongo las piernas arriba para ayudar a que la sangre regrese; lo hice dos minutos y no me dio el dolor. ¿A ti te ha pasado?",
   "when": "2026-12-07T12:00:00",
   "first_comment": ""
+ },
+ {
+  "id": "voxt7da40dee25_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/voxt7da40dee25.mp4"
+  ],
+  "caption": "Esto es lo que la creatina le hace a tu memoria, según los ensayos clínicos.\nLa creatina también es para tu cerebro",
+  "when": "2026-11-27T13:39:20",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "origen": "voxt7da40dee25"
  }
 ]
