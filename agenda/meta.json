@@ -2218,5 +2218,20 @@
   "audio": null,
   "cover": null,
   "origen": "voxtdeb93137bb"
+ },
+ {
+  "id": "voxt4706a0e0b5_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/voxt4706a0e0b5.mp4"
+  ],
+  "caption": "Un metaanálisis de dos mil veinticuatro le dio malas noticias al baño de hielo.\nEl baño de hielo que te roba músculo",
+  "when": "2026-11-27T18:21:18",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "origen": "voxt4706a0e0b5"
  }
 ]
