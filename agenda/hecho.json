@@ -2461,23 +2461,23 @@
  },
  "voxt5205bf6ef0_trial": {
   "ok": 0,
-  "intentos": 1,
+  "intentos": 2,
   "final": 0,
-  "error": "500: {\"error\":{\"message\":\"An unexpected error has occurred. Please retry your request later.\",\"code\":2,\"type\":\"OAuthException\",\"is_transient\":true,\"fbtrace_id\":\"AeHQphqqIRoiEhOr7B-zVd8\"}}",
-  "ts": "2026-11-27T16:50:37.656721"
+  "error": "400: {\"error\":{\"message\":\"User is performing too many actions\",\"code\":9,\"type\":\"OAuthException\",\"error_subcode\":2207078,\"is_transient\":false,\"error_user_msg\":\"You reached maximum number of trial reels that is allowed to be published by Content Publishing API.\",\"error_user_title\":\"Trial Reel Publish ",
+  "ts": "2026-11-27T16:58:33.882682"
  },
  "voxt73d24c488f_trial": {
   "ok": 0,
-  "intentos": 1,
+  "intentos": 2,
   "final": 0,
   "error": "400: {\"error\":{\"message\":\"User is performing too many actions\",\"code\":9,\"type\":\"OAuthException\",\"error_subcode\":2207078,\"is_transient\":false,\"error_user_msg\":\"You reached maximum number of trial reels that is allowed to be published by Content Publishing API.\",\"error_user_title\":\"Trial Reel Publish ",
-  "ts": "2026-11-27T16:50:37.656721"
+  "ts": "2026-11-27T16:58:33.882682"
  },
  "voxt9cd61014c8_trial": {
   "ok": 0,
-  "intentos": 1,
+  "intentos": 2,
   "final": 0,
   "error": "400: {\"error\":{\"message\":\"User is performing too many actions\",\"code\":9,\"type\":\"OAuthException\",\"error_subcode\":2207078,\"is_transient\":false,\"error_user_msg\":\"You reached maximum number of trial reels that is allowed to be published by Content Publishing API.\",\"error_user_title\":\"Trial Reel Publish ",
-  "ts": "2026-11-27T16:50:37.656721"
+  "ts": "2026-11-27T16:58:33.882682"
  }
 }
