@@ -2522,5 +2522,20 @@
   "audio": null,
   "cover": null,
   "origen": "voxtbda3e450df"
+ },
+ {
+  "id": "voxt9cd61014c8_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/voxt9cd61014c8.mp4"
+  ],
+  "caption": "Entonces: diez o más series por músculo a la semana, repartidas en dos días.\nEl error de volumen que te deja sin músculo",
+  "when": "2026-11-27T16:47:53",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "origen": "voxt9cd61014c8"
  }
 ]
