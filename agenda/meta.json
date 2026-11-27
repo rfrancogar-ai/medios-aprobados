@@ -2188,5 +2188,20 @@
   "audio": null,
   "cover": null,
   "origen": "voxtb0cfb724e5"
+ },
+ {
+  "id": "voxta5301fbe19_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/voxta5301fbe19.mp4"
+  ],
+  "caption": "¿Baño de hielo después del gym? Antes de meterte, mira esto.\nEl baño de hielo que te roba músculo",
+  "when": "2026-11-27T17:00:58",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "origen": "voxta5301fbe19"
  }
 ]
