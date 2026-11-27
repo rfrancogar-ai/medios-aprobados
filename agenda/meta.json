@@ -2161,5 +2161,22 @@
   "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_voxt22ef4c1d3b.jpg",
   "origen": "voxt22ef4c1d3b",
   "audio_volume": 25
+ },
+ {
+  "id": "voxt7e5cc3f726_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/voxt7e5cc3f726.mp4"
+  ],
+  "caption": "Un metaanálisis en The Lancet siguió a casi cuarenta y siete mil adultos.\nNo necesitas 10,000 pasos",
+  "when": "2026-11-27T19:04:57",
+  "first_comment": "",
+  "audio": null,
+  "animo": "energia",
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_voxt7e5cc3f726.jpg",
+  "origen": "voxt7e5cc3f726",
+  "audio_volume": 25
  }
 ]
