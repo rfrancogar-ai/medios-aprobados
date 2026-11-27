@@ -4969,42 +4969,6 @@
   "first_comment": ""
  },
  {
-  "id": "70bd95dacefd",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/b85cb48a94d163.mp4"
-  ],
-  "animo": "energia",
-  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_b85cb48a94d163.jpg",
-  "audio": {
-   "audio_id": "39217198467923603",
-   "audio_volume": 15,
-   "video_volume": 100
-  },
-  "caption": "Codos atrás del cuerpo. Completamente. 💪\n\nEsta extensión de tríceps va en biserie, y lo importante es que estires por completo. Codos atrás, aprietas fuerte… y por eso se hace con dos cuerdas: una para un brazo y otra para el otro.\n\n¿Por qué? Porque si no, la cuerda choca con tu cuerpo. Si no hay dos cuerdas, pon dos agarres o dos cables, o busca la manera.\n\nDespués te pasas al segundo ejercicio: te metes un poquito para que el cable quede en línea con tu brazo y se estire mucho tu tríceps.\n\nGuárdalo para tu día de brazo y mándaselo al que siempre usa una sola cuerda 👇\n\n#triceps #gym #hipertrofia #tecnicagym #entrenamiento",
-  "when": "2026-11-28T12:00:00",
-  "first_comment": "¿Una cuerda o dos? Dime cómo la haces tú 👇"
- },
- {
-  "id": "70bd95dacefd_story",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "story",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/b85cb48a94d163_motion.mp4"
-  ],
-  "animo": "energia",
-  "cover": null,
-  "audio": null,
-  "caption": "",
-  "when": "2026-11-28T12:00:00",
-  "first_comment": "",
-  "despues_de": "70bd95dacefd",
-  "formato": "motion"
- },
- {
   "id": "e81f2f40b26e",
   "net": "fb",
   "target": "564848600309988",
@@ -5033,21 +4997,6 @@
   "audio": null,
   "cover": null,
   "origen": "0890715ea0bb6d"
- },
- {
-  "id": "4b5135249731cc_trial",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "trial",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/4b5135249731cc.mp4"
-  ],
-  "caption": "Codos atrás del cuerpo. Completamente. 💪\n\nEsta extensión de tríceps va en biserie, y lo importante es que estires por completo. Codos atrás, aprietas fuerte… y por eso se hace con dos cuerdas: una para un brazo y otra para el otro.\n\n¿Por qué? Porque si no, la cuerda choca con tu cuerpo. Si no hay dos cuerdas, pon dos agarres o dos cables, o busca la manera.\n\nDespués te pasas al segundo ejercicio: te metes un poquito para que el cable quede en línea con tu brazo y se estire mucho tu tríceps.\n\nGuárdalo para tu día de brazo y mándaselo al que siempre usa una sola cuerda 👇\n\n#triceps #gym #hipertrofia #tecnicagym #entrenamiento",
-  "when": "2026-11-28T12:00:00",
-  "first_comment": "",
-  "audio": null,
-  "cover": null,
-  "origen": "b85cb48a94d163"
  },
  {
   "id": "1ed02a292084",
@@ -5118,42 +5067,6 @@
   "first_comment": ""
  },
  {
-  "id": "744e762bcf88",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/812842fba069db.mp4"
-  ],
-  "animo": "tranquilo",
-  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_812842fba069db.jpg",
-  "audio": {
-   "audio_id": "39217198467923603",
-   "audio_volume": 15,
-   "video_volume": 100
-  },
-  "caption": "Me hacía la pinta en la secundaria… pero no para irme de vago.\n\nMe pasaba a unas oficinas en la esquina, agarrábamos el wifi y nos poníamos a jugarle al emprendedor: venta de boletos para eventos, gerentes, equipo de RP, entregas en Plaza del Sol y Plaza Ciudadela.\n\nDesde entonces ya le andaba jugando al emprendedor, sin ningún temor. Y claro que después estudié: nutrición, y luego otra licenciatura en ciencias del deporte, porque me encanta ser estudiante.\n\nAsí empezó todo lo que hoy es EPIC.\n\n¿Tú a qué le jugabas en la secundaria? Cuéntamelo en comentarios 👇 y mándaselo al compa que también se volaba clases para emprender.\n\n#emprendedor #historiadefundador #nutriologo #cienciasdeldeporte #epiclabs",
-  "when": "2026-11-27T20:00:00",
-  "first_comment": "¿Tú qué negocio tenías de morro? El mío eran los boletos para eventos 😅 Cuéntame el tuyo 👇"
- },
- {
-  "id": "744e762bcf88_story",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "story",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/812842fba069db_motion.mp4"
-  ],
-  "animo": "tranquilo",
-  "cover": null,
-  "audio": null,
-  "caption": "",
-  "when": "2026-11-27T20:00:00",
-  "first_comment": "",
-  "despues_de": "744e762bcf88",
-  "formato": "motion"
- },
- {
   "id": "397747a39d93",
   "net": "fb",
   "target": "564848600309988",
@@ -5169,42 +5082,6 @@
   "first_comment": ""
  },
  {
-  "id": "adfa0fd6c6cb",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/af7950e93b6e55.mp4"
-  ],
-  "animo": "tranquilo",
-  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_af7950e93b6e55.jpg",
-  "audio": {
-   "audio_id": "1093060787857874",
-   "audio_volume": 15,
-   "video_volume": 100
-  },
-  "caption": "¿Cómo hago para sentir ahí? La pregunta que más me hacen del hombro.\n\nLa parte del lado no se trabaja moviendo los hombros así. Cuando te alineas con las fibras únicamente de la parte que quieres trabajar, la sientes. Pero obviamente tienes que reducir la carga mucho.\n\nBien sueltito, los brazos rectos completamente; inclusive puedes flexionar el tríceps.\n\nGuárdalo para tu próximo día de hombro y mándaselo al compa que hace laterales con mancuernas pesadas.\n\n#hombro #gym #tecnica #entrenamiento #hipertrofia",
-  "when": "2026-11-27T17:00:00",
-  "first_comment": "¿Con cuánto peso haces laterales hoy? Pruébalo bajando la carga y me cuentas si por fin sentiste la del lado 👇"
- },
- {
-  "id": "adfa0fd6c6cb_story",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "story",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/af7950e93b6e55_story.mp4"
-  ],
-  "animo": "tranquilo",
-  "cover": null,
-  "audio": null,
-  "caption": "",
-  "when": "2026-11-27T17:00:00",
-  "first_comment": "",
-  "despues_de": "adfa0fd6c6cb",
-  "formato": "avance"
- },
- {
   "id": "26b7044cdcc5",
   "net": "fb",
   "target": "564848600309988",
@@ -5218,21 +5095,6 @@
   "caption": "La que mucha gente dice: ¿cómo hago para sentir ahí? La parte del lado del hombro se siente cuando te alineas con sus fibras, y para eso tienes que reducir la carga mucho. Brazos rectos, bien sueltito. ¿Tú la sientes en tus laterales o se te va al trapecio?",
   "when": "2026-12-02T21:28:33",
   "first_comment": ""
- },
- {
-  "id": "092fd6d347a68a_trial",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "trial",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/092fd6d347a68a.mp4"
-  ],
-  "caption": "Me hacía la pinta en la secundaria… pero no para irme de vago.\n\nMe pasaba a unas oficinas en la esquina, agarrábamos el wifi y nos poníamos a jugarle al emprendedor: venta de boletos para eventos, gerentes, equipo de RP, entregas en Plaza del Sol y Plaza Ciudadela.\n\nDesde entonces ya le andaba jugando al emprendedor, sin ningún temor. Y claro que después estudié: nutrición, y luego otra licenciatura en ciencias del deporte, porque me encanta ser estudiante.\n\nAsí empezó todo lo que hoy es EPIC.\n\n¿Tú a qué le jugabas en la secundaria? Cuéntamelo en comentarios 👇 y mándaselo al compa que también se volaba clases para emprender.\n\n#emprendedor #historiadefundador #nutriologo #cienciasdeldeporte #epiclabs",
-  "when": "2026-11-27T20:00:00",
-  "first_comment": "",
-  "audio": null,
-  "cover": null,
-  "origen": "812842fba069db"
  },
  {
   "id": "abdfa865bc0b",
@@ -5284,42 +5146,6 @@
   "caption": "Si crees que fabricar un buen suplemento es solo mezclar polvo y ponerle una etiqueta bonita, prepárate para la verdad. La formulación es una guerra entre calidad y costos: dosis efectivas, que es caro y complejo, o dosis mínimas, que vende igual y nadie se da cuenta. Nosotros tomamos el camino difícil. ¿Cuál camino crees que elige la mayoría de las marcas?",
   "when": "2026-12-03T04:10:30",
   "first_comment": ""
- },
- {
-  "id": "6e5fc3a3a2c9",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/37093dece1384d.mp4"
-  ],
-  "animo": "tranquilo",
-  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_37093dece1384d.jpg",
-  "audio": {
-   "audio_id": "1785616328562279",
-   "audio_volume": 15,
-   "video_volume": 100
-  },
-  "caption": "No hay que ser buena onda de más. Y no hay que ser buena onda con todos.\n\nLa gente se acostumbra a que accedas, a que proveas… y luego te carga la mano. Todos saben que tú te vas a encargar.\n\nNo, gente. Hay que darse su valor, su tiempo y su respeto, y entregárselo solamente a las personas que realmente lo merecen.\n\nMándaselo a ese amigo que siempre dice que sí a todo 👇\n\n#mentalidad #disciplina #crecimientopersonal #respeto",
-  "when": "2026-11-28T20:00:00",
-  "first_comment": "¿A quién le has dicho que sí cuando querías decir que no? Sin nombres 😅👇"
- },
- {
-  "id": "6e5fc3a3a2c9_story",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "story",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/37093dece1384d_motion.mp4"
-  ],
-  "animo": "tranquilo",
-  "cover": null,
-  "audio": null,
-  "caption": "",
-  "when": "2026-11-28T20:00:00",
-  "first_comment": "",
-  "despues_de": "6e5fc3a3a2c9",
-  "formato": "motion"
  },
  {
   "id": "6f711170f83f",
@@ -5452,42 +5278,6 @@
   "audio": null,
   "cover": null,
   "origen": "ec0ce8bcae7e8f"
- },
- {
-  "id": "7f35c77a09de",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/4c92449aa28042.mp4"
-  ],
-  "animo": "energia",
-  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_4c92449aa28042.jpg",
-  "audio": {
-   "audio_id": "1984011618647045",
-   "audio_volume": 15,
-   "video_volume": 100
-  },
-  "caption": "Si tu pre-entreno solo trae cafeína, no es pre-entreno.\n\nSi tu objetivo es solo cafeinarte, pensar mejor o quemar un poco de grasa, la pastilla es la mejor alternativa. No solo porque es fácil, sino porque está bien medida la dosis.\n\nCon el café le puedes pasar la mano, depende del tipo de extracción.\n\nY si los primeros dos ingredientes de tu pre-entreno son la cafeína y la beta-alanina… eso no debería de ser pre-entreno.\n\nVoltea tu bote y dime cuáles son los primeros dos ingredientes. Guárdalo y mándaselo al compa que paga pre solo por la cafeína 👇\n\n#preentreno #cafeina #suplementos #etiquetas #nutricion",
-  "when": "2026-11-29T17:00:00",
-  "first_comment": "Escríbelos y te digo si es pre o solo cafeína 👇"
- },
- {
-  "id": "7f35c77a09de_story",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "story",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/4c92449aa28042_motion.mp4"
-  ],
-  "animo": "energia",
-  "cover": null,
-  "audio": null,
-  "caption": "",
-  "when": "2026-11-29T17:00:00",
-  "first_comment": "",
-  "despues_de": "7f35c77a09de",
-  "formato": "motion"
  },
  {
   "id": "2dd439492f07",
