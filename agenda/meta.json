@@ -196,20 +196,6 @@
   "first_comment": ""
  },
  {
-  "id": "3338aa31160e",
-  "net": "fb",
-  "target": "564848600309988",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/e4fd3a85b1a27d.mp4"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "Si pones el banco a 90 grados para hombro, también entran romboides y trapecios. No es malo, ayudan al movimiento. Pero si quieres solamente hombro: banco en medio, párate un poquito atrás, posición ligeramente inclinada y manos un poquito adelante. ¿Tú cómo lo haces?",
-  "when": "2026-11-29T15:27:04",
-  "first_comment": ""
- },
- {
   "id": "3f7f6947b77f",
   "net": "fb",
   "target": "564848600309988",
@@ -1380,25 +1366,6 @@
   "caption": "Liderar no es dar un discurso inspirador. Es explicar, revisar y corregir una y otra vez, sin cansarte.\n\n¿Lo aplicas o te cuesta? Te leo 👇",
   "when": "2026-11-27T15:00:00",
   "first_comment": ""
- },
- {
-  "id": "0feeda9822der",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/e4fd3a85b1a27d.mp4"
-  ],
-  "animo": "tranquilo",
-  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_e4fd3a85b1a27d.jpg",
-  "audio": {
-   "audio_id": "1852688158814799",
-   "audio_volume": 15,
-   "video_volume": 100
-  },
-  "caption": "Muy inclinado: entran romboides y trapecios\n\nAl estar tan inclinado, automáticamente hay movimiento en la parte de atrás: romboides, trapecios. Si quiero solamente hombro: posición ligeramente inclinada. Aquí no hay resistencia, aquí ya hay resistencia.\n\n¿Qué otra duda tienes? Te respondo en video.\n.\n#fitness #nutricion",
-  "when": "2026-11-27T19:00:00",
-  "first_comment": "¿Tú en qué ángulo pones el banco para hombro? Cuéntame 👇"
  },
  {
   "id": "62a474653241r",
