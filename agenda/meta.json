@@ -154,20 +154,6 @@
   "first_comment": ""
  },
  {
-  "id": "2ba8fe45bf63",
-  "net": "fb",
-  "target": "564848600309988",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/8ed57e1552eeb5.mp4"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "¿Natural o no natural, el esfuerzo debería cambiar? Hay días más fatigado, pero siempre buscar acercarte a dar tu máximo. Lo que cambia es la cantidad, el volumen y la frecuencia. ¿Tú entrenas siempre al máximo?",
-  "when": "2026-11-29T02:59:16",
-  "first_comment": ""
- },
- {
   "id": "e0d7f5554c51",
   "net": "fb",
   "target": "564848600309988",
@@ -1436,25 +1422,6 @@
   "caption": "Liderar no es dar un discurso inspirador. Es explicar, revisar y corregir una y otra vez, sin cansarte.\n\n¿Lo aplicas o te cuesta? Te leo 👇",
   "when": "2026-11-27T15:00:00",
   "first_comment": ""
- },
- {
-  "id": "7a7d4d958bcbr",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/8ed57e1552eeb5.mp4"
-  ],
-  "animo": "energia",
-  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_8ed57e1552eeb5.jpg",
-  "audio": {
-   "audio_id": "358728548154546",
-   "audio_volume": 15,
-   "video_volume": 100
-  },
-  "caption": "¿Cuál es la diferencia de entrenar nati a no nati? 👇\n\nLa recuperación: cuando no estás nati te recuperas mucho más rápido.\n\nLa pregunta clave: ¿el esfuerzo debería cambiar o debería ser 10 de 10 siempre?\n\nHay días que estás más fatigado, pero siempre buscar acercarte a dar tu máximo. Lo que se modifica es la cantidad, el volumen y qué tan pegadas están las sesiones, que se le llama frecuencia.\n\nMándaselo al compa que dice que no crece porque no es nati.\n\n#natty #entrenamiento #hipertrofia #gym",
-  "when": "2026-11-27T19:00:00",
-  "first_comment": "¿Tú entrenas 10 de 10 siempre o depende del día?"
  },
  {
   "id": "2f5fd34668a2r",
