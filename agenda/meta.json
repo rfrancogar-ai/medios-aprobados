@@ -2402,5 +2402,20 @@
   "audio": null,
   "cover": null,
   "origen": "voxt7da40dee25"
+ },
+ {
+  "id": "voxtea5ec708b8_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/voxtea5ec708b8.mp4"
+  ],
+  "caption": "Si solo piensas en la creatina para el gym, te falta una parte de la historia.\nLa creatina también es para tu cerebro",
+  "when": "2026-11-27T14:19:30",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "origen": "voxtea5ec708b8"
  }
 ]
