@@ -2149,5 +2149,20 @@
   "audio": null,
   "cover": null,
   "origen": "voxt5c4a1992fd"
+ },
+ {
+  "id": "voxt7e3072152b_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/voxt7e3072152b.mp4"
+  ],
+  "caption": "Para músculo, el crecimiento fue muy parecido con las dos.\nPesado o ligero: cuál da más músculo",
+  "when": "2026-11-27T17:58:38",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "origen": "voxt7e3072152b"
  }
 ]
