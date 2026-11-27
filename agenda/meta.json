@@ -2330,5 +2330,22 @@
   "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_voxt12f58d125d.jpg",
   "origen": "voxt12f58d125d",
   "audio_volume": 25
+ },
+ {
+  "id": "voxt8d8084cce2_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/voxt8d8084cce2.mp4"
+  ],
+  "caption": "Guárdalo y calcula tu dosis.\nLa dosis de cafeína que sí funciona",
+  "when": "2026-11-27T20:38:40",
+  "first_comment": "",
+  "audio": null,
+  "animo": "energia",
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_voxt8d8084cce2.jpg",
+  "origen": "voxt8d8084cce2",
+  "audio_volume": 25
  }
 ]
