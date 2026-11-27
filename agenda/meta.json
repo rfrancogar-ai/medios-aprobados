@@ -2077,5 +2077,69 @@
   "animo": "energia",
   "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_t16783444531.jpg",
   "origen": "t16783444531"
+ },
+ {
+  "id": "gpt_5am",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/motor_gpt_5am.jpg"
+  ],
+  "caption": "Mándaselo a quien entrena cuando nadie lo ve.",
+  "when": "2026-11-28T09:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "animo": "reflexivo",
+  "origen": "chatgpt"
+ },
+ {
+  "id": "gpt_andale",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/motor_gpt_andale.jpg"
+  ],
+  "caption": "¿Cuál es la frase que más te han dicho? 👇",
+  "when": "2026-11-29T09:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "animo": "reflexivo",
+  "origen": "chatgpt"
+ },
+ {
+  "id": "gpt_lunes",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/motor_gpt_lunes.jpg"
+  ],
+  "caption": "¿Quién más empieza el lunes? 👇",
+  "when": "2026-11-30T09:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "animo": "reflexivo",
+  "origen": "chatgpt"
+ },
+ {
+  "id": "gpt_cuerpo",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/motor_gpt_cuerpo.jpg"
+  ],
+  "caption": "Guárdala para el día que la necesites.",
+  "when": "2026-12-01T09:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "animo": "reflexivo",
+  "origen": "chatgpt"
  }
 ]
