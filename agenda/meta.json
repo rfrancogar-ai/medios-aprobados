@@ -154,20 +154,6 @@
   "first_comment": ""
  },
  {
-  "id": "e0d7f5554c51",
-  "net": "fb",
-  "target": "564848600309988",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/2918215810d762.mp4"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "Este es el hack para subir las mancuernas: usas tus piernas, subes una, luego la otra, a medio camino no te detienes y al final un poquito de muñeca hacia adentro. ¿Tú pides ayuda o las subes solo?",
-  "when": "2026-11-29T03:19:54",
-  "first_comment": ""
- },
- {
   "id": "ff266a6bb8e3",
   "net": "fb",
   "target": "564848600309988",
@@ -1408,25 +1394,6 @@
   "caption": "Liderar no es dar un discurso inspirador. Es explicar, revisar y corregir una y otra vez, sin cansarte.\n\n¿Lo aplicas o te cuesta? Te leo 👇",
   "when": "2026-11-27T15:00:00",
   "first_comment": ""
- },
- {
-  "id": "bf4f1ef05815r",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/2918215810d762.mp4"
-  ],
-  "animo": "energia",
-  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_2918215810d762.jpg",
-  "audio": {
-   "audio_id": "1465722835509770",
-   "audio_volume": 15,
-   "video_volume": 100
-  },
-  "caption": "El hack para subir las mancuernas\n\nEl hack para subir las mancuernas: usa tus piernas, sube una y luego la otra, a medio camino no te detengas, y al final un poquito de muñeca hacia adentro.\n\nGuárdalo para tu próximo entrenamiento.\n.\n#nutricion #dieta #salud",
-  "when": "2026-11-27T19:00:00",
-  "first_comment": "¿Tú cómo subes las mancuernas pesadas: con las piernas o pides ayuda?"
  },
  {
   "id": "05f4266355a3r",
