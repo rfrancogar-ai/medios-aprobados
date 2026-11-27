@@ -19,6 +19,7 @@ AGENDA, HECHO = "agenda/meta.json", "agenda/hecho.json"
 MAX_RETRASO_H = 12      # si algo se atrasó más que esto, no se publica fuera de hora
 MAX_INTENTOS = 3
 TOPE_REELS_DIA, TOPE_POSTS_DIA, SEPARACION_MIN = 3, 2, 120  # 3 reels + 2 posts (ritmo de los que crecen)
+TOPE_TRIALS_DIA_FRENADO = 15  # si Instagram nos frenó en las últimas 48 h
 TOPE_TRIALS_DIA, SEPARACION_TRIAL_MIN = 50, 15  # Roberto (27-nov): hasta 50 trials al día (cupo de la API: 100)
 
 
@@ -66,7 +67,7 @@ _POOL: dict = {}
 def musica(e):
     """Música OFICIAL de Instagram para TODO lo que la acepte (reels y posts), elegida por el ánimo del contenido:
     energía para entrenamiento, tranquila para nutrición/ciencia, reflexiva para frases. Determinista por publicación."""
-    if e.get("audio") or e.get("sin_musica") or e["kind"] not in ("reel", "images"):
+    if e.get("audio") or e.get("sin_musica") or e["kind"] not in ("reel", "images", "trial"):
         return e.get("audio")
     animo = e.get("animo") or ("reflexivo" if e["kind"] == "images" else "energia")
     if animo not in _POOL:
@@ -90,7 +91,33 @@ def musica(e):
     import hashlib
     a = pool[int(hashlib.sha1(e["id"].encode()).hexdigest(), 16) % len(pool)]
     e["_musica"] = f"{a.get('title')} — {a.get('display_artist')} ({animo})"
-    return {"audio_id": a["audio_id"], "audio_volume": 15 if e["kind"] == "reel" else 100, "video_volume": 100}
+    # volumen: la canción NUNCA tapa su voz ni el sonido del video (la Mac manda el nivel por tipo de video)
+    vol = e.get("audio_volume") or (100 if e["kind"] == "images" else 18)
+    return {"audio_id": a["audio_id"], "audio_volume": int(vol), "video_volume": 100}
+
+    _VIRALES = []
+    try:
+        with urllib.request.urlopen("https://itunes.apple.com/mx/rss/topsongs/limit=40/json", timeout=30) as r:
+            top = [(x["im:name"]["label"], x["im:artist"]["label"]) for x in json.load(r)["feed"]["entry"]]
+    except Exception:  # noqa: BLE001
+        return _VIRALES
+    for nombre, artista in top:
+        t = nombre.lower()
+        if any(x in t for x in FUERA + BALADAS):
+            continue
+        try:
+            d = req(f"{G}/ig_audio?audio_type=music&user_id={target}&search_query="
+                    f"{urllib.parse.quote(nombre + ' ' + artista.split(',')[0])}&access_token={TOK}")
+        except RuntimeError:
+            continue
+        for a in d.get("audio", [])[:3]:
+            if nombre.lower()[:12] in (a.get("title") or "").lower() and a.get("duration_in_ms", 0) >= 20000:
+                _VIRALES.append(a)
+                break
+        if len(_VIRALES) >= 15:
+            break
+    print("canciones virales MX:", len(_VIRALES))
+    return _VIRALES
 
 
 def ig(e):
@@ -211,6 +238,12 @@ def guardar(hecho):
     return False
 
 
+def _es_freno(msg: str) -> bool:
+    m = msg.lower()
+    return any(x in m for x in ("too many action", "performing too many", "request limit", "rate limit",
+                                '"code":4,', '"code":17', '"code":32', '"code":613', "action is blocked"))
+
+
 def ya_en_instagram(e):
     """Segunda llave: si en los últimos 45 días ya hay en la cuenta un post con el mismo texto y del mismo tipo, no se
     vuelve a subir (se anota ese). Cubre cualquier pérdida de estado o un segundo camino de publicación."""
@@ -263,7 +296,13 @@ def main():
         except ValueError:
             pass
     ahora = datetime.now(MX).replace(tzinfo=None)
+    pausa = (hecho.get("_pausa_ig") or {})
+    if pausa.get("hasta", "") > ahora.isoformat():
+        print("⏸ Instagram en pausa hasta", pausa["hasta"], "(nos frenó por exceso de acciones)")
+    frenado_48h = pausa.get("ultima", "") > (ahora - timedelta(hours=48)).isoformat()
     for e in sorted(agenda, key=lambda x: (x["when"], bool(x.get("despues_de")))):
+        if e.get("net") == "ig" and pausa.get("hasta", "") > ahora.isoformat():
+            continue
         h = hecho.get(e["id"], {})
         if h.get("ok") or h.get("final"):
             continue
@@ -309,7 +348,7 @@ def main():
                 hoy_ = ahora.strftime("%Y-%m-%d")
                 salidos = [hecho[x["id"]]["ts"][:19] for x in agenda if x["kind"] == "trial"
                            and hecho.get(x["id"], {}).get("ok") and hecho[x["id"]].get("ts", "").startswith(hoy_)]
-                if len(salidos) >= TOPE_TRIALS_DIA:
+                if len(salidos) >= (TOPE_TRIALS_DIA_FRENADO if frenado_48h else TOPE_TRIALS_DIA):
                     continue
                 if salidos and ahora - datetime.fromisoformat(max(salidos)) < timedelta(minutes=SEPARACION_TRIAL_MIN):
                     continue
@@ -338,6 +377,16 @@ def main():
             guardar(hecho)  # en cuanto sale, queda escrito en main
             print("✓", e["id"], e["net"], e["kind"], ext)
         except Exception as err:  # noqa: BLE001
+            if e["net"] == "ig" and _es_freno(str(err)):
+                # Instagram dice "demasiadas acciones": NO insistir (eso castiga la cuenta). Se pausa todo IG y se
+                # baja el ritmo de trials 48 h. La pausa crece si se repite (3 → 6 → 12 h).
+                pa = hecho.get("_pausa_ig") or {}
+                horas = min(12, (pa.get("horas") or 1.5) * 2) if pa.get("ultima", "") > (ahora - timedelta(hours=24)).isoformat() else 3
+                hecho["_pausa_ig"] = {"hasta": (ahora + timedelta(hours=horas)).isoformat(), "horas": horas,
+                                      "ultima": ahora.isoformat(), "error": str(err)[:160]}
+                guardar(hecho)
+                print(f"⏸ Instagram frenó ('too many actions'): pausa de {horas} h")
+                break
             n = h.get("intentos", 0) + 1
             hecho[e["id"]] = {"ok": 0, "intentos": n, "final": int(n >= MAX_INTENTOS), "error": str(err)[:300],
                               "ts": ahora.isoformat()}
