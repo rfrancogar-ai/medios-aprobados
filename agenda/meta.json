@@ -2248,5 +2248,20 @@
   "audio": null,
   "cover": null,
   "origen": "voxt14878218d6"
+ },
+ {
+  "id": "voxt8f86dbec52_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/voxt8f86dbec52.mp4"
+  ],
+  "caption": "Compártelo con tu amigo del baño de hielo.\nEl baño de hielo que te roba músculo",
+  "when": "2026-11-27T19:41:38",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "origen": "voxt8f86dbec52"
  }
 ]
