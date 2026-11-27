@@ -1320,40 +1320,6 @@
   "origen": "6a5137ec647412"
  },
  {
-  "id": "26d444dc1fd1",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/d1a851c4da82e7.mp4"
-  ],
-  "animo": "tranquilo",
-  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_d1a851c4da82e7.jpg",
-  "audio": {
-   "audio_id": "28878749835112354",
-   "audio_volume": 15,
-   "video_volume": 100
-  },
-  "caption": "No, no tienes que ser celíaco para que el gluten te afecte.\n\nLos enterocitos son las células que forman las paredes del intestino: por ahí absorbemos todos los nutrientes. Están juntitos, uno a otro, para que no pasen cosas que no deben pasar.\n\nCuando llega la glutenina, dilata el espacio entre enterocito y enterocito, y pasan proteínas que pueden empeorar procesos de inflamación.\n\n¿Tú comes gluten todos los días? Cuéntame en comentarios y guarda este video para cuando te pregunten por qué hablan tan mal del gluten.\n\n#gluten #nutricion #intestino #nutriologo #bioquimica",
-  "when": "2026-11-27T19:00:00",
-  "first_comment": "¿Sientes distensión abdominal después de comer pan o pasta? Sí / No 👇"
- },
- {
-  "id": "4c384b575ef9",
-  "net": "fb",
-  "target": "564848600309988",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/d1a851c4da82e7.mp4"
-  ],
-  "animo": "tranquilo",
-  "cover": null,
-  "audio": null,
-  "caption": "Mucha gente cree que el gluten solo le hace daño a los celíacos. Aquí explico qué hace la glutenina en las paredes del intestino y por qué se habla tanto de inflamación. ¿Tú has notado algo después de comer pan o pasta?",
-  "when": "2026-12-03T12:20:35",
-  "first_comment": ""
- },
- {
   "id": "d7edd5b8baf4",
   "net": "fb",
   "target": "564848600309988",
@@ -1367,21 +1333,6 @@
   "caption": "La batalla no es con el colesterol, familia. Puede estar elevado; lo importante es qué tipo de colesterol es. El HDL, el colesterol bueno, es cardioprotector y ayuda a eliminar el malo. El LDL es el que se pega en las arterias y forma placa. ¿Alguna vez te explicaron así tus análisis o solo te dijeron \"tienes el colesterol alto\"?",
   "when": "2026-12-03T12:56:06",
   "first_comment": ""
- },
- {
-  "id": "93e772c6b574cc_trial",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "trial",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/93e772c6b574cc.mp4"
-  ],
-  "caption": "No, no tienes que ser celíaco para que el gluten te afecte.\n\nLos enterocitos son las células que forman las paredes del intestino: por ahí absorbemos todos los nutrientes. Están juntitos, uno a otro, para que no pasen cosas que no deben pasar.\n\nCuando llega la glutenina, dilata el espacio entre enterocito y enterocito, y pasan proteínas que pueden empeorar procesos de inflamación.\n\n¿Tú comes gluten todos los días? Cuéntame en comentarios y guarda este video para cuando te pregunten por qué hablan tan mal del gluten.\n\n#gluten #nutricion #intestino #nutriologo #bioquimica",
-  "when": "2026-11-27T19:00:00",
-  "first_comment": "",
-  "audio": null,
-  "cover": null,
-  "origen": "d1a851c4da82e7"
  },
  {
   "id": "fd2a0f94bc81",
