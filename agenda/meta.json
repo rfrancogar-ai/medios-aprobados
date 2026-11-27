@@ -2507,5 +2507,20 @@
   "audio": null,
   "cover": null,
   "origen": "voxt3905727283"
+ },
+ {
+  "id": "voxtbda3e450df_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/voxtbda3e450df.mp4"
+  ],
+  "caption": "Destruirte una vez por semana no es la mejor forma de crecer.\nEl error de volumen que te deja sin músculo",
+  "when": "2026-11-27T16:07:43",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "origen": "voxtbda3e450df"
  }
 ]
