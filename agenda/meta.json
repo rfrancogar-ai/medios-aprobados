@@ -2045,5 +2045,21 @@
   "audio": null,
   "cover": null,
   "origen": "voxt8f86dbec52"
+ },
+ {
+  "id": "g92140318341_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/g92140318341.mp4"
+  ],
+  "caption": "El conocer realmente una persona implica aprender de sus gustos y experimentarlos por lo menos alguna vez. 😎\nUna de las cosas más importantes que tiene el humano son sus relaciones ♥️\n\n\nEn lo personal jamás digo que no un plan deportivo que implica movimiento o mejora mi salud de manera recreativa 👌🏽\n\nSólo piénsalo dos claves de la vida mezcladas en una sola actividad amigos y salud ¿que más quieres? 🔥\n\nAparte también te comparto que la bici es padrísima y te sirve para muchas más cosas de las que tú crees es desde un vehículo hasta un artículo para la diversión, que buena inversión!",
+  "when": "2026-11-27T17:21:58",
+  "first_comment": "",
+  "audio": null,
+  "animo": "energia",
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_g92140318341.jpg",
+  "origen": "g92140318341"
  }
 ]
