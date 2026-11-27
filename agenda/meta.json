@@ -2313,5 +2313,22 @@
   "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_voxt299fa3b762.jpg",
   "origen": "voxt299fa3b762",
   "audio_volume": 25
+ },
+ {
+  "id": "voxt12f58d125d_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/voxt12f58d125d.mp4"
+  ],
+  "caption": "Tómala unos sesenta minutos antes.\nLa dosis de cafeína que sí funciona",
+  "when": "2026-11-27T19:58:19",
+  "first_comment": "",
+  "audio": null,
+  "animo": "energia",
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_voxt12f58d125d.jpg",
+  "origen": "voxt12f58d125d",
+  "audio_volume": 25
  }
 ]
