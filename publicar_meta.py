@@ -19,6 +19,7 @@ AGENDA, HECHO = "agenda/meta.json", "agenda/hecho.json"
 MAX_RETRASO_H = 12      # si algo se atrasó más que esto, no se publica fuera de hora
 MAX_INTENTOS = 3
 TOPE_REELS_DIA, TOPE_POSTS_DIA, SEPARACION_MIN = 2, 1, 120  # Roberto (27-nov): menos y mejor
+TOPE_TRIALS_DIA, SEPARACION_TRIAL_MIN = 12, 30  # trials: 5 versiones por original, a no seguidores, escalonadas
 
 
 def req(url, data=None, headers=None, method=None):
@@ -303,6 +304,14 @@ def main():
                     continue
                 if salidos and ahora - datetime.fromisoformat(max(salidos)) < timedelta(minutes=SEPARACION_MIN):
                     print("= muy pegado al anterior: espera", e["id"])
+                    continue
+            else:
+                hoy_ = ahora.strftime("%Y-%m-%d")
+                salidos = [hecho[x["id"]]["ts"][:19] for x in agenda if x["kind"] == "trial"
+                           and hecho.get(x["id"], {}).get("ok") and hecho[x["id"]].get("ts", "").startswith(hoy_)]
+                if len(salidos) >= TOPE_TRIALS_DIA:
+                    continue
+                if salidos and ahora - datetime.fromisoformat(max(salidos)) < timedelta(minutes=SEPARACION_TRIAL_MIN):
                     continue
         rem = hecho_remoto() or {}  # justo antes de publicar: ¿otra corrida ya lo sacó?
         if rem.get(e["id"], {}).get("ok"):
