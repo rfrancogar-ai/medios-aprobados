@@ -229,13 +229,13 @@ def ya_en_instagram(e):
         except RuntimeError:
             pass
     d = {"data": _RECIENTES}
-    cap = " ".join((e.get("caption") or "").split())[:120]
+    cap = " ".join((e.get("caption") or "").split())  # texto COMPLETO (con 120 letras dos videos distintos chocaban)
     if not cap:
         return None
     limite = datetime.now(timezone.utc) - timedelta(days=45)
     for m in d.get("data", []):
         t = datetime.strptime(m["timestamp"], "%Y-%m-%dT%H:%M:%S%z")
-        if t < limite or " ".join((m.get("caption") or "").split())[:120] != cap:
+        if t < limite or " ".join((m.get("caption") or "").split()) != cap:
             continue
         tipo = m.get("media_product_type")
         if e["kind"] == "trial" and tipo == "REELS" and m.get("is_shared_to_feed") is False:
