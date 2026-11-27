@@ -2144,5 +2144,22 @@
   "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_voxt8a4570d700.jpg",
   "origen": "voxt8a4570d700",
   "audio_volume": 25
+ },
+ {
+  "id": "voxt22ef4c1d3b_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/voxt22ef4c1d3b.mp4"
+  ],
+  "caption": "Te digo cuántos necesitas según tu edad.\nNo necesitas 10,000 pasos",
+  "when": "2026-11-27T18:24:39",
+  "first_comment": "",
+  "audio": null,
+  "animo": "energia",
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_voxt22ef4c1d3b.jpg",
+  "origen": "voxt22ef4c1d3b",
+  "audio_volume": 25
  }
 ]
