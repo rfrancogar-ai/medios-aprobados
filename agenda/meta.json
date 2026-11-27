@@ -2296,5 +2296,22 @@
   "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_voxt9cbcf33bf5.jpg",
   "origen": "voxt9cbcf33bf5",
   "audio_volume": 25
+ },
+ {
+  "id": "voxt299fa3b762_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/voxt299fa3b762.mp4"
+  ],
+  "caption": "Si pesas setenta kilos, son de doscientos diez a cuatrocientos veinte miligramos.\nLa dosis de cafeína que sí funciona",
+  "when": "2026-11-27T19:17:59",
+  "first_comment": "",
+  "audio": null,
+  "animo": "energia",
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_voxt299fa3b762.jpg",
+  "origen": "voxt299fa3b762",
+  "audio_volume": 25
  }
 ]
