@@ -18,7 +18,7 @@ MX = timezone(timedelta(hours=-6))
 AGENDA, HECHO = "agenda/meta.json", "agenda/hecho.json"
 MAX_RETRASO_H = 12      # si algo se atrasó más que esto, no se publica fuera de hora
 MAX_INTENTOS = 3
-TOPE_REELS_DIA, SEPARACION_MIN = 4, 60  # Roberto: 4 reels al día, nunca pegados
+TOPE_REELS_DIA, TOPE_POSTS_DIA, SEPARACION_MIN = 2, 1, 120  # Roberto (27-nov): menos y mejor
 
 
 def req(url, data=None, headers=None, method=None):
@@ -282,6 +282,15 @@ def main():
         if ahora - when > timedelta(hours=MAX_RETRASO_H):
             hecho[e["id"]] = {"ok": 0, "final": 1, "error": "vencido sin publicar", "ts": ahora.isoformat()}
             continue
+        if e["kind"] == "story":  # Roberto (27-nov): nada se sube a historias
+            hecho[e["id"]] = {"ok": 0, "final": 1, "error": "historias apagadas", "ts": ahora.isoformat()}
+            continue
+        if e["net"] == "ig" and e["kind"] == "images":
+            hoy_ = ahora.strftime("%Y-%m-%d")
+            n_posts = sum(1 for x in agenda if x["net"] == "ig" and x["kind"] == "images"
+                          and hecho.get(x["id"], {}).get("ok") and hecho[x["id"]].get("ts", "").startswith(hoy_))
+            if n_posts >= TOPE_POSTS_DIA:
+                continue
         if e["net"] == "ig" and e["kind"] in ("reel", "trial"):  # última llave contra saturar el perfil
             if not 8 <= ahora.hour < 23:
                 continue  # nunca de madrugada: espera a la mañana
