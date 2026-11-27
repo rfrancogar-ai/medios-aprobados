@@ -914,21 +914,6 @@
   "first_comment": ""
  },
  {
-  "id": "a39b0693b46d",
-  "net": "fb",
-  "target": "564848600309988",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/e128cc8f821f90.mp4"
-  ],
-  "animo": "tranquilo",
-  "cover": null,
-  "audio": null,
-  "caption": "La proteína whey nació de algo que sobraba al hacer queso: el suero de leche. Se desperdiciaba hasta que estudiaron su valor biológico, más alto que el huevo y que la misma leche. ¿Tú sabías de dónde salía tu proteína?",
-  "when": "2026-12-01T05:19:23",
-  "first_comment": ""
- },
- {
   "id": "4c5f854112cfa0_trial",
   "net": "ig",
   "target": "17841400277954990",
@@ -1490,25 +1475,6 @@
   "caption": "No debes medir tu progreso con tu peso.\n\nKilos menos pueden ser de grasa, pero también pueden ser de masa muscular. Y en algunas ocasiones también influye el agua, los líquidos.\n\nEl peso es un valor que fluctúa mucho y es multifactorial: tus niveles de estrés, tu digestión, tu consumo energético, cuántas calorías, proteínas, grasas y carbohidratos consumes.\n\n¿Por qué no es una medición precisa de tu progreso? Porque la famosa recomposición corporal no es más que cambiar un poco el porcentaje de grasa y, a veces al mismo tiempo, incrementar un poco el porcentaje de músculo. La báscula no te dice cuál de los dos cambió.\n\nMándaselo a quien se frustra con la báscula cada mañana. Comenta BÁSCULA si quieres saber cómo medirlo mejor.\n\n#recomposicioncorporal #perdidadegrasa #nutricion #gym #nutriologo",
   "when": "2026-12-03T19:00:00",
   "first_comment": "¿Cada cuánto te pesas y qué tanto te afecta el número? Cuéntame y te digo qué estás midiendo en realidad."
- },
- {
-  "id": "0f7820d2a132r",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/e128cc8f821f90.mp4"
-  ],
-  "animo": "tranquilo",
-  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_e128cc8f821f90.jpg",
-  "audio": {
-   "audio_id": "411810732573719",
-   "audio_volume": 15,
-   "video_volume": 100
-  },
-  "caption": "Tu proteína en polvo antes se tiraba.\n\n🧀\n\nDe la leche de la vaca sacamos el queso, y en ese proceso empezaba a sobrar este compuesto famoso llamado suero de leche.\n\nSe llegaba a hacer desperdicio…\n\nhasta que se dieron cuenta estudiando su valor biológico.\n\nSu valor biológico es superior: más alto que el huevo, más alto que la misma leche.\n\n¿Por qué?\n\nPor su porcentaje de concentración, que se logra con micro y ultrafiltración: remueven impurezas y excesos y queda más puro en proteína.\n\n#whey #proteina #suerodeleche #nutricion #suplementos",
-  "when": "2026-12-04T12:00:00",
-  "first_comment": "¿Sabías que el whey salía de hacer queso? ¿Quieres que te explique la diferencia entre concentrado, aislado e hidrolizado? 👇"
  },
  {
   "id": "70bd95dacefd",
