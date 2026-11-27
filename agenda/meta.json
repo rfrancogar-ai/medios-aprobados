@@ -2212,5 +2212,37 @@
   "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_voxt69085888b6.jpg",
   "origen": "voxt69085888b6",
   "audio_volume": 25
+ },
+ {
+  "id": "gpt_loteria",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/motor_gpt_loteria.jpg"
+  ],
+  "caption": "Etiqueta al que empieza el lunes 👇",
+  "when": "2026-11-29T08:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "animo": "reflexivo",
+  "origen": "chatgpt"
+ },
+ {
+  "id": "gpt_periodico",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/motor_gpt_periodico.jpg"
+  ],
+  "caption": "Mándaselo a quien sigue esperando ganas.",
+  "when": "2026-12-02T08:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "animo": "reflexivo",
+  "origen": "chatgpt"
  }
 ]
