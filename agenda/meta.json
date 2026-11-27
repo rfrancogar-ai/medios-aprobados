@@ -2477,5 +2477,20 @@
   "audio": null,
   "cover": null,
   "origen": "voxt8d8705383e"
+ },
+ {
+  "id": "voxtc2600491d9_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/voxtc2600491d9.mp4"
+  ],
+  "caption": "Si entrenas cada músculo una sola vez por semana, estás dejando músculo en la mesa.\nEl error de volumen que te deja sin músculo",
+  "when": "2026-11-27T14:47:21",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "origen": "voxtc2600491d9"
  }
 ]
