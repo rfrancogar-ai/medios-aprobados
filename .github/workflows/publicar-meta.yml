@@ -1,12 +1,15 @@
 name: publicar-meta
 # Publica en Instagram y Facebook lo aprobado, a su hora, sin depender de ninguna Mac.
+# GitHub atrasa el cron horas (27-nov: solo ~3 corridas al día y se vencían los reels de la tarde): por eso cada corrida
+# se queda ~5 h 45 revisando cada 5 min. El repo es público: los minutos de Actions no cuestan.
 on:
   schedule:
-    - cron: "2,17,32,47 * * * *"
+    - cron: "7 */6 * * *"
   workflow_dispatch: {}
 
 permissions:
   contents: write
+  issues: write
 
 concurrency:
   group: publicar-meta
@@ -15,13 +18,18 @@ concurrency:
 jobs:
   publicar:
     runs-on: ubuntu-latest
-    timeout-minutes: 40
+    timeout-minutes: 355
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: main   # siempre lo más nuevo (una corrida en espera no debe usar una copia vieja)
-      - name: Publicar lo que ya toca
+          ref: main
+      - name: Publicar lo que ya toca (cada 5 min)
         env:
           META_SU_TOKEN: ${{ secrets.META_SU_TOKEN }}
-        run: python3 publicar_meta.py
-      # publicar_meta.py guarda agenda/hecho.json en main en cuanto algo sale (fusiona, nunca duplica)
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          for i in $(seq 1 68); do
+            git pull -q --rebase origin main || git reset -q --hard origin/main
+            python3 publicar_meta.py || true
+            sleep 300
+          done
