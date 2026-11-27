@@ -2119,5 +2119,20 @@
   "audio": null,
   "cover": null,
   "origen": "voxtcf3873ccbb"
+ },
+ {
+  "id": "voxt73d24c488f_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/voxt73d24c488f.mp4"
+  ],
+  "caption": "Si te obsesionas con cargar pesado, hay algo más importante que se te está escapando.\nPesado o ligero: cuál da más músculo",
+  "when": "2026-11-27T16:38:19",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "origen": "voxt73d24c488f"
  }
 ]
