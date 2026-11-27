@@ -2432,5 +2432,20 @@
   "audio": null,
   "cover": null,
   "origen": "voxt7012bc1bd3"
+ },
+ {
+  "id": "voxt3e5a1b56b8_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/voxt3e5a1b56b8.mp4"
+  ],
+  "caption": "Crees que la creatina es solo para el gimnasio.\nLa creatina también es para tu cerebro",
+  "when": "2026-11-27T15:39:51",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "origen": "voxt3e5a1b56b8"
  }
 ]
