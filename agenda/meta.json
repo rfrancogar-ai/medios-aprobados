@@ -2279,5 +2279,22 @@
   "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_voxt537a0a463f.jpg",
   "origen": "voxt537a0a463f",
   "audio_volume": 25
+ },
+ {
+  "id": "voxt9cbcf33bf5_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/voxt9cbcf33bf5.mp4"
+  ],
+  "caption": "La Sociedad Internacional de Nutrición Deportiva revisó la evidencia.\nLa dosis de cafeína que sí funciona",
+  "when": "2026-11-27T18:37:38",
+  "first_comment": "",
+  "audio": null,
+  "animo": "energia",
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_voxt9cbcf33bf5.jpg",
+  "origen": "voxt9cbcf33bf5",
+  "audio_volume": 25
  }
 ]
