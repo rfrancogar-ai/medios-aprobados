@@ -2262,5 +2262,22 @@
   "origen": "t16783444532",
   "audio_volume": 18,
   "sin_musica": true
+ },
+ {
+  "id": "voxt537a0a463f_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/voxt537a0a463f.mp4"
+  ],
+  "caption": "Tres a seis miligramos por kilo. Esa es la dosis de cafeína que sí mejora tu rendimiento.\nLa dosis de cafeína que sí funciona",
+  "when": "2026-11-27T17:57:18",
+  "first_comment": "",
+  "audio": null,
+  "animo": "energia",
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_voxt537a0a463f.jpg",
+  "origen": "voxt537a0a463f",
+  "audio_volume": 25
  }
 ]
