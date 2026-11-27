@@ -2143,5 +2143,20 @@
   "audio": null,
   "cover": null,
   "origen": "voxt7a64287c34"
+ },
+ {
+  "id": "voxt1d2d616be5_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/voxt1d2d616be5.mp4"
+  ],
+  "caption": "¿Qué le pasa a tu músculo si duermes mal una sola noche?\nUna noche sin dormir y tu músculo lo paga",
+  "when": "2026-11-27T17:58:37",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "origen": "voxt1d2d616be5"
  }
 ]
