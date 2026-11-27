@@ -2233,5 +2233,20 @@
   "audio": null,
   "cover": null,
   "origen": "voxt4706a0e0b5"
+ },
+ {
+  "id": "voxt14878218d6_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/voxt14878218d6.mp4"
+  ],
+  "caption": "Lo que te hace sentir recuperado no siempre te hace crecer.\nEl baño de hielo que te roba músculo",
+  "when": "2026-11-27T19:01:28",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "origen": "voxt14878218d6"
  }
 ]
