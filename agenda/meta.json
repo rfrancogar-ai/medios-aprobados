@@ -1334,55 +1334,6 @@
   "origen": "6a5137ec647412"
  },
  {
-  "id": "42a8ded36d29",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/0890715ea0bb6d.mp4"
-  ],
-  "animo": "energia",
-  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_0890715ea0bb6d.jpg",
-  "audio": {
-   "audio_id": "1607250466797248",
-   "audio_volume": 15,
-   "video_volume": 100
-  },
-  "caption": "No es descanso como tal: aquí estás haciendo fuerza 🔥\n\nHaces 5 repeticiones, y en lugar de soltar, descansas haciendo una contracción isométrica. Estiras, estiras, estiras… se hace una oclusión y arde, arde, arde.\n\nY ojo: no dejes que el peso se lo lleve todo, porque se te carga la articulación del codo.\n\nHaces 5, isometría, otras 5, y lo repites las veces que toque.\n\nGuárdalo para tu próximo día de brazo y mándaselo a tu compa de entreno 💪\n\n#gym #biceps #hipertrofia #tecnicagym #entrenamiento",
-  "when": "2026-11-27T19:00:00",
-  "first_comment": "¿Tú qué haces en tus descansos: sueltas todo o te quedas haciendo fuerza? 👇"
- },
- {
-  "id": "934456dfdd10",
-  "net": "fb",
-  "target": "564848600309988",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/0890715ea0bb6d.mp4"
-  ],
-  "animo": "energia",
-  "cover": null,
-  "audio": null,
-  "caption": "No es descanso como tal: aquí estás haciendo fuerza. Haces 5, descansas con una isometría (sin soltar) y luego otras 5. Eso sí, que el peso no se lleve tu codo. ¿Ya lo habías probado o siempre sueltas entre series?",
-  "when": "2026-12-02T05:19:11",
-  "first_comment": ""
- },
- {
-  "id": "84153b1e2b38df_trial",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "trial",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/84153b1e2b38df.mp4"
-  ],
-  "caption": "No es descanso como tal: aquí estás haciendo fuerza 🔥\n\nHaces 5 repeticiones, y en lugar de soltar, descansas haciendo una contracción isométrica. Estiras, estiras, estiras… se hace una oclusión y arde, arde, arde.\n\nY ojo: no dejes que el peso se lo lleve todo, porque se te carga la articulación del codo.\n\nHaces 5, isometría, otras 5, y lo repites las veces que toque.\n\nGuárdalo para tu próximo día de brazo y mándaselo a tu compa de entreno 💪\n\n#gym #biceps #hipertrofia #tecnicagym #entrenamiento",
-  "when": "2026-11-27T19:00:00",
-  "first_comment": "",
-  "audio": null,
-  "cover": null,
-  "origen": "0890715ea0bb6d"
- },
- {
   "id": "abdfa865bc0b",
   "net": "ig",
   "target": "17841400277954990",
