@@ -2173,5 +2173,20 @@
   "audio": null,
   "cover": null,
   "origen": "voxt41503fbcb9"
+ },
+ {
+  "id": "voxtb0cfb724e5_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/voxtb0cfb724e5.mp4"
+  ],
+  "caption": "Prioriza siete a nueve horas, horario fijo y cuarto oscuro.\nUna noche sin dormir y tu músculo lo paga",
+  "when": "2026-11-27T19:18:59",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "origen": "voxtb0cfb724e5"
  }
 ]
