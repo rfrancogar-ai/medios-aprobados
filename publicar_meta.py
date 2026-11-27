@@ -18,7 +18,7 @@ MX = timezone(timedelta(hours=-6))
 AGENDA, HECHO = "agenda/meta.json", "agenda/hecho.json"
 MAX_RETRASO_H = 12      # si algo se atrasó más que esto, no se publica fuera de hora
 MAX_INTENTOS = 3
-TOPE_REELS_DIA, TOPE_POSTS_DIA, SEPARACION_MIN = 2, 1, 120  # Roberto (27-nov): menos y mejor
+TOPE_REELS_DIA, TOPE_POSTS_DIA, SEPARACION_MIN = 3, 2, 120  # 3 reels + 2 posts (ritmo de los que crecen)
 TOPE_TRIALS_DIA, SEPARACION_TRIAL_MIN = 50, 15  # Roberto (27-nov): hasta 50 trials al día (cupo de la API: 100)
 
 
@@ -108,7 +108,7 @@ def ig(e):
             p["share_to_feed"] = "false"  # un trial NO va al feed de tus seguidores
         else:
             p["share_to_feed"] = "true"
-        audio = musica(e) if kind == "reel" else e.get("audio")
+        audio = musica(e) if kind in ("reel", "trial") else e.get("audio")  # los trials también llevan música
         if audio:  # música oficial de Instagram (tendencia) bajo la voz
             p["audio_configuration"] = json.dumps(audio)
             e["audio"] = audio
