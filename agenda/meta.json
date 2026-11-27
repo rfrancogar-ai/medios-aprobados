@@ -2060,7 +2060,8 @@
   "audio": null,
   "animo": "energia",
   "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_g92140318341.jpg",
-  "origen": "g92140318341"
+  "origen": "g92140318341",
+  "sin_musica": true
  },
  {
   "id": "t16783444531_trial",
@@ -2076,7 +2077,8 @@
   "audio": null,
   "animo": "energia",
   "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_t16783444531.jpg",
-  "origen": "t16783444531"
+  "origen": "t16783444531",
+  "sin_musica": true
  },
  {
   "id": "gpt_5am",
