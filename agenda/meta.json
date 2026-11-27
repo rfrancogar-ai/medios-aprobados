@@ -2061,5 +2061,21 @@
   "animo": "energia",
   "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_g92140318341.jpg",
   "origen": "g92140318341"
+ },
+ {
+  "id": "t16783444531_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/t16783444531.mp4"
+  ],
+  "caption": "Consejo del milenio, sigueme ✅😮‍💨\n\n¿Te había pasado? 👇",
+  "when": "2026-11-27T17:25:46",
+  "first_comment": "",
+  "audio": null,
+  "animo": "energia",
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_t16783444531.jpg",
+  "origen": "t16783444531"
  }
 ]
