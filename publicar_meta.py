@@ -19,7 +19,7 @@ AGENDA, HECHO = "agenda/meta.json", "agenda/hecho.json"
 MAX_RETRASO_H = 12      # si algo se atrasó más que esto, no se publica fuera de hora
 MAX_INTENTOS = 3
 TOPE_REELS_DIA, TOPE_POSTS_DIA, SEPARACION_MIN = 3, 2, 120  # 3 reels + 2 posts (ritmo de los que crecen)
-TOPE_TRIALS_DIA_FRENADO = 15  # si Instagram nos frenó en las últimas 48 h
+TOPE_TRIALS_DIA_FRENADO = 30  # si Instagram nos frenó en las últimas 24 h
 TOPE_TRIALS_DIA, SEPARACION_TRIAL_MIN = 50, 15  # Roberto (27-nov): hasta 50 trials al día (cupo de la API: 100)
 
 
@@ -30,7 +30,15 @@ def req(url, data=None, headers=None, method=None):
         with urllib.request.urlopen(r, timeout=300) as resp:
             return json.load(resp)
     except urllib.error.HTTPError as e:
-        raise RuntimeError(f"{e.code}: {e.read().decode(errors='ignore')[:400]}") from None
+        # Meta (oficial): el encabezado X-Business-Use-Case-Usage trae estimated_time_to_regain_access (minutos)
+        espera = None
+        try:
+            buc = json.loads(e.headers.get("X-Business-Use-Case-Usage") or "{}")
+            espera = max((u.get("estimated_time_to_regain_access") or 0) for v in buc.values() for u in v) or None
+        except Exception:  # noqa: BLE001
+            pass
+        raise RuntimeError(f"{e.code}: {e.read().decode(errors='ignore')[:400]}"
+                           + (f" [regain:{espera}]" if espera else "")) from None
 
 
 def esperar(cid, intentos=60):
@@ -238,6 +246,18 @@ def guardar(hecho):
     return False
 
 
+def _cupo_ig(agenda):
+    """GET /{ig}/content_publishing_limit (oficial): publicaciones por API que quedan en la ventana de 24 h."""
+    target = next((e["target"] for e in agenda if e.get("net") == "ig"), None)
+    if not target:
+        return None
+    try:
+        d = req(f"{G}/{target}/content_publishing_limit?fields=config,quota_usage&access_token={TOK}")["data"][0]
+        return int(d["config"]["quota_total"]) - int(d["quota_usage"])
+    except Exception:  # noqa: BLE001
+        return None
+
+
 def _es_freno(msg: str) -> bool:
     m = msg.lower()
     return any(x in m for x in ("too many action", "performing too many", "request limit", "rate limit",
@@ -299,10 +319,13 @@ def main():
     pausa = (hecho.get("_pausa_ig") or {})
     if pausa.get("hasta", "") > ahora.isoformat():
         print("⏸ Instagram en pausa hasta", pausa["hasta"], "(nos frenó por exceso de acciones)")
-    frenado_48h = pausa.get("ultima", "") > (ahora - timedelta(hours=48)).isoformat()
+    frenado_48h = pausa.get("ultima", "") > (ahora - timedelta(hours=24)).isoformat()
+    cupo = _cupo_ig(agenda)  # API oficial: cuántas publicaciones por API quedan en las últimas 24 h (máx. 100)
     for e in sorted(agenda, key=lambda x: (x["when"], bool(x.get("despues_de")))):
         if e.get("net") == "ig" and pausa.get("hasta", "") > ahora.isoformat():
             continue
+        if e.get("net") == "ig" and e.get("kind") == "trial" and cupo is not None and cupo <= 8:
+            continue  # se guarda cupo para el feed (reels y posts) dentro del límite oficial de 100/24 h
         h = hecho.get(e["id"], {})
         if h.get("ok") or h.get("final"):
             continue
@@ -380,12 +403,21 @@ def main():
             if e["net"] == "ig" and _es_freno(str(err)):
                 # Instagram dice "demasiadas acciones": NO insistir (eso castiga la cuenta). Se pausa todo IG y se
                 # baja el ritmo de trials 48 h. La pausa crece si se repite (3 → 6 → 12 h).
+                # Pausa corta y basada en lo que dice Meta: si el encabezado oficial trae el tiempo para recuperar el
+                # acceso, se usa ese; si no, 30 min → 1 h → 2 h (máx. 3 h) si se repite el mismo día.
+                import re as _re
+                m = _re.search(r"\[regain:(\d+)\]", str(err))
                 pa = hecho.get("_pausa_ig") or {}
-                horas = min(12, (pa.get("horas") or 1.5) * 2) if pa.get("ultima", "") > (ahora - timedelta(hours=24)).isoformat() else 3
-                hecho["_pausa_ig"] = {"hasta": (ahora + timedelta(hours=horas)).isoformat(), "horas": horas,
+                if m:
+                    minutos = max(15, int(m.group(1)))
+                elif pa.get("ultima", "") > (ahora - timedelta(hours=24)).isoformat():
+                    minutos = min(180, int((pa.get("minutos") or 30) * 2))
+                else:
+                    minutos = 30
+                hecho["_pausa_ig"] = {"hasta": (ahora + timedelta(minutes=minutos)).isoformat(), "minutos": minutos,
                                       "ultima": ahora.isoformat(), "error": str(err)[:160]}
                 guardar(hecho)
-                print(f"⏸ Instagram frenó ('too many actions'): pausa de {horas} h")
+                print(f"⏸ Instagram frenó: pausa de {minutos} min")
                 break
             n = h.get("intentos", 0) + 1
             hecho[e["id"]] = {"ok": 0, "intentos": n, "final": int(n >= MAX_INTENTOS), "error": str(err)[:300],
