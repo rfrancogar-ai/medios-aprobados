@@ -2492,5 +2492,20 @@
   "audio": null,
   "cover": null,
   "origen": "voxtc2600491d9"
+ },
+ {
+  "id": "voxt3905727283_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/voxt3905727283.mp4"
+  ],
+  "caption": "¿Cuántas series por semana necesita un músculo para crecer?\nEl error de volumen que te deja sin músculo",
+  "when": "2026-11-27T15:27:32",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "origen": "voxt3905727283"
  }
 ]
