@@ -2158,5 +2158,20 @@
   "audio": null,
   "cover": null,
   "origen": "voxt1d2d616be5"
+ },
+ {
+  "id": "voxt41503fbcb9_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/voxt41503fbcb9.mp4"
+  ],
+  "caption": "El músculo no se construye en el gym. Se construye dormido.\nUna noche sin dormir y tu músculo lo paga",
+  "when": "2026-11-27T18:38:48",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "origen": "voxt41503fbcb9"
  }
 ]
