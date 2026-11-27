@@ -2417,5 +2417,20 @@
   "audio": null,
   "cover": null,
   "origen": "voxtea5ec708b8"
+ },
+ {
+  "id": "voxt7012bc1bd3_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/voxt7012bc1bd3.mp4"
+  ],
+  "caption": "¿Y si la creatina también le sirviera a tu cerebro?\nLa creatina también es para tu cerebro",
+  "when": "2026-11-27T14:59:40",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "origen": "voxt7012bc1bd3"
  }
 ]
