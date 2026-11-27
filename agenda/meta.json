@@ -2104,5 +2104,20 @@
   "audio": null,
   "cover": null,
   "origen": "voxt9cd61014c8"
+ },
+ {
+  "id": "voxtcf3873ccbb_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/voxtcf3873ccbb.mp4"
+  ],
+  "caption": "Treinta repeticiones contra ocho: el músculo creció muy parecido.\nPesado o ligero: cuál da más músculo",
+  "when": "2026-11-27T15:58:10",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "origen": "voxtcf3873ccbb"
  }
 ]
