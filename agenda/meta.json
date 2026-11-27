@@ -2244,5 +2244,23 @@
   "cover": null,
   "animo": "reflexivo",
   "origen": "chatgpt"
+ },
+ {
+  "id": "t16783444532_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/t16783444532.mp4"
+  ],
+  "caption": "Consejo del milenio, sigueme ✅😮‍💨\n\n¿Te había pasado? 👇",
+  "when": "2026-11-27T17:55:35",
+  "first_comment": "",
+  "audio": null,
+  "animo": "energia",
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_t16783444532.jpg",
+  "origen": "t16783444532",
+  "audio_volume": 18,
+  "sin_musica": true
  }
 ]
