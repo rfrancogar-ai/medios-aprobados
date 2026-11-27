@@ -291,12 +291,12 @@ def main():
                           and hecho.get(x["id"], {}).get("ok") and hecho[x["id"]].get("ts", "").startswith(hoy_))
             if n_posts >= TOPE_POSTS_DIA:
                 continue
-        if e["net"] == "ig" and e["kind"] in ("reel", "trial"):  # última llave contra saturar el perfil
+        if e["kind"] in ("reel", "trial"):  # última llave contra saturar el perfil (Instagram Y Facebook)
             if not 8 <= ahora.hour < 23:
                 continue  # nunca de madrugada: espera a la mañana
             if e["kind"] == "reel":
                 hoy_ = ahora.strftime("%Y-%m-%d")
-                salidos = [hecho[x["id"]]["ts"][:19] for x in agenda if x["net"] == "ig" and x["kind"] == "reel"
+                salidos = [hecho[x["id"]]["ts"][:19] for x in agenda if x["net"] == e["net"] and x["kind"] == "reel"
                            and hecho.get(x["id"], {}).get("ok") and hecho[x["id"]].get("ts", "").startswith(hoy_)]
                 if len(salidos) >= TOPE_REELS_DIA:
                     print("= tope diario de reels: espera", e["id"])
@@ -334,6 +334,58 @@ def main():
                               "ts": ahora.isoformat()}
             print("✗", e["id"], e["net"], e["kind"], str(err)[:200])
     guardar(hecho)
+    try:
+        alerta(agenda, hecho)
+    except Exception as err:  # noqa: BLE001
+        print("alerta:", str(err)[:200])
+
+
+def _gh(method, path, body=None):
+    tok = os.environ.get("GITHUB_TOKEN", "")
+    if not tok:
+        return None
+    data = json.dumps(body).encode() if body is not None else None
+    r = urllib.request.Request(f"https://api.github.com/repos/{os.environ.get('GITHUB_REPOSITORY')}{path}", data=data,
+                               method=method, headers={"Authorization": f"Bearer {tok}",
+                                                       "Accept": "application/vnd.github+json"})
+    with urllib.request.urlopen(r, timeout=60) as resp:
+        return json.load(resp)
+
+
+def alerta(agenda, hecho):
+    """Si la Mac mini deja de alimentar la agenda (como del 13 al 27-nov, sin que nadie se enterara), abre o actualiza
+    un issue 'ALERTA' en este repo: a Roberto le llega la notificación de GitHub."""
+    problemas = []
+    ult = _gh("GET", "/commits?path=agenda/meta.json&per_page=1") or []
+    if ult:
+        edad_h = (datetime.now(timezone.utc) - datetime.strptime(ult[0]["commit"]["committer"]["date"],
+                                                                 "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc)
+                  ).total_seconds() / 3600
+        if edad_h > 12:
+            problemas.append(f"La Mac mini lleva {edad_h:.0f} h sin actualizar la agenda (¿está prendida y con internet?).")
+    ahora = datetime.now(MX).replace(tzinfo=None)
+    limite = (ahora + timedelta(hours=48)).strftime("%Y-%m-%dT%H:%M:%S")
+    ya = ahora.strftime("%Y-%m-%dT%H:%M:%S")
+    reels = [e for e in agenda if e["net"] == "ig" and e["kind"] == "reel" and e["id"] not in hecho and ya <= e["when"] <= limite]
+    posts = [e for e in agenda if e["net"] == "ig" and e["kind"] == "images" and e["id"] not in hecho and ya <= e["when"] <= limite]
+    if len(reels) < 2:
+        problemas.append(f"Solo hay {len(reels)} reels agendados para las próximas 48 h.")
+    if not posts:
+        problemas.append("No hay posts agendados para las próximas 48 h.")
+    abiertos = _gh("GET", "/issues?labels=alerta&state=open") or []
+    if not problemas:
+        for i in abiertos:
+            _gh("PATCH", f"/issues/{i['number']}", {"state": "closed"})
+        return
+    texto = "\n".join(f"- {p}" for p in problemas)
+    if abiertos:
+        i = abiertos[0]
+        ultimo = datetime.strptime(i["updated_at"], "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc)
+        if (datetime.now(timezone.utc) - ultimo).total_seconds() > 12 * 3600:
+            _gh("POST", f"/issues/{i['number']}/comments", {"body": texto})
+    else:
+        _gh("POST", "/issues", {"title": "⚠️ ALERTA: el motor de contenido necesita atención", "body": texto,
+                                "labels": ["alerta"]})
 
 
 if __name__ == "__main__":
