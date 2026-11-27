@@ -19,7 +19,7 @@ AGENDA, HECHO = "agenda/meta.json", "agenda/hecho.json"
 MAX_RETRASO_H = 12      # si algo se atrasó más que esto, no se publica fuera de hora
 MAX_INTENTOS = 3
 TOPE_REELS_DIA, TOPE_POSTS_DIA, SEPARACION_MIN = 2, 1, 120  # Roberto (27-nov): menos y mejor
-TOPE_TRIALS_DIA, SEPARACION_TRIAL_MIN = 12, 30  # trials: 5 versiones por original, a no seguidores, escalonadas
+TOPE_TRIALS_DIA, SEPARACION_TRIAL_MIN = 50, 15  # Roberto (27-nov): hasta 50 trials al día (cupo de la API: 100)
 
 
 def req(url, data=None, headers=None, method=None):
