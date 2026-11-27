@@ -2203,5 +2203,20 @@
   "audio": null,
   "cover": null,
   "origen": "voxta5301fbe19"
+ },
+ {
+  "id": "voxtdeb93137bb_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/voxtdeb93137bb.mp4"
+  ],
+  "caption": "El baño de hielo que todos suben a redes puede estar frenando tu músculo.\nEl baño de hielo que te roba músculo",
+  "when": "2026-11-27T17:41:08",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "origen": "voxtdeb93137bb"
  }
 ]
