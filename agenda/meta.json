@@ -1,19 +1,5 @@
 [
  {
-  "id": "2c5d046a79da",
-  "net": "fb",
-  "target": "564848600309988",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/09ecda2272fc22.mp4"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "Con poner poquito peso ya es suficiente para darle estabilidad, porque la palanca está muy lejos. ¿Y por qué todo el mundo lo hace para adelante? Brazo y pierna contralateral, como corremos. ¿Tú cómo lo haces en tu rutina?",
-  "when": "2026-11-24T10:00:00",
-  "first_comment": ""
- },
- {
   "id": "488a92e38181",
   "net": "fb",
   "target": "564848600309988",
@@ -236,42 +222,6 @@
   "caption": "SUPLEMENTOS\n\nUn pre-entreno clínico no lo vas a detectar en el sabor, pero lo puedes detectar desde quién lo formula, cómo está formulado y a qué dosis.\n\n¿Qué otra duda tienes? Te respondo en video.",
   "when": "2026-11-27T17:00:00",
   "first_comment": ""
- },
- {
-  "id": "3d4af9b10591",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/9c1c4104c2d72d.mp4"
-  ],
-  "animo": "energia",
-  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_9c1c4104c2d72d.jpg",
-  "audio": {
-   "audio_id": "263896829897972",
-   "audio_volume": 15,
-   "video_volume": 100
-  },
-  "caption": "A pegarle .55 en la primera o segunda repetición.\n\nAsí entrenamos midiendo la velocidad de la barra. Si le pegamos .55 en la primera, después .55 en la segunda… pero la tercera ya no debería salir más rápida.\n\nNada más la segunda puede ser más rápida que la primera; la tercera sería rarísimo que fuera más rápida que la primera o segunda. Con todo, bro.\n\n¿Tú entrenas midiendo velocidad o a ojo? Comenta VELOCIDAD y guárdalo para tu próximo día de fuerza.\n\n#entrenamiento #fuerza #gym #powerlifting #tecnica",
-  "when": "2026-11-24T10:00:00",
-  "first_comment": "¿Alguna vez has medido la velocidad de tu barra? ¿En qué ejercicio te gustaría probarlo? 👇"
- },
- {
-  "id": "3d4af9b10591_story",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "story",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/9c1c4104c2d72d_motion.mp4"
-  ],
-  "animo": "energia",
-  "cover": null,
-  "audio": null,
-  "caption": "",
-  "when": "2026-11-24T10:00:00",
-  "first_comment": "",
-  "despues_de": "3d4af9b10591",
-  "formato": "motion"
  },
  {
   "id": "69c79d381dab",
@@ -5351,6 +5301,42 @@
   "audio": null,
   "caption": "Errores que me costaron años de progreso:\n\nTe los regalo para que no pagues lo que yo pagué.\n\n¿Cuál te pasó a ti? 👇",
   "when": "2026-12-01T19:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "0a6e38e30ee9",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/b28392b990df28.mp4"
+  ],
+  "animo": "tranquilo",
+  "audio_volume": 18,
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_b28392b990df28.jpg",
+  "audio": {
+   "audio_id": "1100966768788442",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "Hay un factor importante que nadie te dice y se llama osmolaridad.\n\nPara optimizar tu pre-entreno no basta con tener suficiente agua: necesitas la cantidad de agua exacta. Eso lo debe calcular el fabricante y ponerte en las indicaciones con cuántos mililitros revolver el producto, para que cada ingrediente se pueda absorber de manera correcta.\n\nRevisa tu bote y comenta AGUA si trae los mililitros 👇\n\n#preentreno #suplementos #nutriciondeportiva #gym",
+  "when": "2026-12-02T10:00:00",
+  "first_comment": "¿Tu pre-entreno dice con cuántos mililitros de agua prepararlo? Sí o no 👇"
+ },
+ {
+  "id": "8c605d71075e",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/b28392b990df28.mp4"
+  ],
+  "animo": "tranquilo",
+  "audio_volume": 18,
+  "cover": null,
+  "audio": null,
+  "caption": "Familia, hay un factor importante de tu pre-entreno que nadie te dice y se llama osmolaridad. No basta con suficiente agua: necesitas la cantidad exacta, y eso lo debe calcular el fabricante y ponerlo en las indicaciones. ¿Tu pre trae esa indicación?",
+  "when": "2026-12-08T10:00:00",
   "first_comment": ""
  }
 ]
