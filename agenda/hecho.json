@@ -2506,10 +2506,9 @@
   "error": "400: {\"error\":{\"message\":\"User is performing too many actions\",\"code\":9,\"type\":\"OAuthException\",\"error_subcode\":2207078,\"is_transient\":false,\"error_user_msg\":\"You reached maximum number of trial reels that is allowed to be published by Content Publishing API.\",\"error_user_title\":\"Trial Reel Publish ",
   "ts": "2026-11-27T17:20:34.435224"
  },
- "_pausa_ig": {
-  "hasta": "2026-11-27T20:27:28.932190",
-  "horas": 3,
-  "ultima": "2026-11-27T17:27:28.932190",
-  "error": "400: {\"error\":{\"message\":\"User is performing too many actions\",\"code\":9,\"type\":\"OAuthException\",\"error_subcode\":2207078,\"is_transient\":false,\"error_user_msg\":\"Y"
+ "_tope_trials": {
+  "n": 14,
+  "ts": "2026-11-27T17:05:23",
+  "error": "aprendido del choque del 27-nov"
  }
 }

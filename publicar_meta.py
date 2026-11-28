@@ -258,6 +258,20 @@ def _cupo_ig(agenda):
         return None
 
 
+def _tope_trials_api(msg: str) -> bool:
+    """27-nov: el "too many actions" (código 9 / 2207078) NO era la cuenta frenada ni el cupo de 100: su mensaje dice
+    "You reached maximum number of trial reels that is allowed to be published by Content Publishing API". Es un tope
+    propio de los trials por API. Meta no publica la cifra: se aprende sola (cuántos salieron en las 24 h previas)."""
+    return "maximum number of trial reels" in msg.lower()
+
+
+def _trials_24h(agenda, hecho, ahora):
+    ids = {x["id"] for x in agenda if x.get("kind") == "trial"}
+    lim = (ahora - timedelta(hours=24)).isoformat()
+    return sorted(v["ts"][:19] for k, v in hecho.items() if k in ids and isinstance(v, dict) and v.get("ok")
+                  and v.get("ts", "")[:19] > lim)
+
+
 def _es_freno(msg: str) -> bool:
     m = msg.lower()
     return any(x in m for x in ("too many action", "performing too many", "request limit", "rate limit",
@@ -319,7 +333,6 @@ def main():
     pausa = (hecho.get("_pausa_ig") or {})
     if pausa.get("hasta", "") > ahora.isoformat():
         print("⏸ Instagram en pausa hasta", pausa["hasta"], "(nos frenó por exceso de acciones)")
-    frenado_48h = pausa.get("ultima", "") > (ahora - timedelta(hours=24)).isoformat()
     cupo = _cupo_ig(agenda)  # API oficial: cuántas publicaciones por API quedan en las últimas 24 h (máx. 100)
     for e in sorted(agenda, key=lambda x: (x["when"], bool(x.get("despues_de")))):
         if e.get("net") == "ig" and pausa.get("hasta", "") > ahora.isoformat():
@@ -368,10 +381,13 @@ def main():
                     print("= muy pegado al anterior: espera", e["id"])
                     continue
             else:
-                hoy_ = ahora.strftime("%Y-%m-%d")
-                salidos = [hecho[x["id"]]["ts"][:19] for x in agenda if x["kind"] == "trial"
-                           and hecho.get(x["id"], {}).get("ok") and hecho[x["id"]].get("ts", "").startswith(hoy_)]
-                if len(salidos) >= (TOPE_TRIALS_DIA_FRENADO if frenado_48h else TOPE_TRIALS_DIA):
+                salidos = _trials_24h(agenda, hecho, ahora)  # ventana móvil de 24 h, como la cuenta Meta
+                tt = hecho.get("_tope_trials") or {}
+                tope = TOPE_TRIALS_DIA
+                if tt.get("n"):  # tope aprendido de Meta; cada 48 h sin choque se prueba uno más
+                    dias = (ahora - datetime.fromisoformat(tt["ts"][:19])).total_seconds() / 172800
+                    tope = min(TOPE_TRIALS_DIA, int(tt["n"]) + max(0, int(dias)))
+                if len(salidos) >= tope:
                     continue
                 if salidos and ahora - datetime.fromisoformat(max(salidos)) < timedelta(minutes=SEPARACION_TRIAL_MIN):
                     continue
@@ -400,6 +416,14 @@ def main():
             guardar(hecho)  # en cuanto sale, queda escrito en main
             print("✓", e["id"], e["net"], e["kind"], ext)
         except Exception as err:  # noqa: BLE001
+            if e["net"] == "ig" and e["kind"] == "trial" and _tope_trials_api(str(err)):
+                # tope de trials por API: no es castigo ni pausa. Se anota el tope, este trial espera su turno
+                # (sin gastar intentos) y los reels y posts siguen normal.
+                n = len(_trials_24h(agenda, hecho, ahora))
+                hecho["_tope_trials"] = {"n": max(1, n), "ts": ahora.isoformat(), "error": str(err)[:160]}
+                guardar(hecho)
+                print(f"= tope de trials por API: {n} en 24 h; los siguientes esperan")
+                continue
             if e["net"] == "ig" and _es_freno(str(err)):
                 # Instagram dice "demasiadas acciones": NO insistir (eso castiga la cuenta). Se pausa todo IG y se
                 # baja el ritmo de trials 48 h. La pausa crece si se repite (3 → 6 → 12 h).
