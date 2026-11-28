@@ -315,6 +315,21 @@ def ya_en_instagram(e):
     return None
 
 
+def _hoy_en_ig(e, tipo):
+    """27-nov: Roberto también sube posts a mano (los de ChatGPT). El tope diario cuenta TODO lo que hay hoy en su
+    perfil, no solo lo del motor, para no saturar el feed. tipo: 'FEED' (posts) o 'REELS' (reels del feed)."""
+    if e["net"] != "ig":
+        return 0
+    ya_en_instagram({**e, "caption": ""})  # carga la lista reciente (una vez por corrida)
+    hoy = datetime.now(MX).strftime("%Y-%m-%d")
+    n = 0
+    for m in _RECIENTES or []:
+        t = datetime.strptime(m["timestamp"], "%Y-%m-%dT%H:%M:%S%z").astimezone(MX).strftime("%Y-%m-%d")
+        if t == hoy and m.get("media_product_type") == tipo and m.get("is_shared_to_feed") is not False:
+            n += 1
+    return n
+
+
 def main():
     if not TOK:
         print("falta el secreto META_SU_TOKEN: corre activar_publicador.sh en la Mac")
@@ -365,7 +380,7 @@ def main():
             hoy_ = ahora.strftime("%Y-%m-%d")
             n_posts = sum(1 for x in agenda if x["net"] == "ig" and x["kind"] == "images"
                           and hecho.get(x["id"], {}).get("ok") and hecho[x["id"]].get("ts", "").startswith(hoy_))
-            if n_posts >= TOPE_POSTS_DIA:
+            if max(n_posts, _hoy_en_ig(e, "FEED")) >= TOPE_POSTS_DIA:
                 continue
         if e["kind"] in ("reel", "trial"):  # última llave contra saturar el perfil (Instagram Y Facebook)
             if not 8 <= ahora.hour < 23:
@@ -374,7 +389,7 @@ def main():
                 hoy_ = ahora.strftime("%Y-%m-%d")
                 salidos = [hecho[x["id"]]["ts"][:19] for x in agenda if x["net"] == e["net"] and x["kind"] == "reel"
                            and hecho.get(x["id"], {}).get("ok") and hecho[x["id"]].get("ts", "").startswith(hoy_)]
-                if len(salidos) >= TOPE_REELS_DIA:
+                if max(len(salidos), _hoy_en_ig(e, "REELS")) >= TOPE_REELS_DIA:
                     print("= tope diario de reels: espera", e["id"])
                     continue
                 if salidos and ahora - datetime.fromisoformat(max(salidos)) < timedelta(minutes=SEPARACION_MIN):
