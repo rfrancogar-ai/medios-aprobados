@@ -3832,5 +3832,501 @@
   "origen": "t54833410621",
   "audio_volume": 18,
   "sin_musica": true
+ },
+ {
+  "id": "gpt_m3_01_calendario",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/motor_gpt_m3_01_calendario.jpg"
+  ],
+  "caption": "Año nuevo, mismo tú… a menos que hoy hagas algo distinto. Guárdala 📌",
+  "when": "2027-01-01T08:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "animo": "reflexivo",
+  "origen": "chatgpt"
+ },
+ {
+  "id": "gpt_m3_02_confeti",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/motor_gpt_m3_02_confeti.jpg"
+  ],
+  "caption": "365 días nuevos. Empieza con uno.",
+  "when": "2027-01-02T08:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "animo": "reflexivo",
+  "origen": "chatgpt"
+ },
+ {
+  "id": "gpt_m3_03_agenda",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/motor_gpt_m3_03_agenda.jpg"
+  ],
+  "caption": "Lo que no tiene horario, no pasa. ¿A qué hora entrenas tú? 👇",
+  "when": "2027-01-03T08:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "animo": "reflexivo",
+  "origen": "chatgpt"
+ },
+ {
+  "id": "gpt_m3_04_registro",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/motor_gpt_m3_04_registro.jpg"
+  ],
+  "caption": "Nos vemos en febrero. Mándaselo a tu compa del gym 💪",
+  "when": "2027-01-04T08:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "animo": "reflexivo",
+  "origen": "chatgpt"
+ },
+ {
+  "id": "gpt_m3_05_pista",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/motor_gpt_m3_05_pista.jpg"
+  ],
+  "caption": "Pequeño, pero sin parar.",
+  "when": "2027-01-05T08:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "animo": "reflexivo",
+  "origen": "chatgpt"
+ },
+ {
+  "id": "gpt_m3_06_rosca",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/motor_gpt_m3_06_rosca.jpg"
+  ],
+  "caption": "Disfruta tu rosca. Mañana, normal. Feliz Día de Reyes 👑",
+  "when": "2027-01-06T08:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "animo": "reflexivo",
+  "origen": "chatgpt"
+ },
+ {
+  "id": "gpt_m3_07_cuesta",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/motor_gpt_m3_07_cuesta.jpg"
+  ],
+  "caption": "Gratis y funciona: caminar. Mándaselo a quien anda en la cuesta.",
+  "when": "2027-01-07T08:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "animo": "reflexivo",
+  "origen": "chatgpt"
+ },
+ {
+  "id": "gpt_m3_08_dorsal",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/motor_gpt_m3_08_dorsal.jpg"
+  ],
+  "caption": "Hoy muchos tiran la toalla. Tú no. Guárdala para hoy 📌",
+  "when": "2027-01-08T08:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "animo": "reflexivo",
+  "origen": "chatgpt"
+ },
+ {
+  "id": "gpt_m3_09_turnos",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/motor_gpt_m3_09_turnos.jpg"
+  ],
+  "caption": "Las ganas no llegan. Llegas tú.",
+  "when": "2027-01-09T08:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "animo": "reflexivo",
+  "origen": "chatgpt"
+ },
+ {
+  "id": "gpt_m3_10_corcho",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/motor_gpt_m3_10_corcho.jpg"
+  ],
+  "caption": "No necesitas otro lunes. Necesitas repetir.",
+  "when": "2027-01-10T08:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "animo": "reflexivo",
+  "origen": "chatgpt"
+ },
+ {
+  "id": "gpt_m3_11_maleta",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/motor_gpt_m3_11_maleta.jpg"
+  ],
+  "caption": "Prepara la mochila hoy. Mañana ya no lo negocias.",
+  "when": "2027-01-11T08:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "animo": "reflexivo",
+  "origen": "chatgpt"
+ },
+ {
+  "id": "gpt_m3_12_credencial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/motor_gpt_m3_12_credencial.jpg"
+  ],
+  "caption": "Cambia la meta: de un número a una identidad 👇",
+  "when": "2027-01-12T08:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "animo": "reflexivo",
+  "origen": "chatgpt"
+ },
+ {
+  "id": "gpt_m3_13_ventana",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/motor_gpt_m3_13_ventana.jpg"
+  ],
+  "caption": "Hace frío. Igual se entrena. ¿Quién va hoy? 🥶",
+  "when": "2027-01-13T08:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "animo": "reflexivo",
+  "origen": "chatgpt"
+ },
+ {
+  "id": "gpt_m3_14_tuppers",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/motor_gpt_m3_14_tuppers.jpg"
+  ],
+  "caption": "Lo de entre semana manda. Guárdala 📌",
+  "when": "2027-01-14T08:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "animo": "reflexivo",
+  "origen": "chatgpt"
+ },
+ {
+  "id": "gpt_m3_15_libros",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/motor_gpt_m3_15_libros.jpg"
+  ],
+  "caption": "Ya sabes qué hacer. Mándaselo a quien sigue investigando.",
+  "when": "2027-01-15T08:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "animo": "reflexivo",
+  "origen": "chatgpt"
+ },
+ {
+  "id": "gpt_m3_16_globo",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/motor_gpt_m3_16_globo.jpg"
+  ],
+  "caption": "La emoción se fue. Tú sigues.",
+  "when": "2027-01-16T08:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "animo": "reflexivo",
+  "origen": "chatgpt"
+ },
+ {
+  "id": "gpt_m3_17_fortuna",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/motor_gpt_m3_17_fortuna.jpg"
+  ],
+  "caption": "Tu rutina es tu horóscopo.",
+  "when": "2027-01-17T08:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "animo": "reflexivo",
+  "origen": "chatgpt"
+ },
+ {
+  "id": "gpt_m3_18_taza",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/motor_gpt_m3_18_taza.jpg"
+  ],
+  "caption": "Blue Monday: 20 minutos de movimiento. Mándaselo a quien hoy anda bajoneado 💙",
+  "when": "2027-01-18T08:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "animo": "reflexivo",
+  "origen": "chatgpt"
+ },
+ {
+  "id": "gpt_m3_19_gradas",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/motor_gpt_m3_19_gradas.jpg"
+  ],
+  "caption": "Nadie lo ve. Ahí se gana.",
+  "when": "2027-01-19T08:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "animo": "reflexivo",
+  "origen": "chatgpt"
+ },
+ {
+  "id": "gpt_m3_20_cinta",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/motor_gpt_m3_20_cinta.jpg"
+  ],
+  "caption": "Mide, ajusta, repite. ¿Qué mides tú? 👇",
+  "when": "2027-01-20T08:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "animo": "reflexivo",
+  "origen": "chatgpt"
+ },
+ {
+  "id": "gpt_m3_21_mercado",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/motor_gpt_m3_21_mercado.jpg"
+  ],
+  "caption": "Repetible le gana a perfecto. Guárdala 📌",
+  "when": "2027-01-21T08:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "animo": "reflexivo",
+  "origen": "chatgpt"
+ },
+ {
+  "id": "gpt_m3_22_pasaje",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/motor_gpt_m3_22_pasaje.jpg"
+  ],
+  "caption": "Cuando se acaba la emoción, empieza el hábito.",
+  "when": "2027-01-22T08:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "animo": "reflexivo",
+  "origen": "chatgpt"
+ },
+ {
+  "id": "gpt_m3_23_claqueta",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/motor_gpt_m3_23_claqueta.jpg"
+  ],
+  "caption": "Toma 2. Sigue.",
+  "when": "2027-01-23T08:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "animo": "reflexivo",
+  "origen": "chatgpt"
+ },
+ {
+  "id": "gpt_m3_24_espejo",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/motor_gpt_m3_24_espejo.jpg"
+  ],
+  "caption": "Mira hacia adelante. Mándaselo a quien vive comparándose.",
+  "when": "2027-01-24T08:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "animo": "reflexivo",
+  "origen": "chatgpt"
+ },
+ {
+  "id": "gpt_m3_25_fotomaton",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/motor_gpt_m3_25_fotomaton.jpg"
+  ],
+  "caption": "¿Cómo vas contra tu yo del 1 de enero? 👇",
+  "when": "2027-01-25T08:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "animo": "reflexivo",
+  "origen": "chatgpt"
+ },
+ {
+  "id": "gpt_m3_26_magnesia",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/motor_gpt_m3_26_magnesia.jpg"
+  ],
+  "caption": "Peso y descanso. Las dos cosas.",
+  "when": "2027-01-26T08:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "animo": "reflexivo",
+  "origen": "chatgpt"
+ },
+ {
+  "id": "gpt_m3_27_plano",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/motor_gpt_m3_27_plano.jpg"
+  ],
+  "caption": "El mejor plan es el que no dejas.",
+  "when": "2027-01-27T08:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "animo": "reflexivo",
+  "origen": "chatgpt"
+ },
+ {
+  "id": "gpt_m3_28_toalla",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/motor_gpt_m3_28_toalla.jpg"
+  ],
+  "caption": "Hoy cansa. En marzo se nota.",
+  "when": "2027-01-28T08:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "animo": "reflexivo",
+  "origen": "chatgpt"
+ },
+ {
+  "id": "gpt_m3_29_febrero",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/motor_gpt_m3_29_febrero.jpg"
+  ],
+  "caption": "Que febrero te encuentre entrenando. Guárdala 📌",
+  "when": "2027-01-29T08:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "animo": "reflexivo",
+  "origen": "chatgpt"
+ },
+ {
+  "id": "gpt_m3_30_telegrama",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/motor_gpt_m3_30_telegrama.jpg"
+  ],
+  "caption": "Tarde, pero llegan. No te bajes.",
+  "when": "2027-01-30T08:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "animo": "reflexivo",
+  "origen": "chatgpt"
+ },
+ {
+  "id": "gpt_m3_31_medalla",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/motor_gpt_m3_31_medalla.jpg"
+  ],
+  "caption": "Enero, completado. Ahora repítelo en febrero 🏅",
+  "when": "2027-01-31T08:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "animo": "reflexivo",
+  "origen": "chatgpt"
  }
 ]
