@@ -18,7 +18,7 @@ MX = timezone(timedelta(hours=-6))
 AGENDA, HECHO = "agenda/meta.json", "agenda/hecho.json"
 MAX_RETRASO_H = 12      # si algo se atrasó más que esto, no se publica fuera de hora
 MAX_INTENTOS = 3
-TOPE_REELS_DIA, TOPE_POSTS_DIA, SEPARACION_MIN = 3, 2, 120  # 3 reels + 2 posts (ritmo de los que crecen)
+TOPE_REELS_DIA, TOPE_POSTS_DIA, SEPARACION_MIN = 2, 2, 240  # 27-nov: 2 reels de lo mejor (con 3+ rendían la mitad)
 TOPE_TRIALS_DIA_FRENADO = 30  # si Instagram nos frenó en las últimas 24 h
 TOPE_TRIALS_DIA, SEPARACION_TRIAL_MIN = 50, 15  # Roberto (27-nov): hasta 50 trials al día (cupo de la API: 100)
 
