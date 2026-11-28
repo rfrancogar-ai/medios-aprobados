@@ -2347,5 +2347,23 @@
   "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_voxt8d8084cce2.jpg",
   "origen": "voxt8d8084cce2",
   "audio_volume": 25
+ },
+ {
+  "id": "g92140318342_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/g92140318342.mp4"
+  ],
+  "caption": "En lo personal jamás digo que no un plan deportivo que implica movimiento o mejora mi salud de manera recreativa 👌🏽\nUna de las cosas más importantes que tiene el humano son sus relaciones ♥️\n\nEl conocer realmente una persona implica aprender de sus gustos y experimentarlos por lo menos alguna vez. 😎\n\n\nSólo piénsalo dos claves de la vida mezcladas en una sola actividad amigos y salud ¿que más quieres? 🔥\n\nAparte también te comparto que la bici es padrísima y te sirve para muchas más cosas de las que tú crees es desde un vehículo hasta un artículo para la diversión, que buena inversión!",
+  "when": "2026-11-27T18:01:51",
+  "first_comment": "",
+  "audio": null,
+  "animo": "energia",
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_g92140318342.jpg",
+  "origen": "g92140318342",
+  "audio_volume": 18,
+  "sin_musica": true
  }
 ]
