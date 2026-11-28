@@ -4950,5 +4950,23 @@
   "origen": "g08898993151",
   "audio_volume": 18,
   "sin_musica": true
+ },
+ {
+  "id": "t95881894451_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/t95881894451.mp4"
+  ],
+  "caption": "Llevo tiempo queriendo hacer la reseña de este pre entreno 🥳 La razón...\n\n¿Te había pasado? 👇",
+  "when": "2026-11-28T02:52:14",
+  "first_comment": "",
+  "audio": null,
+  "animo": "energia",
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_t95881894451.jpg",
+  "origen": "t95881894451",
+  "audio_volume": 18,
+  "sin_musica": true
  }
 ]
