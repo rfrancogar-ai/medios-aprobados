@@ -2034,22 +2034,6 @@
   "origen": "chatgpt"
  },
  {
-  "id": "gpt_lunes",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "images",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/motor_gpt_lunes.jpg"
-  ],
-  "caption": "¿Quién más empieza el lunes? 👇",
-  "when": "2026-11-30T08:00:00",
-  "first_comment": "",
-  "audio": null,
-  "cover": null,
-  "animo": "reflexivo",
-  "origen": "chatgpt"
- },
- {
   "id": "gpt_cuerpo",
   "net": "ig",
   "target": "17841400277954990",
