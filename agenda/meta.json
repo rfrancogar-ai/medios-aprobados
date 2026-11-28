@@ -5228,5 +5228,23 @@
   "origen": "e38c87ddfc5b61",
   "audio_volume": 18,
   "sin_musica": false
+ },
+ {
+  "id": "75c6650e0f6b74_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/75c6650e0f6b74.mp4"
+  ],
+  "caption": "Mismo fórmula, mismo todo.\n\nA pesar de que COREX es un pre-entreno que gusta muchísimo, tiene esta característica: a la gente le cuesta un poquito identificar el sabor. Por ahí una sandía, por ahí un tamarindo…\n\n¿Por qué? Tomamos la decisión de usar fuentes naturales para los estimulantes: la cafeína viene de la guaraná. Queda muy bien con la sandía, pero la opacaba.\n\nEn la búsqueda de qué combina todavía mejor con la guaraná, sin soltar la cafeína de fuentes naturales, encontré la solución. Misma fórmula, mismo todo… y la probé sin decirles a qué sabor cambiamos.\n\nComenta el sabor que crees que es 👇 y guárdalo para ver la respuesta.\n\n#EPICLabs #COREX #preentreno #formulacion #emprendimiento",
+  "when": "2026-11-30T22:00:00",
+  "first_comment": "",
+  "audio": null,
+  "animo": "energia",
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_75c6650e0f6b74.jpg",
+  "origen": "e38c87ddfc5b61",
+  "audio_volume": 18,
+  "sin_musica": false
  }
 ]
