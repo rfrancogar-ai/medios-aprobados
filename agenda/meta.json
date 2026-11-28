@@ -5302,41 +5302,5 @@
   "caption": "Errores que me costaron años de progreso:\n\nTe los regalo para que no pagues lo que yo pagué.\n\n¿Cuál te pasó a ti? 👇",
   "when": "2026-12-01T19:00:00",
   "first_comment": ""
- },
- {
-  "id": "0a6e38e30ee9",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/b28392b990df28.mp4"
-  ],
-  "animo": "tranquilo",
-  "audio_volume": 18,
-  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_b28392b990df28.jpg",
-  "audio": {
-   "audio_id": "1100966768788442",
-   "audio_volume": 15,
-   "video_volume": 100
-  },
-  "caption": "Hay un factor importante que nadie te dice y se llama osmolaridad.\n\nPara optimizar tu pre-entreno no basta con tener suficiente agua: necesitas la cantidad de agua exacta. Eso lo debe calcular el fabricante y ponerte en las indicaciones con cuántos mililitros revolver el producto, para que cada ingrediente se pueda absorber de manera correcta.\n\nRevisa tu bote y comenta AGUA si trae los mililitros 👇\n\n#preentreno #suplementos #nutriciondeportiva #gym",
-  "when": "2026-12-02T10:00:00",
-  "first_comment": "¿Tu pre-entreno dice con cuántos mililitros de agua prepararlo? Sí o no 👇"
- },
- {
-  "id": "8c605d71075e",
-  "net": "fb",
-  "target": "564848600309988",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/b28392b990df28.mp4"
-  ],
-  "animo": "tranquilo",
-  "audio_volume": 18,
-  "cover": null,
-  "audio": null,
-  "caption": "Familia, hay un factor importante de tu pre-entreno que nadie te dice y se llama osmolaridad. No basta con suficiente agua: necesitas la cantidad exacta, y eso lo debe calcular el fabricante y ponerlo en las indicaciones. ¿Tu pre trae esa indicación?",
-  "when": "2026-12-08T10:00:00",
-  "first_comment": ""
  }
 ]
