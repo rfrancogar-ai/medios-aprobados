@@ -2599,5 +2599,77 @@
   "caption": "¿Entrenar de noche arruina tu sueño? 28 estudios dicen que no. Lo que sí lo arruina es otra cosa.\n\nEntrenar de noche no arruina tu sueño. Te lo explico en 3 láminas.\n\n¿Entrenas de día o de noche? Comenta y armo la rutina de suplementos para cada horario.\n\nFuente: Yue T et al. 2022, Nature and Science of Sleep (metaanálisis en red, 28 estudios); Gardiner CL et al. 2025, Sleep (ECA cruzado, n=23 hombres)",
   "when": "2026-12-01T14:00:00",
   "first_comment": ""
+ },
+ {
+  "id": "a92c15096bd2",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/e38c87ddfc5b61.mp4"
+  ],
+  "animo": "energia",
+  "audio_volume": 18,
+  "cover": null,
+  "audio": null,
+  "caption": "Familia, a COREX le cuesta un poquito a la gente identificarle el sabor: la cafeína viene de la guaraná, que tiene su propio sabor, y opacaba un poco la sandía. Busqué qué combinaba todavía mejor con la guaraná y encontré la solución. Misma fórmula, mismo todo. ¿A qué sabor crees que cambiamos?",
+  "when": "2026-11-28T10:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "8d820009b438",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/7158173c1652be.mp4"
+  ],
+  "animo": "tranquilo",
+  "audio_volume": 18,
+  "cover": null,
+  "audio": null,
+  "caption": "Voy saliendo del estadio, familia, y la negociación está cerrada. Acabamos de dejar el primer lote de EPIC para Charros de Jalisco: son el primero de muchos equipos profesionales y el primero de mis muchos logros como CEO de EPIC Labs. Gracias a todos los que han confiado. ¿Qué equipo te gustaría ver con EPIC?",
+  "when": "2026-12-02T10:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "a2f4f987b52d",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/e38c87ddfc5b61.mp4"
+  ],
+  "animo": "energia",
+  "audio_volume": 18,
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_e38c87ddfc5b61.jpg",
+  "audio": {
+   "audio_id": "873164670286638",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "La guaraná tiene su propio sabor… y nos estaba opacando la sandía 🍉\n\nA pesar de que COREX es un pre-entreno que gusta muchísimo, tiene esta característica: a la gente le cuesta un poquito identificar el sabor. Por ahí una sandía, por ahí un tamarindo…\n\n¿Por qué? Tomamos la decisión de usar fuentes naturales para los estimulantes: la cafeína viene de la guaraná. Queda muy bien con la sandía, pero la opacaba.\n\nEn la búsqueda de qué combina todavía mejor con la guaraná, sin soltar la cafeína de fuentes naturales, encontré la solución. Misma fórmula, mismo todo… y la probé sin decirles a qué sabor cambiamos.\n\nComenta el sabor que crees que es 👇 y guárdalo para ver la respuesta.\n\n#EPICLabs #COREX #preentreno #formulacion #emprendimiento",
+  "when": "2026-12-02T10:00:00",
+  "first_comment": "Adivina: ¿a qué sabor crees que cambiamos COREX para que combine mejor con la guaraná? 🍉👇"
+ },
+ {
+  "id": "ad54a40e527c",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "reel",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/7158173c1652be.mp4"
+  ],
+  "animo": "tranquilo",
+  "audio_volume": 18,
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_7158173c1652be.jpg",
+  "audio": {
+   "audio_id": "873164670286638",
+   "audio_volume": 15,
+   "video_volume": 100
+  },
+  "caption": "La negociación está cerrada, familia 🤝\n\nVoy saliendo del estadio después de mucho trabajo y muchas emociones. Acabamos de dejar el primer lote de productos de EPIC para Charros de Jalisco, y están listos para empezar a mejorar su rendimiento con EPIC Labs.\n\nSon el primero de muchos equipos profesionales y es el primero de mis muchos logros como CEO dentro de EPIC Labs. Gracias a todos ustedes que han confiado: un enorme abrazo detrás de esta enorme sonrisa.\n\nComenta el equipo que te gustaría ver con EPIC y mándaselo al compa que es fan de Charros ⚾\n\n#EPICLabs #CharrosDeJalisco #emprendimiento #deporteprofesional #suplementos",
+  "when": "2026-12-02T12:00:00",
+  "first_comment": "¿Qué equipo profesional te gustaría ver entrenando con EPIC después de Charros? Te leo 👇"
  }
 ]
