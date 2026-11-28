@@ -5320,5 +5320,23 @@
   "origen": "t54833410623",
   "audio_volume": 18,
   "sin_musica": true
+ },
+ {
+  "id": "t36267051571_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/t36267051571.mp4"
+  ],
+  "caption": "Siempre lee tus etiquetas 😱\n\n¿Te había pasado? 👇",
+  "when": "2026-11-28T10:21:59",
+  "first_comment": "",
+  "audio": null,
+  "animo": "energia",
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_t36267051571.jpg",
+  "origen": "t36267051571",
+  "audio_volume": 18,
+  "sin_musica": true
  }
 ]
