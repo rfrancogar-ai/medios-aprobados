@@ -2440,5 +2440,23 @@
   "origen": "voxt2ed9c8f4d3",
   "audio_volume": 25,
   "sin_musica": false
+ },
+ {
+  "id": "voxtfc97ed7e90_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/voxtfc97ed7e90.mp4"
+  ],
+  "caption": "Compararon veinticinco contra cien gramos de proteína después de entrenar.\nEl mito de los 30 gramos de proteína",
+  "when": "2026-11-27T20:03:52",
+  "first_comment": "",
+  "audio": null,
+  "animo": "energia",
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_voxtfc97ed7e90.jpg",
+  "origen": "voxtfc97ed7e90",
+  "audio_volume": 25,
+  "sin_musica": false
  }
 ]
