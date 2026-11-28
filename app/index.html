@@ -80,6 +80,7 @@ input[type=date]{width:auto;flex:1;min-width:0}
 @keyframes flow{to{stroke-dashoffset:-20}}@keyframes flin{to{opacity:1;transform:none}}@keyframes grow{from{transform:scaleY(0)}}
 @media (prefers-reduced-motion:reduce){.fl-wire path,.fl-node,.fl-bars i{animation:none;opacity:1;transform:none}}
 a{color:var(--acc)}
+.thumb.foto{aspect-ratio:4/5}
 .thumb{width:92px;flex:none;aspect-ratio:9/16;border-radius:10px;background:var(--soft);position:relative;overflow:hidden;cursor:pointer}
 .thumb img{width:100%;height:100%;object-fit:cover;display:block}
 .thumb .play{position:absolute;inset:auto 6px 6px auto;width:28px;height:28px;border-radius:50%;background:rgba(0,0,0,.6);color:#fff;display:flex;align-items:center;justify-content:center;font-size:12px}
@@ -198,17 +199,20 @@ async aprobar(){
   const bar=(n,m)=>`<div style="height:8px;border-radius:4px;background:var(--soft);overflow:hidden;margin:4px 0 10px"><div style="height:100%;width:${Math.min(100,100*n/m)}%;background:${n>=m?"var(--ok)":"var(--acc)"}"></div></div>`;
   // Todo se ve sin abrirlo: miniatura chica (carga al instante, perezosa) y el reel se reproduce aquí mismo al tocarlo.
   const U=x=>!x?"":/^https?:/.test(x)?x:API+x;
-  const media=i=>i.tipo==="post"
-    ?`<div class="strip">${(i.imgs||[]).map((u,k)=>`<img src="${U(u)}" loading="lazy" decoding="async" alt="" onclick="verImg(this,'${esc(U(u).replace("/media/imagen_mini/","/media/image/").replace("/media/pubimg/540/","/media/pubimg/1080/"))}')">`).join("")||'<div class="thumb"></div>'}</div>`
+  // 28-nov: todas las tarjetas iguales: miniatura a la izquierda (reel 9:16 o foto 4:5), datos a la derecha.
+  // Tocar la miniatura: el reel se reproduce aquí mismo; la foto o el carrusel se abre en grande.
+  const full=u=>U(u).replace("/media/imagen_mini/","/media/image/").replace("/media/pubimg/540/","/media/pubimg/1080/");
+  const thumb=i=>i.tipo==="post"
+    ?`<div class="thumb foto" onclick='verPost(this,${JSON.stringify((i.imgs||[]).map(full))})'>${i.thumb?`<img src="${U(i.thumb)}" loading="lazy" decoding="async" alt="">`:""}${i.carrusel?`<span class="play">${i.imagenes}</span>`:""}</div>`
     :`<div class="thumb reel" onclick="playInline(this,'${esc(U(i.video))}','${esc(i.video_pub||"")}')">${i.thumb?`<img src="${U(i.thumb)}" loading="lazy" decoding="async" alt="" onerror="this.remove()">`:""}<span class="play">▶</span></div>`;
+  const etiqueta=i=>i.tipo==="post"?(i.origen==="ChatGPT"?(String(i.pkg).startsWith("gpt_tw")?"tweet":"foto"):(i.carrusel?"carrusel":"post")):"reel";
   const item=i=>`<div class="card" data-pkg="${esc(i.pkg)}" style="padding:12px">
     <div style="display:flex;gap:12px;align-items:flex-start">
-     ${i.tipo==="post"?"":media(i)}
-     <div class="grow"><div class="tiny mut"><b style="font-size:16px;color:var(--ink)">${esc(i.hora)}</b> · ${i.tipo==="post"?(i.carrusel?"carrusel de "+i.imagenes:"post"):"reel"}${i.origen==="ChatGPT"?" · ChatGPT":""}</div>
-      <b>${esc(i.titulo||"")}</b>
-      <div style="margin-top:4px">${i.redes.map(x=>`<span class="tag">${(NET[x]||["",x])[1]||x}</span>`).join("")}${i.duracion?`<span class="tag">${Math.round(i.duracion)} s</span>`:""}<span class="tag ${i.estado==="publicado"?"ok":i.estado==="programado"?"":"warn"}">${esc(i.estado)}</span>${i.claims==="BLOCK"||i.claims==="REVIEW"?'<span class="tag warn">revisa un dato</span>':""}</div>
+     ${thumb(i)}
+     <div class="grow"><div class="small"><b style="font-size:18px">${esc(i.hora)}</b> <span class="tag">${etiqueta(i)}</span>${i.estado!=="programado"?`<span class="tag ${i.estado==="publicado"?"ok":"warn"}">${esc(i.estado)}</span>`:""}</div>
+      <div style="margin-top:6px"><b>${esc(i.titulo||"")}</b></div>
+      ${i.claims==="BLOCK"||i.claims==="REVIEW"?'<div style="margin-top:4px"><span class="tag warn">revisa un dato</span></div>':""}
       ${i.puede_detener?`<div style="margin-top:8px"><button class="btn no sm" onclick="detener(this,'${esc(i.pkg)}')">Detener</button></div>`:""}</div></div>
-     ${i.tipo==="post"?media(i):""}
      <div class="prev"></div></div>`;
   el.innerHTML=`<div class="card hero"><h3 style="margin:0 0 8px">Hoy</h3>
      <div class="small">Reels <b>${H.reel}/${M.reel}</b></div>${bar(H.reel,M.reel)}
@@ -412,6 +416,9 @@ function playInline(el,v,fb){const box=el.closest(".card").querySelector(".prev"
   vid.onerror=()=>{if(alt){const x=alt;alt="";vid.src=x;vid.play().catch(()=>{});}else box.innerHTML='<div class="tiny mut" style="margin-top:8px">El video todavía se está preparando en la Mac. Intenta en un minuto.</div>';};
   vid.onplay=()=>{try{navigator.audioSession&&(navigator.audioSession.type="playback")}catch(e){}};
   vid.src=v||fb;vid.play().catch(()=>{});}
+function verPost(el,urls){const box=el.closest(".card").querySelector(".prev");
+  if(box.innerHTML){box.innerHTML="";return;}
+  box.innerHTML=`<div class="strip" style="margin-top:10px">${urls.map(u=>`<img src="${u}" style="height:auto;width:${urls.length>1?"85%":"100%"};aspect-ratio:4/5" loading="lazy" alt="">`).join("")}</div>`;}
 function verImg(img,full){const box=img.closest(".card").querySelector(".prev");
   if(box.dataset.u===full&&box.innerHTML){box.innerHTML="";box.dataset.u="";return;}
   box.dataset.u=full;box.innerHTML=`<img src="${full}" style="width:100%;margin-top:10px;border-radius:12px" alt="" onerror="this.src='${img.src}'">`;}
