@@ -404,7 +404,8 @@ def main():
                     tope = min(TOPE_TRIALS_DIA, int(tt["n"]) + max(0, int(dias)))
                 if len(salidos) >= tope:
                     continue
-                if salidos and ahora - datetime.fromisoformat(max(salidos)) < timedelta(minutes=SEPARACION_TRIAL_MIN):
+                sep = max(SEPARACION_TRIAL_MIN, int(15 * 60 / max(1, tope)))  # repartidos de 8 a 23 h: prueba todas las horas
+                if salidos and ahora - datetime.fromisoformat(max(salidos)) < timedelta(minutes=sep):
                     continue
         rem = hecho_remoto() or {}  # justo antes de publicar: ¿otra corrida ya lo sacó?
         if rem.get(e["id"], {}).get("ok"):
