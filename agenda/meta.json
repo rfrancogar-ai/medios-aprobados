@@ -2365,5 +2365,22 @@
   "origen": "g92140318342",
   "audio_volume": 18,
   "sin_musica": true
+ },
+ {
+  "id": "voxt154ad41322_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/voxt154ad41322.mp4"
+  ],
+  "caption": "Si sufres cada mañana haciendo cardio en ayunas, esto te va a doler.\nCardio en ayunas: ¿quema más grasa?",
+  "when": "2026-11-27T18:08:27",
+  "first_comment": "",
+  "audio": null,
+  "animo": "energia",
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_voxt154ad41322.jpg",
+  "origen": "voxt154ad41322",
+  "audio_volume": 25
  }
 ]
