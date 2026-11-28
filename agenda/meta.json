@@ -4932,5 +4932,23 @@
   "origen": "t16783444533",
   "audio_volume": 18,
   "sin_musica": true
+ },
+ {
+  "id": "g08898993151_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/g08898993151.mp4"
+  ],
+  "caption": "Sabias que cada nutriólogo es muy diferente? 😅\n\n#nutricionmexico #nutricion #nutriologo #psiconutricion #saludmental #consejosaludable #tratamiento #psicologia #excesodepeso",
+  "when": "2026-11-28T02:44:49",
+  "first_comment": "",
+  "audio": null,
+  "animo": "energia",
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_g08898993151.jpg",
+  "origen": "g08898993151",
+  "audio_volume": 18,
+  "sin_musica": true
  }
 ]
