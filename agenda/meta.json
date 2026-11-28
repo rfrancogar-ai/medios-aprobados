@@ -2461,5 +2461,261 @@
   "cover": null,
   "animo": "reflexivo",
   "origen": "chatgpt"
+ },
+ {
+  "id": "gpt_m1a_01_lucha",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/motor_gpt_m1a_01_lucha.jpg"
+  ],
+  "caption": "Etiqueta a tu rival de las 11 pm 👇",
+  "when": "2026-12-01T18:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "animo": "reflexivo",
+  "origen": "chatgpt"
+ },
+ {
+  "id": "gpt_m1a_02_caminadora",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/motor_gpt_m1a_02_caminadora.jpg"
+  ],
+  "caption": "Etiqueta al que tiene una en casa.",
+  "when": "2026-12-03T18:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "animo": "reflexivo",
+  "origen": "chatgpt"
+ },
+ {
+  "id": "gpt_m1a_03_extintor",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/motor_gpt_m1a_03_extintor.jpg"
+  ],
+  "caption": "Mándaselo a quien lo necesita hoy.",
+  "when": "2026-12-05T18:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "animo": "reflexivo",
+  "origen": "chatgpt"
+ },
+ {
+  "id": "gpt_m1a_04_exvoto",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/motor_gpt_m1a_04_exvoto.jpg"
+  ],
+  "caption": "¿A poco no se siente así? 🙏",
+  "when": "2026-12-07T18:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "animo": "reflexivo",
+  "origen": "chatgpt"
+ },
+ {
+  "id": "gpt_m1a_05_aeropuerto",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/motor_gpt_m1a_05_aeropuerto.jpg"
+  ],
+  "caption": "Mándaselo a quien sigue en sala de espera.",
+  "when": "2026-12-09T18:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "animo": "reflexivo",
+  "origen": "chatgpt"
+ },
+ {
+  "id": "gpt_m1a_06_ticket",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/motor_gpt_m1a_06_ticket.jpg"
+  ],
+  "caption": "Etiqueta a quien hace donativos al gym.",
+  "when": "2026-12-11T18:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "animo": "reflexivo",
+  "origen": "chatgpt"
+ },
+ {
+  "id": "gpt_m1a_09_sebusca",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/motor_gpt_m1a_09_sebusca.jpg"
+  ],
+  "caption": "Etiqueta al que siempre dice \"nomás una\" 👇",
+  "when": "2026-12-13T18:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "animo": "reflexivo",
+  "origen": "chatgpt"
+ },
+ {
+  "id": "gpt_m1a_10_fonda",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/motor_gpt_m1a_10_fonda.jpg"
+  ],
+  "caption": "¿Cuál pides tú? 👇",
+  "when": "2026-12-15T18:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "animo": "reflexivo",
+  "origen": "chatgpt"
+ },
+ {
+  "id": "gpt_m1a_11_comic",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/motor_gpt_m1a_11_comic.jpg"
+  ],
+  "caption": "Guárdala para el día que se te olvide.",
+  "when": "2026-12-17T18:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "animo": "reflexivo",
+  "origen": "chatgpt"
+ },
+ {
+  "id": "gpt_m1a_13_wod",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/motor_gpt_m1a_13_wod.jpg"
+  ],
+  "caption": "Mándaselo a quien hoy no quiere ir.",
+  "when": "2026-12-19T18:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "animo": "reflexivo",
+  "origen": "chatgpt"
+ },
+ {
+  "id": "gpt_m1a_14_estreno",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/motor_gpt_m1a_14_estreno.jpg"
+  ],
+  "caption": "¿Quién más está en cartelera? 🎬",
+  "when": "2026-12-21T18:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "animo": "reflexivo",
+  "origen": "chatgpt"
+ },
+ {
+  "id": "gpt_m1a_21_examen",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/motor_gpt_m1a_21_examen.jpg"
+  ],
+  "caption": "Mándaselo al que le tiene miedo a las tortillas.",
+  "when": "2026-12-23T18:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "animo": "reflexivo",
+  "origen": "chatgpt"
+ },
+ {
+  "id": "gpt_m1a_23_botella",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/motor_gpt_m1a_23_botella.jpg"
+  ],
+  "caption": "Etiqueta a quien nunca toma agua.",
+  "when": "2026-12-25T18:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "animo": "reflexivo",
+  "origen": "chatgpt"
+ },
+ {
+  "id": "gpt_m1a_24_senal",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/motor_gpt_m1a_24_senal.jpg"
+  ],
+  "caption": "Mándaselo a quien anda a dieta y de malas.",
+  "when": "2026-12-27T18:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "animo": "reflexivo",
+  "origen": "chatgpt"
+ },
+ {
+  "id": "gpt_m1a_27_nomolestar",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/motor_gpt_m1a_27_nomolestar.jpg"
+  ],
+  "caption": "Etiqueta a quien no suelta el celular en el gym.",
+  "when": "2026-12-29T18:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "animo": "reflexivo",
+  "origen": "chatgpt"
+ },
+ {
+  "id": "gpt_m1a_29_neon",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/motor_gpt_m1a_29_neon.jpg"
+  ],
+  "caption": "¿A poco tú no? 🌮",
+  "when": "2026-12-31T18:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "animo": "reflexivo",
+  "origen": "chatgpt"
  }
 ]
