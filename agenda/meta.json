@@ -2494,5 +2494,23 @@
   "origen": "voxt031677a5dd",
   "audio_volume": 25,
   "sin_musica": false
+ },
+ {
+  "id": "voxt16d146c11a_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/voxt16d146c11a.mp4"
+  ],
+  "caption": "Te dijeron que tu cuerpo solo aprovecha treinta gramos de proteína por comida.\nEl mito de los 30 gramos de proteína",
+  "when": "2026-11-27T22:06:23",
+  "first_comment": "",
+  "audio": null,
+  "animo": "energia",
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_voxt16d146c11a.jpg",
+  "origen": "voxt16d146c11a",
+  "audio_volume": 25,
+  "sin_musica": false
  }
 ]
