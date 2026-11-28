@@ -3814,5 +3814,23 @@
   "origen": "7158173c1652be",
   "audio_volume": 18,
   "sin_musica": false
+ },
+ {
+  "id": "t54833410621_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/t54833410621.mp4"
+  ],
+  "caption": "Sabias que también relaja tus músculos y mejora tu rendimiento deport...\n\n¿Te había pasado? 👇",
+  "when": "2026-11-28T01:26:35",
+  "first_comment": "",
+  "audio": null,
+  "animo": "energia",
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_t54833410621.jpg",
+  "origen": "t54833410621",
+  "audio_volume": 18,
+  "sin_musica": true
  }
 ]
