@@ -2164,22 +2164,6 @@
   "audio_volume": 25
  },
  {
-  "id": "d8da1a9d318f",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "images",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img6f070ca8e32_0.jpg"
-  ],
-  "animo": "reflexivo",
-  "audio_volume": 18,
-  "cover": null,
-  "audio": null,
-  "caption": "¿Lo aplicas o te cuesta? Te leo 👇\n.\n#nutricion #suplementos #gym #ciencia",
-  "when": "2026-12-05T14:00:00",
-  "first_comment": ""
- },
- {
   "id": "7d7b10c46be1",
   "net": "fb",
   "target": "564848600309988",
@@ -2357,22 +2341,6 @@
   "audio": null,
   "caption": "Seguro viste que '7 de cada 10' no llegan a su magnesio. Rastreé el dato.\n\n¿Cuántos mexicanos no llegan a su magnesio? (No son 7 de 10) — desliza y guárdalo 📌\n\n¿Qué dato de nutrición viste en redes y quieres que lo rastree?\n\nFuente: Ramírez-Silva I et al. 2020, Salud Pública de México (ENSANUT 2016, n=3,646)\n.\n#nutricion #suplementos #gym #ciencia",
   "when": "2026-11-29T14:00:00",
-  "first_comment": ""
- },
- {
-  "id": "e68973ab683c",
-  "net": "fb",
-  "target": "564848600309988",
-  "kind": "images",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/img6f070ca8e32_0.jpg"
-  ],
-  "animo": "reflexivo",
-  "audio_volume": 18,
-  "cover": null,
-  "audio": null,
-  "caption": "Tu marca es lo que te deja cobrar más sin tener que convencer más.\n\n¿Lo aplicas o te cuesta? Te leo 👇",
-  "when": "2026-11-28T16:00:00",
   "first_comment": ""
  },
  {
