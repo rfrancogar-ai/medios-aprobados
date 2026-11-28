@@ -3630,5 +3630,23 @@
   "origen": "voxt16d146c11a",
   "audio_volume": 25,
   "sin_musica": false
+ },
+ {
+  "id": "7e29aa358c93c5_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/7e29aa358c93c5.mp4"
+  ],
+  "caption": "El éxito no es excusa para quedarte donde siempre.\n\nCuando tienes un producto o servicio, lo más importante es que estés en constante estado de mejoría. Es decir: recibir bien la retroalimentación de tus clientes, tus amigos, tus familiares y, sobre todo, de la gente que consume el producto.\n\nEscuchar bien lo que quieren… y no quedarte donde siempre, a pesar del éxito.\n\nMándaselo al compa que está emprendiendo y guárdalo para cuando te toque escuchar una crítica.\n\n#emprendimiento #negocios #EPICLabs #mentalidad",
+  "when": "2026-12-01T20:00:00",
+  "first_comment": "",
+  "audio": null,
+  "animo": "energia",
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_7e29aa358c93c5.jpg",
+  "origen": "15d6309fbcc057",
+  "audio_volume": 18,
+  "sin_musica": false
  }
 ]
