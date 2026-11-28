@@ -5004,5 +5004,23 @@
   "origen": "e38c87ddfc5b61",
   "audio_volume": 18,
   "sin_musica": false
+ },
+ {
+  "id": "g83795763251_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/g83795763251.mp4"
+  ],
+  "caption": "Nos buscaron para acompañar su rendimiento con suplementación EPIC.\nHace unos meses, todo empezó con dos jugadores.\n\n\nLlegamos al estadio, les explicamos lo que habíamos construido y comenzamos a trabajar.\n\nPero algo pasó después.\nEl proyecto llamó la atención más allá de esos dos jugadores.\n\nLa ciencia detrás de las fórmulas. La forma en la que hacemos las cosas. Y, sobre todo, la visión que tenemos para EPIC.\nLo que comenzó con dos atletas está a punto de convertirse en algo mucho más grande.\n\nOctubre marca un nuevo capítulo para nosotros.\n\nY esta entrega fue apenas el comienzo.\nEsta semana les voy a contar cómo llegamos hasta aquí.\n\nEPIC LABS® El estándar clínico del rendimiento en México.\n\n#SoyEpic #EpicLabs #CharrosDeJalisco",
+  "when": "2026-11-28T03:19:52",
+  "first_comment": "",
+  "audio": null,
+  "animo": "energia",
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_g83795763251.jpg",
+  "origen": "g83795763251",
+  "audio_volume": 18,
+  "sin_musica": true
  }
 ]
