@@ -2476,5 +2476,23 @@
   "origen": "voxt0539f7bb87",
   "audio_volume": 25,
   "sin_musica": false
+ },
+ {
+  "id": "voxt031677a5dd_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/voxt031677a5dd.mp4"
+  ],
+  "caption": "Guárdalo y compártelo con el que cuenta treinta gramos exactos.\nEl mito de los 30 gramos de proteína",
+  "when": "2026-11-27T21:25:47",
+  "first_comment": "",
+  "audio": null,
+  "animo": "energia",
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_voxt031677a5dd.jpg",
+  "origen": "voxt031677a5dd",
+  "audio_volume": 25,
+  "sin_musica": false
  }
 ]
