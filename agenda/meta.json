@@ -2404,5 +2404,23 @@
   "origen": "voxt8fe072603b",
   "audio_volume": 25,
   "sin_musica": false
+ },
+ {
+  "id": "voxt584f2f4707_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/voxt584f2f4707.mp4"
+  ],
+  "caption": "Compártelo con el que sufre en ayunas.\nCardio en ayunas: ¿quema más grasa?",
+  "when": "2026-11-27T21:53:21",
+  "first_comment": "",
+  "audio": null,
+  "animo": "energia",
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_voxt584f2f4707.jpg",
+  "origen": "voxt584f2f4707",
+  "audio_volume": 25,
+  "sin_musica": false
  }
 ]
