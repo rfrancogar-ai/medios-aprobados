@@ -139,7 +139,10 @@ def ig(e):
         if kind == "trial" and os.path.exists("agenda/trial_off"):
             raise RuntimeError("trials apagados: no se publica (nunca como reel normal)")
         if kind == "trial":  # Trial Reel: primero a quien no te sigue; se gradúa solo si rinde
-            p["trial_params"] = json.dumps({"graduation_strategy": "SS_PERFORMANCE"})
+            # versión de un reel que TAMBIÉN sale en el feed: nunca se gradúa sola (serían dos videos casi iguales en
+            # tu perfil). Los de la fábrica (origen = él mismo) sí se gradúan solos si rinden. 28-nov-2026.
+            de_feed = e.get("origen") and str(e["origen"]) != e["id"][:-6]
+            p["trial_params"] = json.dumps({"graduation_strategy": "MANUAL" if de_feed else "SS_PERFORMANCE"})
             p["share_to_feed"] = "false"  # un trial NO va al feed de tus seguidores
         else:
             p["share_to_feed"] = "true"
