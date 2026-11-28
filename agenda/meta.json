@@ -2458,5 +2458,23 @@
   "origen": "voxtfc97ed7e90",
   "audio_volume": 25,
   "sin_musica": false
+ },
+ {
+  "id": "voxt0539f7bb87_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/voxt0539f7bb87.mp4"
+  ],
+  "caption": "Lo que más importa sigue siendo tu proteína total del día.\nEl mito de los 30 gramos de proteína",
+  "when": "2026-11-27T20:44:57",
+  "first_comment": "",
+  "audio": null,
+  "animo": "energia",
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_voxt0539f7bb87.jpg",
+  "origen": "voxt0539f7bb87",
+  "audio_volume": 25,
+  "sin_musica": false
  }
 ]
