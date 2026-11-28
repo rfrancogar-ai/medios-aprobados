@@ -2368,5 +2368,23 @@
   "caption": "No, no tienes que ser celíaco, no tienes que tener intolerancia al gluten.\n\n¿A quién se la mandarías? Etiquétalo 👇",
   "when": "2026-11-30T16:00:00",
   "first_comment": ""
+ },
+ {
+  "id": "voxt404a5b8013_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/voxt404a5b8013.mp4"
+  ],
+  "caption": "Un metaanálisis comparó perder grasa con cardio en ayunas contra cardio después de comer.\nCardio en ayunas: ¿quema más grasa?",
+  "when": "2026-11-27T20:31:41",
+  "first_comment": "",
+  "audio": null,
+  "animo": "energia",
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_voxt404a5b8013.jpg",
+  "origen": "voxt404a5b8013",
+  "audio_volume": 25,
+  "sin_musica": false
  }
 ]
