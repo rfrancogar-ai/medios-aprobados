@@ -3076,5 +3076,229 @@
   "origen": "15d6309fbcc057",
   "audio_volume": 18,
   "sin_musica": false
+ },
+ {
+  "id": "gpt_m1a_07_receta",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/motor_gpt_m1a_07_receta.jpg"
+  ],
+  "caption": "Guárdala. Es la única receta que funciona.",
+  "when": "2026-12-02T18:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "animo": "reflexivo",
+  "origen": "chatgpt"
+ },
+ {
+  "id": "gpt_m1a_12_estrellita",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/motor_gpt_m1a_12_estrellita.jpg"
+  ],
+  "caption": "Hoy te la ganaste ⭐",
+  "when": "2026-12-04T18:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "animo": "reflexivo",
+  "origen": "chatgpt"
+ },
+ {
+  "id": "gpt_m1a_15_tarot",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/motor_gpt_m1a_15_tarot.jpg"
+  ],
+  "caption": "Esta carta te salió por algo.",
+  "when": "2026-12-06T18:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "animo": "reflexivo",
+  "origen": "chatgpt"
+ },
+ {
+  "id": "gpt_m1a_16_placa",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/motor_gpt_m1a_16_placa.jpg"
+  ],
+  "caption": "Que hoy sea ese día.",
+  "when": "2026-12-08T18:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "animo": "reflexivo",
+  "origen": "chatgpt"
+ },
+ {
+  "id": "gpt_m1a_18_galleta",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/motor_gpt_m1a_18_galleta.jpg"
+  ],
+  "caption": "Mándaselo a quien anda buscando atajos.",
+  "when": "2026-12-10T18:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "animo": "reflexivo",
+  "origen": "chatgpt"
+ },
+ {
+  "id": "gpt_m1a_08_postit",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/motor_gpt_m1a_08_postit.jpg"
+  ],
+  "caption": "Mándaselo a tu compa de los antojos.",
+  "when": "2026-12-12T18:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "animo": "reflexivo",
+  "origen": "chatgpt"
+ },
+ {
+  "id": "gpt_m1a_17_disco",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/motor_gpt_m1a_17_disco.jpg"
+  ],
+  "caption": "¿Cuál canta tu compa del gym? 👇",
+  "when": "2026-12-14T18:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "animo": "reflexivo",
+  "origen": "chatgpt"
+ },
+ {
+  "id": "gpt_m1a_20_manual",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/motor_gpt_m1a_20_manual.jpg"
+  ],
+  "caption": "Guárdalo. No trae atajos.",
+  "when": "2026-12-16T18:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "animo": "reflexivo",
+  "origen": "chatgpt"
+ },
+ {
+  "id": "gpt_m1a_22_mapa",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/motor_gpt_m1a_22_mapa.jpg"
+  ],
+  "caption": "¿En cuál vas tú? 👇",
+  "when": "2026-12-18T18:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "animo": "reflexivo",
+  "origen": "chatgpt"
+ },
+ {
+  "id": "gpt_m1a_25_etiqueta",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/motor_gpt_m1a_25_etiqueta.jpg"
+  ],
+  "caption": "¿Así va tu día? 👇",
+  "when": "2026-12-20T18:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "animo": "reflexivo",
+  "origen": "chatgpt"
+ },
+ {
+  "id": "gpt_m1a_26_merolico",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/motor_gpt_m1a_26_merolico.jpg"
+  ],
+  "caption": "Mándaselo a quien sigue buscando la pastilla.",
+  "when": "2026-12-22T18:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "animo": "reflexivo",
+  "origen": "chatgpt"
+ },
+ {
+  "id": "gpt_m1a_19_recetario",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/motor_gpt_m1a_19_recetario.jpg"
+  ],
+  "caption": "Etiqueta a quien te cuida así 👇",
+  "when": "2026-12-24T18:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "animo": "reflexivo",
+  "origen": "chatgpt"
+ },
+ {
+  "id": "gpt_m1a_28_fotomaton",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/motor_gpt_m1a_28_fotomaton.jpg"
+  ],
+  "caption": "Etiqueta a tu relación más estable 👇",
+  "when": "2026-12-26T18:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "animo": "reflexivo",
+  "origen": "chatgpt"
+ },
+ {
+  "id": "gpt_m1a_30_biblioteca",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/motor_gpt_m1a_30_biblioteca.jpg"
+  ],
+  "caption": "Solo te dan uno. Cuídalo.",
+  "when": "2026-12-28T18:00:00",
+  "first_comment": "",
+  "audio": null,
+  "cover": null,
+  "animo": "reflexivo",
+  "origen": "chatgpt"
  }
 ]
