@@ -4382,5 +4382,23 @@
   "origen": "e38c87ddfc5b61",
   "audio_volume": 18,
   "sin_musica": false
+ },
+ {
+  "id": "g92140318343_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/g92140318343.mp4"
+  ],
+  "caption": "Sólo piénsalo dos claves de la vida mezcladas en una sola actividad amigos y salud ¿que más quieres? 🔥\nUna de las cosas más importantes que tiene el humano son sus relaciones ♥️\n\nEl conocer realmente una persona implica aprender de sus gustos y experimentarlos por lo menos alguna vez. 😎\n\nEn lo personal jamás digo que no un plan deportivo que implica movimiento o mejora mi salud de manera recreativa 👌🏽\n\n\nAparte también te comparto que la bici es padrísima y te sirve para muchas más cosas de las que tú crees es desde un vehículo hasta un artículo para la diversión, que buena inversión!",
+  "when": "2026-11-28T02:02:20",
+  "first_comment": "",
+  "audio": null,
+  "animo": "energia",
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_g92140318343.jpg",
+  "origen": "g92140318343",
+  "audio_volume": 18,
+  "sin_musica": true
  }
 ]
