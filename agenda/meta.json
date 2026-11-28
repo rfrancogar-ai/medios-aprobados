@@ -4914,41 +4914,5 @@
   "cover": null,
   "animo": "reflexivo",
   "origen": "chatgpt"
- },
- {
-  "id": "62194e417429",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/vclvc1.mp4"
-  ],
-  "animo": "energia",
-  "audio_volume": 25,
-  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_vclvc1.jpg",
-  "audio": {
-   "audio_id": "2571469686682756",
-   "audio_volume": 15,
-   "video_volume": 100
-  },
-  "caption": "Camina 10 minutos después de comer\n\nGuárdalo para tu próximo entrenamiento.\n.\n#fitness #nutricion",
-  "when": "2026-12-02T12:00:00",
-  "first_comment": ""
- },
- {
-  "id": "6ca0e7af813f",
-  "net": "fb",
-  "target": "564848600309988",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/vclvc1.mp4"
-  ],
-  "animo": "energia",
-  "audio_volume": 25,
-  "cover": null,
-  "audio": null,
-  "caption": "Camina 10 minutos después de comer\n\nGuárdalo para tu próximo entrenamiento.",
-  "when": "2026-12-08T10:00:00",
-  "first_comment": ""
  }
 ]
