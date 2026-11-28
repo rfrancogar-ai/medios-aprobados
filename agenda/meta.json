@@ -1755,46 +1755,6 @@
   "origen": "chatgpt"
  },
  {
-  "id": "128a9b74101b",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "images",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imgf897965bb72_0.jpg",
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imgf897965bb72_1.jpg",
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imgf897965bb72_2.jpg",
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imgf897965bb72_3.jpg",
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imgf897965bb72_4.jpg"
-  ],
-  "animo": "reflexivo",
-  "audio_volume": 18,
-  "cover": null,
-  "audio": null,
-  "caption": "¿Entrenar de noche arruina tu sueño? 28 estudios dicen que no. Lo que sí lo arruina es otra cosa.\n\nEntrenar de noche no arruina tu sueño — desliza y guárdalo 📌\n\n¿Entrenas de día o de noche? Comenta y armo la rutina de suplementos para cada horario.\n\nFuente: Yue T et al. 2022, Nature and Science of Sleep (metaanálisis en red, 28 estudios); Gardiner CL et al. 2025, Sleep (ECA cruzado, n=23 hombres)\n.\n#nutricion #suplementos #gym #ciencia",
-  "when": "2026-11-28T14:00:00",
-  "first_comment": ""
- },
- {
-  "id": "076ac33f6d7a",
-  "net": "fb",
-  "target": "564848600309988",
-  "kind": "images",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imgf897965bb72_0.jpg",
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imgf897965bb72_1.jpg",
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imgf897965bb72_2.jpg",
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imgf897965bb72_3.jpg",
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imgf897965bb72_4.jpg"
-  ],
-  "animo": "reflexivo",
-  "audio_volume": 18,
-  "cover": null,
-  "audio": null,
-  "caption": "¿Entrenar de noche arruina tu sueño? 28 estudios dicen que no. Lo que sí lo arruina es otra cosa.\n\nEntrenar de noche no arruina tu sueño. Te lo explico en 3 láminas.\n\n¿Entrenas de día o de noche? Comenta y armo la rutina de suplementos para cada horario.\n\nFuente: Yue T et al. 2022, Nature and Science of Sleep (metaanálisis en red, 28 estudios); Gardiner CL et al. 2025, Sleep (ECA cruzado, n=23 hombres)",
-  "when": "2026-12-01T14:00:00",
-  "first_comment": ""
- },
- {
   "id": "a92c15096bd2",
   "net": "fb",
   "target": "564848600309988",
