@@ -4400,5 +4400,23 @@
   "origen": "g92140318343",
   "audio_volume": 18,
   "sin_musica": true
+ },
+ {
+  "id": "t79572359741_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/t79572359741.mp4"
+  ],
+  "caption": "Un secreto para controlar tu diabetes 😎\n\n¿Te había pasado? 👇",
+  "when": "2026-11-28T02:06:01",
+  "first_comment": "",
+  "audio": null,
+  "animo": "energia",
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_t79572359741.jpg",
+  "origen": "t79572359741",
+  "audio_volume": 18,
+  "sin_musica": true
  }
 ]
