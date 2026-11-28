@@ -2382,5 +2382,22 @@
   "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_voxt154ad41322.jpg",
   "origen": "voxt154ad41322",
   "audio_volume": 25
+ },
+ {
+  "id": "voxtb50889ccbe_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/voxtb50889ccbe.mp4"
+  ],
+  "caption": "Bueno, malas noticias y una buena, al final te digo cuál.\nCardio en ayunas: ¿quema más grasa?",
+  "when": "2026-11-27T18:49:44",
+  "first_comment": "",
+  "audio": null,
+  "animo": "energia",
+  "cover": null,
+  "origen": "voxtb50889ccbe",
+  "audio_volume": 25
  }
 ]
