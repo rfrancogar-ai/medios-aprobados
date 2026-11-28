@@ -2493,11 +2493,10 @@
   "ts": "2026-11-27T17:14:13-06:00"
  },
  "voxt7a64287c34_trial": {
-  "ok": 0,
-  "intentos": 1,
-  "final": 0,
-  "error": "400: {\"error\":{\"message\":\"User is performing too many actions\",\"code\":9,\"type\":\"OAuthException\",\"error_subcode\":2207078,\"is_transient\":false,\"error_user_msg\":\"You reached maximum number of trial reels that is allowed to be published by Content Publishing API.\",\"error_user_title\":\"Trial Reel Publish ",
-  "ts": "2026-11-27T17:20:34.435224"
+  "ok": 1,
+  "ext": "18112115522221398",
+  "ts": "2026-11-27T21:15:31-06:00",
+  "musica": "Drift Skunk — Company Money (energia)"
  },
  "voxt5c4a1992fd_trial": {
   "ok": 0,
