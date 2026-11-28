@@ -5302,5 +5302,23 @@
   "caption": "Errores que me costaron años de progreso:\n\nTe los regalo para que no pagues lo que yo pagué.\n\n¿Cuál te pasó a ti? 👇",
   "when": "2026-12-01T19:00:00",
   "first_comment": ""
+ },
+ {
+  "id": "t54833410623_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/t54833410623.mp4"
+  ],
+  "caption": "Sabias que también relaja tus músculos y mejora tu rendimiento deport...\n\n¿Te había pasado? 👇",
+  "when": "2026-11-28T10:19:07",
+  "first_comment": "",
+  "audio": null,
+  "animo": "energia",
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_t54833410623.jpg",
+  "origen": "t54833410623",
+  "audio_volume": 18,
+  "sin_musica": true
  }
 ]
