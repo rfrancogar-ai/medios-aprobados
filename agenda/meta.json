@@ -196,40 +196,6 @@
   "first_comment": ""
  },
  {
-  "id": "369971fe7b97",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "reel",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/9b929a6f7e55fa.mp4"
-  ],
-  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_9b929a6f7e55fa.jpg",
-  "audio": {
-   "audio_id": "1678378740618052",
-   "audio_volume": 15,
-   "video_volume": 100
-  },
-  "caption": "SUPLEMENTOS\n\nUn pre-entreno clínico no lo vas a detectar en el sabor, pero lo puedes detectar desde quién lo formula, cómo está formulado y a qué dosis.\n\n¿Qué otra duda tienes? Te respondo en video.\n.\n#fitness #nutricion",
-  "when": "2026-11-23T20:00:00",
-  "first_comment": "¿Cómo eliges tu pre-entreno hoy: por el sabor, por cómo te hace sentir o por la etiqueta?"
- },
- {
-  "id": "369971fe7b97_story",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "story",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/9b929a6f7e55fa_motion.mp4"
-  ],
-  "cover": null,
-  "audio": null,
-  "caption": "",
-  "when": "2026-11-23T20:00:00",
-  "first_comment": "",
-  "despues_de": "369971fe7b97",
-  "formato": "motion"
- },
- {
   "id": "7ed105c195cd",
   "net": "fb",
   "target": "564848600309988",
@@ -351,21 +317,6 @@
   "caption": "La dosis de cafeína que sí funciona\n\nSi tomas café antes de entrenar, probablemente te estás quedando corto o te estás pasando. Hay una fórmula exacta con tu peso, quédate. La Sociedad Internacional de Nutrición Deportiva revisó la evidencia.\n\nGuárdalo para tu próximo entrenamiento.",
   "when": "2026-11-30T10:49:00",
   "first_comment": ""
- },
- {
-  "id": "c30ded6eea902d_trial",
-  "net": "ig",
-  "target": "17841400277954990",
-  "kind": "trial",
-  "media": [
-   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/c30ded6eea902d.mp4"
-  ],
-  "caption": "SUPLEMENTOS\n\nUn pre-entreno clínico no lo vas a detectar en el sabor, pero lo puedes detectar desde quién lo formula, cómo está formulado y a qué dosis.\n\n¿Qué otra duda tienes? Te respondo en video.\n.\n#fitness #nutricion",
-  "when": "2026-11-23T20:00:00",
-  "first_comment": "",
-  "audio": null,
-  "cover": null,
-  "origen": "9b929a6f7e55fa"
  },
  {
   "id": "1b53d91c59e1",
@@ -2607,6 +2558,46 @@
   "audio": null,
   "caption": "¿Pesas 60 kilos o 100 y tomas la misma creatina? Algo no cuadra.\n\n¿5 gramos de creatina para todos?. Te lo explico en 3 láminas.\n\nDime cuánto pesas en comentarios y te digo cuántos gramos usan los estudios para alguien como tú.\n\nFuente: Antonio J et al. 2024, J Int Soc Sports Nutr (revisión, Parte II); Kreider RB, Stout JR. 2021, Nutrients",
   "when": "2026-12-01T09:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "128a9b74101b",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imgf897965bb72_0.jpg",
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imgf897965bb72_1.jpg",
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imgf897965bb72_2.jpg",
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imgf897965bb72_3.jpg",
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imgf897965bb72_4.jpg"
+  ],
+  "animo": "reflexivo",
+  "audio_volume": 18,
+  "cover": null,
+  "audio": null,
+  "caption": "¿Entrenar de noche arruina tu sueño? 28 estudios dicen que no. Lo que sí lo arruina es otra cosa.\n\nEntrenar de noche no arruina tu sueño — desliza y guárdalo 📌\n\n¿Entrenas de día o de noche? Comenta y armo la rutina de suplementos para cada horario.\n\nFuente: Yue T et al. 2022, Nature and Science of Sleep (metaanálisis en red, 28 estudios); Gardiner CL et al. 2025, Sleep (ECA cruzado, n=23 hombres)\n.\n#nutricion #suplementos #gym #ciencia",
+  "when": "2026-11-28T14:00:00",
+  "first_comment": ""
+ },
+ {
+  "id": "076ac33f6d7a",
+  "net": "fb",
+  "target": "564848600309988",
+  "kind": "images",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imgf897965bb72_0.jpg",
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imgf897965bb72_1.jpg",
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imgf897965bb72_2.jpg",
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imgf897965bb72_3.jpg",
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/imgf897965bb72_4.jpg"
+  ],
+  "animo": "reflexivo",
+  "audio_volume": 18,
+  "cover": null,
+  "audio": null,
+  "caption": "¿Entrenar de noche arruina tu sueño? 28 estudios dicen que no. Lo que sí lo arruina es otra cosa.\n\nEntrenar de noche no arruina tu sueño. Te lo explico en 3 láminas.\n\n¿Entrenas de día o de noche? Comenta y armo la rutina de suplementos para cada horario.\n\nFuente: Yue T et al. 2022, Nature and Science of Sleep (metaanálisis en red, 28 estudios); Gardiner CL et al. 2025, Sleep (ECA cruzado, n=23 hombres)",
+  "when": "2026-12-01T14:00:00",
   "first_comment": ""
  }
 ]
