@@ -2422,5 +2422,23 @@
   "origen": "voxt584f2f4707",
   "audio_volume": 25,
   "sin_musica": false
+ },
+ {
+  "id": "voxt2ed9c8f4d3_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/voxt2ed9c8f4d3.mp4"
+  ],
+  "caption": "Si cuentas treinta gramos exactos en cada comida, te estás complicando de más.\nEl mito de los 30 gramos de proteína",
+  "when": "2026-11-27T19:23:08",
+  "first_comment": "",
+  "audio": null,
+  "animo": "energia",
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_voxt2ed9c8f4d3.jpg",
+  "origen": "voxt2ed9c8f4d3",
+  "audio_volume": 25,
+  "sin_musica": false
  }
 ]
