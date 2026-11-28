@@ -4328,5 +4328,23 @@
   "cover": null,
   "animo": "reflexivo",
   "origen": "chatgpt"
+ },
+ {
+  "id": "g96636165081_trial",
+  "net": "ig",
+  "target": "17841400277954990",
+  "kind": "trial",
+  "media": [
+   "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/g96636165081.mp4"
+  ],
+  "caption": "Capisci? 🥳 #quenoteprohibannada #alimentacionsaludable #alimentacionconsciente #psiconutricion",
+  "when": "2026-11-28T01:30:24",
+  "first_comment": "",
+  "audio": null,
+  "animo": "energia",
+  "cover": "https://github.com/rfrancogar-ai/medios-aprobados/releases/download/clips/cover_g96636165081.jpg",
+  "origen": "g96636165081",
+  "audio_volume": 18,
+  "sin_musica": true
  }
 ]
